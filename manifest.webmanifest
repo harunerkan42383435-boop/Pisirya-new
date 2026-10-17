@@ -1,0 +1,11 @@
+{
+ "id":"./", "name":"Pişirya — Bugün ne pişirsem?", "short_name":"Pişirya",
+ "description":"Evindeki malzemelerle sofrana ilham bul.",
+ "start_url":"./", "scope":"./", "display":"standalone", "orientation":"portrait-primary",
+ "background_color":"#F8F6F0", "theme_color":"#244B3B", "lang":"tr", "categories":["food","lifestyle"],
+ "icons":[
+  {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+  {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+  {"src":"icons/icon-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+ ]
+}

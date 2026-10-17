@@ -1,0 +1,18 @@
+PİŞİRYA — İNCELEME SÜRÜMÜ
+
+1.001 tarif, 135 temel malzeme, 10 dünya mutfağı koleksiyonu.
+Türkçe, İngilizce, Rusça, İspanyolca, Almanca ve Arapça arayüz.
+Tarif adımları çoğunlukla Türkçedir; tüm tarifler altı dile çevrilmiş değildir.
+Dünya mutfağı koleksiyonları 39 TL, Şef modu 149 TL planlanan fiyatla ücretsiz önizlemedir. Gerçek ödeme sistemi yoktur.
+Su, tuz, şeker, karabiber ve pul biber var kabul edilir.
+
+343 tarife özel yapay zekâ görseli dosyalarda doğrulandı.
+658 tarifin görseli henüz eksik. Bu tamamlanmış sürüm değildir.
+Üretilen görseller gerçek çekim değildir. Üretim kayıtları GENERATED_IMAGE_PROMPTS.json içindedir.
+
+KURULUM
+ZIP dosyasını açın. pisirya klasöründeki tüm dosyaları klasör yapısını koruyarak mevcut HTTPS web alanınıza yükleyin.
+Safari üzerinden açın; Paylaş > Ana Ekrana Ekle ile yükleyin.
+Güncellemeden önce Ayarlar bölümünden kişisel kayıtlarınızın yedeğini alın.
+Bu paket web/PWA kaynak kodudur, App Store IPA paketi değildir.
+Gerçek iPhone/Safari testi yapılmadı.
