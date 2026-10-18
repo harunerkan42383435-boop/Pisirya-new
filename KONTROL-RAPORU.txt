@@ -1,0 +1,11 @@
+PİŞİRYA — 18 Ekim 2026
+
+1.051 tarif / 1.051 farklı, açılabilir görsel / 0 eksik görsel.
+145 şef tarifi; bunların 50 tanesi bu sürümde yeni ve ayrıntılıdır.
+171 malzeme, 13 kategori; kategorisiz malzeme yok.
+7 dil: Türkçe, İngilizce, Rusça, İspanyolca, Almanca, Arapça, Lehçe.
+Lehçe: arayüz, malzeme isimleri ve bütün tarif başlıkları. Hazırlama adımları Türkçe.
+Önceki 1.001 tarifin verisi ve görsel dosyaları birebir korundu.
+Görsellerin dosya bütünlüğü ve tekilliği; filtreler, dil seçimi, eski favori/malzeme durumu test edildi.
+Yeni tariflerde 20–22 adım, 500 kelimenin üzerinde açıklama; miktar/süre ve teknik içerik denetimi yapıldı.
+CSS, logo ve ikonlar değişmedi. Gerçek cihaz/tarayıcı testi bu ortamda yapılmadı.

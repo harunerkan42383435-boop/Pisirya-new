@@ -1,18 +1,31 @@
-PİŞİRYA — İNCELEME SÜRÜMÜ
+PİŞİRYA — TAM UYGULAMA / 18 EKİM 2026
 
-1.001 tarif, 135 temel malzeme, 10 dünya mutfağı koleksiyonu.
-Türkçe, İngilizce, Rusça, İspanyolca, Almanca ve Arapça arayüz.
-Tarif adımları çoğunlukla Türkçedir; tüm tarifler altı dile çevrilmiş değildir.
-Dünya mutfağı koleksiyonları 39 TL, Şef modu 149 TL planlanan fiyatla ücretsiz önizlemedir. Gerçek ödeme sistemi yoktur.
-Su, tuz, şeker, karabiber ve pul biber var kabul edilir.
-
-343 tarife özel yapay zekâ görseli dosyalarda doğrulandı.
-658 tarifin görseli henüz eksik. Bu tamamlanmış sürüm değildir.
-Üretilen görseller gerçek çekim değildir. Üretim kayıtları GENERATED_IMAGE_PROMPTS.json içindedir.
+1.051 tarif ve 1.051 farklı görsel; 145 şef tarifi, 171 malzeme, 13 malzeme kategorisi.
+Bu sürümde 50 yeni ileri seviye şef tarifi ve 50 özgün yapay zekâ görseli eklendi.
+Mevcut tasarım, logo, renkler ve önceki 1.001 tarif/görsel korundu.
 
 KURULUM
-ZIP dosyasını açın. pisirya klasöründeki tüm dosyaları klasör yapısını koruyarak mevcut HTTPS web alanınıza yükleyin.
-Safari üzerinden açın; Paylaş > Ana Ekrana Ekle ile yükleyin.
-Güncellemeden önce Ayarlar bölümünden kişisel kayıtlarınızın yedeğini alın.
-Bu paket web/PWA kaynak kodudur, App Store IPA paketi değildir.
-Gerçek iPhone/Safari testi yapılmadı.
+ZIP’i tamamen ayıklayın. pisirya klasörünün tüm içeriğini web yayın alanınıza yükleyin; başka ZIP ile birleştirme gerekmez.
+Bu paket web/PWA uygulamasıdır. iPhone’da HTTPS adresinden Safari ile açıp “Ana Ekrana Ekle” seçeneğini kullanabilirsiniz.
+Bilgisayarda yerel önizleme için pisirya klasöründe “python3 -m http.server 8000” çalıştırıp http://localhost:8000 adresini açın.
+Dosyaları file:// adresinden açmak yerine web sunucusu kullanın. Bu ZIP, App Store’a gönderilecek imzalı IPA paketi değildir.
+
+DİLLER
+Ayarlar bölümünden Lehçe (Polski) dahil 7 dil seçilebilir. Lehçe arayüz, malzemeler ve tüm tarif başlıklarını kapsar.
+Hazırlama adımları ve özel malzeme notları Türkçe kalır; tam tarif çevirisi yapılmadı.
+
+ŞEF MODU
+Yeni 50 tarif, “Yeni şef seçkisi” başlığı altında ilk sıradadır. Çok bileşenli hazırlıklar, teknikler, dereceler, sunum ve saklama notları içerir.
+Şef modu 149 TL, dünya mutfağı koleksiyonları 39 TL olarak planlanan fiyatları gösterir; bu sürümde ücretsiz önizleme sürer. Ödeme sistemi eklenmedi.
+
+GÜNCELLEME
+Dosyaları aynı adreste güncelleyip uygulamanın açık tüm sekmelerini kapatın, tekrar açın. Yeni servis çalışanı sürümü etkinleşir.
+Favoriler ve seçili malzemeler aynı adreste korunur. Site verilerini silmek bunları kaldırabilir.
+Fotoğraflar ihtiyaç oldukça önbelleğe alınır; tüm fotoğraflar ilk açılışta indirilmez.
+
+GÖRSELLER
+Yeni 50 görsel, tarifin malzemeleri ve sunumu gözetilerek üretilmiş yapay zekâ görselleridir. Gerçek yemek çekimi değildir.
+Üretim kayıtları SEF50-GORSEL-KAYITLARI.json dosyasındadır. Görseller sıkıştırılmış WebP olarak sunulur.
+
+KONTROL
+KONTROL-RAPORU.txt ve FINAL-KONTROL.json son doğrulamaları içerir.

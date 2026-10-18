@@ -1,3 +1,1055 @@
-# Görsel bilgisi
+# Pişirya — Aktif görsel envanteri
 
-Bu inceleme sürümündeki 343 yemek görseli yapay zekâyla üretilmiştir; gerçek fotoğraf çekimi değildir. Üretim kayıtları GENERATED_IMAGE_PROMPTS.json içindedir. İnternetten alınan yemek fotoğrafları bu pakete dahil edilmemiştir.
+1.051 tarifin her biri ayrı bir yerel yapay zekâ görseline bağlıdır. Gerçek yemek çekimi değildir. Bu sürümde 50 yeni özgün görsel üretildi. Üretim kayıtları ilgili JSON dosyalarındadır.
+
+- Menemen — assets/generated/resume-menemen.webp
+- Domatesli Makarna — assets/generated/recovered-oct17-0.webp
+- Tavuk Sote — assets/generated/tavuk-sote.webp
+- Fried Rice — assets/generated/dish-ed8aa9ca1df808.webp
+- Guacamole — assets/generated/recovered-oct17-5.webp
+- Chicken Teriyaki — assets/generated/dish-7bb157f7b3f1f6.webp
+- Butter Chicken — assets/generated/next100-e511375ccc28c3.webp
+- Ratatouille — assets/generated/next100-5e875a3474a967.webp
+- Mercimek Çorbası — assets/generated/next100-2d9345b2d5f74e.webp
+- Sebzeli Omlet — assets/generated/dish-22b290035c094e.webp
+- Fırın Patates — assets/generated/dish-f70f0d2e0c53d5.webp
+- Izgara Köfte — assets/generated/next100-88fc980f3951ac.webp
+- Nohutlu Pilav — assets/generated/nohutlu-pilav.webp
+- Bulgur Pilavı — assets/generated/bulgur-pilavi.webp
+- Ispanaklı Yumurta — assets/generated/dish-f79acb09da2ee5.webp
+- Mantarlı Tavuk — assets/generated/dish-8a018d9f7e667c.webp
+- Karides Güveç — assets/generated/dish-1e0d3a212771b5.webp
+- Balık Tava — assets/generated/dish-76adc663b64ac0.webp
+- Mücver — assets/generated/mucver.webp
+- Krep — assets/generated/next100-5b6bae15d960a3.webp
+- Mantar Çorbası — assets/generated/next100-f57cba0b26f2ba.webp
+- Hünkar Beğendi — assets/generated/hunkar-begendi.webp
+- Beef Wellington — assets/generated/next100-fb31a5719b7504.webp
+- Kuzu Tandır — assets/generated/dish-b66a5c3e349c54.webp
+- Risotto ai Funghi — assets/generated/dish-9e8103e03bcad4.webp
+- Coq au Vin — assets/generated/dish-cea98905f45d0b.webp
+- Lazanya — assets/generated/next100-2e3d559c2c3eeb.webp
+- Paella — assets/generated/next100-1311528b3a2022.webp
+- Karides Bisque — assets/generated/dish-3bb971224f4e22.webp
+- Kuru Fasulye — assets/generated/kuru-fasulye.webp
+- Etli Nohut — assets/generated/dish-8d2eefd043a84c.webp
+- Karnıyarık — assets/generated/next100-1b43fc1945140b.webp
+- İmam Bayıldı — assets/generated/imam-bayildi.webp
+- Kıymalı Ispanak — assets/generated/dish-335fe07a7ddfbe.webp
+- Çoban Salata — assets/generated/coban-salata.webp
+- Cacık — assets/generated/cacik.webp
+- Yoğurtlu Makarna — assets/generated/dish-6005cb5504a660.webp
+- Mercimekli Köfte — assets/generated/mercimekli-kofte.webp
+- Taze Fasulye — assets/generated/dish-33ab8689f127f0.webp
+- Zeytinyağlı Brokoli — assets/generated/dish-13c45c3e86be15.webp
+- Mısır Çorbası — assets/generated/next100-1684054a693b21.webp
+- Kabak Çorbası — assets/generated/dish-12703a2d0bdd13.webp
+- Domates Çorbası — assets/generated/next100-a17537dc4c3dfd.webp
+- Havuç Çorbası — assets/generated/dish-337b057b79dd75.webp
+- Tavuk Çorbası — assets/generated/dish-5746047fdc6003.webp
+- Ezogelin Çorbası — assets/generated/ezogelin-corbasi.webp
+- Balık Buğulama — assets/generated/dish-d7feed78fe601e.webp
+- Fırında Tavuk Patates — assets/generated/next100-4b33a9be2f7f8d.webp
+- Tavuk Şiş — assets/generated/dish-829b41dbbabf99.webp
+- Patatesli Köfte — assets/generated/dish-137c158cbb6ce4.webp
+- Peynirli Menemen — assets/generated/dish-759d62fb3718f5.webp
+- Ispanaklı Börek — assets/generated/next100-8a0971036158c0.webp
+- Spagetti Aglio e Olio — assets/generated/next100-5b2e2031033f6b.webp
+- Carbonara — assets/generated/next100-0099cff4d73d4b.webp
+- Fettuccine Alfredo — assets/generated/next100-b2da25661f093b.webp
+- Bolonez Makarna — assets/generated/next100-7f9ad17eeebbfa.webp
+- Bruschetta — assets/generated/next100-e4441f0ed30b65.webp
+- Caprese Salatası — assets/generated/next100-2d3181d03cb956.webp
+- Pizza Margherita — assets/generated/next100-e9d73e21e74da6.webp
+- Minestrone — assets/generated/dish-717dfb59da70bd.webp
+- Mantarlı Krema Makarna — assets/generated/next100-08fe431eb45525.webp
+- Sebzeli Noodle — assets/generated/next100-3456db825502eb.webp
+- Kung Pao Tavuk — assets/generated/next100-3e019278837b7d.webp
+- Tavuklu Ramen — assets/generated/dish-87ed50a691c11a.webp
+- Oyakodon — assets/generated/next100-9fd9b4da41b055.webp
+- Tavuk Tikka — assets/generated/next100-87e41d99838bf1.webp
+- Mercimek Dal — assets/generated/dish-a0d0bcbfeff30a.webp
+- Chana Masala — assets/generated/next100-a499b0e8306a85.webp
+- Aloo Palak — assets/generated/dish-22a2d40c5f126b.webp
+- Quesadilla — assets/generated/next100-07621d6062d060.webp
+- Burrito Bowl — assets/generated/dish-0746d073948ae2.webp
+- Pico de Gallo — assets/generated/dish-38ed88d5fe442b.webp
+- Huevos Rancheros — assets/generated/next100-40cb447341f5ca.webp
+- Elote — assets/generated/next100-5602f1340a5e19.webp
+- Yunan Salatası — assets/generated/next100-8fd49282b59e49.webp
+- Tzatziki — assets/generated/next100-fab3fb4c303e1e.webp
+- Spanakopita — assets/generated/next100-dd1c0df15ce349.webp
+- Humus — assets/generated/next100-80086f08c18435.webp
+- Falafel — assets/generated/next100-b8422116cd1b1f.webp
+- Tabule — assets/generated/tabule.webp
+- Baba Ganuş — assets/generated/next100-cf6edf061a261e.webp
+- Hamburger — assets/generated/next100-d970592837937c.webp
+- Mac and Cheese — assets/generated/next100-b9a0d9cf0cfb50.webp
+- Tortilla Española — assets/generated/next100-7a8bf91a19be8a.webp
+- Sütlaç — assets/generated/next100-3cc38ae6323137.webp
+- Elmalı Kek — assets/generated/next100-f1d6ae758e878a.webp
+- Muzlu Krep — assets/generated/dish-02d1c93e60cbb4.webp
+- Çikolatalı Mug Cake — assets/generated/next100-50c219c181f78b.webp
+- Çikolatalı Muz — assets/generated/dish-3c1bbe441c6f68.webp
+- Ballı Elma — assets/generated/dish-a5aca0b280112a.webp
+- Mantı — assets/generated/next100-557f2bf669feaf.webp
+- Musakka — assets/generated/next100-ddd3dbc88f726e.webp
+- Sushi Bowl — assets/generated/dish-73b4f0581726f8.webp
+- Tarte Tatin — assets/generated/dish-a7c19a28d6a012.webp
+- Çikolatalı Sufle — assets/generated/next100-5bc306773b2f6f.webp
+- Baklava — assets/generated/next100-7af9b9850cfb3b.webp
+- Bouillabaisse — assets/generated/dish-f0ea66faad3e22.webp
+- Tavuklu Biryani — assets/generated/next100-7fbacba0d93d2b.webp
+- Pad Thai — assets/generated/next100-167ba360f38d48.webp
+- Yaprak Sarma — assets/generated/next100-4df10bb4a8a5cb.webp
+- Sucuklu Yumurta — assets/generated/next100-a6e241f0563786.webp
+- Pastırmalı Yumurta — assets/generated/dish-3c30dd2de2036d.webp
+- Ballı Ceviz Yoğurt — assets/generated/balli-ceviz-yogurt.webp
+- Çilekli Krep — assets/generated/next100-d4221e497ca371.webp
+- Avokadolu Tost — assets/generated/dish-7a1a2894ba6a81.webp
+- Peynirli Domatesli Tost — assets/generated/dish-a0f81574430301.webp
+- Patatesli Yumurta Tava — assets/generated/dish-4ffdeb78c7cde3.webp
+- Mantarlı Peynirli Muffin — assets/generated/dish-4d2500ecb72232.webp
+- French Toast — assets/generated/next100-e5997c15b7debd.webp
+- Sucuklu Menemen — assets/generated/dish-c1eee26f6bbc43.webp
+- Tavuklu Sezar Salata — assets/generated/next100-081616f58532c6.webp
+- Nohutlu Salata — assets/generated/next100-d220960ad11817.webp
+- Brokoli Salatası — assets/generated/dish-c7cd707456adc6.webp
+- Yoğurtlu Havuç — assets/generated/dish-6cf3a168f58482.webp
+- Elmalı Ceviz Salatası — assets/generated/dish-bb530a3d606f73.webp
+- Meyve Salatası — assets/generated/dish-bc3a8ae2bddd2c.webp
+- Kalamar Tava — assets/generated/next100-f4e19b137d238c.webp
+- Sarımsaklı Karides — assets/generated/next100-44c35e6137b813.webp
+- Balıklı Makarna — assets/generated/dish-ef8f64ae77a20b.webp
+- Fırında Balık — assets/generated/dish-0b4faa0d4dce3c.webp
+- Karidesli Makarna — assets/generated/next100-1c9ebd6c0adaeb.webp
+- Ahtapot Salatası — assets/generated/dish-abba8427b90e20.webp
+- Kuzu Tencere — assets/generated/dish-145eace3ddc83f.webp
+- Sucuklu Fasulye — assets/generated/dish-5f6a7e3e05d5a2.webp
+- Kıymalı Patates — assets/generated/dish-3c5c58e228f9b5.webp
+- Dolmalık Biber Dolması — assets/generated/dish-005c740ec2ecc8.webp
+- Tatlı Patates Püresi — assets/generated/dish-e104f81bbe75c4.webp
+- Etli Ekmek — assets/generated/dish-417baf677830d5.webp
+- Tavuklu Pilav — assets/generated/dish-d25e7cd171e887.webp
+- Kabak Dolması — assets/generated/next100-884ab59ccd772e.webp
+- Çılbır — assets/generated/next100-55595ca70fd59e.webp
+- Pastırmalı Ispanak — assets/generated/dish-2ee0665ffe07e0.webp
+- Patlıcan Kebabı — assets/generated/next100-a7521222b31284.webp
+- Nohutlu Ispanak — assets/generated/dish-7dcb6e11c40009.webp
+- Pesto Makarna — assets/generated/next100-6a4ded48741186.webp
+- Zeytinli Ekmek — assets/generated/next100-cb13174367fa17.webp
+- Patates Gratin — assets/generated/next100-fcfb952389fb0c.webp
+- Quiche Lorraine — assets/generated/dish-93194648a6e575.webp
+- Soğan Çorbası — assets/generated/next100-e5ea75f8606ef0.webp
+- Tavuk Fajita — assets/generated/next100-4ac873d9ea811f.webp
+- Tacos — assets/generated/next100-5826a105affa14.webp
+- Nachos — assets/generated/next100-e20723e6f90854.webp
+- Palak Paneer — assets/generated/next100-00b76bb3734da9.webp
+- Tavuk Korma — assets/generated/dish-9359a4384b4257.webp
+- Bibimbap — assets/generated/next100-18ed15a223d49a.webp
+- Yakisoba — assets/generated/dish-208f181359434d.webp
+- Katsu Tavuk — assets/generated/katsu-tavuk.webp
+- Tatlı Ekşi Tavuk — assets/generated/next100-b5e0848294e0f5.webp
+- Hindistan Cevizli Pilav — assets/generated/dish-921d3cd619340e.webp
+- Şakşuka — assets/generated/dish-1612f46b3b70a5.webp
+- Shakshuka — assets/generated/next100-d8f3c71e6d57e1.webp
+- Kuzu Şiş — assets/generated/next100-aad363fc5fb72d.webp
+- BBQ Tavuk — assets/generated/dish-184d40ba7c09fc.webp
+- Mısırlı Patates Çorbası — assets/generated/dish-dd9e542392839e.webp
+- Mısır Ekmeği — assets/generated/next100-c27617ef91349f.webp
+- Şeftalili Tart — assets/generated/next100-8f3f38efd8c27a.webp
+- Kirazlı Clafoutis — assets/generated/dish-800f5f57db6ccf.webp
+- Ananaslı Muhallebi — assets/generated/dish-7cdfce85b2911e.webp
+- Portakallı Kek — assets/generated/next100-53cf399c0a0f7b.webp
+- Fıstıklı Sütlü Tatlı — assets/generated/dish-25e53cc2eac9c2.webp
+- Akdeniz Usulü Fırın Balık — assets/generated/dish-bafb8936c0b2ec.webp
+- Zeytinli Domatesli Makarna — assets/generated/next100-57ec79991316ac.webp
+- Fırında Akdeniz Tavuğu — assets/generated/dish-d4643b2f28837a.webp
+- Peynirli Zeytinli Poğaça — assets/generated/dish-b82f75e13f31ba.webp
+- Domatesli Balık Güveç — assets/generated/dish-24b7a7ead0c30a.webp
+- Zeytinyağlı Kabak — assets/generated/dish-b5563c5d723e70.webp
+- Limonlu Tavuk — assets/generated/limonlu-tavuk.webp
+- Nohutlu Sebze Güveci — assets/generated/dish-69d6dd917f8a63.webp
+- Karidesli Akdeniz Salatası — assets/generated/dish-faa7f3a41092a4.webp
+- Ev Usulü Adana Kebap — assets/generated/next100-b7d29d7c84f548.webp
+- Tantuni — assets/generated/next100-fdef4e3d9cb0bd.webp
+- İçli Köfte — assets/generated/next100-441e7da2c2e961.webp
+- Analı Kızlı — assets/generated/dish-fec78c01053d66.webp
+- Yuvalama — assets/generated/dish-17eddaf4b34341.webp
+- Alaca Çorba — assets/generated/dish-32f10bb6864c1b.webp
+- Pratik Beyran — assets/generated/next100-71fb2e04040acc.webp
+- Kabaklama — assets/generated/dish-27185d5c5dd516.webp
+- Ali Nazik — assets/generated/dish-022f461dca4936.webp
+- Çökertme Kebabı — assets/generated/dish-5e1e5ffcf5eee0.webp
+- Keşkek — assets/generated/dish-3f8ef20b4f5291.webp
+- Çiğ Börek — assets/generated/next100-c1bff9165b0ee2.webp
+- Balaban Köfte — assets/generated/dish-1767a5669e0416.webp
+- Tirit — assets/generated/dish-680849980ad341.webp
+- Çentik Kebabı — assets/generated/dish-016daed9d5c5e0.webp
+- Hamsili Pilav — assets/generated/dish-1c1a2e14af5238.webp
+- Kuymak — assets/generated/next100-c77cc742f9d15a.webp
+- Karalahana Çorbası — assets/generated/dish-2f8753344f74eb.webp
+- Akçaabat Köfte — assets/generated/dish-906e91a83535f8.webp
+- Laz Böreği — assets/generated/dish-a54b5d35b40e54.webp
+- Kaygana — assets/generated/dish-d39cadf535f5dc.webp
+- Mancarlı Pide — assets/generated/dish-314187646d8e59.webp
+- Mahluta Çorbası — assets/generated/dish-7addc56fafebc8.webp
+- Oruk — assets/generated/dish-c4e495085e7293.webp
+- Fellah Köftesi — assets/generated/dish-0591f02b238862.webp
+- Batırık — assets/generated/dish-c9013861bdb706.webp
+- Bici Bici — assets/generated/next100-4155cc94785d97.webp
+- Perde Pilavı — assets/generated/dish-fff28971534fe5.webp
+- Siron — assets/generated/dish-754953c02ecbbd.webp
+- Gendime Çorbası — assets/generated/dish-e5ee5313cf4864.webp
+- Sivas Hingeli — assets/generated/dish-607cd09d911d16.webp
+- Tokat Batı — assets/generated/dish-fa174f0ae2cb05.webp
+- Çerkez Tavuğu — assets/generated/dish-41fc6de3b4df5e.webp
+- Uşak Tarhana Çorbası — assets/generated/next100-ffd995043b7aa8.webp
+- Pazılı Dible — assets/generated/dish-89ade8bec53ffc.webp
+- Yayla Çorbası — assets/generated/yayla-corbasi.webp
+- Şehriye Çorbası — assets/generated/dish-f56b46758c21f1.webp
+- Zeytinyağlı Pırasa — assets/generated/next100-46567832adb114.webp
+- Bezelye Yemeği — assets/generated/bezelye-yemegi.webp
+- Sebzeli Türlü — assets/generated/dish-06a980154d66ff.webp
+- Patates Salatası — assets/generated/next100-f96e66e2951479.webp
+- Kısır — assets/generated/kisir.webp
+- Patatesli Börek — assets/generated/dish-b5dc1d4427d7e6.webp
+- Fırında Peynirli Makarna — assets/generated/dish-8c568a7b85e24a.webp
+- İrmik Helvası — assets/generated/next100-05a1aced53e376.webp
+- Arpa Şehriye Pilavı — assets/generated/dish-99beb09f8f69f4.webp
+- Yoğurtlu Semizotu — assets/generated/next100-56b64f2cbd572a.webp
+- Osso Buco — assets/generated/next100-04fa79473470a6.webp
+- Ricottalı Ravioli ve Adaçaylı Tereyağı — assets/generated/dish-63eef32eeb057c.webp
+- Patates Gnocchi ve Domates Sosu — assets/generated/next100-1b6bf0b6eb1b85.webp
+- Arancini — assets/generated/next100-1b268b6ba48e72.webp
+- Pollo alla Cacciatora — assets/generated/final92-d5447945e05bf0.webp
+- Boeuf Bourguignon — assets/generated/dish-637dc0516f9033.webp
+- Ördek Konfi — assets/generated/next100-df75b4db0f52ad.webp
+- Somon en Croûte — assets/generated/final92-ac1474fcc74bc8.webp
+- Peynirli Sufle — assets/generated/final92-743d48cf0dd14b.webp
+- Tavuk Ballotine — assets/generated/dish-139496bdc9ce39.webp
+- Deniz Mahsullü Fideuà — assets/generated/dish-d5dc6f9e181c81.webp
+- Patatesli Ahtapot Galisya Usulü — assets/generated/dish-13506dfb75d0a5.webp
+- Kuzu Rogan Josh — assets/generated/next100-81d00a91dcdf02.webp
+- Malai Kofta — assets/generated/dish-ece90e39d539da.webp
+- Gyoza — assets/generated/final92-22bf8b22457b98.webp
+- Chawanmushi — assets/generated/final92-42dc9035d308e8.webp
+- Bibim Mandu — assets/generated/dish-774a1338022fc8.webp
+- Bademli Tavuk Pastilla — assets/generated/next100-e58216b2d288d7.webp
+- Limonlu Tavuk Tagine — assets/generated/dish-92f76150177fac.webp
+- Ev Yapımı Mole Soslu Tavuk — assets/generated/dish-3df5e7bf777d2c.webp
+- Pasta alla Norma — assets/generated/dish-8c8a47495121e1.webp
+- Puttanesca — assets/generated/dish-e34046d011d67d.webp
+- Panzanella — assets/generated/final92-70600de7769c29.webp
+- Caponata — assets/generated/dish-6c3a89a357ae03.webp
+- Ribollita — assets/generated/final92-57183cb0fb78c7.webp
+- Focaccia — assets/generated/final92-379520ada20e55.webp
+- Tavuk Piccata — assets/generated/dish-da329fbc42fac6.webp
+- Salade Niçoise — assets/generated/dish-9e4bf9deadaaa9.webp
+- Pissaladière — assets/generated/dish-7933dd99f65dab.webp
+- Pırasa Vinaigrette — assets/generated/final92-36d11bb735f129.webp
+- Patatas Bravas — assets/generated/final92-577fd748fb9c94.webp
+- Gazpacho — assets/generated/final92-168579dfb886c5.webp
+- Pisto Manchego — assets/generated/final92-c5c8e2bfc496d7.webp
+- Empanada Gallega — assets/generated/dish-3a81d8354239c1.webp
+- Souvlaki — assets/generated/final92-3e3e737b0543c9.webp
+- Gemista — assets/generated/dish-6ffea56bfb8712.webp
+- Briam — assets/generated/dish-8ba3fda061b9d1.webp
+- Avgolemono — assets/generated/final92-e2dd5472ececdf.webp
+- Mercimek Mujaddara — assets/generated/dish-ecf43b624b7bd9.webp
+- Fattoush — assets/generated/final92-f995ca66a1d34c.webp
+- Fırında Karnabahar ve Tahin Sosu — assets/generated/final92-58c2f14b922e86.webp
+- Tavuk Musakhan — assets/generated/dish-e2bb9bbc52895c.webp
+- Masoor Dal Tadka — assets/generated/dish-2cb0a871eca21c.webp
+- Aloo Gobi — assets/generated/dish-395e694caf32da.webp
+- Rajma Masala — assets/generated/final92-25418bbc284c45.webp
+- Baingan Bharta — assets/generated/dish-b862ae8f1bb4f3.webp
+- Naan — assets/generated/final92-ca616f65dedc00.webp
+- Okonomiyaki — assets/generated/dish-caa55870d7101e.webp
+- Kitsune Udon — assets/generated/final92-3023a055d5dbfb.webp
+- Miso Çorbası — assets/generated/final92-d57865d898da6a.webp
+- Onigiri — assets/generated/final92-5ad4d6763b7a89.webp
+- Japchae — assets/generated/dish-a6285439c7d932.webp
+- Kimchi Fried Rice — assets/generated/final92-2912695beb7a9c.webp
+- Mapo Tofu — assets/generated/final92-f7d4293fd7f6e1.webp
+- Tay Yeşil Köri — assets/generated/tay-yesil-kori-ai-v6.webp
+- Larb Gai — assets/generated/dish-f435c520d8843a.webp
+- Enchiladas Rojas — assets/generated/dish-66869fb6e9841d.webp
+- Chilaquiles Rojos — assets/generated/dish-6f79eead43bbb1.webp
+- Chili con Carne — assets/generated/chili-con-carne-ai-v6.webp
+- Jambalaya — assets/generated/final92-0a58b81ac2d84a.webp
+- Düğün Çorbası — assets/generated/dish-dca5c795de05a4.webp
+- İşkembe Çorbası — assets/generated/iskembe-corbasi-ai-v6.webp
+- Kelle Paça Çorbası — assets/generated/final92-71bc50d4e60334.webp
+- Sakala Çarpan Çorbası — assets/generated/dish-5092df481d8bdd.webp
+- Tutmaç Çorbası — assets/generated/final92-b727733d5d2274.webp
+- Toyga Çorbası — assets/generated/dish-dacff75dc6fe2e.webp
+- Soğuk Ayran Aşı Çorbası — assets/generated/soguk-ayran-asi-corbasi-ai-v6.webp
+- Oğmaç Çorbası — assets/generated/dish-2f17edaa8dcd68.webp
+- Pirinç Çorbası — assets/generated/dish-b213b65cdd7a82.webp
+- Un Çorbası — assets/generated/dish-40c29cca8f106f.webp
+- Sütlü Un Çorbası — assets/generated/dish-5f8d7b7b2bedc8.webp
+- Terbiyeli Sebze Çorbası — assets/generated/dish-5c51b13d9c99e7.webp
+- Isırgan Çorbası — assets/generated/isirgan-corbasi-ai-v6.webp
+- Pazı Çorbası — assets/generated/dish-ed8d7c78d3269f.webp
+- Kereviz Çorbası — assets/generated/dish-16bbd7172f067b.webp
+- Karnabahar Çorbası — assets/generated/final92-b73844e3177632.webp
+- Brokoli Çorbası — assets/generated/brokoli-corbasi-ai-v6.webp
+- Pırasa Çorbası — assets/generated/final92-33b9179b8aa26e.webp
+- Patates Çorbası — assets/generated/dish-f94e9effd8ca7d.webp
+- Bal Kabağı Çorbası — assets/generated/final92-21134a53e29518.webp
+- Bulgur Çorbası — assets/generated/dish-5e8d0ab744ff89.webp
+- Yeşil Mercimek Çorbası — assets/generated/dish-235539e3cfa06a.webp
+- Nohut Çorbası — assets/generated/dish-7a67463c2f9270.webp
+- Kuru Börülce Çorbası — assets/generated/dish-f1dc8093e654dc.webp
+- Kızılcık Tarhanası Çorbası — assets/generated/dish-0a498b1b6738aa.webp
+- Arabaşı Çorbası — assets/generated/arabasi-corbasi-ai-v6.webp
+- Lebeniye Çorbası — assets/generated/lebeniye-corbasi-ai-v6.webp
+- Ekşili Köfte Çorbası — assets/generated/final92-2558211ae5efb9.webp
+- Bamya Çorbası — assets/generated/bamya-corbasi-ai-v6.webp
+- Topalak Çorbası — assets/generated/dish-07dff84943c68e.webp
+- Yüksük Çorbası — assets/generated/final92-aed24e2c9f6a6c.webp
+- Sütlü Erişte Çorbası — assets/generated/dish-a6269a929126ad.webp
+- Aşotu Çorbası — assets/generated/dish-0eb08054d97edb.webp
+- Hanımağa Çorbası — assets/generated/dish-bedf7d32d3d23d.webp
+- Muradiye Çorbası — assets/generated/dish-2eb238829b30b3.webp
+- Çeşmi Nigar Çorbası — assets/generated/dish-00701940961900.webp
+- Sorpa Çorbası — assets/generated/dish-fe2ca961c1f5d8.webp
+- Kestane Çorbası — assets/generated/dish-2daa858ba243be.webp
+- Yer Elması Çorbası — assets/generated/dish-c6d60a4dc18788.webp
+- Sütlü Dövme Çorbası — assets/generated/dish-e43d13e37da6c4.webp
+- Zeytinyağlı Enginar — assets/generated/final92-791e191a6e6283.webp
+- Zeytinyağlı Kereviz — assets/generated/zeytinyagli-kereviz-ai-v6.webp
+- Zeytinyağlı Yer Elması — assets/generated/dish-31185a14950de9.webp
+- Zeytinyağlı Bakla — assets/generated/zeytinyagli-bakla-ai-v6.webp
+- İç Bakla Yemeği — assets/generated/dish-7967538b13a0ae.webp
+- Barbunya Pilaki — assets/generated/final92-712c07f0f5d0de.webp
+- Börülce Yemeği — assets/generated/dish-8734f734e30b00.webp
+- Yeşil Mercimek Yemeği — assets/generated/dish-529ea45b517863.webp
+- Semizotu Yemeği — assets/generated/semizotu-yemegi-ai-v6.webp
+- Pazı Kavurması — assets/generated/dish-a1418d9b28b1d2.webp
+- Ebegümeci Yemeği — assets/generated/dish-139f906e053b8f.webp
+- Isırgan Kavurması — assets/generated/dish-d1c75ee034e7a7.webp
+- Madımak Yemeği — assets/generated/dish-48ca5b57aacb18.webp
+- Taze Fasulye Diblesi — assets/generated/dish-cb25d87d53dc81.webp
+- Fasulye Turşusu Kavurması — assets/generated/dish-6aabebc6063702.webp
+- Mantar Sote — assets/generated/dish-58ba44dd4ad94e.webp
+- Bamya Yemeği — assets/generated/final92-4767d479ed9d66.webp
+- Kabak Çintmesi — assets/generated/dish-26919c3880ca4a.webp
+- Kabak Kalye — assets/generated/final92-8e4874a0c53610.webp
+- Patlıcan Silkme — assets/generated/dish-9ce9099630ff72.webp
+- Patlıcan Çığırtma — assets/generated/dish-d4d11cbd8e003b.webp
+- Biber Çığırtma — assets/generated/dish-b3cd197fc802a1.webp
+- Karnabahar Kızartması — assets/generated/dish-c573bd679ced0e.webp
+- Karnabahar Graten — assets/generated/dish-3bfabeb82e3db5.webp
+- Brokoli Graten — assets/generated/dish-cc09bc1f09b6e6.webp
+- Pırasa Mücveri — assets/generated/dish-ca61bcf9898e46.webp
+- Ispanak Borani — assets/generated/ispanak-borani-ai-v6.webp
+- Yumurtalı Pırasa — assets/generated/dish-32acbf9b1fa80d.webp
+- Yumurtalı Taze Fasulye — assets/generated/dish-2b46de047d4344.webp
+- Yumurtalı Patlıcan — assets/generated/dish-bbc4b2ef5d24d2.webp
+- Kapuska — assets/generated/dish-7a452ed2f40af5.webp
+- Kereviz Pane — assets/generated/dish-11f9ae9da5a314.webp
+- Patates Kavurması — assets/generated/dish-f32452cb1f86d7.webp
+- Patates Yahni — assets/generated/dish-66e8a4f6ede9fc.webp
+- Nohutlu Kabak — assets/generated/dish-ad7d6146cc697c.webp
+- Fırında Sebzeli Mücver — assets/generated/dish-568ef35b2f46f0.webp
+- Erişteli Yeşil Mercimek Yemeği — assets/generated/dish-800fe25b209c20.webp
+- Kuru Bakla Yemeği — assets/generated/dish-681e7add67ed8d.webp
+- Maş Fasulyesi Yemeği — assets/generated/dish-42ae24de8062ff.webp
+- Fırında Mantarlı Patates — assets/generated/dish-1e3652c1ece701.webp
+- İnegöl Köfte — assets/generated/inegol-kofte-ai-v6.webp
+- Tekirdağ Köftesi — assets/generated/final92-607020c4db5749.webp
+- İzmir Köfte — assets/generated/izmir-kofte-ai-v6.webp
+- Tire Köftesi — assets/generated/final92-14346d6cb501d7.webp
+- Kadınbudu Köfte — assets/generated/recovered-oct17-2.webp
+- Dalyan Köfte — assets/generated/dalyan-kofte-ai-v6.webp
+- Hasanpaşa Köfte — assets/generated/hasanpasa-kofte-ai-v6.webp
+- Sulu Köfte — assets/generated/final92-21d3cba88637f4.webp
+- Ekşili Köfte — assets/generated/eksili-kofte-ai-v6.webp
+- Kıbrıs Köftesi — assets/generated/dish-846dee2586ab1f.webp
+- Sivas Köftesi — assets/generated/dish-03a28380bb0613.webp
+- Pideli Köfte — assets/generated/final92-887ac3fcfecce3.webp
+- Beyti Kebap — assets/generated/final92-baa1e9e521936e.webp
+- Fırında Urfa Kebap — assets/generated/dish-e6421802bb699e.webp
+- Hatay Tepsi Kebabı — assets/generated/hatay-tepsi-kebabi-ai-v6.webp
+- Hatay Kağıt Kebabı — assets/generated/hatay-kagit-kebabi-ai-v6.webp
+- Kuşbaşı Kağıt Kebabı — assets/generated/resume-24bb52a0f0cb51.webp
+- Orman Kebabı — assets/generated/orman-kebabi-ai-v6.webp
+- Tas Kebabı — assets/generated/final92-5eb2e7a39d6434.webp
+- Çiftlik Kebabı — assets/generated/dish-895501943e66c9.webp
+- Elbasan Tava — assets/generated/final92-41c8080081eb1b.webp
+- Kuzu Kapama — assets/generated/dish-fc1b99e2974756.webp
+- Kuzu Haşlama — assets/generated/kuzu-haslama-ai-v6.webp
+- Fırında Kuzu İncik — assets/generated/firinda-kuzu-incik-ai-v6.webp
+- Sac Kavurma — assets/generated/final92-ce9a4dae952890.webp
+- Çoban Kavurma — assets/generated/coban-kavurma-ai-v6.webp
+- Kurban Kavurması — assets/generated/final92-e9ca6226aa4808.webp
+- Dana Rosto — assets/generated/dish-b32291920336f0.webp
+- Salçalı Biftek — assets/generated/final92-b0716ea0032016.webp
+- Çöp Şiş — assets/generated/cop-sis-ai-v6.webp
+- Ev Usulü İskender — assets/generated/dish-1cbe7d58d06d2c.webp
+- Ev Yapımı Et Döner — assets/generated/ev-yapimi-et-doner-ai-v6.webp
+- Manisa Kebabı — assets/generated/manisa-kebabi-ai-v6.webp
+- Buğu Kebabı — assets/generated/dish-373f2a97434733.webp
+- Ev Usulü Testi Kebabı — assets/generated/dish-8c45e203cff079.webp
+- Arnavut Ciğeri — assets/generated/dish-6dba3d0d5010bc.webp
+- Edirne Tava Ciğeri — assets/generated/edirne-tava-cigeri-ai-v6.webp
+- Ciğer Şiş — assets/generated/final92-5b5081e9d1014d.webp
+- Soğanlı Ciğer Kavurma — assets/generated/dish-5a37126d976f43.webp
+- Kuzu Pirzola — assets/generated/final92-3a26d0acd4d470.webp
+- Ankara Tava — assets/generated/ankara-tava-ai-v6.webp
+- Tavuk Kapama — assets/generated/dish-db0a7058381bca.webp
+- Tavuk Büryan — assets/generated/dish-180f5f78d74a20.webp
+- Tavuk Güveç — assets/generated/dish-c649c7e38898f3.webp
+- Tavuklu Sultan Kebabı — assets/generated/dish-97031777a29f1d.webp
+- Tavuk Köftesi — assets/generated/dish-b500448811c73c.webp
+- Tavuk Şinitzel — assets/generated/tavuk-sinitzel-ai-v6.webp
+- Tavuk Külbastı — assets/generated/dish-0ba9a22901f331.webp
+- Tavuk Topkapı — assets/generated/dish-0adeb2cd29b1d0.webp
+- Tavuk Çullama — assets/generated/dish-df112b69663786.webp
+- Hindi Tandır — assets/generated/dish-31e6a46e2de29b.webp
+- Hindi Sote — assets/generated/dish-329605a1a62412.webp
+- Fırında Hindi But — assets/generated/dish-42c3e9b9aad98b.webp
+- Kaz Tiridi — assets/generated/kaz-tiridi-ai-v6.webp
+- Kaz Dolması — assets/generated/dish-3d5067fc56689f.webp
+- Ördek Dolması — assets/generated/dish-64eb887d75822d.webp
+- Kuzu Gerdan Haşlama — assets/generated/dish-e6ac6f3a421601.webp
+- Kuzu Külbastı — assets/generated/dish-4a507427dc9023.webp
+- Kaburga Dolması — assets/generated/kaburga-dolmasi-ai-v6.webp
+- Dana İncik Yahni — assets/generated/dish-c4009fa6664d6c.webp
+- Dana Dil Söğüş — assets/generated/dish-56aa6285a89b04.webp
+- Uykuluk Tava — assets/generated/dish-9f78b2dd89520e.webp
+- Kokoreç Tava — assets/generated/dish-c4cc7d077214e9.webp
+- İşkembe Yahnisi — assets/generated/dish-b4486639a53dde.webp
+- Kelle Söğüş — assets/generated/dish-21cb85f6726908.webp
+- Fırında Palamut — assets/generated/dish-6a1a25cd46e821.webp
+- Hamsi Tava — assets/generated/final92-89474e77d790fa.webp
+- Hamsi Kuşu — assets/generated/dish-9a01aa286a5828.webp
+- Hamsi Buğulama — assets/generated/dish-e8b6eb69171df9.webp
+- Alabalık Tava — assets/generated/dish-1ba8daf9c890a5.webp
+- Güveçte Alabalık — assets/generated/dish-43502035f5da94.webp
+- Tuzda Levrek — assets/generated/final92-62bd1a63c46ec2.webp
+- Levrek Şiş — assets/generated/dish-a3e78fd0e37eac.webp
+- Somon Izgara — assets/generated/somon-izgara-ai-v6.webp
+- Palamut Ekşilisi — assets/generated/dish-8417807e541916.webp
+- Uskumru Dolması — assets/generated/dish-b0fd4e4f711c30.webp
+- Sardalya Sarma — assets/generated/dish-284df1e6306f66.webp
+- Mezgit Tava — assets/generated/dish-3d6bc066b53a7b.webp
+- Balık Köftesi — assets/generated/balik-koftesi-ai-v6.webp
+- Midye Dolma — assets/generated/midye-dolma-ai-v6.webp
+- Ramazan Pidesi — assets/generated/ramazan-pidesi-ai-v6.webp
+- Bazlama — assets/generated/final92-6668072711ecc8.webp
+- Katmerli Gözleme — assets/generated/dish-80a79aeb2daf01.webp
+- Tandır Ekmeği — assets/generated/resume-7cb45d72d792d2.webp
+- Lavaş — assets/generated/lavas-ai-v6.webp
+- Yufka Ekmeği — assets/generated/yufka-ekmegi-ai-v6.webp
+- Haşhaşlı Çörek — assets/generated/dish-7e12402725adbf.webp
+- Tahinli Tuzlu Çörek — assets/generated/dish-1a449a5157e900.webp
+- Cevizli Lokum — assets/generated/dish-1729061523853c.webp
+- İçli Kete — assets/generated/dish-6ff23056da21bf.webp
+- Sade Açma — assets/generated/dish-e94097208f7ae2.webp
+- Sokak Simidi — assets/generated/sokak-simidi-ai-v6.webp
+- Kumru Ekmeği — assets/generated/dish-93fdcb39a21e38.webp
+- Trabzon Ekmeği — assets/generated/dish-7cb416cf2b6c9e.webp
+- Nohut Mayalı Ekmek — assets/generated/dish-0ff7e3531e1ec2.webp
+- Sürmene Pidesi — assets/generated/dish-93685f6c8e0c72.webp
+- Bafra Pidesi — assets/generated/bafra-pidesi-ai-v6.webp
+- Terme Pidesi — assets/generated/dish-105aaa382f7502.webp
+- Lahmacun — assets/generated/resume-5704f7f5bfffee.webp
+- Cantık — assets/generated/resume-981c6f6dd8b540.webp
+- Su Böreği — assets/generated/su-boregi-ai-v6.webp
+- Kürt Böreği — assets/generated/dish-ab0416f04ff928.webp
+- Boşnak Böreği — assets/generated/dish-ac570fccdd5d04.webp
+- Arnavut Böreği — assets/generated/dish-57d1ecc961601a.webp
+- Dızmana — assets/generated/dish-4c682c287f03c4.webp
+- Göbete — assets/generated/dish-1f29def7f4429b.webp
+- Çarşaf Böreği — assets/generated/dish-7ff1a244b61085.webp
+- Avcı Böreği — assets/generated/dish-6ff08367fb4aca.webp
+- Paçanga Böreği — assets/generated/pacanga-boregi-ai-v6.webp
+- Sigara Böreği — assets/generated/dish-58f5e614669488.webp
+- Gül Böreği — assets/generated/dish-faf55e55c66e7a.webp
+- Muska Böreği — assets/generated/dish-96fa7cd7cce9d8.webp
+- Tava Böreği — assets/generated/dish-1cfee46bc768f1.webp
+- Milföylü Tepsi Böreği — assets/generated/dish-881de3f84a6ee9.webp
+- Talaş Böreği — assets/generated/dish-82d6af39988263.webp
+- Sarıyer Böreği — assets/generated/dish-b4874fdce65f19.webp
+- Puf Böreği — assets/generated/dish-67a8192113b520.webp
+- Pişi — assets/generated/dish-75d3342d2173bf.webp
+- Peynirli Gözleme — assets/generated/dish-e7e22216ffd3ce.webp
+- Otlu Gözleme — assets/generated/otlu-gozleme-ai-v6.webp
+- Biberli Ekmek — assets/generated/resume-d708b73a5abb15.webp
+- Velibah — assets/generated/dish-32f471845a2893.webp
+- Sıkma — assets/generated/dish-de9a5ef7bc0c71.webp
+- Çökelekli Bazlama — assets/generated/dish-ce0421327786d5.webp
+- Mahluta Pilavı — assets/generated/dish-de21e930be355b.webp
+- İç Pilav — assets/generated/dish-4e68c85e61adf8.webp
+- Firik Pilavı — assets/generated/dish-a7d8edcb76b641.webp
+- Meyhane Pilavı — assets/generated/dish-7fd044f1220480.webp
+- Domatesli Pirinç Pilavı — assets/generated/recovered-oct17-12.webp
+- Patlıcanlı Pilav — assets/generated/dish-e8c9ab091c5b5c.webp
+- Kestaneli Pilav — assets/generated/dish-268693ca38c497.webp
+- Dövme Pilavı — assets/generated/dish-8076a6972c4908.webp
+- Mercimekli Erişte Pilavı — assets/generated/dish-9b7bbee7306a7a.webp
+- Şehriyeli Pirinç Pilavı — assets/generated/resume-4ba0ab22426ff5.webp
+- Havuçlu Özbek Pilavı — assets/generated/havuclu-ozbek-pilavi-ai-v6.webp
+- İstanbul Pilavı — assets/generated/dish-93673a1660ad2d.webp
+- Acem Pilavı — assets/generated/dish-75c7145f63e7d2.webp
+- Ali Paşa Pilavı — assets/generated/dish-895e49ba3298c5.webp
+- Özbek Mantısı — assets/generated/ozbek-mantisi-ai-v6.webp
+- Tepsi Mantısı — assets/generated/tepsi-mantisi-ai-v6.webp
+- Boyoz — assets/generated/resume-1b78c47075b78b.webp
+- Dereotlu Poğaça — assets/generated/resume-23929ae08e0920.webp
+- Karaköy Poğaçası — assets/generated/resume-90bcb2486ea137.webp
+- Kandil Simidi — assets/generated/kandil-simidi-ai-v6.webp
+- Çatal Kurabiye — assets/generated/catal-kurabiye-ai-v6.webp
+- Kaşarlı Pide — assets/generated/kasarli-pide-ai-v6.webp
+- Yumurtalı Pide — assets/generated/yumurtali-pide-ai-v6.webp
+- Semsek — assets/generated/final92-d75805295b5e7c.webp
+- Ağzı Açık — assets/generated/final92-942957246d5662.webp
+- Ağzı Yumuk — assets/generated/agzi-yumuk-ai-v6.webp
+- Fodula — assets/generated/fodula-ai-v6.webp
+- Mercimekli Bükme — assets/generated/mercimekli-bukme-ai-v6.webp
+- Piruhi — assets/generated/piruhi-ai-v6.webp
+- Sinop Mantısı — assets/generated/final92-1c8ca6d70d68a0.webp
+- Yağ Mantısı — assets/generated/final92-6780e2f849b2d8.webp
+- Patatesli Hingel — assets/generated/patatesli-hingel-ai-v6.webp
+- Siyez Bulguru Pilavı — assets/generated/siyez-bulguru-pilavi-ai-v6.webp
+- Nohutlu Bulgur Pilavı — assets/generated/nohutlu-bulgur-pilavi-ai-v6.webp
+- Sebzeli Bulgur Pilavı — assets/generated/sebzeli-bulgur-pilavi-ai-v6.webp
+- Kabaklı Bulgur Pilavı — assets/generated/final92-74468b70933c7d.webp
+- Künefe — assets/generated/final92-b3dfb62af851b9.webp
+- Güllaç — assets/generated/gullac-ai-v6.webp
+- Lokma — assets/generated/lokma-ai-v6.webp
+- Tulumba Tatlısı — assets/generated/tulumba-tatlisi-ai-v6.webp
+- Şekerpare — assets/generated/sekerpare-ai-v6.webp
+- Revani — assets/generated/final92-5fcd729130c5a6.webp
+- Kalburabastı — assets/generated/final92-4502ca34e00d66.webp
+- Un Helvası — assets/generated/un-helvasi-ai-v6.webp
+- Peynir Helvası — assets/generated/peynir-helvasi-ai-v6.webp
+- Höşmerim — assets/generated/hosmerim-ai-v6.webp
+- Süt Helvası — assets/generated/sut-helvasi-ai-v6.webp
+- Tahinli Un Helvası — assets/generated/final92-9479f2fc4ef60f.webp
+- Zerde — assets/generated/final92-93da93f1131c06.webp
+- Keşkül — assets/generated/keskul-ai-v6.webp
+- Kazandibi — assets/generated/kazandibi-ai-v6.webp
+- Tavukgöğsü — assets/generated/tavukgogsu-ai-v6.webp
+- Su Muhallebisi — assets/generated/su-muhallebisi-ai-v6.webp
+- Sakızlı Muhallebi — assets/generated/final92-daf0d75e416747.webp
+- İncir Uyutması — assets/generated/final92-c88a7f9a4c6b18.webp
+- Palüze — assets/generated/paluze-ai-v6.webp
+- Haside — assets/generated/haside-ai-v6.webp
+- Aşure — assets/generated/asure-ai-v6.webp
+- Kabak Tatlısı — assets/generated/kabak-tatlisi-ai-v6.webp
+- Ayva Tatlısı — assets/generated/final92-17229e3c4e1944.webp
+- Cevizli İncir Dolması — assets/generated/final92-92e237d32907bb.webp
+- Fırında Elma Dolması — assets/generated/firinda-elma-dolmasi-ai-v6.webp
+- Pekmezli Armut Tatlısı — assets/generated/pekmezli-armut-tatlisi-ai-v6.webp
+- Nevzine — assets/generated/nevzine-ai-v6.webp
+- Aside — assets/generated/aside-ai-v6.webp
+- Hira Tatlısı — assets/generated/final92-36a779588f02bd.webp
+- Şambali — assets/generated/final92-f535ff30f566d5.webp
+- Kemalpaşa Tatlısı — assets/generated/kemalpasa-tatlisi-ai-v6.webp
+- Dilber Dudağı — assets/generated/dilber-dudagi-ai-v6.webp
+- Bülbül Yuvası — assets/generated/bulbul-yuvasi-ai-v6.webp
+- Burma Kadayıf — assets/generated/burma-kadayif-ai-v6.webp
+- Kadayıf Dolması — assets/generated/final92-ade6771102615d.webp
+- Cevizli Sarı Burma — assets/generated/final92-9e177233ae3c23.webp
+- Fıstıklı Şöbiyet — assets/generated/fistikli-sobiyet-ai-v6.webp
+- Taş Kadayıf — assets/generated/tas-kadayif-ai-v6.webp
+- Vezir Parmağı — assets/generated/vezir-parmagi-ai-v6.webp
+- İzmir Bomba — assets/generated/izmir-bomba-ai-v6.webp
+- Acıbadem Kurabiyesi — assets/generated/final92-087dbcd875367e.webp
+- Kavala Kurabiyesi — assets/generated/final92-82ce20d4bcb753.webp
+- Un Kurabiyesi — assets/generated/un-kurabiyesi-ai-v6.webp
+- Elmalı Kurabiye — assets/generated/elmali-kurabiye-ai-v6.webp
+- İzmir Lor Kurabiyesi — assets/generated/izmir-lor-kurabiyesi-ai-v6.webp
+- Susamlı Anne Kurabiyesi — assets/generated/susamli-anne-kurabiyesi-ai-v6.webp
+- Tahinli Rulo Kurabiye — assets/generated/final92-65a4dae3bdd84e.webp
+- Cezerye — assets/generated/final92-aeef8ee625724b.webp
+- Cevizli Sucuk — assets/generated/cevizli-sucuk-ai-v6.webp
+- Rokoko — assets/generated/rokoko-ai-v6.webp
+- Mozaik Pasta — assets/generated/mozaik-pasta-ai-v6.webp
+- Ağlayan Pasta — assets/generated/aglayan-pasta-ai-v6.webp
+- Köstebek Pasta — assets/generated/final92-cb01d6b615170f.webp
+- Kıbrıs Tatlısı — assets/generated/final92-1a2a1a972083ae.webp
+- Haşhaşlı Revani — assets/generated/hashasli-revani-ai-v6.webp
+- Tahinli Kek — assets/generated/tahinli-kek-ai-v6.webp
+- Havuçlu Cevizli Tarçınlı Kek — assets/generated/havuclu-cevizli-tarcinli-kek-ai-v6.webp
+- Islak Kek — assets/generated/islak-kek-ai-v6.webp
+- Frambuazlı Yoğurt Tatlısı — assets/generated/final92-9b487147338b72.webp
+- Panna Cotta — assets/generated/final92-3d26f73be7fc07.webp
+- Crème Brûlée — assets/generated/creme-brulee-ai-v6.webp
+- Paris-Brest — assets/generated/paris-brest-ai-v6.webp
+- Saint-Honoré — assets/generated/saint-honore-ai-v6.webp
+- Mille-feuille — assets/generated/mille-feuille-ai-v6.webp
+- Opéra Pastası — assets/generated/final92-07225f560b900d.webp
+- Éclair — assets/generated/final92-c1b9327b72ce73.webp
+- Croquembouche — assets/generated/croquembouche-ai-v6.webp
+- Pavlova — assets/generated/pavlova-ai-v6.webp
+- Sachertorte — assets/generated/sachertorte-ai-v6.webp
+- Linzer Torte — assets/generated/linzer-torte-ai-v6.webp
+- Apfelstrudel — assets/generated/final92-143a8b6a7a0770.webp
+- Black Forest Cake — assets/generated/final92-5095191499a0e6.webp
+- Basque Cheesecake — assets/generated/basque-cheesecake-ai-v6.webp
+- Cannoli — assets/generated/cannoli-ai-v6.webp
+- Sfogliatelle — assets/generated/sfogliatelle-ai-v6.webp
+- Pastel de Nata — assets/generated/pastel-de-nata-ai-v6.webp
+- Churros — assets/generated/final92-331f59130157c3.webp
+- Mochi Daifuku — assets/generated/final92-32dc6ccbfc3a55.webp
+- Gulab Jamun — assets/generated/gulab-jamun-ai-v6.webp
+- Antalya Piyazı — assets/generated/antalya-piyazi-ai-v6.webp
+- Gavurdağı Salatası — assets/generated/gavurdagi-salatasi-ai-v6.webp
+- Kaşık Salatası — assets/generated/kasik-salatasi-ai-v6.webp
+- Roka ve Beyaz Peynir Salatası — assets/generated/final92-2daa12e5bc4959.webp
+- Turp Salatası — assets/generated/final92-6ca2df210de3f0.webp
+- Yoğurtlu Kereviz Salatası — assets/generated/yogurtlu-kereviz-salatasi-ai-v6.webp
+- Mor Lahana Salatası — assets/generated/mor-lahana-salatasi-ai-v6.webp
+- Yoğurtlu Beyaz Lahana Salatası — assets/generated/yogurtlu-beyaz-lahana-salatasi-ai-v6.webp
+- Pancar Salatası — assets/generated/pancar-salatasi-ai-v6.webp
+- Deniz Börülcesi Salatası — assets/generated/final92-1d6c9ec39dd0d1.webp
+- Kuru Börülce Salatası — assets/generated/final92-74ec60ec291c0d.webp
+- Yeşil Mercimek Salatası — assets/generated/yesil-mercimek-salatasi-ai-v6.webp
+- Buğday Salatası — assets/generated/bugday-salatasi-ai-v6.webp
+- Maş Fasulyesi Salatası — assets/generated/mas-fasulyesi-salatasi-ai-v6.webp
+- Domatesli Semizotu Salatası — assets/generated/domatesli-semizotu-salatasi-ai-v6.webp
+- Zahter Salatası — assets/generated/final92-21c8c5704a2aa1.webp
+- Köz Biber Salatası — assets/generated/final92-b1acecd9150e6d.webp
+- Sumaklı Soğan Salatası — assets/generated/sumakli-sogan-salatasi-ai-v6.webp
+- Kuzukulağı Salatası — assets/generated/kuzukulagi-salatasi-ai-v6.webp
+- Taze Bakla Salatası — assets/generated/taze-bakla-salatasi-ai-v6.webp
+- Haydari — assets/generated/haydari-ai-v6.webp
+- Atom Meze — assets/generated/final92-546533cd03c1df.webp
+- Acılı Ezme — assets/generated/final92-00ef07862a6089.webp
+- Muhammara — assets/generated/muhammara-ai-v6.webp
+- Fava — assets/generated/fava-ai-v6.webp
+- Cevizli Tarator — assets/generated/cevizli-tarator-ai-v6.webp
+- Hibeş — assets/generated/final92-b9aa273d4cdcc6.webp
+- Kabak Tarator — assets/generated/final92-5ed94c07dda1e5.webp
+- Köpoğlu — assets/generated/resume-ff0374276171ea.webp
+- Girit Ezmesi — assets/generated/girit-ezmesi-ai-v6.webp
+- Yoğurtlu Köz Patlıcan — assets/generated/yogurtlu-koz-patlican-ai-v6.webp
+- Patlıcan Söğürme — assets/generated/patlican-sogurme-ai-v6.webp
+- Yoğurtlu Pazı Mezesi — assets/generated/resume-d7b8e78f00425c.webp
+- Yoğurtlu Karnabahar Salatası — assets/generated/resume-2d2e3bc605ad4b.webp
+- Topik — assets/generated/resume-2a2eb54dc46c62.webp
+- Çiroz Salatası — assets/generated/ciroz-salatasi-ai-v6.webp
+- Köz Soğan Mezesi — assets/generated/koz-sogan-mezesi-ai-v6.webp
+- Yoğurtlu Mantar Mezesi — assets/generated/yogurtlu-mantar-mezesi-ai-v6.webp
+- Sürk Salatası — assets/generated/resume-9894c2cca8c3a6.webp
+- Tahinli Pancar Mezesi — assets/generated/resume-8850cc0313d00e.webp
+- Yumurta Kapama — assets/generated/resume-d7ea73ed3634d0.webp
+- Yumurta Dolması — assets/generated/yumurta-dolmasi-ai-v6.webp
+- Yumurta Piyazı — assets/generated/yumurta-piyazi-ai-v6.webp
+- Kıymalı Yumurta — assets/generated/kiymali-yumurta-ai-v6.webp
+- Kavurmalı Yumurta — assets/generated/resume-57e2d6ec65176c.webp
+- Sahanda Yumurta — assets/generated/resume-d88ed4f18e60d0.webp
+- Beyaz Peynirli Omlet — assets/generated/resume-701c2f1ee14dab.webp
+- Lorlu Biber Kavurması — assets/generated/lorlu-biber-kavurmasi-ai-v6.webp
+- Sütlü Biber — assets/generated/sutlu-biber-ai-v6.webp
+- Kahvaltılık Çemen — assets/generated/kahvaltilik-cemen-ai-v6.webp
+- Siyah Zeytin Ezmesi — assets/generated/resume-32906b60bf501a.webp
+- Çingene Pilavı — assets/generated/resume-0dcdc3c890f9eb.webp
+- Hellim Tava — assets/generated/resume-0fac59519e143b.webp
+- Marul Salatası — assets/generated/marul-salatasi-ai-v6.webp
+- Limonlu Havuç Salatası — assets/generated/limonlu-havuc-salatasi-ai-v6.webp
+- Yeşil Zeytin Salatası — assets/generated/yesil-zeytin-salatasi-ai-v6.webp
+- Tahin Pekmez Karışımı — assets/generated/tahin-pekmez-karisimi-ai-v6.webp
+- Tarama Mezesi — assets/generated/resume-195996b5476612.webp
+- Kuru Domates Salatası — assets/generated/resume-4fdf78c5b7b9bc.webp
+- Nuraniye Mezesi — assets/generated/nuraniye-mezesi-ai-v6.webp
+- Lahana Sarması — assets/generated/lahana-sarmasi-ai-v6.webp
+- Karalahana Sarması — assets/generated/karalahana-sarmasi-ai-v6.webp
+- Pazı Sarması — assets/generated/pazi-sarmasi-ai-v6.webp
+- Labada Sarması — assets/generated/resume-e21ea6ad5d6fac.webp
+- Pancar Yaprağı Sarması — assets/generated/dish-c73648548c4d7c.webp
+- Kuru Patlıcan Dolması — assets/generated/resume-5dca156c766536.webp
+- Kuru Biber Dolması — assets/generated/kuru-biber-dolmasi-ai-v6.webp
+- Patlıcan Dolması — assets/generated/patlican-dolmasi-ai-v6.webp
+- Domates Dolması — assets/generated/domates-dolmasi-ai-v6.webp
+- Soğan Dolması — assets/generated/dish-42ee32534f0323.webp
+- Pırasa Dolması — assets/generated/pirasa-dolmasi-ai-v6.webp
+- Kabak Çiçeği Dolması — assets/generated/resume-df1798fb4fe427.webp
+- Enginar Dolması — assets/generated/resume-5365cd69d7b5a0.webp
+- Ayva Dolması — assets/generated/ayva-dolmasi-ai-v6.webp
+- Elma Dolması — assets/generated/dish-8f851e08ace918.webp
+- Şalgam Dolması — assets/generated/salgam-dolmasi-ai-v6.webp
+- Patates Dolması — assets/generated/patates-dolmasi-ai-v6.webp
+- Acur Dolması — assets/generated/acur-dolmasi-ai-v6.webp
+- Kiraz Yaprağı Sarması — assets/generated/resume-347dd4b1845025.webp
+- Şıhıl Mahşi — assets/generated/dish-ed15a6697b5bfc.webp
+- Baklalı Dolma — assets/generated/resume-1e6571b237091c.webp
+- Kitel Raha — assets/generated/kitel-raha-ai-v6.webp
+- İkbebet — assets/generated/ikbebet-ai-v6.webp
+- İrok — assets/generated/irok-ai-v6.webp
+- Sini Köftesi — assets/generated/dish-0425a8bb169bb5.webp
+- Sıkma Köfte — assets/generated/sikma-kofte-ai-v6.webp
+- Kabaklı Çimdik Köfte — assets/generated/resume-ba3fbe83f03613.webp
+- Yoğurtlu Balkabağı Köftesi — assets/generated/resume-accfe49ca6ac3f.webp
+- Haşhaşlı Top Köfte — assets/generated/hashasli-top-kofte-ai-v6.webp
+- Patlıcanlı Bulgur Köftesi — assets/generated/dish-319a12c8ee7bff.webp
+- Yoğurtlu Bulgur Köftesi — assets/generated/yogurtlu-bulgur-koftesi-ai-v6.webp
+- Ispanaklı Bulgur Köftesi — assets/generated/ispanakli-bulgur-koftesi-ai-v6.webp
+- Urfa Yumurtalı Köfte — assets/generated/urfa-yumurtali-kofte-ai-v6.webp
+- Etsiz Çiğ Köfte — assets/generated/resume-4be4a05bcee088.webp
+- Kuru Kabak Sarması — assets/generated/resume-83adc7f784a365.webp
+- Pierogi Ruskie — assets/generated/pierogi-ruskie-ai-v6.webp
+- Pelmeni — assets/generated/pelmeni-ai-v6.webp
+- Khinkali — assets/generated/recovered-oct17-7.webp
+- Sebzeli Momo — assets/generated/sebzeli-momo-ai-v6.webp
+- Haşlama Wonton — assets/generated/resume-61f11e8b88630a.webp
+- Ashak — assets/generated/resume-5ecfef6eb86475.webp
+- Şiş Barak — assets/generated/sis-barak-ai-v6.webp
+- Siu Mai — assets/generated/siu-mai-ai-v6.webp
+- Har Gow — assets/generated/har-gow-ai-v6.webp
+- Xiaolongbao — assets/generated/xiaolongbao-ai-v6.webp
+- Vareniki — assets/generated/resume-e0945464fabaa4.webp
+- Kreplach — assets/generated/resume-0632030aeea415.webp
+- Maultaschen — assets/generated/maultaschen-ai-v6.webp
+- Tortelli di Zucca — assets/generated/tortelli-di-zucca-ai-v6.webp
+- Culurgiones — assets/generated/culurgiones-ai-v6.webp
+- Cjarsons — assets/generated/dish-94e6e015d7232b.webp
+- Schlutzkrapfen — assets/generated/schlutzkrapfen-ai-v6.webp
+- Bryndzové Pirohy — assets/generated/resume-519eeac8d4c013.webp
+- Svestkove Knedliky — assets/generated/resume-2cff0f7b516106.webp
+- Cepelinai — assets/generated/cepelinai-ai-v6.webp
+- Kartoffelklosse — assets/generated/kartoffelklosse-ai-v6.webp
+- Canederli — assets/generated/canederli-ai-v6.webp
+- Coxinha — assets/generated/coxinha-ai-v6.webp
+- Papas Rellenas — assets/generated/resume-33f83c87e1ecf9.webp
+- Pitepalt — assets/generated/resume-d4e38a3d90aada.webp
+- Pasta e Ceci — assets/generated/pasta-e-ceci-ai-v6.webp
+- Pasta e Fagioli — assets/generated/pasta-e-fagioli-ai-v6.webp
+- Cacio e Pepe — assets/generated/cacio-e-pepe-ai-v6.webp
+- Pasta al Limone — assets/generated/pasta-al-limone-ai-v6.webp
+- Pasta al Tonno — assets/generated/resume-579d8f54401981.webp
+- Polenta ai Funghi — assets/generated/dish-fffd4107b99c60.webp
+- Melanzane alla Parmigiana — assets/generated/resume-3964069c57a8fa.webp
+- Risi e Bisi — assets/generated/risi-e-bisi-ai-v6.webp
+- Zuppa di Farro — assets/generated/zuppa-di-farro-ai-v6.webp
+- Pappa al Pomodoro — assets/generated/pappa-al-pomodoro-ai-v6.webp
+- Insalata di Finocchi — assets/generated/dish-fda4ce3997190c.webp
+- Stracciatella alla Romana — assets/generated/stracciatella-alla-romana-ai-v6.webp
+- Bagna Cauda — assets/generated/resume-a227a5093633ef.webp
+- Socca — assets/generated/resume-c242138d850180.webp
+- Salade Lyonnaise — assets/generated/salade-lyonnaise-ai-v6.webp
+- Poulet Basquaise — assets/generated/poulet-basquaise-ai-v6.webp
+- Poulet à la Moutarde — assets/generated/poulet-a-la-moutarde-ai-v6.webp
+- Carottes Vichy — assets/generated/carottes-vichy-ai-v6.webp
+- Pommes Anna — assets/generated/resume-4fd3b62e0d8d60.webp
+- Gratin de Courgettes — assets/generated/resume-a08a4c65cb4abd.webp
+- Endives Braisées — assets/generated/dish-bb8bb8dff4ae65.webp
+- Salmorejo — assets/generated/salmorejo-ai-v6.webp
+- Ajo Blanco — assets/generated/ajo-blanco-ai-v6.webp
+- Espinacas con Garbanzos — assets/generated/espinacas-con-garbanzos-ai-v6.webp
+- Papas Arrugadas — assets/generated/papas-arrugadas-ai-v6.webp
+- Escalivada — assets/generated/resume-acd60faf62ccb7.webp
+- Bacalao a la Vizcaína — assets/generated/resume-de2aa4060eb8f3.webp
+- Caldo Verde — assets/generated/caldo-verde-ai-v6.webp
+- Bacalhau à Brás — assets/generated/bacalhau-a-bras-ai-v6.webp
+- Arroz de Tomate — assets/generated/arroz-de-tomate-ai-v6.webp
+- Dana Etli Bifanas — assets/generated/dish-901a452f49bc85.webp
+- Kartoffelpuffer — assets/generated/kartoffelpuffer-ai-v6.webp
+- Käsespätzle — assets/generated/resume-12b926a20fd34f.webp
+- Kartoffelsalat — assets/generated/resume-d6e1571cfea9a2.webp
+- Rösti — assets/generated/rosti-ai-v6.webp
+- Älplermagronen — assets/generated/dish-7fd647df0c3047.webp
+- Stoemp — assets/generated/stoemp-ai-v6.webp
+- Cassoulet — assets/generated/cassoulet-ai-v6.webp
+- Blanquette de Veau — assets/generated/blanquette-de-veau-ai-v6.webp
+- Tartiflette — assets/generated/resume-b52ebb79fad58f.webp
+- Brandade de Morue — assets/generated/resume-51f9321358c51b.webp
+- Piperade — assets/generated/piperade-ai-v6.webp
+- Steak au Poivre — assets/generated/steak-au-poivre-ai-v6.webp
+- Gratin Dauphinois — assets/generated/gratin-dauphinois-ai-v6.webp
+- Poule au Pot — assets/generated/poule-au-pot-ai-v6.webp
+- Saltimbocca alla Romana — assets/generated/dish-62281aaf6fe741.webp
+- Vitello Tonnato — assets/generated/resume-e8855e8ae5b768.webp
+- Supplì al Telefono — assets/generated/resume-94a27e2a66a23e.webp
+- Pasta alla Gricia — assets/generated/pasta-alla-gricia-ai-v6.webp
+- Orecchiette con Cime di Rapa — assets/generated/orecchiette-con-cime-di-rapa-ai-v6.webp
+- Farinata — assets/generated/farinata-ai-v6.webp
+- Torta Pasqualina — assets/generated/resume-fd8bd13cbed5c2.webp
+- Gnudi — assets/generated/resume-aafd3e5cf66e92.webp
+- Fegato alla Veneziana — assets/generated/resume-d94ad19fe3543a.webp
+- Frittata di Spaghetti — assets/generated/frittata-di-spaghetti-ai-v6.webp
+- Borscht — assets/generated/borscht-ai-v6.webp
+- Beef Stroganoff — assets/generated/beef-stroganoff-ai-v6.webp
+- Syrniki — assets/generated/resume-34233cf5b28b6d.webp
+- Shchi — assets/generated/resume-95d88b3c42ed71.webp
+- Pirozhki — assets/generated/resume-eec57a956ffdaa.webp
+- Golubtsy — assets/generated/dish-9d3be5b8079945.webp
+- Bigos — assets/generated/bigos-ai-v6.webp
+- Żurek — assets/generated/zurek-ai-v6.webp
+- Zapiekanka — assets/generated/zapiekanka-ai-v6.webp
+- Köttbullar — assets/generated/resume-6475b49f4869cb.webp
+- Janssons Frestelse — assets/generated/resume-fc4f82a5dde69c.webp
+- Lohikeitto — assets/generated/resume-49a2ae0d7edd68.webp
+- Cullen Skink — assets/generated/cullen-skink-ai-v6.webp
+- Irish Colcannon — assets/generated/irish-colcannon-ai-v6.webp
+- Welsh Rarebit — assets/generated/welsh-rarebit-ai-v6.webp
+- Lancashire Hotpot — assets/generated/resume-47a804b51a027a.webp
+- Rouladen — assets/generated/resume-6f989037749c22.webp
+- Sauerbraten — assets/generated/resume-1015b9ad7d6e3e.webp
+- Königsberger Klopse — assets/generated/konigsberger-klopse-ai-v6.webp
+- Senfeier — assets/generated/senfeier-ai-v6.webp
+- Flammkuchen — assets/generated/dish-c09b684a501416.webp
+- Semmelknödel — assets/generated/semmelknodel-ai-v6.webp
+- Schupfnudeln — assets/generated/resume-1d485fef5aa127.webp
+- Brezel — assets/generated/resume-18da139b95ecfd.webp
+- Obatzda — assets/generated/resume-700645fdead714.webp
+- Labskaus — assets/generated/dish-1d7736e55e0802.webp
+- Pisto con Huevo — assets/generated/pisto-con-huevo-ai-v6.webp
+- Fabada Asturiana — assets/generated/fabada-asturiana-ai-v6.webp
+- Cocido Madrileño — assets/generated/cocido-madrileno-ai-v6.webp
+- Ajoarriero — assets/generated/resume-7f9ae4dd49469b.webp
+- Migas — assets/generated/dish-9ab26ee79b5729.webp
+- Gambas al Pil Pil — assets/generated/dish-aab40b2bbbfb0f.webp
+- Patatas a la Riojana — assets/generated/resume-c8e55838215a10.webp
+- Escudella — assets/generated/resume-9436d8303286c9.webp
+- Fricandó — assets/generated/fricando-ai-v6.webp
+- Fideus a la Cassola — assets/generated/dish-382a48c7831a26.webp
+- Hachis Parmentier — assets/generated/hachis-parmentier-ai-v6.webp
+- Croque Monsieur — assets/generated/croque-monsieur-ai-v6.webp
+- Croque Madame — assets/generated/resume-6db7f8278d0fea.webp
+- Sole Meunière — assets/generated/resume-5d86519080ee87.webp
+- Quenelles de Lyon — assets/generated/dish-e193dba06ddc6a.webp
+- Gougères — assets/generated/resume-85a54832e7c731.webp
+- Soupe au Pistou — assets/generated/soupe-au-pistou-ai-v6.webp
+- Tian Provençal — assets/generated/tian-provencal-ai-v6.webp
+- Salade de Lentilles — assets/generated/salade-de-lentilles-ai-v6.webp
+- Clafoutis aux Pruneaux — assets/generated/dish-b0d54ece1020e2.webp
+- Shepherd’s Pie — assets/generated/dish-a4670fe17130f3.webp
+- Cottage Pie — assets/generated/resume-9e40901285f4f1.webp
+- Fish Pie — assets/generated/resume-4842132e0408e7.webp
+- Toad in the Hole — assets/generated/resume-1567c52cf47304.webp
+- Yorkshire Pudding — assets/generated/yorkshire-pudding-ai-v6.webp
+- Scotch Eggs — assets/generated/dish-74eddb1e9cf9c2.webp
+- Cornish Pasty — assets/generated/cornish-pasty-ai-v6.webp
+- Chicken Pot Pie — assets/generated/chicken-pot-pie-ai-v6.webp
+- Clam Chowder — assets/generated/clam-chowder-ai-v6.webp
+- Shrimp and Grits — assets/generated/dish-b7189c39fd27c6.webp
+- Sambar — assets/generated/dish-8d406e4daf7e3c.webp
+- Ven Pongal — assets/generated/resume-0f2c3b9f37371b.webp
+- Poha — assets/generated/resume-a4d72a6cee97e3.webp
+- Besan Chilla — assets/generated/besan-chilla-ai-v6.webp
+- Dhokla — assets/generated/dhokla-ai-v6.webp
+- Dal Makhani — assets/generated/dal-makhani-ai-v6.webp
+- Methi Matar Malai — assets/generated/methi-matar-malai-ai-v6.webp
+- Dum Aloo — assets/generated/resume-80526ecfb2f37b.webp
+- Keema Matar — assets/generated/resume-8cd4710029f2a4.webp
+- Hyderabadi Sebzeli Biryani — assets/generated/dish-ac1582e9df201f.webp
+- Rasam — assets/generated/rasam-ai-v6.webp
+- Kheer — assets/generated/kheer-ai-v6.webp
+- Kiribath — assets/generated/kiribath-ai-v6.webp
+- Parippu — assets/generated/parippu-ai-v6.webp
+- Pol Sambol — assets/generated/resume-4f23328bf03b6f.webp
+- Nihari — assets/generated/resume-37cf94cc5c4633.webp
+- Chicken Karahi — assets/generated/chicken-karahi-ai-v6.webp
+- Aloo Gosht — assets/generated/aloo-gosht-ai-v6.webp
+- Bhuna Khichuri — assets/generated/bhuna-khichuri-ai-v6.webp
+- Shorshe Mach — assets/generated/dish-9ff833e5a06408.webp
+- Aloo Tama — assets/generated/aloo-tama-ai-v6.webp
+- Nikujaga — assets/generated/resume-7c55b659384027.webp
+- Tamagoyaki — assets/generated/resume-c9207d4b67e41f.webp
+- Agedashi Tofu — assets/generated/agedashi-tofu-ai-v6.webp
+- Nasu Dengaku — assets/generated/nasu-dengaku-ai-v6.webp
+- Kabocha no Nimono — assets/generated/kabocha-no-nimono-ai-v6.webp
+- Chirashi Sushi — assets/generated/chirashi-sushi-ai-v6.webp
+- Karaage — assets/generated/resume-6c4f13129892af.webp
+- Hiyayakko — assets/generated/resume-b74f41a2fe9be3.webp
+- Dorayaki — assets/generated/dorayaki-ai-v6.webp
+- Dan Dan Noodles — assets/generated/dish-bff66a0aed6850.webp
+- Ma Yi Shang Shu — assets/generated/ma-yi-shang-shu-ai-v6.webp
+- Di San Xian — assets/generated/di-san-xian-ai-v6.webp
+- Chinese Tomato Egg — assets/generated/chinese-tomato-egg-ai-v6.webp
+- Cong You Bing — assets/generated/resume-240a8ef5017d96.webp
+- Claypot Chicken Rice — assets/generated/dish-84bd5378918c4a.webp
+- Suan La Tang — assets/generated/resume-6ccf9c1a8214c6.webp
+- Lo Han Jai — assets/generated/lo-han-jai-ai-v6.webp
+- Bulgogi — assets/generated/bulgogi-ai-v6.webp
+- Dubu Jorim — assets/generated/dubu-jorim-ai-v6.webp
+- Pajeon — assets/generated/pajeon-ai-v6.webp
+- Tteokbokki — assets/generated/resume-7be018d8564757.webp
+- Samgyetang — assets/generated/resume-705df89b552ffc.webp
+- Tom Kha Gai — assets/generated/tom-kha-gai-ai-v6.webp
+- Pad Kra Pao — assets/generated/pad-kra-pao-ai-v6.webp
+- Som Tam — assets/generated/som-tam-ai-v6.webp
+- Hor Mok Pla — assets/generated/hor-mok-pla-ai-v6.webp
+- Mango Sticky Rice — assets/generated/resume-220d96f1e7f651.webp
+- Pho Ga — assets/generated/resume-600ee0fd70fa69.webp
+- Goi Cuon — assets/generated/dish-80205aaa61949c.webp
+- Banh Xeo — assets/generated/dish-74fe095451a74e.webp
+- Ca Kho To — assets/generated/ca-kho-to-ai-v6.webp
+- Beef Rendang — assets/generated/beef-rendang-ai-v6.webp
+- Gado Gado — assets/generated/gado-gado-ai-v6.webp
+- Soto Ayam — assets/generated/soto-ayam-ai-v6.webp
+- Tempeh Orek — assets/generated/dish-d88db8a09214fc.webp
+- Curry Laksa — assets/generated/resume-d642b01157ebf2.webp
+- Nasi Lemak — assets/generated/resume-a24133f006a02a.webp
+- Char Kway Teow — assets/generated/char-kway-teow-ai-v6.webp
+- Chicken Adobo — assets/generated/chicken-adobo-ai-v6.webp
+- Kare Kare — assets/generated/dish-7ee64b00d2073d.webp
+- Pancit Bihon — assets/generated/pancit-bihon-ai-v6.webp
+- Doro Wat — assets/generated/doro-wat-ai-v6.webp
+- Misir Wat — assets/generated/resume-14699809b02976.webp
+- Atakilt Wat — assets/generated/dish-c9905ac5da5308.webp
+- Jollof Rice — assets/generated/resume-b9352b6000c2e7.webp
+- Ewa Riro — assets/generated/ewa-riro-ai-v6.webp
+- Mafé — assets/generated/mafe-ai-v6.webp
+- Yassa Poulet — assets/generated/yassa-poulet-ai-v6.webp
+- Chakalaka — assets/generated/chakalaka-ai-v6.webp
+- Bobotie — assets/generated/resume-2465b7f66a27a7.webp
+- Githeri — assets/generated/resume-849f67ccc1c42c.webp
+- Sukuma Wiki — assets/generated/sukuma-wiki-ai-v6.webp
+- Koshari — assets/generated/koshari-ai-v6.webp
+- Bostana — assets/generated/bostana-ai-v6.webp
+- Börülceli Köz Patlıcan Salatası — assets/generated/dish-1cc4eda5421d1a.webp
+- Firik Salatası — assets/generated/firik-salatasi-ai-v6.webp
+- Kuskus Salatası — assets/generated/resume-da4a6e2d967972.webp
+- Taze İncirli Roka Salatası — assets/generated/resume-a6e85cd82e0807.webp
+- Portakallı Rezene Salatası — assets/generated/dish-3453a104789981.webp
+- Turplu Roka Salatası — assets/generated/dish-630229c0871345.webp
+- Taze Fasulye Salatası — assets/generated/taze-fasulye-salatasi-ai-v6.webp
+- Kuru Kayısılı Buğday Salatası — assets/generated/kuru-kayisili-bugday-salatasi-ai-v6.webp
+- Yoğurtlu Buğday Salatası — assets/generated/yogurtlu-bugday-salatasi-ai-v6.webp
+- Közlenmiş Kapya ve Peynir Ruloları — assets/generated/dish-141516a822f962.webp
+- Sarımsaklı Yoğurtlu Brüksel Lahanası — assets/generated/dish-8493c977a2beab.webp
+- Yoğurtlu Yeşil Mercimek Mezesi — assets/generated/yogurtlu-yesil-mercimek-mezesi-ai-v6.webp
+- Tahinli Nohut Piyazı — assets/generated/resume-19f7bae50ce1d9.webp
+- Biber Borani — assets/generated/resume-e4a4aba9de1fa5.webp
+- Patatesli Havuç Tarator — assets/generated/dish-279c7121f60525.webp
+- Karnabahar Kısırı — assets/generated/dish-8e74fcf0c68ffa.webp
+- Cevizli Biber Ezmesi — assets/generated/cevizli-biber-ezmesi-ai-v6.webp
+- Yoğurtlu Börülce Mezesi — assets/generated/yogurtlu-borulce-mezesi-ai-v6.webp
+- Tahinli Kabak Salatası — assets/generated/tahinli-kabak-salatasi-ai-v6.webp
+- Salçalı Yumurta — assets/generated/dish-a6b51ad894c0ff.webp
+- Soğanlı Yumurta — assets/generated/dish-7f5d14fd3da9ec.webp
+- Çılbır Soslu Patates — assets/generated/cilbir-soslu-patates-ai-v6.webp
+- Fırında Yumurtalı Ekmek — assets/generated/resume-756890f3383011.webp
+- Kabaklı Omlet — assets/generated/resume-78a1f3277c23a4.webp
+- Domatesli Peynir Eritme — assets/generated/dish-16fd3b74cb3e40.webp
+- Biberli Lor Ezmesi — assets/generated/dish-ff35a97f41cd85.webp
+- Cevizli Bal Kabaklı Kahvaltı Ezmesi — assets/generated/cevizli-bal-kabakli-kahvalti-ezmesi-ai-v6.webp
+- Patlıcanlı Yumurta Kapama — assets/generated/patlicanli-yumurta-kapama-ai-v6.webp
+- Fırında Peynirli Domates — assets/generated/firinda-peynirli-domates-ai-v6.webp
+- Fırında Peynirli Biber — assets/generated/dish-1599d562b025b0.webp
+- Tahinli Pekmezli Ekmek Dilimleri — assets/generated/dish-a88c14e9d6b1f5.webp
+- Peynirli İrmik Tavası — assets/generated/peynirli-irmik-tavasi-ai-v6.webp
+- Yulaflı Tuzlu Pankek — assets/generated/resume-51f660a75ff3f4.webp
+- Susamlı Peynir Lokmaları — assets/generated/resume-4081fda2807c62.webp
+- Domatesli Ekmek Aşı — assets/generated/domatesli-ekmek-asi-ai-v6.webp
+- Yoğurtlu Ekmek Tirit — assets/generated/dish-e2980477d4fdb4.webp
+- Sarımsaklı Ekmek Çorbası — assets/generated/sarimsakli-ekmek-corbasi-ai-v6.webp
+- Lorlu Pazı Kavurması — assets/generated/lorlu-pazi-kavurmasi-ai-v6.webp
+- Kabak Beğendi — assets/generated/kabak-begendi-ai-v6.webp
+- Acuka — assets/generated/resume-ceb68e7a9bc5ff.webp
+- Cevizli Kereviz ve Elma Salatası — assets/generated/resume-a989a0624e7530.webp
+- Yoğurtlu Kuru Biber — assets/generated/yogurtlu-kuru-biber-ai-v6.webp
+- Kuru Patlıcan Kavurması — assets/generated/kuru-patlican-kavurmasi-ai-v6.webp
+- Pancar Borani — assets/generated/pancar-borani-ai-v6.webp
+- Köz Sarımsak Ezmesi — assets/generated/koz-sarimsak-ezmesi-ai-v6.webp
+- Patates Piyazı — assets/generated/resume-d945868109e06f.webp
+- Peynirli Köz Patlıcan Ruloları — assets/generated/resume-f74ff12983416d.webp
+- Beyaz Peynir Ezmesi — assets/generated/beyaz-peynir-ezmesi-ai-v6.webp
+- Cevizli Kabak Ezmesi — assets/generated/cevizli-kabak-ezmesi-ai-v6.webp
+- Közlenmiş Pırasa Salatası — assets/generated/kozlenmis-pirasa-salatasi-ai-v6.webp
+- Közlenmiş Havuç ve Tahin — assets/generated/kozlenmis-havuc-ve-tahin-ai-v6.webp
+- Limonlu İç Bakla Ezmesi — assets/generated/resume-f055919d00d9b9.webp
+- Köz Mantar Salatası — assets/generated/resume-4489a23c51a729.webp
+- Sarımsaklı Fırın Domates — assets/generated/sarimsakli-firin-domates-ai-v6.webp
+- Nar Ekşili Brüksel Lahanası — assets/generated/nar-eksili-bruksel-lahanasi-ai-v6.webp
+- Yoğurtlu Bezelye Ezmesi — assets/generated/yogurtlu-bezelye-ezmesi-ai-v6.webp
+- Cevizli Kereviz Yaprağı Salatası — assets/generated/resume-fd43a64ccafd76.webp
+- Patatesli Semizotu Salatası — assets/generated/resume-9cc27183150949.webp
+- Yeşil Mercimek Piyazı — assets/generated/resume-930a2d02f39d64.webp
+- Fırında Patates Kabuğu Dolgusu — assets/generated/firinda-patates-kabugu-dolgusu-ai-v6.webp
+- Sebzeli Fırın Yumurta — assets/generated/sebzeli-firin-yumurta-ai-v6.webp
+- Çıtır Yumurta — assets/generated/citir-yumurta-ai-v6.webp
+- Peynirli Biber Çanağında Yumurta — assets/generated/resume-8da8eadb3d4f2c.webp
+- Yoğurtlu Yumurtalı Patates Ezmesi — assets/generated/resume-db0232db5e33da.webp
+- Fırında Yoğurtlu Kabak Dilimleri — assets/generated/resume-a3a102f5ed496a.webp
+- Domatesli İrmik Köftesi — assets/generated/domatesli-irmik-koftesi-ai-v6.webp
+- Şehriye Salatası — assets/generated/sehriye-salatasi-ai-v6.webp
+- Kavrulmuş Erişte Pilavı — assets/generated/kavrulmus-eriste-pilavi-ai-v6.webp
+- Mercimekli Erişte Salatası — assets/generated/resume-e176cf43e559d5.webp
+- Domatesli Kuskus Pilavı — assets/generated/resume-adcc921e914090.webp
+- Firik ve Nohut Pilavı — assets/generated/resume-f2ee669c4ed671.webp
+- Yeşil Mercimekli Pirinç Pilavı — assets/generated/yesil-mercimekli-pirinc-pilavi-ai-v6.webp
+- Arpa Şehriyeli Domates Dolması — assets/generated/arpa-sehriyeli-domates-dolmasi-ai-v6.webp
+- Sebzeli Buğday Tavası — assets/generated/sebzeli-bugday-tavasi-ai-v6.webp
+- Peynirli Karnabahar Köftesi — assets/generated/resume-50b17939ab22b5.webp
+- Brokoli Mücveri — assets/generated/resume-bcf97fcb20f231.webp
+- Tahinli Patates Köftesi — assets/generated/resume-cbfea0ed70e2a0.webp
+- Nohutlu Patlıcan Tava — assets/generated/nohutlu-patlican-tava-ai-v6.webp
+- Pırasa Borani — assets/generated/pirasa-borani-ai-v6.webp
+- Vişne Hoşafı — assets/generated/visne-hosafi-ai-v6.webp
+- Kuru Kayısı Hoşafı — assets/generated/resume-589863954a1078.webp
+- Kuru Üzüm Hoşafı — assets/generated/resume-fcee19fccd48da.webp
+- Erik Kompostosu — assets/generated/resume-7d58359e7e63bb.webp
+- Elma Kompostosu — assets/generated/elma-kompostosu-ai-v6.webp
+- Ayva Kompostosu — assets/generated/ayva-kompostosu-ai-v6.webp
+- Şeftali Kompostosu — assets/generated/seftali-kompostosu-ai-v6.webp
+- Armut Kompostosu — assets/generated/resume-34f76f5a76aeba.webp
+- Reyhan Şerbeti — assets/generated/resume-8079e66ccb96eb.webp
+- Hibiskus Şerbeti — assets/generated/resume-cf0021ea4d4cb6.webp
+- Demirhindi Şerbeti — assets/generated/demirhindi-serbeti-ai-v6.webp
+- Kızılcık Şerbeti — assets/generated/kizilcik-serbeti-ai-v6.webp
+- Koruk Şerbeti — assets/generated/koruk-serbeti-ai-v6.webp
+- Nar Şerbeti — assets/generated/resume-0b2e8d9fa73ab4.webp
+- Naneli Limonata — assets/generated/resume-fd3ad63f562dba.webp
+- Portakallı Limonata — assets/generated/resume-5d74193a311fe3.webp
+- Salatalıklı Ayran — assets/generated/salatalikli-ayran-ai-v6.webp
+- Ev Yapımı Salep — assets/generated/ev-yapimi-salep-ai-v6.webp
+- Boza — assets/generated/boza-ai-v6.webp
+- Sıcak Pekmezli Süt — assets/generated/resume-d7269ba4b1319d.webp
+- Kahveli Antrikot, Köz Kapya Kreması ve Patates Pavé — assets/generated/chef50-aa443151d83753.webp
+- Kekik Yağlı Bonfile, Kereviz Püresi ve Arpacık Soğan — assets/generated/chef50-65745027e17158.webp
+- Nar Ekşili Kuzu Pirzola, İsli Patlıcan ve Bulgur Çıtığı — assets/generated/chef50-35416659852daf.webp
+- Ağır Pişmiş Dana Yanağı, Havuç Püresi ve Çıtır Pırasa — assets/generated/chef50-9d81ef902a93a5.webp
+- Kuzu İncik, Nohut Kreması ve Limonlu Ispanak — assets/generated/chef50-fd4753f61f080d.webp
+- Dana Ciğer, Elma Püresi ve Çıtır Soğan — assets/generated/chef50-887f8173f31a50.webp
+- Kuzu Ciğer Mozaik, Sumaklı Soğan ve Patates Galet — assets/generated/chef50-6ab4b06ef57a8f.webp
+- İki Pişirimli Dana Kaburga, Pekmez Glaze ve Kereviz — assets/generated/chef50-48748d1ea5ab32.webp
+- Bonfile Rulo, Ispanak Dolgusu ve Mantarlı Jus — assets/generated/chef50-a8e35ddffd6d93.webp
+- Antrikot Şeritleri, Hardallı Sos ve Kat Kat Patates — assets/generated/chef50-9fdf855f74dbdd.webp
+- Derili Levrek, Limonlu Beurre Blanc ve Rezene — assets/generated/chef50-e1ece19c586b77.webp
+- Somon, Pancar Kabuğu ve Bezelye Püresi — assets/generated/chef50-3a43aa65d6fddc.webp
+- Alabalık Rulo, Pazı Sarması ve Yoğurtlu Ot Sosu — assets/generated/chef50-9753388343cf7d.webp
+- Hamsi Terrine, Patates Kreması ve Turp Turşusu — assets/generated/chef50-882e23506ec75d.webp
+- Tereyağlı Karides, Mısır Kreması ve Kapya Yağı — assets/generated/chef50-a6ad5f4173bb92.webp
+- Tavuk Göğsü Rulo, Mantar Dolgusu ve Adaçayı Sosu — assets/generated/chef50-f65d4b7aa87625.webp
+- Çıtır Tavuk But, Zencefilli Havuç ve Portakal Sosu — assets/generated/chef50-783ccd16a9c876.webp
+- Tavuk Kanat Konfi, Acı Bal Glaze ve Yoğurt Kreması — assets/generated/chef50-b3a17129c7337f.webp
+- Tavuk Pirzola, Köz Biber Coulis ve Bulgur Risotto — assets/generated/chef50-fd744761fce4de.webp
+- Fırın Palamut, Domates Confit ve Fesleğen Yağı — assets/generated/chef50-04a70e6388e6d2.webp
+- Mantarlı Açık Ravioli, Labne Kreması ve Fındık — assets/generated/chef50-a9765e9872053d.webp
+- Köz Patlıcan Mezzelune, Adaçaylı Tereyağı ve Ceviz — assets/generated/chef50-4f501cef7c5105.webp
+- Kabak Çiçeği Dolması, Limon Emülsiyonu ve Yoğurt — assets/generated/chef50-38912cae4c3b0f.webp
+- Pancar Carpaccio, Labne Mus ve Ceviz Krokan — assets/generated/chef50-e1b3528d7ff282.webp
+- Karnabahar Steak, Tahin Beurre Noisette ve Nohut Çıtığı — assets/generated/chef50-72974dea4bf8fd.webp
+- Enginar Barigoule, Havuç Şeritleri ve Ot Yağı — assets/generated/chef50-1ce38f879b170e.webp
+- Kereviz Rémoulade, Yeşil Elma ve Fındıklı Kırıntı — assets/generated/chef50-cd97eb6b076290.webp
+- Sebze Millefeuille, Domates Coulis ve Fesleğen — assets/generated/chef50-23bccc2c0b40b1.webp
+- Fırın Balkabağı, Bulgur Köftesi ve Yoğurt Emülsiyonu — assets/generated/chef50-06140f4c5bb662.webp
+- Üç Dokulu Mantar Risotto ve Kaşar Tuile — assets/generated/chef50-e1223f48249c7d.webp
+- Bitter Çikolata Entremet, Frambuaz Insert ve Fındık Pralin — assets/generated/chef50-ef040e768b398c.webp
+- Beyaz Çikolata Mus, Mango Crémeux ve Hindistan Cevizi — assets/generated/chef50-cb22d0052c5b75.webp
+- Antep Fıstıklı Paris-Brest, Kaymak Kreması ve Çıtır Pralin — assets/generated/chef50-41ec01a0c5ae79.webp
+- Labneli Opera Dilimi, Kahve Şurubu ve Bitter Ganaj — assets/generated/chef50-079bb54e0042eb.webp
+- Tahinli Çikolata Tart, Tuzlu Karamel ve Susam Tuile — assets/generated/chef50-e711282614bcdc.webp
+- Dutlu Charlotte, Vanilyalı Labne ve Badem Bisküvi — assets/generated/chef50-958657e9c3ca43.webp
+- Yaban Mersinli Millefeuille, Diplomatik Krema ve Limon — assets/generated/chef50-99e9f37fe9c0b1.webp
+- Böğürtlenli Baked Alaska ve Vanilyalı Dondurma — assets/generated/chef50-35986b8fb3025c.webp
+- Ayvalı Tarte Tatin, Kaymak Dondurması ve Karamel — assets/generated/chef50-6f1c23c22a24dd.webp
+- Hurma Karamelli Sticky Toffee, Kaymak ve Ceviz — assets/generated/chef50-432848bf9d743a.webp
+- Ananaslı Ters Tart, Zencefilli Krema ve Çıtır Hindistan Cevizi — assets/generated/chef50-28a75470e224f1.webp
+- Karadut Crémeux, Badem Finansiyer ve Limon Jölesi — assets/generated/chef50-60f5b786f26184.webp
+- Mango ve Ananas Verrine, Labne Köpüğü ve Çıtır Bisküvi — assets/generated/chef50-93d56b303085fd.webp
+- Safranlı Sütlaç Brûlée, Kaymak ve Fıstık Krokan — assets/generated/chef50-7ae6ffce80b73a.webp
+- İki Dokulu Baklava, Kaymak Mus ve Vişne Sosu — assets/generated/chef50-dab7e7ac22baed.webp
+- İçli Köfte, İsli Yoğurt ve Kapya Biber Yağı — assets/generated/chef50-c307df735680f7.webp
+- Çıtır Mantı, Kuzu Ragu ve Sarımsaklı Labne — assets/generated/chef50-5e29f4266bfdd6.webp
+- Arpa Şehriye Risotto, Tavuk But ve Mantar Emülsiyonu — assets/generated/chef50-e9fba19b864eca.webp
+- Kaymaklı Kabak Tatlısı, Tahin Dondurması ve Ceviz Tuile — assets/generated/chef50-6238026db77eea.webp
+- Zerdeçallı Tavuk Ballotine, Ispanak ve Patates Fondant — assets/generated/chef50-13f485cc731213.webp

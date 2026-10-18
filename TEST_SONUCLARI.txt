@@ -1,5 +1,0 @@
-İNCELEME SÜRÜMÜ KONTROLÜ
-343 görsel dosyası açılıp kontrol edildi; aynı piksellere sahip tekrar bulunmadı.
-1.001 tariften 658 tarifin görseli eksiktir.
-Uygulama testinde Domates Çorbası ve Mantar Çorbası için görsel bulunması koşulu sağlanmadı; tam test paketi başarılı sayılmamıştır.
-Gerçek iPhone/Safari testi yapılmamıştır.

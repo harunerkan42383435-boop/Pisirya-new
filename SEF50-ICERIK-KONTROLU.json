@@ -1,0 +1,65 @@
+{
+  "verifiedAt": "2026-10-18T12:58:34.705725+00:00",
+  "scope": "Targeted verification of the nine previously reported findings against current recipes-0.json through recipes-4.json. Recipe and application files were not edited; no images were generated.",
+  "verifiedCount": 9,
+  "resolvedCount": 9,
+  "unresolvedCount": 0,
+  "findings": [
+    {
+      "group": 3,
+      "index": 1,
+      "status": "resolved",
+      "reasoning": "Six 9 cm hemispheres provide about 1145 ml and six 6 cm insert hemispheres about 339 ml; these reasonably accommodate the existing aerated mousse and approximately 330 g crémeux. Revised biscuit dough is 181 g, consistent with six 9 cm × 4 mm disks (153 cubic centimetres). Ingredient totals and component steps agree."
+    },
+    {
+      "group": 3,
+      "index": 7,
+      "status": "resolved",
+      "reasoning": "Ice cream is now 540 ml total and 90 ml per 7 cm hemisphere; volume matches the approximately 89.8 ml cavity. Six 8 cm biscuit bases remain consistent with the six domes."
+    },
+    {
+      "group": 3,
+      "index": 9,
+      "status": "resolved",
+      "reasoning": "Eight 200 ml molds give approximately 1067 ml capacity at two-thirds fill, sufficient for the roughly 900 g batter. Eight portions and moist-crumb baking endpoint are retained."
+    },
+    {
+      "group": 4,
+      "index": 2,
+      "status": "resolved",
+      "reasoning": "Four 450 ml glasses provide 1800 ml total capacity. Fruit, dairy foam and crumble reasonably fit with the specified garnish clearance; layer allocations and four servings remain consistent."
+    },
+    {
+      "group": 4,
+      "index": 3,
+      "status": "resolved",
+      "reasoning": "Four wide shallow 300 ml dishes provide 1200 ml total capacity, enough for the stated pudding batch after gentle simmering while retaining clearance for the sugar crust. Milk allocations still sum to 650 ml."
+    },
+    {
+      "group": 4,
+      "index": 6,
+      "status": "resolved",
+      "reasoning": "Twenty-eight 9 cm squares have 2268 square centimetres total area. Approximately 1 mm rolling is now a reasonable practical approximation for the batch, unlike the former 32 tiny squares. Filling is divided by 28 and plating now specifies seven per person, accounting for all parcels."
+    },
+    {
+      "group": 4,
+      "index": 8,
+      "status": "resolved",
+      "reasoning": "Four 22 × 14 cm sheets total 1232 square centimetres. Approximately 145 g batter can form a genuinely thin layer over this area. Two sheets fit each stated 46 × 32 cm tray; sequential baking, one sail per sheet and all remaining crumbs are explicitly allocated."
+    },
+    {
+      "group": 2,
+      "index": 0,
+      "status": "resolved",
+      "reasoning": "Flour is now 125 g total (110 dough/15 rolling) with one approximately 55 g egg. The reduced batch reasonably yields twelve 10 cm squares near 1 mm with ordinary trimming; three layers per plate and eight filling allocations remain consistent. Note: actual current total flour is 125 g, not 110 g; the 110 g figure is the dough allocation."
+    },
+    {
+      "group": 2,
+      "index": 1,
+      "status": "resolved",
+      "reasoning": "Flour is now 115 g total (100 dough/15 rolling), one egg and 1.2 mm rolling. Twenty-four 7 cm disks require about 111 cubic centimetres, reasonably matching the reduced dough. Filling uses 350 g raw eggplant, 50 g labne and 20 g walnuts, with a stated 210–230 g yield and approximately 9 g per pocket; this is a workable small mound when the specified sealing margin is retained. Six mezzelune per serving accounts for all 24."
+    }
+  ],
+  "stillConsequentialIssues": [],
+  "limitations": "Editorial and dimensional verification of the revised instructions; no physical cooking trial was performed."
+}

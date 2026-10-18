@@ -2056,5 +2056,2009 @@
     "image": "assets/generated/dish-1599d562b025b0.webp",
     "prompt": "Use case: photorealistic-natural. One square original realistic food photograph for recipe app. Dish: Fırında Peynirli Biber (Cheese Baked Peppers). Finished dish accurately using ONLY: kapya biber, beyaz peynir, yumurta, dereotu, zeytinyağı, karabiber. Cooking and shaping: Biberleri sapları kalacak şekilde boyuna ikiye bölün; çekirdeklerini ayıklayın. Fırını 190°C ısıtın; biberleri yağlı kağıtlı tepsiye iç yüzleri yukarı dizin. Peyniri ezin, yumurta ve ince kıyılmış dereotuyla karıştırın. Karabiber ekleyip harcı biberlerin içine eşit yerleştirin; çok sıkıştırmayın. Yağı kenarlarına gezdirin; 25 dakika peynirli harç katılaşıp biberler yumuşayana kadar pişirin. 5 dakika ılıtarak servis edin; biberler yanmadan harç hafif altın rengi olmalı. Natural daylight, accurate texture, attractive authentic serving in simple cookware or ceramic dish appropriate to recipe, close three-quarter framing on warm wood. No text, brands, watermark, people, collage, extra dish or unlisted garnish.",
     "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tay Yeşil Köri",
+    "image": "assets/generated/tay-yesil-kori-ai-v6.webp",
+    "prompt": "Authentic Thai green chicken curry with eggplant pepper basil coconut milk; natural professional cookbook photography",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Soğuk Ayran Aşı Çorbası",
+    "image": "assets/generated/soguk-ayran-asi-corbasi-ai-v6.webp",
+    "prompt": "Cold Turkish yogurt soup with wheat berries chickpeas fresh mint; natural professional cookbook photography",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Arabaşı Çorbası",
+    "image": "assets/generated/arabasi-corbasi-ai-v6.webp",
+    "prompt": "Authentic red Arabasi chicken soup with shredded chicken toasted flour tomato pepper paste; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Zeytinyağlı Kereviz",
+    "image": "assets/generated/zeytinyagli-kereviz-ai-v6.webp",
+    "prompt": "Olive oil orange braised celeriac potato carrot onion; natural professional cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ispanak Borani",
+    "image": "assets/generated/ispanak-borani-ai-v6.webp",
+    "prompt": "Spinach onion mixed garlic yogurt with chili butter; natural professional cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Dalyan Köfte",
+    "image": "assets/generated/dalyan-kofte-ai-v6.webp",
+    "prompt": "Dalyan beef meatloaf slices whole hardboiled egg peas carrot tomato pan sauce; cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Hatay Tepsi Kebabı",
+    "image": "assets/generated/hatay-tepsi-kebabi-ai-v6.webp",
+    "prompt": "Hatay round tray thin minced meat kebab topped roasted tomatoes peppers; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kuzu Haşlama",
+    "image": "assets/generated/kuzu-haslama-ai-v6.webp",
+    "prompt": "Boiled bone-in lamb potato carrot celeriac clear lemon broth; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Çöp Şiş",
+    "image": "assets/generated/cop-sis-ai-v6.webp",
+    "prompt": "Small lamb tail fat wooden cop sis skewers with grilled peppers; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ankara Tava",
+    "image": "assets/generated/ankara-tava-ai-v6.webp",
+    "prompt": "Ankara tava rice version lamb chunks over broth butter onion rice no orzo; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Somon Izgara",
+    "image": "assets/generated/somon-izgara-ai-v6.webp",
+    "prompt": "Skin on grilled salmon dill lemon; professional natural cookbook photography",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Lavaş",
+    "image": "assets/generated/lavas-ai-v6.webp",
+    "prompt": "Thin soft round homemade skillet lavas flatbread browned blisters; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Su Böreği",
+    "image": "assets/generated/su-boregi-ai-v6.webp",
+    "prompt": "Su boregi golden top moist boiled dough layered cheese parsley filling; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Havuçlu Özbek Pilavı",
+    "image": "assets/generated/havuclu-ozbek-pilavi-ai-v6.webp",
+    "prompt": "Uzbek rice pilaf beef carrot batons onion cumin garlic removed; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kandil Simidi",
+    "image": "assets/generated/kandil-simidi-ai-v6.webp",
+    "prompt": "Small golden sesame mahlep butter pastry rings kandil simidi; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ağzı Yumuk",
+    "image": "assets/generated/agzi-yumuk-ai-v6.webp",
+    "prompt": "Agzi yumuk deep fried closed gathered dough purses beef onion walnut filling; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Patatesli Hingel",
+    "image": "assets/generated/patatesli-hingel-ai-v6.webp",
+    "prompt": "Boiled potato half-moon hingel dumplings golden onion chili butter no yogurt; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Güllaç",
+    "image": "assets/generated/gullac-ai-v6.webp",
+    "prompt": "Gullac white milk soaked thin wafer layers walnut center pomegranate; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Un Helvası",
+    "image": "assets/generated/un-helvasi-ai-v6.webp",
+    "prompt": "Hazelnut brown flour butter milk walnut halva spoon shaped ovals; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Keşkül",
+    "image": "assets/generated/keskul-ai-v6.webp",
+    "prompt": "Keskul ivory almond milk pudding pistachio sprinkle; natural professional cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Palüze",
+    "image": "assets/generated/paluze-ai-v6.webp",
+    "prompt": "Grape molasses starch paluze translucent amber brown pudding walnut topping; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Fırında Elma Dolması",
+    "image": "assets/generated/firinda-elma-dolmasi-ai-v6.webp",
+    "prompt": "Whole baked apples stuffed walnuts raisins cinnamon butter cooking juices; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kemalpaşa Tatlısı",
+    "image": "assets/generated/kemalpasa-tatlisi-ai-v6.webp",
+    "prompt": "Golden fresh cheese semolina Kemalpasa dumplings in lemon sugar syrup; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Fıstıklı Şöbiyet",
+    "image": "assets/generated/fistikli-sobiyet-ai-v6.webp",
+    "prompt": "Triangular filo sobiyet semolina milk cream pistachio syrup; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Un Kurabiyesi",
+    "image": "assets/generated/un-kurabiyesi-ai-v6.webp",
+    "prompt": "Pale flour butter shortbread short cylinders fork grooves powdered sugar; natural cookbook photo",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Risi e Bisi",
+    "image": "assets/generated/risi-e-bisi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Risi e Bisi, Venetian loose creamy rice and green peas with softened onion butter and parmesan, spoonable almost soupy consistency, shallow ceramic bowl. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Salade Lyonnaise",
+    "image": "assets/generated/salade-lyonnaise-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Salade Lyonnaise curly lettuce tossed mustard grape vinegar olive oil dressing, crisp beef bacon pieces golden bread croutons topped with poached egg cooked firm white and firm yolk. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Salmorejo",
+    "image": "assets/generated/salmorejo-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Salmorejo thick smooth chilled orange red tomato bread garlic olive oil soup topped with finely chopped hard boiled egg, ceramic bowl. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Caldo Verde",
+    "image": "assets/generated/caldo-verde-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Caldo Verde creamy pale potato onion garlic soup with very finely shredded dark kale and thin cooked sucuk sausage slices, ceramic bowl. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Rösti",
+    "image": "assets/generated/rosti-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Swiss Rösti thick round pan fried shredded potato cake, deep golden crisp interwoven potato crust, wedge cut exposing soft potato interior, no toppings. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Piperade",
+    "image": "assets/generated/piperade-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Piperade soft red and green pepper strips onion garlic tomato folded with beaten eggs fully cooked as tender scrambled curds throughout, no whole fried eggs. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pasta alla Gricia",
+    "image": "assets/generated/pasta-alla-gricia-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Pasta alla Gricia rigatoni coated glossy emulsified pecorino black pepper sauce and crisp short strips smoked beef, no tomato. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Frittata di Spaghetti",
+    "image": "assets/generated/frittata-di-spaghetti-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Frittata di Spaghetti thick round skillet spaghetti egg cake with parmesan mozzarella parsley, golden brown crust, triangular wedge cut exposing intertwined spaghetti strands. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Bigos",
+    "image": "assets/generated/bigos-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Bigos thick braised fresh cabbage and sauerkraut stew with tender beef cubes sucuk slices mushroom onion tomato paste, dark savory juices, no pork. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cullen Skink",
+    "image": "assets/generated/cullen-skink-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Cullen Skink creamy milk smoked haddock soup with large flaky fish pieces and tender potato cubes softened onion butter parsley black pepper. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Königsberger Klopse",
+    "image": "assets/generated/konigsberger-klopse-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Königsberger Klopse pale poached beef meatballs in ivory lemon cream roux sauce with clearly visible capers, no browned crust. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pisto con Huevo",
+    "image": "assets/generated/pisto-con-huevo-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Pisto con Huevo diced zucchini eggplant bell pepper onion garlic cooked thick tomato sauce topped with whole eggs whites completely set, rustic skillet. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Fricandó",
+    "image": "assets/generated/fricando-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Fricandó Catalan thin braised beef steaks with thick mushroom slices in rich onion tomato sauce finished crushed almond garlic parsley picada. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Soupe au Pistou",
+    "image": "assets/generated/soupe-au-pistou-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Soupe au Pistou rustic vegetable soup with white beans zucchini carrot potato short green bean pieces tomato small pasta and basil garlic olive oil pistou stirred through. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yorkshire Pudding",
+    "image": "assets/generated/yorkshire-pudding-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Yorkshire Pudding individual golden deeply puffed baked batter cups with high crisp irregular edges hollow centers and soft bases, no gravy or filling. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Besan Chilla",
+    "image": "assets/generated/besan-chilla-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Besan Chilla thin golden chickpea flour savory pancakes speckled with very finely diced onion tomato coriander cumin turmeric, lightly browned skillet surfaces. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Rasam",
+    "image": "assets/generated/rasam-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Rasam thin clear red brown tamarind tomato broth with crushed garlic cumin black pepper mustard seeds curry leaves coriander, lightly particulate no lentils. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Chicken Karahi",
+    "image": "assets/generated/chicken-karahi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Chicken Karahi boneless chicken thigh chunks in thick reduced tomato garlic ginger cumin coriander sauce green chili peppers julienned ginger and fresh coriander on top. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Agedashi Tofu",
+    "image": "assets/generated/agedashi-tofu-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Agedashi Tofu large golden starch fried firm tofu cubes in shallow clear amber dashi soy sugar broth with finely sliced spring onion and grated ginger on top. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Dorayaki",
+    "image": "assets/generated/dorayaki-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Dorayaki golden brown smooth round honey pancakes sandwiched around thick sweet dark azuki red bean paste, one cut half showing generous central bean filling. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Lo Han Jai",
+    "image": "assets/generated/lo-han-jai-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Lo Han Jai Chinese vegetarian braise napa cabbage mushroom firm tofu cubes thin carrot bamboo shoots translucent glass noodles soy sesame sauce, lightly brothy. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tom Kha Gai",
+    "image": "assets/generated/tom-kha-gai-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Tom Kha Gai ivory coconut chicken soup with thin chicken breast slices halved mushrooms red chili and chopped coriander, galangal lemongrass lime leaves removed after infusion. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ca Kho To",
+    "image": "assets/generated/ca-kho-to-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Ca Kho To recipe using salmon, thick salmon portions braised in glossy dark amber caramel fish sauce with shallot garlic black pepper topped spring onion in clay pot. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Char Kway Teow",
+    "image": "assets/generated/char-kway-teow-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Char Kway Teow wide flat rice noodles stir fried glossy brown with shrimp cooked egg pieces bean sprouts garlic spring onions soy fish sauce. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ewa Riro",
+    "image": "assets/generated/ewa-riro-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Ewa Riro Nigerian thick but spoonable black eyed bean porridge with visible partially mashed beans red palm oil tomato red pepper onion chili sauce. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Balık Köftesi",
+    "image": "assets/generated/balik-koftesi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Turkish Balık Köftesi flattened pan fried fish patties made finely chopped white fish mashed potato onion egg breadcrumbs parsley, golden crust, lemon wedges beside. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yufka Ekmeği",
+    "image": "assets/generated/yufka-ekmegi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Turkish Yufka Ekmeği stack of very thin large round unleavened griddle bread, delicate pale sheets with small brown spots, one sheet folded showing paper thin supple edge. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Paçanga Böreği",
+    "image": "assets/generated/pacanga-boregi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Paçanga Böreği wide rolled yufka pastries oven baked golden crisp with beef pastirma strips melted kasar cheese diced tomato and green pepper filling, one cut open. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Özbek Mantısı",
+    "image": "assets/generated/ozbek-mantisi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Özbek Mantısı large steamed dumplings from square dough with opposite corners pinched together and adjacent points joined, filled minced beef onion black pepper, melted butter gloss no yogurt. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Çatal Kurabiye",
+    "image": "assets/generated/catal-kurabiye-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Çatal Kurabiye savory mahlep butter yogurt cookies shaped each from three slender curved dough bars joined at BOTH ends, middle openings like elongated double-loop fork, golden egg wash black nigella seeds. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Fodula",
+    "image": "assets/generated/fodula-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Fodula hollowed round bread bowls filled thick beef stew with carrot peas tomato onion, toasted buttered bread rims and bread lids alongside. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Siyez Bulguru Pilavı",
+    "image": "assets/generated/siyez-bulguru-pilavi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Siyez Bulguru Pilavı rustic einkorn bulgur pilaf with thick mushroom slices softened onion butter, distinct plump brown ancient wheat grains. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Lokma",
+    "image": "assets/generated/lokma-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Turkish Lokma small round deep fried yeast dough balls golden crisp bubbly crust glossy lemon sugar syrup, piled in ceramic bowl. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Peynir Helvası",
+    "image": "assets/generated/peynir-helvasi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Peynir Helvası warm thick soft fresh cheese semolina sugar egg yolk butter dessert, pale golden yellow spoonable slightly grainy stretchy texture in shallow bowl, not browned. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kazandibi",
+    "image": "assets/generated/kazandibi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Kazandibi chilled white rice flour milk pudding cut rectangles folded with deep caramelized brown bottom facing upward, soft rolled slabs showing creamy ivory interiors. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Haside",
+    "image": "assets/generated/haside-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Haside Turkish grape molasses flour pudding, thick glossy brown smooth paste in shallow bowl topped walnut pieces sautéed in melted butter. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pekmezli Armut Tatlısı",
+    "image": "assets/generated/pekmezli-armut-tatlisi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Pekmezli Armut Tatlısı peeled whole pears stems intact poached in grape molasses cinnamon syrup, warm amber brown pears standing upright with reduced sauce walnuts. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Dilber Dudağı",
+    "image": "assets/generated/dilber-dudagi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Dilber Dudağı Turkish layered walnut pastry half moons resembling plump lips, golden fine flaky layers opening along curved edges, glossy lemon sugar syrup. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Taş Kadayıf",
+    "image": "assets/generated/tas-kadayif-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Taş Kadayıf deep fried half moon semolina yeast pancake pockets filled walnuts, firmly pinched edges golden crisp porous crust soaked sugar syrup, one cut showing walnut filling. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Elmalı Kurabiye",
+    "image": "assets/generated/elmali-kurabiye-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Elmalı Kurabiye pale lightly golden triangular rolled shortbread pastries filled cooked grated apple cinnamon walnuts, delicate tender crumb, one open cut showing filling. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Rokoko",
+    "image": "assets/generated/rokoko-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Rokoko frozen cream terrine slices with coarse white meringue chunks chopped dark chocolate toasted hazelnuts folded through pale whipped cream, no cake sponge. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tahinli Kek",
+    "image": "assets/generated/tahinli-kek-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Tahinli Kek ring shaped tahini cake baked in sesame coated 24cm ring mold, golden sesame crust, wedge cut showing moist fine beige cake crumb, no icing. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Paris-Brest",
+    "image": "assets/generated/paris-brest-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Paris-Brest 20cm golden choux pastry ring topped sliced almonds split horizontally and generously filled hazelnut praline mousseline cream, crisp airy shell. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pavlova",
+    "image": "assets/generated/pavlova-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Pavlova single white round meringue nest crisp cracked shell soft marshmallow center topped whipped cream fresh strawberry and kiwi slices. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cannoli",
+    "image": "assets/generated/cannoli-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Cannoli thin brown cocoa-tinted bubbly fried pastry tubes filled white ricotta cream dotted chopped dark chocolate, ends dipped green pistachios. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Antalya Piyazı",
+    "image": "assets/generated/antalya-piyazi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Antalya Piyazı white bean salad generously coated creamy tahini mashed bean lemon vinegar garlic sauce topped diced tomato thin onion half moons chopped parsley quartered hardboiled eggs. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Mor Lahana Salatası",
+    "image": "assets/generated/mor-lahana-salatasi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Mor Lahana Salatası finely shredded purple red cabbage softened lemon vinegar salt olive oil, vibrant magenta crisp glossy strands, no other vegetables. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Buğday Salatası",
+    "image": "assets/generated/bugday-salatasi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Buğday Salatası plump cooked wheat berries tossed diced cucumber tomato finely sliced spring onion parsley mint lemon olive oil, fresh colorful grain salad. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kuzukulağı Salatası",
+    "image": "assets/generated/kuzukulagi-salatasi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Kuzukulağı Salatası fresh sorrel pointed arrow-shaped leaves mixed lettuce cucumber half moons thin spring onion rings light lemon olive oil dressing. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Fava",
+    "image": "assets/generated/fava-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Turkish Fava chilled smooth pale yellow dried broad bean onion olive oil puree set in shallow dish sliced neat rectangles topped chopped dill and olive oil. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Senfeier",
+    "image": "assets/generated/senfeier-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Senfeier German hardboiled egg halves cut sides upward in smooth pale yellow mustard milk butter roux sauce, chopped dill sprinkled. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Fabada Asturiana",
+    "image": "assets/generated/fabada-asturiana-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Fabada Asturiana beef adaptation large white beans with sliced beef sucuk and beef pastirma in thick paprika garlic broth, no pork. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Hachis Parmentier",
+    "image": "assets/generated/hachis-parmentier-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Hachis Parmentier baked casserole thick ground beef onion carrot tomato filling topped mashed potatoes and golden melted kasar cheese, portion cut showing layers. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tian Provençal",
+    "image": "assets/generated/tian-provencal-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Tian Provençal alternating thin zucchini eggplant tomato rounds standing angled closely in shallow baking dish on softened onion garlic base, olive oil thyme baked browned edges. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cornish Pasty",
+    "image": "assets/generated/cornish-pasty-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Cornish Pasty large golden half moon shortcrust pastry with thick crimped edge, one cut open showing small beef potato turnip onion pieces. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Dhokla",
+    "image": "assets/generated/dhokla-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Dhokla bright yellow airy steamed chickpea flour yogurt turmeric cake squares topped tempered black mustard seeds curry leaves light oil. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kheer",
+    "image": "assets/generated/kheer-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Kheer chilled thick creamy milk rice pudding with visible tender rice grains crushed cardamom thin chopped almonds raisins, no saffron. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Aloo Gosht",
+    "image": "assets/generated/aloo-gosht-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Aloo Gosht tender lamb cubes and large potato chunks in rich onion tomato yogurt ginger garlic cumin turmeric garam masala gravy. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Nasu Dengaku",
+    "image": "assets/generated/nasu-dengaku-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Nasu Dengaku eggplant halves crosshatched flesh roasted tender topped thin glossy caramelized white miso sugar glaze sesame and sliced spring onions. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ma Yi Shang Shu",
+    "image": "assets/generated/ma-yi-shang-shu-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Ma Yi Shang Shu translucent glass noodles coated red brown doubanjiang soy sauce with fine browned ground beef crumbs garlic ginger chopped scallions, no insects. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Bulgogi",
+    "image": "assets/generated/bulgogi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Bulgogi very thin beef slices quickly seared browned curled edges with thin onion half moons glossy pear soy sesame marinade topped scallions sesame. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pad Kra Pao",
+    "image": "assets/generated/pad-kra-pao-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Pad Kra Pao ground chicken stir fry garlic red chili Thai basil leaves glossy soy fish sauce reduction, no egg no rice. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Beef Rendang",
+    "image": "assets/generated/beef-rendang-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Beef Rendang tender beef chunks covered thick dark brown deeply reduced coconut spice paste, slight separated oil sheen no broth. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Chicken Adobo",
+    "image": "assets/generated/chicken-adobo-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Chicken Adobo browned bone-in chicken thighs braised glossy dark soy rice vinegar garlic sauce with whole black peppercorns, bay removed. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Mafé",
+    "image": "assets/generated/mafe-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Mafé West African beef peanut stew tender beef chunks large potato carrot pieces in thick rich reddish tan peanut tomato sauce. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Koshari",
+    "image": "assets/generated/koshari-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Koshari layers rice green lentils short pasta topped chickpeas thick garlic tomato vinegar sauce and dark golden fried onion strips. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kuru Kayısılı Buğday Salatası",
+    "image": "assets/generated/kuru-kayisili-bugday-salatasi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Kuru Kayısılı Buğday Salatası plump cooked wheat berries diced dried apricot coarse walnuts finely sliced spring onion parsley lemon olive oil dressing. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yoğurtlu Börülce Mezesi",
+    "image": "assets/generated/yogurtlu-borulce-mezesi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Yoğurtlu Börülce Mezesi black eyed beans mixed thick strained garlic yogurt chopped dill spread shallow plate drizzled chili flake olive oil. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Patlıcanlı Yumurta Kapama",
+    "image": "assets/generated/patlicanli-yumurta-kapama-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Patlıcanlı Yumurta Kapama roasted peeled chopped eggplant in reduced tomato garlic olive oil topped whole eggs cooked in indentations whites fully set. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sarımsaklı Ekmek Çorbası",
+    "image": "assets/generated/sarimsakli-ekmek-corbasi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Sarımsaklı Ekmek Çorbası thick garlic tomato paste bread soup with softened bread cubes and fully cooked fine egg ribbons throughout red broth. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kuru Patlıcan Kavurması",
+    "image": "assets/generated/kuru-patlican-kavurmasi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Kuru Patlıcan Kavurması softened dried eggplant cut 2cm pieces sautéed with finely chopped onion tomato paste olive oil chili, dark wrinkled eggplant texture reduced juices. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cevizli Kabak Ezmesi",
+    "image": "assets/generated/cevizli-kabak-ezmesi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Cevizli Kabak Ezmesi cooked coarsely grated zucchini lightly mashed with crushed walnuts garlic lemon olive oil, chunky green pale texture no yogurt. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Nar Ekşili Brüksel Lahanası",
+    "image": "assets/generated/nar-eksili-bruksel-lahanasi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Nar Ekşili Brüksel Lahanası roasted Brussels sprout halves deeply browned cut faces glossed dark pomegranate molasses topped coarse walnuts. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sebzeli Fırın Yumurta",
+    "image": "assets/generated/sebzeli-firin-yumurta-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Sebzeli Fırın Yumurta baked egg milk casserole with grated zucchini diced peppers crumbled white cheese, golden fully set surface portion sliced. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Şehriye Salatası",
+    "image": "assets/generated/sehriye-salatasi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Şehriye Salatası chilled orzo pasta salad with diced cucumber sweetcorn chopped dill lemon olive oil, distinct pale rice shaped pasta grains. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sachertorte",
+    "image": "assets/generated/sachertorte-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Sachertorte dark chocolate cake with two dense chocolate sponge layers thin apricot jam filling and exterior coating smooth dark chocolate ganache, single slice beside round cake. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sfogliatelle",
+    "image": "assets/generated/sfogliatelle-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Sfogliatelle Italian shell cone shaped pastries with dozens very fine crisp golden overlapping ridges, one opened showing ricotta semolina candied orange cinnamon filling. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Gavurdağı Salatası",
+    "image": "assets/generated/gavurdagi-salatasi-ai-v6.webp",
+    "prompt": "Professional high quality photorealistic natural cookbook food photograph of Gavurdağı Salatası very finely diced tomato cucumber green pepper onion parsley chopped walnuts pomegranate molasses olive oil salad. Authentic finished dish, close three-quarter composition on restrained rustic table, soft window light, sharp appetizing edible textures, realistic natural imperfections, no plastic CGI, no text logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yoğurtlu Beyaz Lahana Salatası",
+    "image": "assets/generated/yogurtlu-beyaz-lahana-salatasi-ai-v6.webp",
+    "prompt": "Photorealistic cookbook Turkish white cabbage carrot yogurt dill salad, natural window light, no text watermark.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Maş Fasulyesi Salatası",
+    "image": "assets/generated/mas-fasulyesi-salatasi-ai-v6.webp",
+    "prompt": "Photorealistic Turkish mung bean salad with red pepper green onion dill olive oil pomegranate dressing in cream bowl natural daylight.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Taze Bakla Salatası",
+    "image": "assets/generated/taze-bakla-salatasi-ai-v6.webp",
+    "prompt": "Photorealistic fresh broad bean salad with dill green onion lemon olive oil blue bowl natural light.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cevizli Tarator",
+    "image": "assets/generated/cevizli-tarator-ai-v6.webp",
+    "prompt": "Photorealistic premium cookbook closeup of Turkish Cevizli Tarator: thick pale beige walnut garlic bread dip, rustic finely ground grainy texture, spread with spoon swirls on shallow ceramic meze plate, a few walnut halves and golden olive oil drizzle, authentic bread walnut garlic lemon recipe without yogurt, natural side window light on neutral linen, delicious real food texture, square crop, no text watermark logo or collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Patlıcan Söğürme",
+    "image": "assets/generated/patlican-sogurme-ai-v6.webp",
+    "prompt": "Premium photorealistic cookbook photo of Turkish Patlıcan Söğürme, rustic smoky hand-chopped roasted eggplant flesh with roasted red kapya pepper and ripe tomato, garlic olive oil lemon and parsley, softly fibrous eggplant with some char flecks, shallow earthy ceramic plate, natural window lighting, close three-quarter view, realistic appetizing moist food, no yogurt no puree no text no watermark no collage, square.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yoğurtlu Mantar Mezesi",
+    "image": "assets/generated/yogurtlu-mantar-mezesi-ai-v6.webp",
+    "prompt": "Photorealistic high-end food photograph Turkish Yoğurtlu Mantar Mezesi. Sauteed thin mushroom slices cooled then folded in thick white garlic yogurt, chopped dill and black pepper, a little olive oil glistening. Mushrooms visibly sliced, shallow white stoneware bowl on light stone, close three-quarter camera, soft natural daylight, true realistic textures, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kıymalı Yumurta",
+    "image": "assets/generated/kiymali-yumurta-ai-v6.webp",
+    "prompt": "Extremely realistic cookbook photograph of Turkish Kıymalı Yumurta in a small copper breakfast skillet: browned finely crumbled ground beef sauteed with diced onion green pepper tomato, three eggs cracked into little wells, set whites and softly cooked golden yolks. Authentic Turkish breakfast dish, natural morning window light, warm table, detailed moist mince and egg textures, three-quarter close framing square, no bread over food, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kahvaltılık Çemen",
+    "image": "assets/generated/kahvaltilik-cemen-ai-v6.webp",
+    "prompt": "Premium photorealistic Turkish cookbook photo of Kahvaltılık Çemen breakfast spread, authentic thick dark brick-red fenugreek garlic tomato and pepper paste with cumin chili and olive oil, dense slightly coarse matte paste sculpted with spoon swirls on tiny shallow ceramic meze plate. Small slice rustic bread blurred in background, natural morning side light, very detailed appetizing real food, square closeup, no hummus no walnuts no yogurt no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yeşil Zeytin Salatası",
+    "image": "assets/generated/yesil-zeytin-salatasi-ai-v6.webp",
+    "prompt": "Photorealistic premium cookbook photograph Turkish Yeşil Zeytin Salatası: pitted cracked green olives chopped coarsely with walnut pieces, green onion, parsley, diced red kapya pepper in glossy olive oil and pomegranate molasses. No lettuce. Shallow ochre ceramic bowl, natural daylight, close overhead angled view revealing realistic olive flesh pits removed and fresh herb details, warm stone table, square, no text no watermark no collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Karalahana Sarması",
+    "image": "assets/generated/karalahana-sarmasi-ai-v6.webp",
+    "prompt": "High-end photorealistic food photograph authentic Turkish Black Sea Karalahana Sarması, dark green cooked collard leaves tightly rolled into small finger-sized cylinders filled with minced beef rice onion parsley, arranged in a shallow traditional ceramic serving dish, one cut roll revealing rice meat filling. Natural cooked leaf veins and olive oil sheen, slight tomato cooking juices beneath, no grape leaves no white cabbage, soft side window light, exquisite natural textures, square, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Domates Dolması",
+    "image": "assets/generated/domates-dolmasi-ai-v6.webp",
+    "prompt": "Photorealistic Turkish cookbook photograph of Domates Dolması, four whole ripe red tomatoes hollowed and filled with cooked rice onion tomato paste parsley olive oil, original tomato tops used as little lids slightly tilted to reveal rice stuffing, tomatoes tender cooked with lightly wrinkled skins, shallow red tomato cooking juices in ceramic serving dish. Authentic rice stuffed tomatoes not peppers, natural soft daylight, elegant rustic close three-quarter angle, square, real appetizing food texture, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Patates Dolması",
+    "image": "assets/generated/patates-dolmasi-ai-v6.webp",
+    "prompt": "Photorealistic premium cookbook photo Turkish Patates Dolması: peeled medium potatoes hollowed into upright cup shapes stuffed with cooked rice and minced beef onion parsley, gently simmered in tomato sauce until golden tender, three whole stuffed potatoes and one cut exposing filling in rustic shallow cream ceramic dish. Rice meat filling visible in top openings, no melted cheese, authentic home cooked Turkish dolma not baked loaded jacket potato. Natural window light, realistic potato and grain texture, square closeup, no writing watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "İrok",
+    "image": "assets/generated/irok-ai-v6.webp",
+    "prompt": "Photorealistic professional Turkish cookbook photograph of Mardin İrok fried bulgur dumplings: oval slightly pointed torpedo shapes, dark golden crisp finely textured bulgur semolina shells, five on rustic plate with one cut open revealing dry cooked minced beef onion walnut filling and thin shell. Authentic kibbeh style Mardin irok, no sauce no cheese no thick bread coating, natural side daylight, extremely realistic crunchy crust and meat details, square appetizing closeup, no words logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ispanaklı Bulgur Köftesi",
+    "image": "assets/generated/ispanakli-bulgur-koftesi-ai-v6.webp",
+    "prompt": "Premium photorealistic Turkish cookbook photo of Ispanaklı Bulgur Köftesi: small 1.5cm round boiled beige bulgur dumplings tossed with wilted chopped spinach and sauteed onion in olive oil, dollop of garlic yogurt on top and few red pepper flakes. Small grainy round dumplings are distinct among dark green cooked spinach, shallow ceramic bowl, natural side window light, authentic home cooking beautifully plated, real food not CGI, square close framing, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Har Gow",
+    "image": "assets/generated/har-gow-ai-v6.webp",
+    "prompt": "Extremely photorealistic premium dim sum cookbook photograph of authentic Cantonese Har Gow shrimp dumplings in bamboo steamer, five crescent dumplings with delicate translucent white wheat-tapioca starch wrappers neatly pleated along curved edges, coral pink chunky shrimp faintly visible through thin glossy skins, fine ginger green onion filling. Steam subtle, natural soft daylight, close three-quarter angle, realistic fragile slightly sticky dumpling textures, square frame, no thick opaque dough no fried dumplings no writing watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Culurgiones",
+    "image": "assets/generated/culurgiones-ai-v6.webp",
+    "prompt": "Authentic Sardinian Culurgiones, photorealistic premium Italian cookbook photograph: six plump white teardrop pasta dumplings with distinctive hand-pinched wheat-ear braided seam along top, filled potato pecorino garlic dried mint, gently boiled and served on restrained fresh tomato sauce olive oil. One cut dumpling showing soft pale potato filling. No ravioli squares no Asian dumplings. White ceramic plate, natural window light, realistic handmade pasta texture, square close three-quarter view, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Canederli",
+    "image": "assets/generated/canederli-ai-v6.webp",
+    "prompt": "Photorealistic high-end Italian cookbook photo Canederli agli spinaci: three large round poached bread dumplings flecked abundantly with green chopped spinach, made with diced stale bread milk eggs onion parmesan, served with melted butter and fine grated parmesan, one split revealing tender coarse bread crumb interior. Matte cream plate, cozy natural side window light, authentic South Tyrolean canederli not gnocchi, square close three-quarter angle, extremely realistic texture no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cacio e Pepe",
+    "image": "assets/generated/cacio-e-pepe-ai-v6.webp",
+    "prompt": "Exquisite photorealistic Italian cookbook food photograph authentic Roman Cacio e Pepe, spaghetti coated in silky glossy pale ivory pecorino cheese and starchy pasta water emulsion, plentiful coarsely cracked black pepper, elegantly twirled in a wide shallow off-white ceramic plate. Only pasta pecorino pepper, no cream puddle, no herbs no bacon. Natural side window light, realistic separate spaghetti strands and tiny cheese specks, close three-quarter square composition, appetizing restaurant quality real food not CGI, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pappa al Pomodoro",
+    "image": "assets/generated/pappa-al-pomodoro-ai-v6.webp",
+    "prompt": "Photorealistic premium Tuscan cookbook photo Pappa al Pomodoro, thick rustic tomato and stale bread soup, vivid deep tomato red with softened bread disintegrated into chunky porridge-like texture rather than smooth cream soup, extra virgin olive oil drizzle and a few fresh basil leaves. Shallow rustic terracotta bowl, natural window side light, realistic coarse moist bread tomato texture, square close three-quarter composition, no cheese no cream no words logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Poulet à la Moutarde",
+    "image": "assets/generated/poulet-a-la-moutarde-ai-v6.webp",
+    "prompt": "Premium photorealistic French cookbook photograph Poulet à la Moutarde: beautifully browned chicken thighs gently braised in silky pale golden mustard cream sauce with softened finely chopped onion, rustic shallow enamel casserole, mustard visible as fine flecks in rich sauce. No mushrooms no rice no pasta. Authentic tender chicken skin and creamy sauce textures, natural soft side window light, close three-quarter angle, square food app image, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Espinacas con Garbanzos",
+    "image": "assets/generated/espinacas-con-garbanzos-ai-v6.webp",
+    "prompt": "Extremely photorealistic Andalusian cookbook food photo Espinacas con Garbanzos: tender golden chickpeas mixed with dark green cooked chopped spinach in thick garlic bread cumin sweet paprika olive oil sauce, rustic tapas terracotta cazuela, no soup broth no tomato chunks. Authentic Spanish spinach and chickpeas, rich earthy reddish brown sauce clinging rather than watery, natural daylight, highly realistic chickpea skins and spinach texture, square close three-quarter angle, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Arroz de Tomate",
+    "image": "assets/generated/arroz-de-tomate-ai-v6.webp",
+    "prompt": "Photorealistic premium Portuguese cookbook food photograph of Arroz de Tomate, authentic malandrinho style soft short-grain rice cooked with ripe tomato finely chopped onion garlic olive oil, moist loose slightly soupy orange-red tomato rice with distinct tender grains and tiny tomato pieces, served in rustic Portuguese pale glazed ceramic bowl, no seafood meat peppers or cheese. Natural window light, realistic delicate grains and tomato broth sheen, close three-quarter square composition, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Lorlu Pazı Kavurması",
+    "image": "assets/generated/lorlu-pazi-kavurmasi-ai-v6.webp",
+    "prompt": "Premium photorealistic Turkish cookbook photograph Lorlu Pazı Kavurması, sauteed chopped Swiss chard leaves and tender stems with onion olive oil, dotted with crumbly white fresh lor cheese and red pepper flakes. Rustic shallow ceramic plate, natural soft side window light, very realistic wilted greens and fine cheese curds, appetizing home cooked serving, close three-quarter square image, no words watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pancar Borani",
+    "image": "assets/generated/pancar-borani-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photo Pancar Borani, cooked beetroot grated or small diced folded into thick garlic yogurt, bright natural magenta pink creamy chunky meze with olive oil sheen. Shallow ivory ceramic bowl, spoon swirl, no walnuts no garnish hiding beet texture. Natural daylight, exceptionally realistic appetizing yogurt beet texture, close three-quarter square crop, no writing watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Közlenmiş Pırasa Salatası",
+    "image": "assets/generated/kozlenmis-pirasa-salatasi-ai-v6.webp",
+    "prompt": "High-end photorealistic cookbook photograph Közlenmiş Pırasa Salatası, tender roasted leeks cut into long sections with lightly blackened char marks and caramelized edges, lemon olive oil dressing with crumbled walnuts, elegant shallow cream plate. Close three-quarter angle, soft daylight, authentic fibrous leek layers visible, succulent cooked texture not raw spring onions, square frame, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yoğurtlu Bezelye Ezmesi",
+    "image": "assets/generated/yogurtlu-bezelye-ezmesi-ai-v6.webp",
+    "prompt": "Premium photorealistic Turkish cookbook closeup Yoğurtlu Bezelye Ezmesi, thick mashed green peas mixed with garlic yogurt olive oil mint, soft pale green dip retaining little pea fragments, spoon swirls on shallow stoneware meze plate and restrained olive oil drizzle. No chickpeas no avocado. Natural side light, extremely realistic fresh creamy texture, square framing, no words logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Çıtır Yumurta",
+    "image": "assets/generated/citir-yumurta-ai-v6.webp",
+    "prompt": "Extremely photorealistic premium food photograph Turkish Çıtır Yumurta, peeled boiled eggs coated in flour egg and breadcrumbs then deep fried golden crisp, one whole breaded egg and two clean halves showing white and softly set golden yolk inside distinct crisp crumb shell. Minimal cream ceramic plate, warm natural breakfast light, 50mm close three-quarter square crop, detailed irregular fried crumbs, no scotch egg meat layer no garnish hiding food, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kavrulmuş Erişte Pilavı",
+    "image": "assets/generated/kavrulmus-eriste-pilavi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photo Kavrulmuş Erişte Pilavı, short rustic hand-cut egg noodles lightly toasted golden then simmered until tender with butter, loose flat noodle pieces and chopped walnuts over top, shallow earthy ceramic bowl. No rice no long spaghetti no broth, true Turkish eriste pilaf natural irregular noodle edges and buttery sheen, natural window light, intimate three-quarter square framing, no words watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sebzeli Buğday Tavası",
+    "image": "assets/generated/sebzeli-bugday-tavasi-ai-v6.webp",
+    "prompt": "Premium photorealistic Turkish cookbook photograph Sebzeli Buğday Tavası, plump boiled whole wheat berries sauteed with small diced zucchini carrot sweet pepper and onion in olive oil, authentic colorful grain skillet with moist separate wheat kernels, rustic shallow skillet on pale table. No rice no corn, natural window side light, extremely realistic grain skins and cooked vegetables, square close three-quarter composition, no words logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Vişne Hoşafı",
+    "image": "assets/generated/visne-hosafi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph Vişne Hoşafı, chilled sour cherry compote in clear simple glass serving bowl, ruby red translucent sugar syrup with many whole dark red cooked sour cherries, no cream no ice cream no citrus. Natural summer window light refracting through glass, real fruit skins and gentle condensation, intimate three-quarter square composition, no words watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Şeftali Kompostosu",
+    "image": "assets/generated/seftali-kompostosu-ai-v6.webp",
+    "prompt": "High quality photorealistic Turkish cookbook photo Şeftali Kompostosu, tender cooked peach wedges in clear pale golden sugar lemon syrup served in elegant clear glass dessert bowl. Natural fresh peach golden yellow pink blush flesh visible through liquid, no cream no ice cream no other fruit. Soft side window light, real delicate cooked fruit and glass refractions, square close three-quarter frame, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Koruk Şerbeti",
+    "image": "assets/generated/koruk-serbeti-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook beverage photo Koruk Şerbeti, traditional strained unripe green grape sherbet, pale cloudy yellow-green juice in a clear glass tumbler, tiny natural condensation droplets, small bunch tart unripe green grapes beside glass on light stone, not purple grape juice not cocktail, no lemon mint or alcohol. Soft window backlight, real beverage optical texture, square close framing, no writing label logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Boza",
+    "image": "assets/generated/boza-ai-v6.webp",
+    "prompt": "Exquisite photorealistic Turkish cookbook photograph Boza, thick creamy pale beige fermented bulgur and rice beverage in simple clear short glass, cinnamon powder lightly sprinkled on top and a few yellow roasted chickpeas leblebi on surface, tiny bubbles, viscous authentic boza not milkshake not beer. Warm winter natural window light, rustic neutral tabletop, detailed creamy drink texture, square close three-quarter photo, no writing logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "İşkembe Çorbası",
+    "image": "assets/generated/iskembe-corbasi-ai-v6.webp",
+    "prompt": "Premium photorealistic Turkish cookbook photograph İşkembe Çorbası, authentic pale ivory milky thickened tripe soup with many small tender beef tripe strips and pieces showing honeycomb texture in garlic lemon yogurt egg liaison broth. White deep soup bowl, tiny butter glisten, vinegar garlic condiment blurred beside it, natural window light, close three-quarter square crop, very realistic appetizing cooked tripe texture no noodles no chickpeas, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Brokoli Çorbası",
+    "image": "assets/generated/brokoli-corbasi-ai-v6.webp",
+    "prompt": "Photorealistic premium cookbook photo Brokoli Çorbası, smooth blended pale green broccoli soup made with potato onion milk olive oil, tiny natural green broccoli specks and one small tender broccoli floret garnish, no cream swirl no cheese croutons. Cream ceramic soup bowl on linen, soft side daylight, realistic velvety soup with natural gentle surface sheen, square close three-quarter food photo, no words watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Bamya Çorbası",
+    "image": "assets/generated/bamya-corbasi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photo Konya Bamya Çorbası, small dried flower okra pods rehydrated in tangy lemon tomato broth with little tender lamb cubes and softened onion, distinctly tiny whole okra not long sliced green okra. Warm reddish light broth in handmade deep ceramic bowl, slight butter sheen, natural side window light, realistic okra and lamb texture, square intimate three-quarter composition, no writing watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Semizotu Yemeği",
+    "image": "assets/generated/semizotu-yemegi-ai-v6.webp",
+    "prompt": "Premium photorealistic Turkish cookbook photo Semizotu Yemeği, cooked purslane leaves and tender pinkish green stems gently stewed in olive oil with tomato onion and a little rice. Authentic soft succulent purslane in light reddish cooking juices, small ceramic serving dish, no spinach no yogurt no meat. Natural window light and true realistic home cooked texture, square close three-quarter view, no words watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "İzmir Köfte",
+    "image": "assets/generated/izmir-kofte-ai-v6.webp",
+    "prompt": "Exquisite photorealistic Turkish cookbook photograph İzmir Köfte, elongated browned ground beef meatballs alternating with thick golden potato wedges in shallow baking dish, baked tomato wedges and long green peppers, rich red tomato sauce beneath. Authentic Izmir kofte, chopped parsley inside meatballs no cheese. Soft natural side light, close three-quarter angle, detailed browned meat potato and tomato texture, square frame, no writing watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ekşili Köfte",
+    "image": "assets/generated/eksili-kofte-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph Ekşili Köfte, small round beef and rice meatballs simmered with carrot and potato cubes in pale silky lemon egg thickened broth, individual rice grains visible on meatballs, authentic Turkish sour meatball stew no tomato sauce. Ivory ceramic deep bowl, soft natural window light, realistic moist meat and vegetable textures, square close three-quarter food image, no writing watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Orman Kebabı",
+    "image": "assets/generated/orman-kebabi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photo Orman Kebabı, tender browned beef cubes stewed with golden potato cubes orange carrot and green peas in glossy light tomato gravy, onion butter thyme seasoning. Rustic shallow casserole, plentiful visible individual meat and vegetable pieces, natural side window light, extremely realistic succulent cooked beef fibers and vegetables, square close three-quarter composition, no skewers no rice no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Çoban Kavurma",
+    "image": "assets/generated/coban-kavurma-ai-v6.webp",
+    "prompt": "Premium photorealistic Turkish cookbook photo Çoban Kavurma, tender browned beef cubes sauteed with green pepper onion ripe tomato garlic butter and thyme in a traditional shallow copper pan, glossy reduced savory juices not soup. Authentic rustic shepherd meat saute, no potatoes no peas no skewers. Natural side window light, realistic browned meat edges and softened vegetables, square close three-quarter composition, no words watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Edirne Tava Ciğeri",
+    "image": "assets/generated/edirne-tava-cigeri-ai-v6.webp",
+    "prompt": "Extremely photorealistic premium Turkish cookbook photo Edirne Tava Ciğeri, authentic wafer-thin irregular calf liver slices lightly flour dusted and fried crisp golden brown, piled loosely on white plate with Edirne fried dried red peppers and thin raw onion rings on side. Delicate curled flat liver sheets not cubes not meat chunks, crisp flour edges and tender liver texture, natural side daylight, square close three-quarter shot, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kaburga Dolması",
+    "image": "assets/generated/kaburga-dolmasi-ai-v6.webp",
+    "prompt": "High-end photorealistic Turkish regional cookbook photograph Kaburga Dolması, Mardin style whole lamb rib section stuffed in a pocket with buttery rice pilaf almonds and small lamb meat pieces, deeply browned exterior and rib bones visible, part of meat pocket opened to expose aromatic rice stuffing. Large oval serving platter, no sliced roast roulade no beef no cheese, natural warm window light, very realistic lamb fibers and rice almond texture, square close three-quarter composition, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ramazan Pidesi",
+    "image": "assets/generated/ramazan-pidesi-ai-v6.webp",
+    "prompt": "Exquisite photorealistic Turkish bakery cookbook photograph Ramazan Pidesi, round flat fluffy Turkish Ramadan bread with characteristic deep fingertip diamond lattice and thick round rim, glossy golden egg yogurt washed crust sprinkled with sesame and black nigella seeds, one torn edge revealing airy soft white crumb. Natural bakery side window light, rustic linen board, realistic crust bubbles and seeds, square close three-quarter view, no toppings no cheese no words watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Bafra Pidesi",
+    "image": "assets/generated/bafra-pidesi-ai-v6.webp",
+    "prompt": "Premium photorealistic Turkish bakery cookbook photograph authentic Bafra Pidesi: long narrow completely CLOSED canoe-shaped crisp thin dough bread stuffed with cooked minced beef onion black pepper, pointed ends, golden blistered butter-brushed crust, sliced crosswise into sections with one lifted cut edge revealing savory finely crumbled meat filling. No open cheese pide no egg no tomato topping. Wooden serving board, soft side daylight, realistic crust flakes, square close three-quarter composition, no words logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cevizli Sucuk",
+    "image": "assets/generated/cevizli-sucuk-ai-v6.webp",
+    "prompt": "Photorealistic professional cookbook food photograph, Cevizli Sucuk Turkish walnut grape molasses confection: short deep amber-brown dried glossy cylindrical ropes and several thick round slices exposing a chain of walnut halves in translucent firm grape molasses gel. Natural window light, ceramic plate on neutral linen, close 3/4 view, sharp edible texture, understated styling. No text, logo, watermark, collage or CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Haşhaşlı Revani",
+    "image": "assets/generated/hashasli-revani-ai-v6.webp",
+    "prompt": "High-end natural cookbook photograph of Turkish Haşhaşlı Revani, three square slices of golden semolina sponge cake densely flecked throughout with tiny blue-black poppy seeds, moist syrup-soaked crumb, browned flat top, no frosting or garnish. Ceramic plate, soft window daylight, close three-quarter angle, crisp authentic edible detail, subtle linen background. No text logos watermark collage plastic or CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Crème Brûlée",
+    "image": "assets/generated/creme-brulee-ai-v6.webp",
+    "prompt": "Professional photoreal cookbook food photo, classic crème brûlée in shallow white ceramic ramekins, thin glassy amber caramelized sugar crust with one small cracked opening showing silky pale vanilla custard. Natural window light, restrained neutral tabletop, close 3/4 angle, realistic crisp caramel and creamy texture. No fruit, text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Croquembouche",
+    "image": "assets/generated/croquembouche-ai-v6.webp",
+    "prompt": "Natural professional French cookbook photograph of Croquembouche, modest authentic tapering cone tower of small golden baked choux puffs filled with vanilla pastry cream and joined with shiny amber caramel, six-puff base, delicate fine caramel threads, on plain porcelain serving platter. Soft side window light, sharp flaky choux texture, elegant neutral backdrop, entire tower visible. No text logo watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Basque Cheesecake",
+    "image": "assets/generated/basque-cheesecake-ai-v6.webp",
+    "prompt": "Photoreal professional cookbook photo of Basque burnt cheesecake, rustic round crustless cheesecake with deeply browned dark caramel top and wrinkled parchment around its sides, one wedge removed and placed in foreground revealing dense silky pale cream interior. Soft natural daylight, close three-quarter composition, beautiful real baked textures, neutral table. No topping or berries, text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Gulab Jamun",
+    "image": "assets/generated/gulab-jamun-ai-v6.webp",
+    "prompt": "Photorealistic professional Indian cookbook photograph of Gulab Jamun, several small smooth deep golden brown fried milk dough balls swollen with clear amber cardamom sugar syrup, served in a shallow small bowl, one cut showing fine soft pale interior. Authentic moist porous edible texture and delicate syrup reflections, soft natural window light, close 3/4 view, warm understated setting. No nuts or extraneous garnish, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yoğurtlu Kereviz Salatası",
+    "image": "assets/generated/yogurtlu-kereviz-salatasi-ai-v6.webp",
+    "prompt": "Professional natural cookbook photograph of Turkish Yoğurtlu Kereviz Salatası, coarse grated raw celeriac and apple in thick creamy white garlic yogurt, mixed chopped walnuts, topped only with a few walnut pieces and light olive oil drizzle. Shallow ceramic meze bowl, visible fine grated strands, realistic creamy texture, soft side daylight, close 3/4 view, neutral linen. No celery stalks, text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yeşil Mercimek Salatası",
+    "image": "assets/generated/yesil-mercimek-salatasi-ai-v6.webp",
+    "prompt": "Professional photoreal Turkish cookbook photograph of Yeşil Mercimek Salatası: individual tender intact green-brown lentils tossed with diced pickled gherkin, red sweet pepper, chopped scallion and parsley, light lemon olive oil dressing, in a shallow stoneware bowl. Crisp finely detailed fresh ingredients, soft window daylight, near overhead composition, neutral rustic tabletop. No cheese, tomatoes, text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sumaklı Soğan Salatası",
+    "image": "assets/generated/sumakli-sogan-salatasi-ai-v6.webp",
+    "prompt": "Professional natural Turkish cookbook food photograph, Sumaklı Soğan Salatası: delicate thin half-moon slices of white onion softened and thoroughly stained pinkish purple with abundant reddish sumac, tossed with finely chopped fresh parsley and lemon olive oil. Small white ceramic meze plate, sharp moist onion texture, soft natural window light, close overhead angle. Only onion parsley sumac dressing, no tomatoes, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Muhammara",
+    "image": "assets/generated/muhammara-ai-v6.webp",
+    "prompt": "High-end natural cookbook photograph of Muhammara, thick rust-red roasted red pepper walnut dip with coarse walnut and breadcrumb texture, pomegranate molasses and olive oil sheen, shallow swirls in a small handmade ceramic meze dish, restrained walnut pieces on top. Soft side window light, near overhead view, realistic appetizing texture, neutral linen table. No hummus chickpeas or tomatoes, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Girit Ezmesi",
+    "image": "assets/generated/girit-ezmesi-ai-v6.webp",
+    "prompt": "Photorealistic professional Turkish cookbook photo of Girit Ezmesi, a rustic creamy yet crumbly white feta and lor cheese spread mixed with chopped walnut, green pistachio, finely chopped dill, garlic thyme and olive oil. Small irregular spooned mounds on a ceramic meze plate with subtle oil sheen and clearly visible nuts and herbs. Soft daylight, close three-quarter angle, natural edible texture, understated setting. No text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Çiroz Salatası",
+    "image": "assets/generated/ciroz-salatasi-ai-v6.webp",
+    "prompt": "Professional photorealistic Turkish cookbook photograph of Çiroz Salatası, small bite-size flakes and fibrous pieces of prepared dried mackerel flesh tossed in grape vinegar olive oil and lemon, with fine red onion half moons and chopped dill, served on a small ceramic meze plate. Authentic slightly tan dried fish texture, no skin bones or whole fish, soft natural window light, close 3/4 angle. No text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yumurta Dolması",
+    "image": "assets/generated/yumurta-dolmasi-ai-v6.webp",
+    "prompt": "Professional natural Turkish cookbook photograph of Yumurta Dolması, lengthwise hard-boiled egg halves stuffed flush with mashed yolk dill parsley filling, then lightly flour-and-egg battered and pan fried golden on both faces. Several golden oval egg halves on a plain ceramic plate, one cut revealing firm white and herb-speckled yellow center, delicate browned irregular crust. Soft daylight, sharp appetizing edible texture, close 3/4. No piping mayonnaise paprika, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Lorlu Biber Kavurması",
+    "image": "assets/generated/lorlu-biber-kavurmasi-ai-v6.webp",
+    "prompt": "High quality photoreal Turkish cookbook photograph of Lorlu Biber Kavurması, sautéed two-centimeter green pepper pieces with softened diced tomato and soft crumbled white lor curd cheese, olive oil and black pepper, moist but not watery, served warm in a small rustic skillet. Distinct tender peppers and cheese curds, natural side window light, close three-quarter angle, sharp edible textures. No eggs, text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Marul Salatası",
+    "image": "assets/generated/marul-salatasi-ai-v6.webp",
+    "prompt": "Professional natural cookbook photograph of Marul Salatası, simple Turkish fresh salad of crisp torn romaine lettuce leaves, thin half-moon cucumber slices, chopped scallions and dill, lightly coated with lemon olive oil dressing, in a wide ceramic bowl. Bright natural window light, real delicate green leaf textures, near overhead composition, quiet neutral tabletop. No tomato cheese onion rings or croutons, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Nuraniye Mezesi",
+    "image": "assets/generated/nuraniye-mezesi-ai-v6.webp",
+    "prompt": "Professional natural Turkish cookbook photo of Nuraniye Mezesi, thick creamy garlic yogurt meze mixed with tender coarse grated zucchini and cooked rice, finely chopped scallion dill and parsley, pale creamy green with visible rice grains and herb flecks, spread in a shallow ceramic bowl. Soft daylight, close three-quarter view, authentic moist edible texture, restrained linen backdrop. No cucumber, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kuru Biber Dolması",
+    "image": "assets/generated/kuru-biber-dolmasi-ai-v6.webp",
+    "prompt": "Professional photoreal Turkish cookbook photograph of Kuru Biber Dolması, several small wrinkled dried dark red peppers rehydrated and braised with rice onion parsley tomato paste filling, their mouths pinched closed, tender glossy mahogany skins, one cut open showing separate reddish cooked rice grains. Served on ceramic plate with a little tomato cooking sauce. Natural window light, close three-quarter view, sharp authentic texture. No fresh bell peppers, no meat, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ayva Dolması",
+    "image": "assets/generated/ayva-dolmasi-ai-v6.webp",
+    "prompt": "Professional natural cookbook photograph of Turkish Ayva Dolması: whole hollowed golden yellow quinces cooked upright, holding savory minced meat rice onion parsley and tomato paste filling, matching small quince top caps tilted aside, tender fruit walls retaining their rounded shape, shallow reddish braising sauce. Two stuffed quinces on ceramic plate, close three-quarter angle, soft side daylight, crisp authentic edible detail. No nuts raisins syrup or peppers, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kitel Raha",
+    "image": "assets/generated/kitel-raha-ai-v6.webp",
+    "prompt": "High-end natural Turkish cookbook photograph of Mardin Kitel Raha, large flattened round 8cm boiled bulgur dumplings, pale beige finely grainy matte tender thin bulgur semolina shell, arranged without piling on a ceramic plate. One halved revealing cooked minced meat onion walnut filling with black pepper cumin, roughly 4mm shell. Not fried, no sauce. Soft window daylight, close three-quarter composition, precise realistic edible textures. No text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Haşhaşlı Top Köfte",
+    "image": "assets/generated/hashasli-top-kofte-ai-v6.webp",
+    "prompt": "Professional photoreal Turkish cookbook food photograph of Malatya Haşhaşlı Top Köfte, many small hazelnut-size boiled bulgur semolina balls tossed in thick earthy tan-brown ground poppy seed paste sauce with softened finely chopped onion butter and a few red pepper flakes. Small ceramic bowl, distinctly round pale beige grainy dumplings coated in speckled sauce, not black whole seed coating. Soft daylight, close three-quarter view, authentic edible textures. No yogurt meat tomato, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pierogi Ruskie",
+    "image": "assets/generated/pierogi-ruskie-ai-v6.webp",
+    "prompt": "Professional natural Polish cookbook photograph of Pierogi Ruskie, soft boiled pale half-moon dumplings with hand-pinched sealed edges, filled with potato and fresh curd cheese, lightly coated with melted butter and softened golden sautéed onion. Arranged in one layer on a wide ceramic plate, one opened showing fluffy pale filling. Natural window light, close three-quarter view, authentic tender dough texture, no browned fried crust. No bacon sour cream herbs, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Şiş Barak",
+    "image": "assets/generated/sis-barak-ai-v6.webp",
+    "prompt": "Professional photoreal Lebanese cookbook food photo of Shish Barak, many small boiled dough dumplings shaped like little hats with joined tips, minced meat and onion filling, partly submerged in creamy white warm garlic yogurt sauce speckled with dried mint. Deep ceramic serving bowl, delicate pale dough edges peeking through sauce, soft natural side light, close three-quarter composition, authentic edible texture. No tomato red oil pine nuts, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Maultaschen",
+    "image": "assets/generated/maultaschen-ai-v6.webp",
+    "prompt": "Professional natural German cookbook photograph of Maultaschen, large 7cm rectangular sealed boiled pasta parcels, tender pale thin dough wrapping cooked minced meat spinach onion egg breadcrumb filling, several placed loosely on a ceramic plate, one sliced diagonally to show dense green-flecked meat interior. Light butter sheen, no broth or tomato sauce. Soft window light, close three-quarter view, authentic handcrafted pasta texture, neutral table. No text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cepelinai",
+    "image": "assets/generated/cepelinai-ai-v6.webp",
+    "prompt": "Professional photoreal Lithuanian cookbook food photo of Cepelinai, two large 10cm elongated oval boiled potato dumplings with slightly pointed ends and pale grey-beige gently textured potato exterior, one cut exposing cooked minced meat onion filling, served with melted butter and a spoonful of plain white yogurt. Ceramic plate, close three-quarter angle, soft window daylight, authentic dense moist potato texture. No bacon herbs tomato sauce, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pasta e Ceci",
+    "image": "assets/generated/pasta-e-ceci-ai-v6.webp",
+    "prompt": "High-end natural Italian cookbook photograph of Pasta e Ceci, rustic thick soup-stew with short small tubular pasta and whole chickpeas in creamy pale orange tomato garlic olive oil broth thickened by mashed chickpeas, subtle rosemary infusion but no sprig garnish. Deep ceramic bowl, visible tender chickpeas and pasta, natural side window light, close three-quarter angle, authentic warm edible texture. No cheese meat green vegetables, no text logos watermark collage CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sukuma Wiki",
+    "image": "assets/generated/sukuma-wiki-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Sukuma Wiki, Kenyan finely ribbon-cut cooked collard greens with softened onion and diced tomato, tender dark green moist leaves, no excess liquid, shallow ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Taze Fasulye Salatası",
+    "image": "assets/generated/taze-fasulye-salatasi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Taze Fasulye Salatası, blanched tender green beans cut in halves, diced tomato, thin red onion half moons and chopped parsley in light lemon olive oil dressing, ceramic salad bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cevizli Biber Ezmesi",
+    "image": "assets/generated/cevizli-biber-ezmesi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Cevizli Biber Ezmesi, roasted red kapya pepper walnut bread garlic cumin spread, thick lightly coarse red-orange paste with visible fine walnut fragments, olive oil sheen, shallow meze plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cevizli Bal Kabaklı Kahvaltı Ezmesi",
+    "image": "assets/generated/cevizli-bal-kabakli-kahvalti-ezmesi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Cevizli Bal Kabaklı Kahvaltı Ezmesi, thick savory roasted pumpkin tahini spread with coarsely chopped walnuts, orange matte creamy puree, lemon olive oil cumin, spread in a small ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Domatesli Ekmek Aşı",
+    "image": "assets/generated/domatesli-ekmek-asi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Domatesli Ekmek Aşı, Turkish rustic stale bread cubes softened but intact in thick tomato onion garlic sauce with dried mint, moist red-coated irregular bread pieces in shallow bowl, no cheese. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yoğurtlu Kuru Biber",
+    "image": "assets/generated/yogurtlu-kuru-biber-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Yoğurtlu Kuru Biber, boiled and sautéed chopped dried red peppers, wrinkled deep red tender skins mixed into thick white garlic yogurt, ceramic meze bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Beyaz Peynir Ezmesi",
+    "image": "assets/generated/beyaz-peynir-ezmesi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Beyaz Peynir Ezmesi, rustic white feta yogurt spread mashed with a fork, lightly grainy texture, finely chopped dill, tiny lemon zest flecks, black pepper and olive oil, meze dish. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sarımsaklı Fırın Domates",
+    "image": "assets/generated/sarimsakli-firin-domates-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Sarımsaklı Fırın Domates, horizontally halved red tomatoes roasted cut side up in small baking dish with thin garlic slices olive oil thyme, wrinkled browned edges, concentrated red juices. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Fırında Patates Kabuğu Dolgusu",
+    "image": "assets/generated/firinda-patates-kabugu-dolgusu-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Fırında Patates Kabuğu Dolgusu, twice baked lengthwise potato halves with skins, filled with mashed potato butter yogurt chopped scallion, topped with melted golden browned kaşar cheese, ceramic plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Domatesli İrmik Köftesi",
+    "image": "assets/generated/domatesli-irmik-koftesi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Domatesli İrmik Köftesi, small hazelnut-size round semolina dumplings simmered in red tomato garlic olive oil sauce, pale golden tender balls with grainy texture, shallow bowl, no meat. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yeşil Mercimekli Pirinç Pilavı",
+    "image": "assets/generated/yesil-mercimekli-pirinc-pilavi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Yeşil Mercimekli Pirinç Pilavı, separate fluffy white rice grains mixed with intact green-brown lentils and finely sautéed onion, lightly olive oil coated, ceramic bowl, no herbs or extras. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Nohutlu Patlıcan Tava",
+    "image": "assets/generated/nohutlu-patlican-tava-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Nohutlu Patlıcan Tava, Turkish tender two-centimeter eggplant cubes with alternating strips of purple skin, whole chickpeas, onion garlic diced tomato in thick reddish braising sauce, rustic skillet. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Elma Kompostosu",
+    "image": "assets/generated/elma-kompostosu-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Elma Kompostosu, Turkish chilled apple compote, peeled large pale apple cubes suspended in clear pale golden sugar syrup infused with cinnamon, glass serving bowl, no cinnamon stick remaining. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Demirhindi Şerbeti",
+    "image": "assets/generated/demirhindi-serbeti-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Demirhindi Şerbeti, chilled strained tamarind sherbet, translucent deep brown amber drink in elegant simple clear glasses, subtle condensation, tamarind fruit discreetly beside glass, no ice garnish. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Salatalıklı Ayran",
+    "image": "assets/generated/salatalikli-ayran-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Salatalıklı Ayran, smooth blended cucumber mint yogurt drink, very pale mint green-white with tiny green flecks and light frothy surface, tall plain glass, subtle condensation, no chunky cucumber soup. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Chili con Carne",
+    "image": "assets/generated/chili-con-carne-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Chili con Carne, thick rich red tomato stew of browned ground beef, whole red kidney beans, diced red pepper and onion, cumin chili, deep ceramic bowl, no cheese sour cream herbs. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Isırgan Çorbası",
+    "image": "assets/generated/isirgan-corbasi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Isırgan Çorbası, Turkish nettle soup, chopped dark green nettle leaves in lightly thickened green broth with fine cornmeal and softened onion, textured leafy surface, rustic bowl, no cream. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Lebeniye Çorbası",
+    "image": "assets/generated/lebeniye-corbasi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Lebeniye Çorbası, creamy white yogurt soup with rice whole chickpeas and small hazelnut-size browned meatballs, dried mint butter drizzled over top, deep ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Zeytinyağlı Bakla",
+    "image": "assets/generated/zeytinyagli-bakla-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Zeytinyağlı Bakla, Turkish young broad bean PODS cooked whole and halved, tender green-brown long flat pods in light olive oil lemon onion sauce, finely chopped dill, ceramic plate, no shelled beans. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "İnegöl Köfte",
+    "image": "assets/generated/inegol-kofte-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: İnegöl Köfte, authentic Turkish grilled finger-thick cylindrical beef meatballs about eight centimeters long, browned seared surfaces and juicy texture, several on a ceramic plate, no filling or sauce. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Hasanpaşa Köfte",
+    "image": "assets/generated/hasanpasa-kofte-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Hasanpaşa Köfte, thick baked meatball cups filled with spooned mashed potato, topped with golden melted kaşar cheese, several individual cup shapes in shallow reddish tomato sauce, ceramic serving dish. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Hatay Kağıt Kebabı",
+    "image": "assets/generated/hatay-kagit-kebabi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Hatay Kağıt Kebabı, thin oval one-centimeter-thick minced meat kebab flecked with finely chopped pepper onion parsley garlic, baked browned on parchment with tomato slices on top, meat juices on paper. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Fırında Kuzu İncik",
+    "image": "assets/generated/firinda-kuzu-incik-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Fırında Kuzu İncik, braised bone-in lamb shank, deeply browned tender meat pulling from exposed bone, rich glossy reduced tomato gravy with cooked carrot onion garlic pieces, ceramic plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ev Yapımı Et Döner",
+    "image": "assets/generated/ev-yapimi-et-doner-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Ev Yapımı Et Döner, homemade ground beef döner sliced very thin two-to-three millimeter irregular oval leaves then pan browned in butter, piled loosely on warm ceramic plate, browned edges and tender meat, no sauce. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tavuk Şinitzel",
+    "image": "assets/generated/tavuk-sinitzel-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Tavuk Şinitzel, thin broad chicken breast schnitzel with golden crisp fine breadcrumb coating, one piece cut showing juicy fully cooked white meat, lemon wedges on ceramic plate, no sauce. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yoğurtlu Köz Patlıcan",
+    "image": "assets/generated/yogurtlu-koz-patlican-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Yoğurtlu Köz Patlıcan, thick creamy roasted eggplant garlic strained yogurt meze, finely chopped smoky peeled eggplant strands in pale ivory yogurt, light olive oil drizzle, shallow meze plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Köz Soğan Mezesi",
+    "image": "assets/generated/koz-sogan-mezesi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Köz Soğan Mezesi, small peeled onion halves roasted until soft caramelized golden brown, layers intact, glazed with dark pomegranate molasses olive oil sumac dressing and chopped parsley, ceramic plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yumurta Piyazı",
+    "image": "assets/generated/yumurta-piyazi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Yumurta Piyazı, thick slices and wedges of hard boiled egg tossed gently with chopped scallion parsley dill, lemon olive oil and reddish sumac, distinct yolks and whites on ceramic plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sütlü Biber",
+    "image": "assets/generated/sutlu-biber-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Sütlü Biber, sautéed chunky green peppers in a smooth thick white milk and flour butter sauce with red paprika butter drizzled on top, shallow rustic pan. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Limonlu Havuç Salatası",
+    "image": "assets/generated/limonlu-havuc-salatasi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Limonlu Havuç Salatası, coarse grated raw orange carrot with chopped parsley, lemon olive oil cumin dressing, crisp lightly softened strands, small ceramic salad bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Lahana Sarması",
+    "image": "assets/generated/lahana-sarmasi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Lahana Sarması, Turkish neat short rolls of tender translucent pale cabbage leaves around cooked minced meat rice onion parsley filling, light reddish tomato cooking sauce, one cut revealing filling. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Patlıcan Dolması",
+    "image": "assets/generated/patlican-dolmasi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Patlıcan Dolması, small thick fresh eggplants cut crosswise into upright hollow cups with dark purple skins, braised and filled with minced meat cooked rice onion parsley tomato filling, shallow tomato sauce. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Şalgam Dolması",
+    "image": "assets/generated/salgam-dolmasi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Şalgam Dolması, peeled white turnips hollowed whole and cooked upright, tender pale round turnip cups filled with savory minced meat rice onion parsley tomato filling, shallow reddish sauce. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "İkbebet",
+    "image": "assets/generated/ikbebet-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: İkbebet, Mardin large lemon-sized oval boiled bulgur dumplings, finely grainy pale beige smooth thin shells, one cut exposing cooked minced meat onion filling, plain plate, not fried, no sauce. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yoğurtlu Bulgur Köftesi",
+    "image": "assets/generated/yogurtlu-bulgur-koftesi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Yoğurtlu Bulgur Köftesi, small one-and-half centimeter lightly flattened boiled bulgur balls topped with thick garlic yogurt and red tomato paste butter pepper drizzle, visible grainy beige dumplings. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pelmeni",
+    "image": "assets/generated/pelmeni-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Pelmeni, small boiled pale dumplings shaped as folded half moons with joined tips forming little rings, minced meat onion filling, light melted butter coating, one cut showing cooked meat, ceramic plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Siu Mai",
+    "image": "assets/generated/siu-mai-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Siu Mai, small open topped cylindrical steamed wonton dumplings filled with chicken mince chopped shrimp mushroom scallion ginger, soft pale wrappers gathered around sides, moist textured exposed filling, bamboo steamer. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tortelli di Zucca",
+    "image": "assets/generated/tortelli-di-zucca-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Tortelli di Zucca, hand made rectangular folded pasta parcels with fork pressed edges, boiled tender pale dough filled with orange roasted pumpkin parmesan nutmeg, butter and sage coating, one cut open. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kartoffelklosse",
+    "image": "assets/generated/kartoffelklosse-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Kartoffelklosse, large round pale boiled potato dumplings with smooth slightly textured surface, one cut revealing a few toasted bread cubes inside, melted butter sheen, ceramic plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pasta e Fagioli",
+    "image": "assets/generated/pasta-e-fagioli-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Pasta e Fagioli, thick rustic Italian soup of short tubular pasta whole white beans some mashed beans, diced carrot onion in creamy red tomato olive oil broth, deep ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Zuppa di Farro",
+    "image": "assets/generated/zuppa-di-farro-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Zuppa di Farro, rustic Italian farro soup with plump brown farro grains whole white beans diced carrot onion tomato in light red broth, hearty texture, deep bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Poulet Basquaise",
+    "image": "assets/generated/poulet-basquaise-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Poulet Basquaise, browned chicken thighs braised in rich red tomato sauce with long softened pepper and onion strips and garlic, rustic ceramic serving dish. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ajo Blanco",
+    "image": "assets/generated/ajo-blanco-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Ajo Blanco, Spanish cold smooth ivory almond garlic bread soup, olive oil sheen, topped with a few halved pale green grapes, shallow ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Bacalhau à Brás",
+    "image": "assets/generated/bacalhau-a-bras-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Bacalhau à Brás, Portuguese shredded cooked white cod with thin golden matchstick potatoes softened onion and fully set scrambled egg, black olives and chopped parsley, ceramic plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Stoemp",
+    "image": "assets/generated/stoemp-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Stoemp, Belgian coarsely mashed potatoes and carrot with softened leek rings, pale golden mash speckled orange and pale green, butter and milk creamy texture, no sausage, ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Steak au Poivre",
+    "image": "assets/generated/steak-au-poivre-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Steak au Poivre, thick beef tenderloin medallion seared brown with coarse cracked black pepper crust, one sliced showing gently pink cooked center, creamy tan Dijon beef stock pepper sauce alongside, no sides. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Orecchiette con Cime di Rapa",
+    "image": "assets/generated/orecchiette-con-cime-di-rapa-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Orecchiette con Cime di Rapa as this recipe uses broccoli: small ear-shaped pasta tossed with tender small broccoli florets partly mashed into olive oil garlic anchovy sauce and red chili flakes, no cheese. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Borscht",
+    "image": "assets/generated/borscht-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Borscht, deep ruby red beet soup with grated beet carrot shredded cabbage and potato cubes, spoonful of plain white yogurt and chopped dill on top, deep ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Żurek",
+    "image": "assets/generated/zurek-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Żurek, creamy pale beige sour rye soup with potato cubes slices of reddish cooked sucuk sausage onion garlic marjoram, topped with halved hard boiled egg, rustic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Irish Colcannon",
+    "image": "assets/generated/irish-colcannon-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Irish Colcannon, creamy mashed potato mixed with tender finely shredded cabbage and chopped scallion, small well at center holding melting golden butter, black pepper flecks, rustic ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Arpa Şehriyeli Domates Dolması",
+    "image": "assets/generated/arpa-sehriyeli-domates-dolmasi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Arpa Şehriyeli Domates Dolması, whole red tomatoes hollowed and baked with their matching top caps, filled with orzo pasta crumbled white feta parsley and thick tomato sauce, tender intact walls, small baking dish. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pırasa Borani",
+    "image": "assets/generated/pirasa-borani-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Pırasa Borani, tender cooked half-centimeter leek rings mixed into thick white garlic yogurt, drizzled with olive oil and red pepper flakes, creamy pale green meze in shallow ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ayva Kompostosu",
+    "image": "assets/generated/ayva-kompostosu-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Ayva Kompostosu, peeled quince cut into uniform small pale golden cubes in clear light golden sugar syrup infused with clove but cloves removed, glass serving bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kızılcık Şerbeti",
+    "image": "assets/generated/kizilcik-serbeti-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Kızılcık Şerbeti, chilled Turkish cornelian cherry sherbet, deep rich ruby-red drink with natural slight cloudiness in clear simple glass, subtle condensation, a few red cornelian cherries beside glass. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ev Yapımı Salep",
+    "image": "assets/generated/ev-yapimi-salep-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Ev Yapımı Salep, hot Turkish thickened milk drink made with pure salep, creamy ivory surface lightly sprinkled ground cinnamon, simple ceramic cup, delicate steam, no whipped cream. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Manisa Kebabı",
+    "image": "assets/generated/manisa-kebabi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Manisa Kebabı, thin long grilled minced beef kebabs laid on pieces of pide bread soaked with red tomato sauce and foaming butter, grilled tomato halves green peppers and sumac parsley onion alongside, authentic plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kaz Tiridi",
+    "image": "assets/generated/kaz-tiridi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Kaz Tiridi, Turkish goose tirit served on platter, large pieces of soft yufka bread briefly soaked in goose broth beneath central bulgur pilaf topped with shredded cooked goose and browned crisp goose skin, natural fat sheen. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Midye Dolma",
+    "image": "assets/generated/midye-dolma-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Midye Dolma, Turkish stuffed black mussel shells, some open to reveal mussel meat and cooked spiced rice with tiny currants pine nuts, lemon wedges, authentic arranged platter. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sokak Simidi",
+    "image": "assets/generated/sokak-simidi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Sokak Simidi, authentic Turkish street simit, twisted double-rope bread rings with large central holes and dense toasted sesame coating, deep golden crisp crust, one broken showing airy bread crumb, neutral linen. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Otlu Gözleme",
+    "image": "assets/generated/otlu-gozleme-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Otlu Gözleme, thin pan cooked envelope flatbread filled with finely chopped spinach chard scallion and lor curd cheese, mottled golden brown toasted spots, cut squares revealing green white filling, ceramic plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tepsi Mantısı",
+    "image": "assets/generated/tepsi-mantisi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Tepsi Mantısı, tiny open boat-shaped Turkish pasta dumplings packed closely in a tray, exposed cooked minced meat centers, browned dough tips softened with hot water, garlic yogurt added with red pepper butter drizzle. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kaşarlı Pide",
+    "image": "assets/generated/kasarli-pide-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Kaşarlı Pide, long narrow boat-shaped Turkish flatbread with pinched pointed ends and raised golden edges brushed butter, filled with bubbling melted golden kaşar cheese, sliced across, wooden board. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Mercimekli Bükme",
+    "image": "assets/generated/mercimekli-bukme-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Mercimekli Bükme, Turkish rectangular folded layered pastries, golden flaky dough brushed with ground poppy seed paste oil, filled with cooked green lentils and sautéed onion, one broken exposing lentils and fine speckled layers. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Nohutlu Bulgur Pilavı",
+    "image": "assets/generated/nohutlu-bulgur-pilavi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Nohutlu Bulgur Pilavı, separate coarse cooked bulgur grains colored warm orange by red pepper paste, mixed with whole chickpeas and softened finely chopped onion, butter sheen, shallow ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tulumba Tatlısı",
+    "image": "assets/generated/tulumba-tatlisi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Tulumba Tatlısı, Turkish short four-centimeter ridged star-piped fried choux sweets, dark golden crisp deeply fluted exterior soaked in clear sugar syrup, several piled on small plate, no garnish. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Höşmerim",
+    "image": "assets/generated/hosmerim-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Höşmerim, Turkish sweet lor cheese milk semolina pudding, warm pale yellow thick spoonable grainy creamy texture, subtle butter sheen, small ceramic dessert bowl, no garnish. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tavukgöğsü",
+    "image": "assets/generated/tavukgogsu-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Tavukgöğsü, Turkish milk pudding made with extremely fine chicken fibers fully dispersed, smooth white firm elastic rectangular slices, lightly dusted cinnamon, no visible meat chunks, ceramic dessert plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Aşure",
+    "image": "assets/generated/asure-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Aşure, Turkish Noah pudding, thick glossy wheat berry pudding with whole chickpeas white beans chopped dried apricot fig raisins and orange zest, topped with chopped walnuts only, ceramic bowl. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Nevzine",
+    "image": "assets/generated/nevzine-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Nevzine, Turkish tahini walnut tray dessert, thick rectangular slices of golden-brown dense baked dough with fork-drawn parallel grooves, walnut pieces in crumb, absorbed grape molasses sugar syrup, dessert plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Bülbül Yuvası",
+    "image": "assets/generated/bulbul-yuvasi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Bülbül Yuvası, Turkish bird nest baklava, circular tightly pleated golden phyllo rings filled at centers with chopped walnuts, delicate flaky layers with clear syrup gloss, small dessert plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Vezir Parmağı",
+    "image": "assets/generated/vezir-parmagi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Vezir Parmağı, Turkish finger-shaped baked semolina sweets coated in fine semolina, short rounded golden cylinders soaked in clear sugar syrup, subtly grainy golden crust, dessert plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "İzmir Lor Kurabiyesi",
+    "image": "assets/generated/izmir-lor-kurabiyesi-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: İzmir Lor Kurabiyesi, Turkish round lor cheese cookies, pale golden domed soft cookies with gently cracked tops and browned bottoms, one broken showing tender fine cheese crumb, no icing garnish. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Mozaik Pasta",
+    "image": "assets/generated/mozaik-pasta-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Mozaik Pasta, Turkish no-bake chocolate biscuit mosaic cake, triangular slices with rich dark cocoa butter matrix and irregular large pale petit beurre biscuit pieces and walnuts, chilled firm texture, ceramic plate. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Havuçlu Cevizli Tarçınlı Kek",
+    "image": "assets/generated/havuclu-cevizli-tarcinli-kek-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Havuçlu Cevizli Tarçınlı Kek, unfrosted carrot walnut cinnamon cake, round golden-brown cake with one wedge cut showing moist tan crumb flecked fine orange carrot and walnut chunks, no icing or garnish. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Saint-Honoré",
+    "image": "assets/generated/saint-honore-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Saint-Honoré, classic French round puff pastry base with baked choux rim, ring of small vanilla pastry cream filled choux puffs capped in glossy amber caramel, center filled with elegant piped light vanilla whipped cream, entire patisserie visible. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cassoulet",
+    "image": "assets/generated/cassoulet-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Cassoulet made to this recipe: tender white beans with browned chicken thighs and thick reddish sucuk sausage slices, diced onion carrot tomato garlic thyme, thick reduced stew under golden breadcrumb crust, rustic casserole. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Gratin Dauphinois",
+    "image": "assets/generated/gratin-dauphinois-ai-v6.webp",
+    "prompt": "Professional photorealistic natural cookbook food photograph: Gratin Dauphinois, thin two-millimeter overlapping potato slices baked in garlic milk cream nutmeg, creamy ivory layers and browned golden cream crust, spooned portion showing layers, no cheese, ceramic baking dish. Soft side window daylight, neutral linen tabletop, close three-quarter composition, sharp authentic edible textures and accurate ingredients, appetizing understated styling. No text logos watermark collage, no plastic CGI.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Farinata",
+    "image": "assets/generated/farinata-ai-v6.webp",
+    "prompt": "Photorealistic premium cookbook food photograph, Farinata, authentic thin Italian chickpea-flour pancake baked in a round shallow dark metal pan, only 1 cm thick, crisp golden oily edge and mottled browned surface, rosemary needles and black pepper. One triangular slice lifted slightly to reveal dense tender pale golden interior. Natural window light, detailed real baked textures, restrained rustic table, three-quarter close view, entire food framed. No text, no watermark, no logo, no collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Beef Stroganoff",
+    "image": "assets/generated/beef-stroganoff-ai-v6.webp",
+    "prompt": "Photorealistic high-end cookbook photo of Beef Stroganoff: seared thin beef tenderloin strips with sliced browned mushrooms and finely softened onion in thick silky pale tan cream mustard sauce, shallow ceramic bowl, no pasta or rice. Real irregular meat fibers and mushroom gills, gentle sheen, generous appetizing serving, natural soft side daylight, close three-quarter composition, rustic understated table, tack sharp food textures, no lettering, logos, watermark or collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Zapiekanka",
+    "image": "assets/generated/zapiekanka-ai-v6.webp",
+    "prompt": "Premium photorealistic cookbook photograph of Polish Zapiekanka: several long open baguette halves generously topped with finely chopped sautéed mushroom and onion, melted browned pale yellow cheese, thin ketchup zigzag lines and finely chopped parsley. Crisp baguette crumb and crust clearly visible, oven toasted edges, natural window light, rustic board, close three-quarter view, detailed authentic real food. No text, watermark, logos, collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Welsh Rarebit",
+    "image": "assets/generated/welsh-rarebit-ai-v6.webp",
+    "prompt": "Photorealistic professional cookbook food photo, Welsh Rarebit. Thick rustic toast slices completely coated in rich cheddar mustard bechamel sauce grilled until bubbling and mottled dark golden brown, crisp bread crust visible at sides, black pepper flecks, no meat and no egg. Two overlapping slices on simple cream ceramic plate, natural window side light, close three-quarter angle, authentic imperfect toasted cheese texture and moist sauce, highly detailed appetizing real food, no text, logo, watermark, collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Semmelknödel",
+    "image": "assets/generated/semmelknodel-ai-v6.webp",
+    "prompt": "Photorealistic premium cookbook image of Semmelknödel, German boiled bread dumplings. Four round pale beige bread dumplings with irregular visible softened bread cubes and finely chopped parsley flecks, gently moist slightly bumpy surfaces, one dumpling cut in half showing airy bread crumb interior, no browned crust. Simple ceramic plate, tiny melted butter sheen, warm natural window light, intimate three-quarter view, sharp real food textures, no text, no logos, no watermark or collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Cocido Madrileño",
+    "image": "assets/generated/cocido-madrileno-ai-v6.webp",
+    "prompt": "Photorealistic editorial cookbook photograph of Cocido Madrileño adapted with beef and chicken only: large rustic platter of tender cooked beef chunks, chicken thigh, plentiful whole chickpeas, large boiled potato chunks, carrot lengths and soft cabbage wedges, naturally moist with a little golden broth. Small bowl of clear broth with fine vermicelli behind the main platter. Authentic Spanish home meal, no pork or sausage. Warm daylight, three-quarter view, realistic fibers and chickpea texture, tasteful neutral table, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Croque Monsieur",
+    "image": "assets/generated/croque-monsieur-ai-v6.webp",
+    "prompt": "Photorealistic luxury cookbook close-up of Croque Monsieur made with cooked turkey slices instead of ham. Toasted square sandwich filled with thin pale pink cooked turkey and gruyere, topped with creamy thick bechamel and deeply bubbling golden brown melted gruyere, cut diagonally to show distinct bread turkey cheese layers. No egg on top. Two triangular halves on ceramic plate, natural Parisian cafe window lighting, crisp toast pores and rich authentic sauce texture, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Salade de Lentilles",
+    "image": "assets/generated/salade-de-lentilles-ai-v6.webp",
+    "prompt": "Photorealistic high quality cookbook photograph of French Salade de Lentilles: distinct cooked green-brown lentils retaining shape, tiny cooked carrot cubes, very finely diced raw onion and chopped flat parsley, lightly glossy mustard vinaigrette, no leaves or tomatoes. Generous mound in shallow off-white ceramic bowl, natural side daylight, close 45 degree angle, real earthy lentil skins, subtle rustic linen, no text no logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Chicken Pot Pie",
+    "image": "assets/generated/chicken-pot-pie-ai-v6.webp",
+    "prompt": "High quality photorealistic cookbook photograph of chicken pot pie in a shallow cream ceramic baking dish, beautifully puffed flaky golden pastry lid with steam slit, one generous portion opened at front revealing thick creamy chicken breast cubes, green peas, small orange carrot and onion pieces, moist filling spilling slightly onto plate. Real laminated pastry layers, warm natural daylight, close three-quarter angle, restrained kitchen backdrop, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Dal Makhani",
+    "image": "assets/generated/dal-makhani-ai-v6.webp",
+    "prompt": "Photorealistic premium cookbook photograph of authentic Dal Makhani, very thick creamy dark brown-black whole urad lentil stew with occasional kidney beans, slow cooked tomato onion ginger spices, small elegant cream swirl and melting butter at center, served in low Indian copper bowl. Visible soft black lentil skins within rich velvety textured gravy, no orange smooth puree. Warm natural side lighting, close three-quarter frame, detailed edible realism, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kiribath",
+    "image": "assets/generated/kiribath-ai-v6.webp",
+    "prompt": "Photorealistic premium cookbook photograph of Sri Lankan Kiribath: neatly cut diamond shaped pieces of white coconut milk rice, 2cm thick, rice grains visibly bound together into soft firm glossy white slabs, arranged overlapping on dark handmade platter, no sugar toppings, no nuts, no colored garnish. Real individual short rice grains and moist coconut texture, natural window light, three-quarter close-up, understated linen and wood backdrop, authentic simplicity, no text logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Bhuna Khichuri",
+    "image": "assets/generated/bhuna-khichuri-ai-v6.webp",
+    "prompt": "Photorealistic premium cookbook image of Bangladeshi Bhuna Khichuri: golden turmeric rice and toasted yellow mung lentils cooked together with distinct grains, potato cubes, green peas, softly browned onion strands, a bay leaf and a few cardamom pods. Fluffy moist textured rice mound in shallow brass bowl, no meat, natural warm daylight, close three-quarter angle, realistic individual grain texture and natural appetizing variation, understated rustic background. No writing logos watermarks collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kabocha no Nimono",
+    "image": "assets/generated/kabocha-no-nimono-ai-v6.webp",
+    "prompt": "Photorealistic fine Japanese cookbook food photograph of Kabocha no Nimono following peeled pumpkin recipe: tender orange pumpkin irregular 4cm chunks without skin, simmered in dashi soy broth, intact soft corners, tiny scattered sesame seeds, shallow small pool of translucent amber broth in dark Japanese ceramic bowl. Natural soft window light, close three-quarter frame, realistic tender pumpkin fibers and subdued sheen, minimalist linen background, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Di San Xian",
+    "image": "assets/generated/di-san-xian-ai-v6.webp",
+    "prompt": "Photorealistic high quality Chinese cookbook photograph of Di San Xian, three treasures stir fry, golden potato thick slices, creamy browned eggplant chunks with dark purple skin, vivid green pepper pieces, minced garlic, coated in thin glossy brown soy glaze clinging to vegetables, not watery. Plentiful food on simple white oval serving plate, natural daylight, close three-quarter angle, realistic blistering and seared edges, no meat, no rice, no words logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Dubu Jorim",
+    "image": "assets/generated/dubu-jorim-ai-v6.webp",
+    "prompt": "Photorealistic premium Korean cookbook photo of Dubu Jorim, thick rectangular slices of firm tofu pan fried with golden edges then braised in reddish brown soy gochugaru garlic sauce, soft white porous tofu visible through glaze, sliced green scallions and sesame seeds atop. Six overlapping rectangles in shallow dark ceramic serving dish, small pool of savory sauce, natural side window light, high detail real tofu texture, close three-quarter angle, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Som Tam",
+    "image": "assets/generated/som-tam-ai-v6.webp",
+    "prompt": "Photorealistic premium Thai cookbook photograph of Som Tam: crisp thin pale green julienned unripe papaya strands tossed with halved red cherry tomatoes, 3cm green bean lengths, chopped roasted peanuts and small red chili slices in translucent lime fish sauce dressing. Airy tangled salad mound on simple ceramic plate, no orange ripe papaya, fresh juicy real vegetables, natural tropical window light, close three-quarter angle, sharp lifelike texture, no words no logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Gado Gado",
+    "image": "assets/generated/gado-gado-ai-v6.webp",
+    "prompt": "Photorealistic premium Indonesian cookbook food photograph of Gado Gado based on simple recipe: boiled potato cubes, green bean segments, soft cabbage pieces, golden pan fried tofu cubes, quartered hard boiled eggs, all arranged on broad ceramic plate with thick tan peanut sauce drizzled generously across center. No noodles, no meat. Real moist vegetable textures, crumbly golden egg yolks and tofu pores, natural window daylight, three-quarter close-up, authentic home cooking, no text logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pancit Bihon",
+    "image": "assets/generated/pancit-bihon-ai-v6.webp",
+    "prompt": "Photorealistic premium Filipino cookbook photograph of Pancit Bihon: very fine rice vermicelli noodles lightly tan from soy sauce, tossed with cooked chicken breast strips, thin cabbage ribbons, julienned orange carrots and softened onion, lemon wedges at plate edge. Delicate distinct thin noodles not thick wheat spaghetti, lightly glossy and moist without broth. Generous serving on ceramic platter, soft natural daylight, close three-quarter view, authentic detailed textures, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yassa Poulet",
+    "image": "assets/generated/yassa-poulet-ai-v6.webp",
+    "prompt": "Photorealistic premium West African cookbook photograph of Senegalese Yassa Poulet: browned chicken thighs nestled on abundant silky soft caramelized thin half-moon onion strands in tangy lemon mustard golden brown sauce, garlic pepper flecks, natural irregular caramelization, no olives, no tomatoes. Generous serving in shallow handmade ceramic dish, warm natural window light, close three-quarter frame, realistic cooked skin and onion texture, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Bostana",
+    "image": "assets/generated/bostana-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph of Urfa Bostana salad: very finely diced ripe tomatoes and cucumber about 4mm, finely chopped green pepper, spring onion and parsley, isot red-black pepper flecks, abundant watery reddish pomegranate dressing so salad is spoonable and juicy. Deep handmade ceramic bowl with spoon resting alongside, no pomegranate seeds. Fresh natural window light, close three-quarter angle, realistic translucent vegetable juices and crisp dice, no text watermark logo collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yoğurtlu Buğday Salatası",
+    "image": "assets/generated/yogurtlu-bugday-salatasi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph of Yoğurtlu Buğday Salatası, creamy cold salad of plump whole cooked wheat berries visibly mixed with small cucumber cubes, finely chopped fresh dill and thick white garlic yogurt, subtle golden olive oil drizzle. Wheat berries tan oval and textured, white yogurt coats but grains remain distinct, generous serving in shallow ceramic bowl, natural soft daylight, close three-quarter view, refreshing real food textures, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tahinli Kabak Salatası",
+    "image": "assets/generated/tahinli-kabak-salatasi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook food photo of Tahinli Kabak Salatası: long thin lengthwise zucchini slices skin on, 5mm thick, grilled with irregular brown sear marks, fanned and overlapping on broad ceramic platter, creamy beige tahini lemon garlic sauce drizzled in ribbons, toasted sesame seeds. No yogurt, no cheese. Natural soft window light, close three-quarter angle, real tender grilled vegetable fibers and sauce texture, understated linen table, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Fırında Peynirli Domates",
+    "image": "assets/generated/firinda-peynirli-domates-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph of Fırında Peynirli Domates: red tomatoes cut horizontally into halves and slightly hollowed, filled with crumbly white feta cheese mixed with egg and chopped parsley, sprinkled with fine breadcrumbs then baked golden with lightly browned crust. Six tomato halves retaining their bowl shape in shallow cream ceramic baking dish, a little olive oil and tomato juice at bottom. Real roasted tomato skin and crumb texture, soft natural daylight, close three-quarter view, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yumurtalı Pide",
+    "image": "assets/generated/yumurtali-pide-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph of Yumurtalı Pide: long oval boat-shaped thin bread with pointed ends and raised folded golden crust, melted kaşar cheese filling with one whole baked egg centered, egg whites fully set and yolk golden, butter-brushed crisp edges. One pide on wooden board, natural side daylight, three-quarter view, authentic Turkish bakery texture, detailed bread bubbles, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Piruhi",
+    "image": "assets/generated/piruhi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook food photo of Piruhi, boiled triangular cheese dumplings made from 2mm pasta dough folded from 5cm squares with lor cheese parsley filling. Several pale ivory soft triangles with pressed sealed edges layered in shallow ceramic plate, topped with foaming golden melted butter and coarsely chopped walnuts, no tomato sauce or yogurt. One open corner revealing white curd and parsley, natural window light, close three-quarter view, realistic moist dough, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sebzeli Bulgur Pilavı",
+    "image": "assets/generated/sebzeli-bulgur-pilavi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph of Sebzeli Bulgur Pilavı: fluffy coarse golden bulgur grains tossed with 1cm zucchini cubes, orange carrot cubes, green peas, soft onion and finely chopped dill. No tomato red coloring, no meat. Plentiful mound in simple ceramic bowl, realistic distinct bulgur grains and cooked vegetable texture, warm natural side light, close three-quarter angle, subtle linen tabletop, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Şekerpare",
+    "image": "assets/generated/sekerpare-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish dessert cookbook photo of Şekerpare: small round domed golden semolina butter cookies soaked with clear sugar syrup, each with one whole hazelnut pressed into center, tender slightly grainy baked surface and golden edges. Six pastries on elegant shallow ceramic plate with a little syrup pool, one cut showing moist dense fine crumb, warm natural window light, close three-quarter frame, no pistachio or coconut, no text logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Süt Helvası",
+    "image": "assets/generated/sut-helvasi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish dessert cookbook image of Bursa Süt Helvası, smooth creamy ivory milk flour butter pudding in shallow round ceramic baking dish, thin skin on top caramelized with irregular amber and deep brown toasted patches, gently scooped portion at front revealing silky soft pale cream interior. No rice grains, no toppings. Warm natural side window light, three-quarter close-up, realistic delicate baked milk surface, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Su Muhallebisi",
+    "image": "assets/generated/su-muhallebisi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish dessert cookbook photograph of Su Muhallebisi: simple chilled milk-and-water starch pudding cut into neat white slightly translucent cubes, silky smooth glossy sides and soft wobble, lightly dusted powdered sugar just before serving with tiny clear rosewater droplets on plate. Several cubes on white ceramic dessert plate, no nuts, no syrup color, no fruit garnish. Soft natural daylight, close three-quarter angle, real delicate gelatinous pudding texture, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kabak Tatlısı",
+    "image": "assets/generated/kabak-tatlisi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish dessert cookbook photograph of Kabak Tatlısı: thick orange pumpkin slices cooked tender in own sugar syrup, keeping natural wedge shapes, glossy amber syrup, creamy beige tahini ribbons and coarsely chopped walnuts. Three pieces on simple pale ceramic plate, real tender pumpkin fibers, syrup shine and walnut wrinkles, warm natural window side light, three-quarter close-up, elegant authentic Turkish home dessert, no text logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Aside",
+    "image": "assets/generated/aside-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph of Aside dessert, thick smooth deep amber-brown grape molasses flour pudding spread in a shallow rustic ceramic serving bowl, dense glossy spoonable gel with broad gentle spoon ridges, golden melted butter poured across surface and tiny butter pools. No nuts or fruit. Natural warm side daylight, three-quarter close view, authentic real pudding texture, understated table, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Burma Kadayıf",
+    "image": "assets/generated/burma-kadayif-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish dessert cookbook photograph of Burma Kadayıf: thick twisted rope shaped shredded kadayif pastry rolls stuffed with coarsely chopped pistachios, tightly adjacent in round shallow metal tray, crisp deep golden hair-fine pastry threads coated in clear syrup. One portion cut exposing green pistachio filling, few pistachio crumbs, no cheese. Warm natural side light, close three-quarter angle, extremely detailed genuine shredded pastry fibers, no words logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "İzmir Bomba",
+    "image": "assets/generated/izmir-bomba-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish bakery cookbook photograph of İzmir Bomba: small round pastry balls with extremely thin pale lightly baked dough shell enclosing abundant molten dark chocolate hazelnut spread. Three whole pale beige balls and one freshly cut open with glossy chocolate flowing thickly onto ceramic plate, paper thin shell clearly visible, no powdered sugar or nuts. Warm natural window light, close three-quarter macro food detail, realistic baked texture, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Susamlı Anne Kurabiyesi",
+    "image": "assets/generated/susamli-anne-kurabiyesi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish home baking cookbook photo of Susamlı Anne Kurabiyesi: large round domed golden cookies made with yogurt oil and egg, egg-washed shiny gently cracked tops generously sprinkled sesame seeds, soft cake-like interior shown by one broken cookie. Several cookies piled on ceramic plate, real toasted sesame and airy yellow crumb, cozy natural window light, three-quarter close view, no text logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Ağlayan Pasta",
+    "image": "assets/generated/aglayan-pasta-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish dessert cookbook photograph of Ağlayan Pasta: square slice with three clearly defined layers, moist dark cocoa sponge cake at bottom soaked in milk, thick airy white whipped cream middle, shiny dark chocolate ganache top flowing gently down edge. Simple white dessert plate, clean realistic cut crumb and cream texture, no fruit or nuts, natural side daylight, close three-quarter angle, highly appetizing authentic home cake, no text logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Islak Kek",
+    "image": "assets/generated/islak-kek-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish baking cookbook photograph of Islak Kek: square slices of dark cocoa cake saturated with cooked chocolate milk sauce, extremely moist open sponge crumb with glossy chocolate liquid at cut edges and small sauce pool on simple ceramic plate. No cream layer, no frosting mound, no fruit or nuts. Three slices with natural soft crumb, close three-quarter angle, soft window side light, rich authentic homemade texture, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Mille-feuille",
+    "image": "assets/generated/mille-feuille-ai-v6.webp",
+    "prompt": "Photorealistic premium French patisserie cookbook photo of Mille-feuille: rectangular individual pastry with exactly three thin flat crisp golden puff pastry sheets and two thick smooth pale vanilla pastry cream layers piped between, top dusted powdered sugar only, no icing patterns or fruit. Delicate hundreds of flaky laminated layers clearly visible, one pastry on elegant ceramic dessert plate, natural side daylight, three-quarter close-up, real pastry crumbs, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Linzer Torte",
+    "image": "assets/generated/linzer-torte-ai-v6.webp",
+    "prompt": "Photorealistic premium Austrian baking cookbook photograph of Linzer Torte: round almond cinnamon shortcrust tart with vivid dark red raspberry jam filling visible through thick golden brown lattice pastry strips, rustic crimped edge. One triangular wedge lifted onto plate showing crumbly nut pastry and jam layer, remaining tart behind, no fresh fruit garnish. Natural warm window light, close three-quarter angle, real delicate crumb and jam seeds, no text logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pastel de Nata",
+    "image": "assets/generated/pastel-de-nata-ai-v6.webp",
+    "prompt": "Photorealistic premium Portuguese pastry cookbook photograph of Pastel de Nata: several small round custard tarts with intensely flaky laminated puff pastry cups, creamy yellow egg custard centers with characteristic irregular dark caramelized brown blistered patches, one tart cut showing soft set silky custard. Warm natural bakery window light, simple ceramic plate, close three-quarter macro, real crispy thin pastry layers, no fruit, no text watermark logos collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kaşık Salatası",
+    "image": "assets/generated/kasik-salatasi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph of Kaşık Salatası, spoon salad with very finely chopped fresh ripe red tomatoes, cucumber tiny cubes, green peppers, spring onion, parsley, sumac flecks, lightly glossy olive oil lemon dressing. Bright juicy but not swimming in liquid, generous mound in shallow plain white ceramic serving plate, spoon alongside, natural clear window light, close three-quarter view, crisp real vegetable skin and seed detail, no text logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pancar Salatası",
+    "image": "assets/generated/pancar-salatasi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph of Pancar Salatası: small cubes of tender boiled beetroot deep ruby burgundy, glossy olive oil vinegar garlic dressing and finely chopped fresh parsley lightly tossed throughout, no yogurt cheese or nuts. Real smooth moist beet flesh with subtle irregular cut shapes, plentiful mound in shallow ivory ceramic bowl, soft natural daylight, close three-quarter view, clean appetizing understated setting, no text logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Domatesli Semizotu Salatası",
+    "image": "assets/generated/domatesli-semizotu-salatasi-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish cookbook photograph of Domatesli Semizotu Salatası: fresh purslane salad with characteristic small fleshy oval succulent green leaves and fine tender stems, ripe red tomato cubes, cucumber half moons, very thin white onion slices, light lemon olive oil dressing. No lettuce, no yogurt. Airy generous mound in shallow ceramic bowl, natural crisp daylight, three-quarter close view, botanical fidelity to edible purslane and real fresh vegetable textures, no text logos watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Haydari",
+    "image": "assets/generated/haydari-ai-v6.webp",
+    "prompt": "Photorealistic premium Turkish meze cookbook photograph of Haydari: very thick white strained yogurt and finely mashed feta dip with garlic, finely chopped dill and dried mint mixed through, sculpted with broad spoon ridges on small shallow ceramic meze plate, subtle butter sheen, holds its shape firmly. No cucumber, no tomato, no red sauce. Soft natural window light, close three-quarter angle, realistic creamy slightly curdy texture and fine green herb flecks, no words logo watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Tahin Pekmez Karışımı",
+    "image": "assets/generated/tahin-pekmez-karisimi-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook food photograph of Tahin Pekmez Karışımı: a small handmade cream ceramic shallow bowl filled with creamy pale sesame tahini and dark grape molasses, beautifully partially swirled together with dark amber ribbons, thick glossy realistic texture. On warm rustic breakfast table, close three-quarter overhead view, soft natural window light, understated linen, single finished dish hero fills frame, no text, no watermark, no collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pazı Sarması",
+    "image": "assets/generated/pazi-sarmasi-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Turkish Pazı Sarması, cooked Swiss chard leaves wrapped into small neat plump cylindrical rice rolls, dark glossy green delicate veined leaves, one cut roll revealing tender rice onion parsley tomato filling, arranged on handmade pale ceramic platter with modest reddish olive oil cooking sauce. Close overhead three-quarter angle, natural window light, linen and warm table, rich realistic food textures, no text watermark or collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pırasa Dolması",
+    "image": "assets/generated/pirasa-dolmasi-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Turkish Pırasa Dolması: translucent pale ivory and pale green cooked leek leaf strips folded into small TRIANGULAR parcels filled with rice onion parsley tomato paste, six neat triangular leek dolmas, one opened showing tender rice filling, modest light red olive oil tomato cooking sauce on a simple blue-gray ceramic plate. Soft natural window light, close three-quarter overhead composition, richly detailed leek layers and realistic moist texture, linen, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Acur Dolması",
+    "image": "assets/generated/acur-dolmasi-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Turkish Acur Dolması: short pale green ridged Armenian cucumbers hollowed and stuffed with cooked minced beef rice onion parsley tomato filling, six thick upright acur cylinders with visible open tops, one cut in half revealing dense juicy cooked filling. Braised tender slightly wrinkled ridged skins, shallow red tomato olive oil cooking sauce in rustic terracotta serving dish, natural window light, close three-quarter composition, high realism rich textures, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sıkma Köfte",
+    "image": "assets/generated/sikma-kofte-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Malatya Turkish Sıkma Köfte: small short oval boiled fine-bulgur dumplings with distinct finger squeeze indentations, coated in glossy red tomato onion butter sauce, rustic cream shallow bowl, grainy tender dumpling texture visible beneath sauce, close three-quarter overhead view, soft natural window light on warm wooden table, authentic homemade meal, no text watermark or collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Urfa Yumurtalı Köfte",
+    "image": "assets/generated/urfa-yumurtali-kofte-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Urfa Yumurtalı Köfte: loose hand-kneaded fine bulgur colored dark rusty red by isot pepper and tomato paste, gently mixed with clearly visible irregular golden scrambled egg curds, chopped parsley and spring onions, loosely spread in a broad shallow copper platter. Authentic Turkish home cooking, warm natural window light, close overhead oblique camera, individual tender grains and buttery egg texture highly realistic, no formed meatballs, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Sebzeli Momo",
+    "image": "assets/generated/sebzeli-momo-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Nepalese vegetable momo, eight freshly steamed delicate off-white dumplings folded into round pleated purses, thin tender wrappers with subtle moist sheen, one opened dumpling showing finely chopped cabbage carrot onion ginger vegetable filling. In a simple bamboo steamer on parchment, close three-quarter angle, soft natural window light, rich realistic dough textures, no meat, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Xiaolongbao",
+    "image": "assets/generated/xiaolongbao-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook food photograph of chicken Xiaolongbao soup dumplings. Small delicate rounded steamed dumplings with 12-16 finely pleated folds closed at top, thin off-white slightly translucent wrappers bulging gently with broth, arranged spaced in bamboo steamer. One held in white ceramic Chinese soup spoon with small opening revealing juicy cooked minced chicken and golden broth, no hands visible. Soft natural daylight, close three-quarter angle, realistic moist texture, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Schlutzkrapfen",
+    "image": "assets/generated/schlutzkrapfen-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Tyrolean Schlutzkrapfen: thin tender half-moon pasta dumplings with gently pressed edges, filled with spinach curd cheese onion nutmeg, tossed with melted butter, loosely arranged on light stoneware plate. One cut half moon shows deep green spinach and white curd filling. Delicate pale dough lightly glossy, no tomato sauce, no heavy garnish. Soft natural daylight, close oblique overhead camera, warm linen table, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Coxinha",
+    "image": "assets/generated/coxinha-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Brazilian Coxinha: six small pear-shaped teardrop croquettes with pointed tops and round bases, evenly golden crisp fine breadcrumb crust, one sliced open showing a thin cooked dough layer around moist shredded chicken onion cream cheese filling. On pale ceramic plate, soft natural window light, close three-quarter view, incredibly realistic crunchy crumb and chicken strands, subtle linen table, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pasta al Limone",
+    "image": "assets/generated/pasta-al-limone-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Pasta al Limone, Italian spaghetti elegantly twirled in a shallow ivory plate, coated in a light glossy emulsified butter parmesan lemon sauce, fine bright yellow lemon zest and tiny parmesan flecks, realistic separate al dente strands, fresh lemon half softly blurred behind. No cream pool, no meat or vegetables. Soft natural daylight, close three-quarter overhead view, pale linen and stone tabletop, rich realistic textures, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Stracciatella alla Romana",
+    "image": "assets/generated/stracciatella-alla-romana-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Stracciatella alla Romana, a bowl of clear golden chicken broth containing fine delicate cooked egg and parmesan wisps and ragged ribbons, tiny chopped parsley flecks and nutmeg, simple ivory ceramic soup bowl. Roman egg drop soup, light translucent broth not creamy, no noodles or vegetables. Natural soft window lighting, close overhead oblique view, rich realistic liquid highlights, pale linen table, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Carottes Vichy",
+    "image": "assets/generated/carottes-vichy-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Carottes Vichy: tender bright orange carrot coins, evenly sliced rounds, lightly glazed in butter with subtle glossy sheen, chopped parsley specks, in a shallow white porcelain serving bowl. No meat no sauce pool, authentic simple French vegetable side dish, close three-quarter overhead framing, soft natural window light, richly realistic carrot cut surfaces, pale linen and rustic wood, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Papas Arrugadas",
+    "image": "assets/generated/papas-arrugadas-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of Canarian Papas Arrugadas: small whole boiled potatoes with wrinkled brown thin skins and delicate dry white salt crust, piled in rustic dark clay bowl. A small separate ceramic bowl of vivid red pepper garlic cumin olive oil mojo sauce beside potatoes. Authentic Canarian dish, no cut roasted potatoes, soft natural sunlight, close three-quarter camera, rich realistic salt and wrinkled skin textures, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kartoffelpuffer",
+    "image": "assets/generated/kartoffelpuffer-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of German Kartoffelpuffer: thin pan-fried grated potato onion pancakes about half centimeter thick, irregular round shapes, crisp lacy golden brown edges and visible shredded potato strands, arranged slightly overlapping on rustic white ceramic platter, no sauce toppings, warm linen table. Soft natural window light, close three-quarter view, richly realistic crispy browned textures, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Blanquette de Veau",
+    "image": "assets/generated/blanquette-de-veau-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of French Blanquette de Veau: tender pale veal chunks, carrot rounds and button mushrooms in silky ivory cream egg yolk lemon sauce, in a shallow white ceramic casserole. Pale unbrowned meat, delicate glossy sauce, authentic French home cooking, no tomato. Soft natural window light, close three-quarter angle, warm wood and linen, richly realistic textures, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Poule au Pot",
+    "image": "assets/generated/poule-au-pot-ai-v6.webp",
+    "prompt": "Photorealistic natural cookbook photograph of French Poule au Pot: generous pieces of gently poached chicken with pale tender skin and juicy white meat, carrots, thick soft leek sections, halved peeled potatoes and onion in clear golden strained chicken broth, served in deep ivory ceramic plate. Authentic homely French boiled chicken dish, no roasting no browned crust. Soft natural window light, close three-quarter composition, rich realistic textures, linen wooden table, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Clam Chowder",
+    "image": "assets/generated/clam-chowder-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. One highly realistic cookbook food photograph of Clam Chowder: thick ivory cream soup with small tender potato cubes, chopped cooked clam meat and softened onion, tiny black pepper flecks. No bacon, no shells, no parsley garnish. Served hot in an off-white ceramic bowl, three quarter overhead close view on a light wood table. Natural soft window light, subtle steam, rich real creamy texture, appetizing homemade presentation. Square composition, single dish, no text, watermark, collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Methi Matar Malai",
+    "image": "assets/generated/methi-matar-malai-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square natural cookbook photograph of authentic Methi Matar Malai, abundant round green peas and finely chopped cooked fenugreek leaves in smooth pale ivory cashew-onion-cream gravy. Rich thick velvety sauce, no tomato red color, no whole nuts garnish. Small shallow dark ceramic bowl on warm stone, close overhead three quarter angle, soft window daylight, realistic fresh homemade texture, single dish, no text watermark or collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Parippu",
+    "image": "assets/generated/parippu-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square editorial cookbook photograph of Sri Lankan Parippu, soft partly broken red lentils cooked golden yellow with turmeric and coconut milk, thick spoonable dal, fried thin onion pieces, black mustard seeds, cumin and dark glossy curry leaves stirred through and visible on top. Small earthy terracotta serving bowl on a neutral linen table, close three quarter angle, natural soft daylight, richly realistic texture, no extra garnish, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Aloo Tama",
+    "image": "assets/generated/aloo-tama-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. One square highly photorealistic cookbook photo of Nepalese Aloo Tama: tender 2cm potato cubes, pale bamboo shoot strips, black eyed peas in lightly thickened orange turmeric tomato onion broth, visible cumin flecks, modest oil sheen. Served in deep rustic ceramic bowl on dark wooden tabletop, close view three quarter overhead, soft natural daylight, beautifully realistic moist vegetables, no herbs or unrelated garnish, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Chirashi Sushi",
+    "image": "assets/generated/chirashi-sushi-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square photorealistic natural cookbook photo of Chirashi Sushi according to this cooked shrimp recipe: glossy seasoned short-grain sushi rice in a Japanese ceramic bowl, topped with separate neat clusters of pink cooked peeled shrimp, thin fully cooked yellow omelet ribbons, briefly blanched fine carrot strips, thin cucumber slices, shredded dark nori. No raw fish, no avocado, no sesame, no roe. Three quarter overhead close composition on pale wood with subtle linen, soft natural window light, exquisite real food texture, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Chinese Tomato Egg",
+    "image": "assets/generated/chinese-tomato-egg-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Single square natural cookbook photograph Chinese Tomato Egg stir-fry: broad tender fully cooked yellow scrambled egg folds interspersed with large juicy red tomato wedges, modest glossy tomato juices, scattered finely chopped green scallions. Simple shallow white porcelain plate on cool grey stone, near overhead view, soft natural daylight and realistic moist textures, appetizing home cooking. No other ingredients, no rice, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Pajeon",
+    "image": "assets/generated/pajeon-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square natural cookbook photograph of Pajeon Korean scallion pancake, thin golden crispy pan-fried flour egg pancake with long parallel green scallion segments embedded throughout, cut into square pieces arranged casually on dark ceramic plate, small side bowl of plain soy vinegar dipping sauce. No seafood, no chili, no sesame. Close overhead view on warm wooden table, soft daylight, richly realistic crisp browned edges and tender interior, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Hor Mok Pla",
+    "image": "assets/generated/hor-mok-pla-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square authentic natural cookbook photo Hor Mok Pla, Thai steamed fish curry custard in small plain heatproof ceramic ramekin: set moist orange-red coconut egg custard with finely chopped sea bass, tiny dark makrut lime leaf ribbons, cooked cabbage and Thai basil at the bottom with a little visible at edge. No banana leaf cups, no chili garnish, no cream drizzle. Show one foremost ramekin with second softly behind, rustic neutral tabletop, soft window light, realistic delicate custard texture, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Soto Ayam",
+    "image": "assets/generated/soto-ayam-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square cookbook photo Indonesian Soto Ayam: golden turmeric chicken broth in deep ceramic bowl, fine white rice noodles, tender shredded chicken, one fully hard boiled egg half with firm yellow yolk, finely sliced green scallions and lime wedge at rim. Broth is clear golden not creamy, no bean sprouts no cilantro no fried toppings. Close three quarter overhead on warm table, soft natural daylight, realistic rich soup textures, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Doro Wat",
+    "image": "assets/generated/doro-wat-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square photorealistic cookbook image of Ethiopian Doro Wat: bone-in chicken drumsticks and pieces coated in very thick deep brick red berbere and slow cooked minced onion sauce with small glossy butter highlights; whole peeled hard boiled eggs stained red by the stew with shallow scoring marks. Earthenware bowl, neutral rustic linen, close three quarter view, soft directional natural daylight showing rich spicy sauce textures. No garnish, no vegetables, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Chakalaka",
+    "image": "assets/generated/chakalaka-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square real cookbook food photo of South African Chakalaka: thick chunky relish of coarsely grated orange carrots, diced green and red peppers, softened diced onion and tomato, whole white beans gently mixed into orange-red curry-spiced tomato sauce. Modest vegetable oil sheen, vegetables retain shape. Shallow cream ceramic bowl on dark natural stone, near overhead close angle, soft natural window light, rich realistic textures. No garnish, no meat, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Firik Salatası",
+    "image": "assets/generated/firik-salatasi-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square natural cookbook photograph of Turkish Firik Salatası, separate chewy olive-brown freekeh grains tossed with small cucumber and red pepper cubes, finely chopped parsley and dill, glossy olive oil and pomegranate molasses dressing. Fresh grain salad mounded on shallow cream ceramic platter, no pomegranate seeds no tomatoes no onions. Near overhead close view on pale stone with soft natural daylight, rich true textures, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Yoğurtlu Yeşil Mercimek Mezesi",
+    "image": "assets/generated/yogurtlu-yesil-mercimek-mezesi-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square authentic Turkish cookbook photograph Yoğurtlu Yeşil Mercimek Mezesi: cooked whole green-brown lentils generously mixed into thick white garlic yogurt, spread into shallow ceramic mezze plate with gentle spoon swirls, drizzled melted butter infused with dried mint, small dark mint flecks and pale golden butter pools. No red pepper no fresh herb garnish. Close overhead three quarter angle on light rustic wood, soft daylight, rich natural textures, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Çılbır Soslu Patates",
+    "image": "assets/generated/cilbir-soslu-patates-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square highly realistic Turkish cookbook photo Çılbır Soslu Patates: peeled boiled potato chunks about 3cm, pale tender and unbrowned, resting on a wide bed of thick smooth garlic yogurt, drizzled with bright reddish golden melted butter infused with red pepper flakes. No egg, no herbs, no fried potatoes. Shallow light blue ceramic serving plate on neutral stone, close three quarter overhead, soft natural window light, rich real yogurt and potato textures, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Peynirli İrmik Tavası",
+    "image": "assets/generated/peynirli-irmik-tavasi-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square natural cookbook photograph Peynirli İrmik Tavası: Turkish savory semolina milk egg white cheese and dill skillet cake, round about 20cm, both surfaces pan fried golden brown in butter, cut into triangular wedges with one wedge separated revealing firm moist fine-grained ivory interior with white cheese and green dill flecks. On simple ceramic plate, no topping no syrup. Soft window light on warm wood table, three quarter close view, richly real food texture, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Kabak Beğendi",
+    "image": "assets/generated/kabak-begendi-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square authentic cookbook photograph Kabak Beğendi: thick creamy pale ivory zucchini bechamel mash with fine green zucchini skin flecks and softened grated zucchini texture, melted kasar cheese blended in, a few black pepper specks. Spooned in gentle swirls into shallow muted blue ceramic bowl, glossy warm buttery surface, no meat on top no garnish. Close three quarter overhead view on pale wood, soft window daylight, realistic delicate food texture, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Köz Sarımsak Ezmesi",
+    "image": "assets/generated/koz-sarimsak-ezmesi-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square cookbook food photograph Köz Sarımsak Ezmesi: thick rustic creamy golden beige roasted garlic mash blended with olive oil lemon black pepper, small ridged spoon swirls in a tiny handmade ceramic bowl; beside it one piece of crusty bread thinly spread with the garlic paste. No whole garlic cloves as main dish, no fresh herbs no paprika. Warm natural wooden table, intimate close three quarter angle, soft daylight, true appetizing roasted texture, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Közlenmiş Havuç ve Tahin",
+    "image": "assets/generated/kozlenmis-havuc-ve-tahin-ai-v6.webp",
+    "prompt": "Use case: photorealistic-natural. Square natural cookbook photograph Közlenmiş Havuç ve Tahin: peeled carrots cut lengthwise into quarters, roasted with olive oil and cumin until orange tender with caramelized brown edges, arranged on wide cream ceramic platter and lightly drizzled with flowing beige lemon tahini sauce. No whole carrots, no green tops no herb garnish no seeds. Near overhead angle on pale stone table, soft natural daylight and rich roasted vegetable texture, no text watermark collage.",
+    "method": "built-in image_gen"
+  },
+  {
+    "recipe": "Domatesli Makarna",
+    "image": "assets/generated/recovered-oct17-0.webp",
+    "prompt": "Özgün üretim istemi kurtarılamadı. Önceden üretilmiş yerel görsel, tarifin içeriği ve görünümüyle eşleştirilerek kurtarıldı.",
+    "method": "built-in image_gen; recovered original local asset"
+  },
+  {
+    "recipe": "Kadınbudu Köfte",
+    "image": "assets/generated/recovered-oct17-2.webp",
+    "prompt": "Özgün üretim istemi kurtarılamadı. Önceden üretilmiş yerel görsel, tarifin içeriği ve görünümüyle eşleştirilerek kurtarıldı.",
+    "method": "built-in image_gen; recovered original local asset"
+  },
+  {
+    "recipe": "Guacamole",
+    "image": "assets/generated/recovered-oct17-5.webp",
+    "prompt": "Özgün üretim istemi kurtarılamadı. Önceden üretilmiş yerel görsel, tarifin içeriği ve görünümüyle eşleştirilerek kurtarıldı.",
+    "method": "built-in image_gen; recovered original local asset"
+  },
+  {
+    "recipe": "Khinkali",
+    "image": "assets/generated/recovered-oct17-7.webp",
+    "prompt": "Özgün üretim istemi kurtarılamadı. Önceden üretilmiş yerel görsel, tarifin içeriği ve görünümüyle eşleştirilerek kurtarıldı.",
+    "method": "built-in image_gen; recovered original local asset"
+  },
+  {
+    "recipe": "Menemen",
+    "image": "assets/generated/recovered-oct17-8.webp",
+    "prompt": "Özgün üretim istemi kurtarılamadı. Önceden üretilmiş yerel görsel, tarifin içeriği ve görünümüyle eşleştirilerek kurtarıldı.",
+    "method": "built-in image_gen; recovered original local asset"
+  },
+  {
+    "recipe": "Domatesli Pirinç Pilavı",
+    "image": "assets/generated/recovered-oct17-12.webp",
+    "prompt": "Özgün üretim istemi kurtarılamadı. Önceden üretilmiş yerel görsel, tarifin içeriği ve görünümüyle eşleştirilerek kurtarıldı.",
+    "method": "built-in image_gen; recovered original local asset"
   }
 ]

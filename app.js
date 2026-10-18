@@ -1,7 +1,7 @@
 (function () {
 'use strict';
 const D = window.NP_DATA, RECIPES = D.recipes, PANTRY = window.NP_PANTRY || { ingredients: D.ingredients, aliases: {}, staples: ['su','tuz','karabiber'] }, INGS = PANTRY.ingredients;
-const t = (tr, en) => S.lang === 'tr' ? tr : ((window.NP_L10N || {})[S.lang] || {})[tr] || en || tr;
+const t = (tr, en) => window.NP_I18N.choose(S.lang, tr, en);
 const label = value => t(value, value);
 const ingredientName = n => S.lang === 'tr' ? cap(n) : (((window.NP_ING_L10N || {})[S.lang] || {})[n] || (S.lang === 'en' && INGS.find(i => i.n === n) || {}).en || n);
 const WORLD_CATEGORIES = D.worldCategories || ['İtalyan','Fransız','İspanyol','Yunan','Uzak Doğu','Hint','Meksika','Amerikan','Orta Doğu','Dünya Seçkisi'];
@@ -13,7 +13,7 @@ const BY = {}, EMO = {};
 RECIPES.forEach((r) => { BY[r.name] = r; });
 INGS.forEach((i) => { EMO[i.n] = i.e; });
 const GROUPS = Array.from(new Set(INGS.map((i) => i.g)));
-const recipeName = (r) => S.lang === 'tr' ? r.name : (r.translations && r.translations[S.lang] && r.translations[S.lang].name || r.enName || r.name);
+const recipeName = (r) => S.lang === 'tr' ? r.name : (r.translations && r.translations[S.lang] && r.translations[S.lang].name || ((window.NP_RECIPE_NAME_L10N || {})[S.lang] || {})[r.name] || r.enName || r.name);
 const COLORS = {
   'Türk': ['#E4572E', '#F6B48F'], 'İtalyan': ['#2E9E5B', '#B5DDB0'], 'Japon': ['#C0392B', '#F5B0A8'], 'Hint': ['#D98E04', '#F9E08B'],
   'Meksika': ['#8E44AD', '#DDBFEA'], 'Fransız': ['#2980B9', '#B9DCF3'], 'Asya': ['#16A085', '#B0E3D8'], 'İspanyol': ['#C0632B', '#F3C9A2'],
@@ -26,7 +26,7 @@ const DIFF = { 'Çok Kolay': 1, 'Kolay': 2, 'Orta': 3, 'Zor': 4 };
 // ============================================================ yardımcılar
 const TR = 'abcçdefgğhıijklmnoöprsştuüvyz';
 const trLower = (s) => String(s || '').replace(/İ/g, 'i').replace(/I/g, 'ı').toLowerCase();
-const searchKey = (s) => String(s || '').replace(/İ/g,'i').replace(/ı/g,'i').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+const searchKey = (s) => String(s || '').replace(/İ/g,'i').replace(/ı/g,'i').replace(/[Łł]/g,'l').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
 const trKey = (s) => Array.from(trLower(s)).map((c) => { const i = TR.indexOf(c); return i >= 0 ? i : 100 + c.charCodeAt(0); });
 const cmpTr = (a, b) => { const x = trKey(a), y = trKey(b); for (let i = 0; i < Math.min(x.length, y.length); i++) if (x[i] !== y[i]) return x[i] - y[i]; return x.length - y.length; };
 const trUpper = (s) => s.replace(/i/g, 'İ').replace(/ı/g, 'I').toUpperCase();
@@ -53,7 +53,7 @@ function filterRecipes(o) {
   const q = searchKey((o.query || '').trim());
   const out = RECIPES.filter((r) => {
     if (o.mode === 'fav' && !o.favs.has(r.name)) return false;
-    if (q && !searchKey([r.name, r.enName, recipeName(r), r.cuisine, label(r.cuisine), r.worldCategory, r.origin, r.region].concat(r.ingredients.map((i) => i.n)).join(' ')).includes(q)) return false;
+    if (q && !searchKey([r.name, r.enName, recipeName(r), r.cuisine, label(r.cuisine), r.worldCategory, r.origin, r.region].concat(r.ingredients.map((i) => i.n+' '+ingredientName(i.n))).join(' ')).includes(q)) return false;
     if (o.mode === 'world' && r.tier !== 'world') return false;
     if (o.mode === 'chef' && r.tier !== 'chef') return false;
     if (o.region && r.region !== o.region) return false;
@@ -73,7 +73,7 @@ function groupRecipes(o) {
   const recs = filterRecipes(o);
   if (o.mode === 'fav') return recs.length ? [{ title: t('⭐ Favori tariflerin','⭐ Your favorites'), sub: t('kalp ikonuna basarak ekleyebilirsin','tap the heart to add recipes'), gold: false, items: recs }] : [];
   const free = recs, g = [];
-  if (o.mode === 'chef') return recs.length ? [{title:t('👨‍🍳 Şef koleksiyonu','👨‍🍳 Chef collection'),sub:t('İleri teknikler ve özel sunumlar','Advanced techniques and special presentations'),items:recs}] : [];
+  if (o.mode === 'chef') { const latest=recs.filter(r=>r.chefCollection==='ileri50'),previous=recs.filter(r=>r.chefCollection!=='ileri50'); return [{title:t('Yeni şef seçkisi','New chef selection'),sub:t('Çok bileşenli tabaklar ve ayrıntılı teknikler','Multiple components and detailed techniques'),items:latest},{title:t('👨‍🍳 Şef koleksiyonu','👨‍🍳 Chef collection'),sub:t('İleri teknikler ve özel sunumlar','Advanced techniques and special presentations'),items:previous}].filter(g=>g.items.length); }
   if (o.mode === 'world') return recs.length ? [{ title: t('🌍 Dünya mutfağı', '🌍 World cuisine'), sub: t('Şimdilik tüm tarifler ücretsiz', 'All recipes currently free'), items: recs }] : [];
   if (o.sel.size) {
     const ready = free.filter((r) => !match(r, o.sel).miss.length);
@@ -118,7 +118,7 @@ function ingSections() {
     sorted.forEach((it) => { const L = ingredientName(it.n)[0].toLocaleUpperCase(S.lang); if (!cur || cur.title !== L) { cur = { title: L, letter: true, items: [] }; secs.push(cur); } cur.items.push(it); });
     return secs;
   }
-  return GROUPS.filter((g) => F.ingCat === 'Tümü' || g === F.ingCat).map((g) => ({ title: g, items: items.filter((i) => i.g === g).sort((a, b) => cmpTr(a.n, b.n)) })).filter((s) => s.items.length);
+  return GROUPS.filter((g) => F.ingCat === 'Tümü' || g === F.ingCat).map((g) => ({ title: g, items: items.filter((i) => i.g === g).sort((a, b) => ingredientName(a.n).localeCompare(ingredientName(b.n), S.lang)) })).filter((s) => s.items.length);
 }
 
 // ============================================================ durum
@@ -132,12 +132,12 @@ function cleanState(raw){
   x.plan=Array.from({length:7},function(_,i){var p=(raw.plan||[])[i]; if(typeof p==='string')p={name:p,servings:raw.servings||4};return p&&BY[p.name]?{name:p.name,servings:Math.min(24,Math.max(1,Math.round(Number(p.servings)||4)))}:null;});
   if(raw.shopping!==undefined&&!Array.isArray(raw.shopping))throw new Error('Invalid shopping');
   x.shopping=(raw.shopping||[]).slice(0,1000).map(function(i){if(!i||typeof i.n!=='string'||typeof i.u!=='string'||!Number.isFinite(i.q)||i.q<=0||i.q>1e7)throw new Error('Invalid item');return {n:i.n.slice(0,120),u:i.u.slice(0,40),q:i.q,checked:!!i.checked};});
-  x.theme=['light','dark','system','auto'].includes(raw.theme)?(raw.theme==='auto'?'system':raw.theme):'system';x.palette=raw.palette==='terracotta'?'terracotta':'sage';x.lang=['tr','en','ru','es','de','ar'].includes(raw.lang)?raw.lang:'tr';x.servings=Math.min(24,Math.max(1,Math.round(Number(raw.servings)||4)));x.staples=raw.staples===true;return x;
+  x.theme=['light','dark','system','auto'].includes(raw.theme)?(raw.theme==='auto'?'system':raw.theme):'system';x.palette=raw.palette==='terracotta'?'terracotta':'sage';x.lang=['tr','en','ru','es','de','ar','pl'].includes(raw.lang)?raw.lang:'tr';x.servings=Math.min(24,Math.max(1,Math.round(Number(raw.servings)||4)));x.staples=raw.staples===true;return x;
 }
 let S;
 try { S = cleanState(JSON.parse(localStorage.getItem(KEY) || localStorage.getItem('pisirya:v3') || localStorage.getItem('pisirya:v2') || localStorage.getItem('nepisirsem:web1') || '{}')); } catch (e) { S = cleanState({}); }
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); return true; } catch (e) { toast(t('Cihazda kayıt yapılamadı. Yedek alın.','Device storage unavailable. Export a backup.')); return false; } };
-const F = { limit: 60, q: '', cuisine: 'Tümü', sort: 'Önerilen', maxT: 999, region: '', doable: false, ingQ: '', ingMode: 'az', ingCat: 'Tümü' };
+const F = { limit: 60, q: '', cuisine: 'Tümü', sort: 'Önerilen', maxT: 999, region: '', doable: false, ingQ: '', ingMode: 'cat', ingCat: 'Tümü' };
 const cur = { tab: 'recipes', mode: 'all', name: '', serv: 0 };
 const recipeServings = {};
 const $ = (id) => document.getElementById(id);
@@ -259,7 +259,7 @@ function pageDetail(name){
 function selectSetting(label,key,options){return `<label class="setting-row"><span>${label}</span><select data-setting="${key}">${optHTML(options,S[key])}</select></label>`;}
 function pageSettings(){
  cur.tab='settings';
- $('page').innerHTML=`<div class="wrap">${heroHTML(t('⚙️ Ayarlar','⚙️ Settings'),t('Tercihlerin bu cihazda saklanır.','Your preferences are saved on this device.'),'','','','')}<section class="settings-group"><h2>${t('Görünüm ve dil','Appearance & language')}</h2>${selectSetting(t('Tema','Theme'),'theme',[['system',t('Sistem','System')],['light',t('Açık','Light')],['dark',t('Koyu','Dark')]])}${selectSetting(t('Renk paleti','Color palette'),'palette',[['sage',t('Adaçayı','Sage')],['terracotta',t('Toprak','Terracotta')]])}${selectSetting(t('Dil','Language'),'lang',[['tr','Türkçe'],['en','English'],['ru','Русский'],['es','Español'],['de','Deutsch'],['ar','العربية']])}<p>${t('Arayüz altı dilde kullanılabilir. Tarif adımları ve özel malzeme açıklamaları şimdilik Türkçedir.','The interface supports six languages. Recipe instructions and special ingredient notes are currently in Turkish.')}</p></section><section class="settings-group"><h2>${t('Mutfak tercihleri','Kitchen preferences')}</h2><label class="setting-row"><span>${t('Varsayılan kişi sayısı','Default servings')}</span><input type="number" min="1" max="24" data-setting="servings" value="${S.servings}"></label><p>${t('Su, tuz, şeker, karabiber ve pul biber evde var kabul edilir. Yağlar ve diğer baharatları kendin seç.','Water, salt, sugar, black pepper and red pepper flakes are assumed available. Select oils and other spices yourself.')}</p></section><section class="settings-group"><h2>${t('Yedekleme','Backup')}</h2><p>${t('Favorilerini, malzemelerini, menünü ve alışveriş listeni yedekle. Yedek yüklemek mevcut kayıtları değiştirir.','Back up favorites, pantry, plan and shopping list. Import replaces your current data.')}</p><div class="backup-actions"><button class="btn primary" data-act="export">${t('Yedeği indir','Export backup')}</button><label class="btn outline">${t('Yedek yükle','Import backup')}<input type="file" id="importFile" accept="application/json,.json" class="visually-hidden"></label><button class="btn outline" data-act="reset">${t('Kayıtları sıfırla','Reset data')}</button></div></section><section class="settings-group"><h2>${t('Pişirya hakkında','About Pişirya')}</h2><p>${t('iPhone’da Safari paylaş menüsünden Ana Ekrana Ekle seçeneğini kullan. İlk çevrimiçi açılıştan sonra tarifler çevrimdışı kullanılabilir; fotoğraflar için bağlantı gerekebilir.','On iPhone, use Safari’s Share → Add to Home Screen. Recipes work offline after the first online visit; photos may require a connection.')}</p><p>${t('Dünya mutfakları ayrı ayrı 39 TL, Şef modu 149 TL olarak planlanmıştır. Şu an tamamı ücretsiz önizlemededir.','Each world cuisine is planned at 39 TL; Chef mode at 149 TL. Everything is currently a free preview.')}</p><p><a href="credits.html">${t('Görsel kaynakları ve lisanslar','Image sources and licenses')}</a></p></section></div>`;
+ $('page').innerHTML=`<div class="wrap">${heroHTML(t('⚙️ Ayarlar','⚙️ Settings'),t('Tercihlerin bu cihazda saklanır.','Your preferences are saved on this device.'),'','','','')}<section class="settings-group"><h2>${t('Görünüm ve dil','Appearance & language')}</h2>${selectSetting(t('Tema','Theme'),'theme',[['system',t('Sistem','System')],['light',t('Açık','Light')],['dark',t('Koyu','Dark')]])}${selectSetting(t('Renk paleti','Color palette'),'palette',[['sage',t('Adaçayı','Sage')],['terracotta',t('Toprak','Terracotta')]])}${selectSetting(t('Dil','Language'),'lang',[['tr','Türkçe'],['en','English'],['ru','Русский'],['es','Español'],['de','Deutsch'],['ar','العربية'],['pl','Polski']])}<p>${t('Arayüz yedi dilde kullanılabilir. Tarif adımları ve özel malzeme açıklamaları şimdilik Türkçedir.','The interface supports seven languages. Recipe instructions and special ingredient notes are currently in Turkish.')}</p></section><section class="settings-group"><h2>${t('Mutfak tercihleri','Kitchen preferences')}</h2><label class="setting-row"><span>${t('Varsayılan kişi sayısı','Default servings')}</span><input type="number" min="1" max="24" data-setting="servings" value="${S.servings}"></label><p>${t('Su, tuz, şeker, karabiber ve pul biber evde var kabul edilir. Yağlar ve diğer baharatları kendin seç.','Water, salt, sugar, black pepper and red pepper flakes are assumed available. Select oils and other spices yourself.')}</p></section><section class="settings-group"><h2>${t('Yedekleme','Backup')}</h2><p>${t('Favorilerini, malzemelerini, menünü ve alışveriş listeni yedekle. Yedek yüklemek mevcut kayıtları değiştirir.','Back up favorites, pantry, plan and shopping list. Import replaces your current data.')}</p><div class="backup-actions"><button class="btn primary" data-act="export">${t('Yedeği indir','Export backup')}</button><label class="btn outline">${t('Yedek yükle','Import backup')}<input type="file" id="importFile" accept="application/json,.json" class="visually-hidden"></label><button class="btn outline" data-act="reset">${t('Kayıtları sıfırla','Reset data')}</button></div></section><section class="settings-group"><h2>${t('Pişirya hakkında','About Pişirya')}</h2><p>${t('iPhone’da Safari paylaş menüsünden Ana Ekrana Ekle seçeneğini kullan. İlk çevrimiçi açılıştan sonra tarifler çevrimdışı kullanılabilir; fotoğraflar için bağlantı gerekebilir.','On iPhone, use Safari’s Share → Add to Home Screen. Recipes work offline after the first online visit; photos may require a connection.')}</p><p>${t('Dünya mutfakları ayrı ayrı 39 TL, Şef modu 149 TL olarak planlanmıştır. Şu an tamamı ücretsiz önizlemededir.','Each world cuisine is planned at 39 TL; Chef mode at 149 TL. Everything is currently a free preview.')}</p><p><a href="credits.html">${t('Görsel kaynakları ve lisanslar','Image sources and licenses')}</a></p></section></div>`;
 }
 function exportBackup(){const blob=new Blob([JSON.stringify(S,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='pisirya-yedek-'+new Date().toISOString().slice(0,10)+'.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),30000);}
 function importBackup(file){if(!file)return;if(file.size>2e6){toast(t('Yedek 2 MB sınırını aşıyor','Backup exceeds 2 MB'));return;}const reader=new FileReader();reader.onload=()=>{try{const raw=JSON.parse(reader.result);if(![2,3,4].includes(raw.version))throw new Error('version');const next=cleanState(raw);if(!confirm(t('Yedek mevcut kayıtları değiştirecek. Devam edilsin mi?','Replace your current data with this backup?')))return;Object.assign(S,next);save();applyTheme();renderShell();route();toast(t('Yedek yüklendi','Backup imported'));}catch(e){toast(t('Geçersiz veya desteklenmeyen yedek','Invalid or unsupported backup'));}};reader.onerror=()=>toast(t('Dosya okunamadı','Could not read file'));reader.readAsText(file);}

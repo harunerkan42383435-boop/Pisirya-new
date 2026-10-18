@@ -1,6 +1,6 @@
 'use strict';
 // Bump when application files change. Waiting updates activate after all old tabs close.
-const VERSION = 'pisirya-2026-10-10-preview';
+const VERSION = 'pisirya-2026-10-18-chef1051-pl171';
 const SHELL = VERSION + '-shell';
 const PHOTOS = 'pisirya-photos-v2';
 async function photoResponse(request) {
@@ -17,7 +17,7 @@ async function photoResponse(request) {
  }
  return response;
 }
-const FILES = ['./', 'index.html', 'style.css', 'app.js', 'i18n.js', 'locales.js', 'data.js', 'pantry.js', 'manifest.webmanifest', 'favicon.png', 'credits.html', 'icons/logo.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable.png', 'icons/apple-touch-icon.png', "assets/generated/imam-bayildi.webp", "assets/generated/ezogelin-corbasi.webp", "assets/generated/mucver.webp", "assets/generated/mercimekli-kofte.webp", "assets/generated/bezelye-yemegi.webp", "assets/generated/limonlu-tavuk.webp", "assets/generated/tavuk-sote.webp", "assets/generated/hunkar-begendi.webp", "assets/generated/cacik.webp", "assets/generated/katsu-tavuk.webp", "assets/generated/nohutlu-pilav.webp", "assets/generated/kuru-fasulye.webp", "assets/generated/tabule.webp", "assets/generated/kisir.webp", "assets/generated/balli-ceviz-yogurt.webp", "assets/generated/bulgur-pilavi.webp", "assets/generated/yayla-corbasi.webp", "assets/generated/coban-salata.webp"];
+const FILES = ['./', 'index.html', 'style.css', 'app.js', 'i18n.js', 'locales.js', 'locale-upgrade.js', 'data.js', 'pantry.js', 'manifest.webmanifest', 'favicon.png', 'credits.html', 'icons/logo.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable.png', 'icons/apple-touch-icon.png', "assets/generated/imam-bayildi.webp", "assets/generated/ezogelin-corbasi.webp", "assets/generated/mucver.webp", "assets/generated/mercimekli-kofte.webp", "assets/generated/bezelye-yemegi.webp", "assets/generated/limonlu-tavuk.webp", "assets/generated/tavuk-sote.webp", "assets/generated/hunkar-begendi.webp", "assets/generated/cacik.webp", "assets/generated/katsu-tavuk.webp", "assets/generated/nohutlu-pilav.webp", "assets/generated/kuru-fasulye.webp", "assets/generated/tabule.webp", "assets/generated/kisir.webp", "assets/generated/balli-ceviz-yogurt.webp", "assets/generated/bulgur-pilavi.webp", "assets/generated/yayla-corbasi.webp", "assets/generated/coban-salata.webp"];
 self.addEventListener('install', event => event.waitUntil(caches.open(SHELL).then(cache => cache.addAll(FILES))));
 self.addEventListener('activate', event => {
  event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key =>

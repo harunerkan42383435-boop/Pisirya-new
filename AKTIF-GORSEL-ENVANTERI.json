@@ -1,0 +1,5257 @@
+[
+  {
+    "recipe": "Menemen",
+    "image": "assets/generated/resume-menemen.webp",
+    "sha256": "ebd64cd6080d52a222a44bf8d2dcfdbf07aea76c02cb2918662fd3625cf8b4f6"
+  },
+  {
+    "recipe": "Domatesli Makarna",
+    "image": "assets/generated/recovered-oct17-0.webp",
+    "sha256": "9c0671da97ef83bc42445278357cc586299d9ec0878656f2b435bd2d1d81c661"
+  },
+  {
+    "recipe": "Tavuk Sote",
+    "image": "assets/generated/tavuk-sote.webp",
+    "sha256": "d501eb72defbd66ba211e367be40d355196200e77b820fad49236f8878a06f4f"
+  },
+  {
+    "recipe": "Fried Rice",
+    "image": "assets/generated/dish-ed8aa9ca1df808.webp",
+    "sha256": "3a244572034771b3927f7c7fc69d113653f8bff999da0c8e14fb63910926892f"
+  },
+  {
+    "recipe": "Guacamole",
+    "image": "assets/generated/recovered-oct17-5.webp",
+    "sha256": "2a6ec23b5bea2d2571304c97075009ff89a0515db2249cf5e78209597bd6fde0"
+  },
+  {
+    "recipe": "Chicken Teriyaki",
+    "image": "assets/generated/dish-7bb157f7b3f1f6.webp",
+    "sha256": "c31201d1db367579c3caf85f28751a525747235ee0490d751e1785fcfab375b4"
+  },
+  {
+    "recipe": "Butter Chicken",
+    "image": "assets/generated/next100-e511375ccc28c3.webp",
+    "sha256": "9e1216a7c2b5083af9b39ae0d5838c271196b19a1369d29c60668fdd72bab4f9"
+  },
+  {
+    "recipe": "Ratatouille",
+    "image": "assets/generated/next100-5e875a3474a967.webp",
+    "sha256": "9e11282a0d6d261643654704336b3ee452e7525c5120cf380127c6eb061c843d"
+  },
+  {
+    "recipe": "Mercimek Çorbası",
+    "image": "assets/generated/next100-2d9345b2d5f74e.webp",
+    "sha256": "3d9718dbb769f53bc9be860a92e9b0dc097b252115e9efc4fc3a2e1bb3485add"
+  },
+  {
+    "recipe": "Sebzeli Omlet",
+    "image": "assets/generated/dish-22b290035c094e.webp",
+    "sha256": "6fda353c799e5dadd774e955ddd25c4ce4b7aaa3af424a74b489e4042aa54e28"
+  },
+  {
+    "recipe": "Fırın Patates",
+    "image": "assets/generated/dish-f70f0d2e0c53d5.webp",
+    "sha256": "7df49dae087b621607aeebdb0a999caa3612ebec8d7a5f27aa09c3ed28f4e0d7"
+  },
+  {
+    "recipe": "Izgara Köfte",
+    "image": "assets/generated/next100-88fc980f3951ac.webp",
+    "sha256": "abd1e500342e8b328e10c48edb65453969bc17c7fbda11e9c837f7d5b0490ffd"
+  },
+  {
+    "recipe": "Nohutlu Pilav",
+    "image": "assets/generated/nohutlu-pilav.webp",
+    "sha256": "31972d8a58752271107708ae8cef06a9b5a52f2bbfb9ad3707304484aaff47b3"
+  },
+  {
+    "recipe": "Bulgur Pilavı",
+    "image": "assets/generated/bulgur-pilavi.webp",
+    "sha256": "9115ec034954c8bc7a2a29c1f959c10dcdcae6b73665d0fafa20bd1443f24181"
+  },
+  {
+    "recipe": "Ispanaklı Yumurta",
+    "image": "assets/generated/dish-f79acb09da2ee5.webp",
+    "sha256": "eb4f3325e1463e55a11b0c3a2a64d4518ff1a3abf634ef31ce7f44b4f4040d95"
+  },
+  {
+    "recipe": "Mantarlı Tavuk",
+    "image": "assets/generated/dish-8a018d9f7e667c.webp",
+    "sha256": "19d09d45881404eb2e0662dc92ab68a819cef872ed5748c9f56d9717e987b540"
+  },
+  {
+    "recipe": "Karides Güveç",
+    "image": "assets/generated/dish-1e0d3a212771b5.webp",
+    "sha256": "167977b392b067c0ce7599676e9004ab95b6d1a377f33a8fe8116277ab1a8547"
+  },
+  {
+    "recipe": "Balık Tava",
+    "image": "assets/generated/dish-76adc663b64ac0.webp",
+    "sha256": "795f8af12945a9a25488ddce2042af572213cc6fc396bbb0ffcb709ff0c3a222"
+  },
+  {
+    "recipe": "Mücver",
+    "image": "assets/generated/mucver.webp",
+    "sha256": "3551b5e7ce9e09cd44535fdfba8706d273f6dd296f5b50aa8df581306d7f6acf"
+  },
+  {
+    "recipe": "Krep",
+    "image": "assets/generated/next100-5b6bae15d960a3.webp",
+    "sha256": "1777bc14894d6436a78fa3242a94ea9ba93f3809c46effdf212b1fb777f9ec67"
+  },
+  {
+    "recipe": "Mantar Çorbası",
+    "image": "assets/generated/next100-f57cba0b26f2ba.webp",
+    "sha256": "8d1f59687f6da2f14e477a26ed7f46836d789e6d5b8d6b9bf7ad185cdb91870f"
+  },
+  {
+    "recipe": "Hünkar Beğendi",
+    "image": "assets/generated/hunkar-begendi.webp",
+    "sha256": "30c418d4ada8506d00737b17faab35c1c8294581df3f7f4b371eca2a9ab96e25"
+  },
+  {
+    "recipe": "Beef Wellington",
+    "image": "assets/generated/next100-fb31a5719b7504.webp",
+    "sha256": "e04bbde29a0abff4dbcfa2e3003fbb2a1c15b723ba6d54ffd12260135c112a51"
+  },
+  {
+    "recipe": "Kuzu Tandır",
+    "image": "assets/generated/dish-b66a5c3e349c54.webp",
+    "sha256": "950fc5dd67069be93358e8d571b46056f8c02979c9f5c605e4169a70cf28ae5d"
+  },
+  {
+    "recipe": "Risotto ai Funghi",
+    "image": "assets/generated/dish-9e8103e03bcad4.webp",
+    "sha256": "7204dd4a6b54bf549f0e233a1532f12f8ab55c443afc27a4a50c4ded5cc68c66"
+  },
+  {
+    "recipe": "Coq au Vin",
+    "image": "assets/generated/dish-cea98905f45d0b.webp",
+    "sha256": "566b264ac0def912069b59be07fe083ef36b21941681a9fc5bd794f12d8809fe"
+  },
+  {
+    "recipe": "Lazanya",
+    "image": "assets/generated/next100-2e3d559c2c3eeb.webp",
+    "sha256": "e985ffc74030efd41fd88523c212cc814abb3540da8f022597582c7b6ad98e2c"
+  },
+  {
+    "recipe": "Paella",
+    "image": "assets/generated/next100-1311528b3a2022.webp",
+    "sha256": "57bab422e5e52b75b296f242163228254d747512fbf19bc5129fa33b9029aded"
+  },
+  {
+    "recipe": "Karides Bisque",
+    "image": "assets/generated/dish-3bb971224f4e22.webp",
+    "sha256": "166b8ff28cc51b1a99decdd49ea12050d0f2c398b72086211f8067f5c9366b70"
+  },
+  {
+    "recipe": "Kuru Fasulye",
+    "image": "assets/generated/kuru-fasulye.webp",
+    "sha256": "2f0b641583370a4843655fbd34cc41fd8a42289f38e82ff27bada24364b78126"
+  },
+  {
+    "recipe": "Etli Nohut",
+    "image": "assets/generated/dish-8d2eefd043a84c.webp",
+    "sha256": "ca19dfcf4e4cc9b663af0490ae9ec9026838e4a29f2c20253c1bcbc41ca6828f"
+  },
+  {
+    "recipe": "Karnıyarık",
+    "image": "assets/generated/next100-1b43fc1945140b.webp",
+    "sha256": "a12f8b6d8c997062b151c7ffb938db9e9e10be0a5f1c44a42685518099a3c622"
+  },
+  {
+    "recipe": "İmam Bayıldı",
+    "image": "assets/generated/imam-bayildi.webp",
+    "sha256": "a25cf52b4d9599ab3cd94fcf4ab815a1170de207310f892b97bcaa09d671a548"
+  },
+  {
+    "recipe": "Kıymalı Ispanak",
+    "image": "assets/generated/dish-335fe07a7ddfbe.webp",
+    "sha256": "f2bc45cdc517379bd2e6666e63bb9d4371c791dcc3f12bbda53f1fbc3b258fcf"
+  },
+  {
+    "recipe": "Çoban Salata",
+    "image": "assets/generated/coban-salata.webp",
+    "sha256": "5e01120959f36e9f18a5838230f5a172c1f11a3dfe0e2be41e895f80485d26ea"
+  },
+  {
+    "recipe": "Cacık",
+    "image": "assets/generated/cacik.webp",
+    "sha256": "8fb4ea667863947b7fbed28b346be57269f0de6a595428f2c416a1bdfdaa293f"
+  },
+  {
+    "recipe": "Yoğurtlu Makarna",
+    "image": "assets/generated/dish-6005cb5504a660.webp",
+    "sha256": "046f518396946ebe56132793574389215d4b90d55d2ba95d7160e38e42e526a4"
+  },
+  {
+    "recipe": "Mercimekli Köfte",
+    "image": "assets/generated/mercimekli-kofte.webp",
+    "sha256": "8a6d5ea8bdea013c11ad2dfd1745dcafea473e18413567473c6c545617bc1ba6"
+  },
+  {
+    "recipe": "Taze Fasulye",
+    "image": "assets/generated/dish-33ab8689f127f0.webp",
+    "sha256": "61e04c9c53a87ba8699fd5d5639cee713adaaaaf5f2038e1adfbee40e2b3b1bc"
+  },
+  {
+    "recipe": "Zeytinyağlı Brokoli",
+    "image": "assets/generated/dish-13c45c3e86be15.webp",
+    "sha256": "3dd7e9d454379eee22c55708f14fcaa92a2fc9bdfa34023be67e8b157daf82e7"
+  },
+  {
+    "recipe": "Mısır Çorbası",
+    "image": "assets/generated/next100-1684054a693b21.webp",
+    "sha256": "a4a11c76e78d16308135cb67bb0f04d5ebcfc4d3e5675a95bec6ff25d3e901bf"
+  },
+  {
+    "recipe": "Kabak Çorbası",
+    "image": "assets/generated/dish-12703a2d0bdd13.webp",
+    "sha256": "2cc6a826c100138d3aacabb6730e8b3ed65cf21211798d3a8876d5d065b47bdf"
+  },
+  {
+    "recipe": "Domates Çorbası",
+    "image": "assets/generated/next100-a17537dc4c3dfd.webp",
+    "sha256": "75faae7a7c817c3f044e7fc0f0f4e713662554adb03bcb9575642cc6d13e2216"
+  },
+  {
+    "recipe": "Havuç Çorbası",
+    "image": "assets/generated/dish-337b057b79dd75.webp",
+    "sha256": "b1cf2207cd2b5355d9cf776b55b1cfb3798a33a66c5937f146b23203968f8851"
+  },
+  {
+    "recipe": "Tavuk Çorbası",
+    "image": "assets/generated/dish-5746047fdc6003.webp",
+    "sha256": "6a8bd91cf02255bb8560c6f9f672f0855f675f8509ba05e9279caa945f7d8bc0"
+  },
+  {
+    "recipe": "Ezogelin Çorbası",
+    "image": "assets/generated/ezogelin-corbasi.webp",
+    "sha256": "04b8082aa66569fe5ac5bdb10ca1d73235dcbcbb6e667b82ed32181dbd0a4fd5"
+  },
+  {
+    "recipe": "Balık Buğulama",
+    "image": "assets/generated/dish-d7feed78fe601e.webp",
+    "sha256": "81af7f7d2f7fc12a71d554bd4e098afd2391a4256b7273b7fd597fb9a80fb3d8"
+  },
+  {
+    "recipe": "Fırında Tavuk Patates",
+    "image": "assets/generated/next100-4b33a9be2f7f8d.webp",
+    "sha256": "ee97cc08515a5f7bb080e6bc717965f9a7d66f89c1cc87626a524089da770841"
+  },
+  {
+    "recipe": "Tavuk Şiş",
+    "image": "assets/generated/dish-829b41dbbabf99.webp",
+    "sha256": "c65fc5444358e692013d2d3e363fd26ff7eaa612be35becf954d9786ce03340a"
+  },
+  {
+    "recipe": "Patatesli Köfte",
+    "image": "assets/generated/dish-137c158cbb6ce4.webp",
+    "sha256": "61a87419009d62a403c75478779eb1c6d8051f387eef31812d8954e66e84ec50"
+  },
+  {
+    "recipe": "Peynirli Menemen",
+    "image": "assets/generated/dish-759d62fb3718f5.webp",
+    "sha256": "9dd21ed932f2e4e6727067bd73d0da16fb2789bf2ca46a9118c78540cae25d17"
+  },
+  {
+    "recipe": "Ispanaklı Börek",
+    "image": "assets/generated/next100-8a0971036158c0.webp",
+    "sha256": "d4d41d0f16c1480d404bff70678df17d8788d9dee1bc1c1e1b978f06fc6d5995"
+  },
+  {
+    "recipe": "Spagetti Aglio e Olio",
+    "image": "assets/generated/next100-5b2e2031033f6b.webp",
+    "sha256": "393db754c50c56105c35201b1da55cce35ae8c5dbfd822c37e8543812ddc138d"
+  },
+  {
+    "recipe": "Carbonara",
+    "image": "assets/generated/next100-0099cff4d73d4b.webp",
+    "sha256": "f25d29578541e916b9205a419ad22b3f1599098872b4c821c424c0c8e4aa0f41"
+  },
+  {
+    "recipe": "Fettuccine Alfredo",
+    "image": "assets/generated/next100-b2da25661f093b.webp",
+    "sha256": "77c74860ada8e9bdda5aa9dfa32904073cb1a976d6496b78348c4c5e5cf37ed3"
+  },
+  {
+    "recipe": "Bolonez Makarna",
+    "image": "assets/generated/next100-7f9ad17eeebbfa.webp",
+    "sha256": "e224a798867d3763be1fab3625297fa2d82c59a628348a4e6b8bf05390d3985f"
+  },
+  {
+    "recipe": "Bruschetta",
+    "image": "assets/generated/next100-e4441f0ed30b65.webp",
+    "sha256": "d684ebd51f97cc2447cc66e3f3159e9ad9dba8a51fd6df3c30e358b05e1c3704"
+  },
+  {
+    "recipe": "Caprese Salatası",
+    "image": "assets/generated/next100-2d3181d03cb956.webp",
+    "sha256": "37482825f4d6e0ce35ce4458b8bd3c1c7d3aa6ef2055eff98f781228052c0497"
+  },
+  {
+    "recipe": "Pizza Margherita",
+    "image": "assets/generated/next100-e9d73e21e74da6.webp",
+    "sha256": "58f584d36087ddb574ad5558fc36431ce7d0291f494613da50337e0de41ef030"
+  },
+  {
+    "recipe": "Minestrone",
+    "image": "assets/generated/dish-717dfb59da70bd.webp",
+    "sha256": "d7aa164b0b25ba6e7768f5079ffa71dbd5e69e48396ebec0cb7417c6c6f3206b"
+  },
+  {
+    "recipe": "Mantarlı Krema Makarna",
+    "image": "assets/generated/next100-08fe431eb45525.webp",
+    "sha256": "4c566ad4b09541c9f8332dcad876223fde3741e6ccaecc6ae6e5db11a03773de"
+  },
+  {
+    "recipe": "Sebzeli Noodle",
+    "image": "assets/generated/next100-3456db825502eb.webp",
+    "sha256": "8eccdd5d37033f4b3f6ca235fdab16de01c290a2eb5dd3172cbb7d474360f507"
+  },
+  {
+    "recipe": "Kung Pao Tavuk",
+    "image": "assets/generated/next100-3e019278837b7d.webp",
+    "sha256": "be9864955f321ad5fd0d204e37b13abee90f020eddd5f73cc84993340011fd78"
+  },
+  {
+    "recipe": "Tavuklu Ramen",
+    "image": "assets/generated/dish-87ed50a691c11a.webp",
+    "sha256": "4301c610cfe8ba6bdf03877bd5d4decf8dc8dec12d81734cd5e3e759e3d672a6"
+  },
+  {
+    "recipe": "Oyakodon",
+    "image": "assets/generated/next100-9fd9b4da41b055.webp",
+    "sha256": "ba7b2675d352f8188b867a92a9c0686b610f06dbf25bbf6d9cf431a04629cdf5"
+  },
+  {
+    "recipe": "Tavuk Tikka",
+    "image": "assets/generated/next100-87e41d99838bf1.webp",
+    "sha256": "4627f6b1e3a336429ba984bbcdb250ef5a885fbc5a25a52eadd6d3f1b08cc560"
+  },
+  {
+    "recipe": "Mercimek Dal",
+    "image": "assets/generated/dish-a0d0bcbfeff30a.webp",
+    "sha256": "469b0d65f08edfeb1116422bff631cb05104588de6e54c131977a9a92fec3c8a"
+  },
+  {
+    "recipe": "Chana Masala",
+    "image": "assets/generated/next100-a499b0e8306a85.webp",
+    "sha256": "a27349397e1dc73d8bff1cc0bbc2a7fd21b34671bf753a1a10f1ede96202e0d7"
+  },
+  {
+    "recipe": "Aloo Palak",
+    "image": "assets/generated/dish-22a2d40c5f126b.webp",
+    "sha256": "49ab8ab882077e2b38284c5faee6780c080ace606b8d63acf0ed0f95cf6cb8f4"
+  },
+  {
+    "recipe": "Quesadilla",
+    "image": "assets/generated/next100-07621d6062d060.webp",
+    "sha256": "b7fcf947c7cfb15a3eb1702c74ef1e7250fc32b1af036b8d1687f9d03760aca8"
+  },
+  {
+    "recipe": "Burrito Bowl",
+    "image": "assets/generated/dish-0746d073948ae2.webp",
+    "sha256": "751a4c594b07241abdffd63fab9740a682136de9754ff23598566aa489a230a0"
+  },
+  {
+    "recipe": "Pico de Gallo",
+    "image": "assets/generated/dish-38ed88d5fe442b.webp",
+    "sha256": "bb9cfa5d7cb3cf31abef017a0e242d8cb7caccbaec55cdba5baad2b5fae083ca"
+  },
+  {
+    "recipe": "Huevos Rancheros",
+    "image": "assets/generated/next100-40cb447341f5ca.webp",
+    "sha256": "7d70158d48237932f729c3c808282e6e1d9816a3e45c2b0a92c28358f2454cde"
+  },
+  {
+    "recipe": "Elote",
+    "image": "assets/generated/next100-5602f1340a5e19.webp",
+    "sha256": "553d98a113e64ee550addd1a678a2f8d4af45ea6d3cec612a1d9bc1071c0e189"
+  },
+  {
+    "recipe": "Yunan Salatası",
+    "image": "assets/generated/next100-8fd49282b59e49.webp",
+    "sha256": "81c06a83b6a477ef4f0b4c664b5c49dc201d0412dfb63a87d3488332dcecb06d"
+  },
+  {
+    "recipe": "Tzatziki",
+    "image": "assets/generated/next100-fab3fb4c303e1e.webp",
+    "sha256": "d0ecac2dbbedc329fa1cc9df7c0973346f40de53a7560b324e3653ffa95843cc"
+  },
+  {
+    "recipe": "Spanakopita",
+    "image": "assets/generated/next100-dd1c0df15ce349.webp",
+    "sha256": "a5751354f89a7f84a027014ac42a6b9b7ece22fa965f6bb017b227bb3771e778"
+  },
+  {
+    "recipe": "Humus",
+    "image": "assets/generated/next100-80086f08c18435.webp",
+    "sha256": "bea4cf67626a160a7898bcff4ae01635a8d16819a13ee5741c2d5043ffc3336a"
+  },
+  {
+    "recipe": "Falafel",
+    "image": "assets/generated/next100-b8422116cd1b1f.webp",
+    "sha256": "df410c7219fe84f9db3f8d4c0d8f307322cf719f525cae8ab218d5fab4ad73fd"
+  },
+  {
+    "recipe": "Tabule",
+    "image": "assets/generated/tabule.webp",
+    "sha256": "06b2d3ecd791c2171f4d007ed3f349135c0e06895b6c16197074e26e8da4e761"
+  },
+  {
+    "recipe": "Baba Ganuş",
+    "image": "assets/generated/next100-cf6edf061a261e.webp",
+    "sha256": "b009f6cd589bdb163bc68d817d8b4f623d9e06f17c50eda8f6119b8f81f53246"
+  },
+  {
+    "recipe": "Hamburger",
+    "image": "assets/generated/next100-d970592837937c.webp",
+    "sha256": "4684ac27a2eca74e1d558a48f499fb302a59e0e811f19a6a458e38aeb0c762fb"
+  },
+  {
+    "recipe": "Mac and Cheese",
+    "image": "assets/generated/next100-b9a0d9cf0cfb50.webp",
+    "sha256": "ec7fffa8c125f62a75cd1b25fba9dd92432702693c767b0f1333a93b3cf949da"
+  },
+  {
+    "recipe": "Tortilla Española",
+    "image": "assets/generated/next100-7a8bf91a19be8a.webp",
+    "sha256": "7248b2dad054d6341c84d9e17bec69fbeacc9f5cc7f7830b5679b46b04b968da"
+  },
+  {
+    "recipe": "Sütlaç",
+    "image": "assets/generated/next100-3cc38ae6323137.webp",
+    "sha256": "3aeeddbe250295e9e3d08127698e6d8390b45eee50dc5fd795c84b3e6c5857d1"
+  },
+  {
+    "recipe": "Elmalı Kek",
+    "image": "assets/generated/next100-f1d6ae758e878a.webp",
+    "sha256": "7dcb95773af56c7bb2e05fde2b03603d6a62c240f7d482ff126349b34a085341"
+  },
+  {
+    "recipe": "Muzlu Krep",
+    "image": "assets/generated/dish-02d1c93e60cbb4.webp",
+    "sha256": "e51ba23bd6a20f4e1f8ef630648ba3cc4156d67ee79c3cfb7fd85936b41600bd"
+  },
+  {
+    "recipe": "Çikolatalı Mug Cake",
+    "image": "assets/generated/next100-50c219c181f78b.webp",
+    "sha256": "466b65c1889864417bf6ac6da4c25644e2747dee6ad30002617954a3302569e2"
+  },
+  {
+    "recipe": "Çikolatalı Muz",
+    "image": "assets/generated/dish-3c1bbe441c6f68.webp",
+    "sha256": "96dfa27d96262d8570859d9397b25f6c233c4f082fa174cc7d4e8391f7fdca9d"
+  },
+  {
+    "recipe": "Ballı Elma",
+    "image": "assets/generated/dish-a5aca0b280112a.webp",
+    "sha256": "977847879c38d7ef07fb57f410b683d52f386ee712f7c9f5c35b5a0cc1b4b5b2"
+  },
+  {
+    "recipe": "Mantı",
+    "image": "assets/generated/next100-557f2bf669feaf.webp",
+    "sha256": "6b8e02ab40edba4498ba050a47269507b31c738e21b8317ed314b2dd2e8c1856"
+  },
+  {
+    "recipe": "Musakka",
+    "image": "assets/generated/next100-ddd3dbc88f726e.webp",
+    "sha256": "b3e20ae2d8500d12d1859c4fbc0fc9475252b00cad2d9cf6c6fdd902fd74d9f8"
+  },
+  {
+    "recipe": "Sushi Bowl",
+    "image": "assets/generated/dish-73b4f0581726f8.webp",
+    "sha256": "99bb1fcac7aa0a1ac9a181ee18ebb7e1e21e67e5c010431570e63dd4531e96fa"
+  },
+  {
+    "recipe": "Tarte Tatin",
+    "image": "assets/generated/dish-a7c19a28d6a012.webp",
+    "sha256": "b64efa51351948c3c16b053f4c674201af1b68ab86c27c3787ae6956173c35ad"
+  },
+  {
+    "recipe": "Çikolatalı Sufle",
+    "image": "assets/generated/next100-5bc306773b2f6f.webp",
+    "sha256": "358136c4a7d5201728fbbfd53a40c25259eda16e115ad49f800d6d7b234fad48"
+  },
+  {
+    "recipe": "Baklava",
+    "image": "assets/generated/next100-7af9b9850cfb3b.webp",
+    "sha256": "07685c17a2e4df16b08e016f450243cd71a1bdc4a35edb848a1945f2a26b9a35"
+  },
+  {
+    "recipe": "Bouillabaisse",
+    "image": "assets/generated/dish-f0ea66faad3e22.webp",
+    "sha256": "53637f64115781ee053f0367bbe0069e710ae188ae987dbe64749732ba542c8a"
+  },
+  {
+    "recipe": "Tavuklu Biryani",
+    "image": "assets/generated/next100-7fbacba0d93d2b.webp",
+    "sha256": "10dc5adab87b84246380370f74320733976ed86f5796bbac574c93fedb860a17"
+  },
+  {
+    "recipe": "Pad Thai",
+    "image": "assets/generated/next100-167ba360f38d48.webp",
+    "sha256": "a2623ab572f01ca5fb2b35e648f1e59e179a519ef9d98df43732a73c5c55a7dd"
+  },
+  {
+    "recipe": "Yaprak Sarma",
+    "image": "assets/generated/next100-4df10bb4a8a5cb.webp",
+    "sha256": "f1c34ed6c5567aa4055beab78d19a3ee4c6ce60974d8d7e2b406b36a864a9ea1"
+  },
+  {
+    "recipe": "Sucuklu Yumurta",
+    "image": "assets/generated/next100-a6e241f0563786.webp",
+    "sha256": "5146a40b7af6b8ef930074276f1db7f56aa01af705da22ce0035eeec512c11dd"
+  },
+  {
+    "recipe": "Pastırmalı Yumurta",
+    "image": "assets/generated/dish-3c30dd2de2036d.webp",
+    "sha256": "4d6a35fabcc269d419547eeb9d7e9b448c35071c42c6258de5e04d37ab99999b"
+  },
+  {
+    "recipe": "Ballı Ceviz Yoğurt",
+    "image": "assets/generated/balli-ceviz-yogurt.webp",
+    "sha256": "6978dfc7fc304f6c46f502e67e476092ccac57fd145c0b45347caa407176b343"
+  },
+  {
+    "recipe": "Çilekli Krep",
+    "image": "assets/generated/next100-d4221e497ca371.webp",
+    "sha256": "d702707a54efc1a9dca0088439dc46ec61b0d678c15a0dfd29c4233b8a2a86b1"
+  },
+  {
+    "recipe": "Avokadolu Tost",
+    "image": "assets/generated/dish-7a1a2894ba6a81.webp",
+    "sha256": "60b2cb22b8ec297ab8c2c749e5ec0e359bab529de2a2b1b1cc5b51b810c9dbb3"
+  },
+  {
+    "recipe": "Peynirli Domatesli Tost",
+    "image": "assets/generated/dish-a0f81574430301.webp",
+    "sha256": "4df2c5978d8e00892ee6f25580985c08a571643e657cf00b47a87dbefd521c81"
+  },
+  {
+    "recipe": "Patatesli Yumurta Tava",
+    "image": "assets/generated/dish-4ffdeb78c7cde3.webp",
+    "sha256": "9a7ec177800bc5e6bcfe6375b0a3d023fb140276ff064c5cc2ef4345f99e0e05"
+  },
+  {
+    "recipe": "Mantarlı Peynirli Muffin",
+    "image": "assets/generated/dish-4d2500ecb72232.webp",
+    "sha256": "7375460a844cd1be5dbba63a1dad315138669dc819749ab458a1342f590f60c8"
+  },
+  {
+    "recipe": "French Toast",
+    "image": "assets/generated/next100-e5997c15b7debd.webp",
+    "sha256": "10dd5ab14c0c759c0b070f2db959981a13329eee6879959ecc1e1a787d8c6dad"
+  },
+  {
+    "recipe": "Sucuklu Menemen",
+    "image": "assets/generated/dish-c1eee26f6bbc43.webp",
+    "sha256": "aa4859890de4a9d815b9440d811e7b9fb2d7f55492993decc8a183a257400adc"
+  },
+  {
+    "recipe": "Tavuklu Sezar Salata",
+    "image": "assets/generated/next100-081616f58532c6.webp",
+    "sha256": "f006149a199fb541e84a85dc3d910f75d15c67136773b10f107efa713dd3a3d2"
+  },
+  {
+    "recipe": "Nohutlu Salata",
+    "image": "assets/generated/next100-d220960ad11817.webp",
+    "sha256": "6b883618bc4f8708f0bcc7133e751af7f88adc851dee4f504ff20486fdaea8db"
+  },
+  {
+    "recipe": "Brokoli Salatası",
+    "image": "assets/generated/dish-c7cd707456adc6.webp",
+    "sha256": "5ffed7757fbc5cdbc4248bc63f5d08524d0a270db11550d893ff3d7b22484ace"
+  },
+  {
+    "recipe": "Yoğurtlu Havuç",
+    "image": "assets/generated/dish-6cf3a168f58482.webp",
+    "sha256": "8df3982b56ed140f72a733825d36716caadc0713c24881f3eecd03282f4ff1b8"
+  },
+  {
+    "recipe": "Elmalı Ceviz Salatası",
+    "image": "assets/generated/dish-bb530a3d606f73.webp",
+    "sha256": "e4e9c2ba7936ede0afae077a7d97b7d36d167226abf59abe503d66a09dc01e16"
+  },
+  {
+    "recipe": "Meyve Salatası",
+    "image": "assets/generated/dish-bc3a8ae2bddd2c.webp",
+    "sha256": "8b56df7009efc92d67be1ff5243ad8f131237dfe6e68135c36064c4a206de273"
+  },
+  {
+    "recipe": "Kalamar Tava",
+    "image": "assets/generated/next100-f4e19b137d238c.webp",
+    "sha256": "493ccda72ca7c14efc48b5bb46ff70d3d87dde19f6f0793dde607f1edf02424b"
+  },
+  {
+    "recipe": "Sarımsaklı Karides",
+    "image": "assets/generated/next100-44c35e6137b813.webp",
+    "sha256": "473595418a202031b83073b547d88cd9b52c81eb4132925a65f3e3047d213c68"
+  },
+  {
+    "recipe": "Balıklı Makarna",
+    "image": "assets/generated/dish-ef8f64ae77a20b.webp",
+    "sha256": "f87e8775238848c1389d8e2ad14421e2f03be4acd8b080ba94d7fa23638ab28a"
+  },
+  {
+    "recipe": "Fırında Balık",
+    "image": "assets/generated/dish-0b4faa0d4dce3c.webp",
+    "sha256": "9ca3022937020a60482e0244add23d2d7790b5a71b31365ba0398a211d713fa0"
+  },
+  {
+    "recipe": "Karidesli Makarna",
+    "image": "assets/generated/next100-1c9ebd6c0adaeb.webp",
+    "sha256": "7c6478dc58f974c98e044dddde5aa56b4d4a07d6bbfd7c2ba29ccddfc2b6663b"
+  },
+  {
+    "recipe": "Ahtapot Salatası",
+    "image": "assets/generated/dish-abba8427b90e20.webp",
+    "sha256": "97fff5220571e8970d54d4a4a3101e93f27d21889dc2216d42fdbb86eaf1d65e"
+  },
+  {
+    "recipe": "Kuzu Tencere",
+    "image": "assets/generated/dish-145eace3ddc83f.webp",
+    "sha256": "28876ffa853465c823233a5b2c7657a0905dcb021af979c467f567969ba1d6ee"
+  },
+  {
+    "recipe": "Sucuklu Fasulye",
+    "image": "assets/generated/dish-5f6a7e3e05d5a2.webp",
+    "sha256": "f9b7806835060200b79dd1e8dcea1caeaebb0821abbf3e57a449bdd5e62753d3"
+  },
+  {
+    "recipe": "Kıymalı Patates",
+    "image": "assets/generated/dish-3c5c58e228f9b5.webp",
+    "sha256": "e6f2400199a13f44f3cb50d2563198476153bf5f3d66135ce6fbf9233f75e06a"
+  },
+  {
+    "recipe": "Dolmalık Biber Dolması",
+    "image": "assets/generated/dish-005c740ec2ecc8.webp",
+    "sha256": "458cdc4dfdf58c7e5b6a725759a7950947d509e09024015b26ab5d7e674b4cdc"
+  },
+  {
+    "recipe": "Tatlı Patates Püresi",
+    "image": "assets/generated/dish-e104f81bbe75c4.webp",
+    "sha256": "bdb695912a062cd1bf937e9e33b35498aa2477dea79f8120e22137e3a3a6ddcb"
+  },
+  {
+    "recipe": "Etli Ekmek",
+    "image": "assets/generated/dish-417baf677830d5.webp",
+    "sha256": "225804c449adda60d78d948da1621b71003e0d847fce21381207f6a94176a2e6"
+  },
+  {
+    "recipe": "Tavuklu Pilav",
+    "image": "assets/generated/dish-d25e7cd171e887.webp",
+    "sha256": "1fa496f9ef75417989117acb0e0e1f9acfb031de4608f56f1da93533e277c6ee"
+  },
+  {
+    "recipe": "Kabak Dolması",
+    "image": "assets/generated/next100-884ab59ccd772e.webp",
+    "sha256": "0bc07fe7cd7baf9c85120c5f33b18a096aa7fd606d9411a0093447c6c66dd917"
+  },
+  {
+    "recipe": "Çılbır",
+    "image": "assets/generated/next100-55595ca70fd59e.webp",
+    "sha256": "51cd0ddb321e356b084a45db6f5f1cbd71972408596adc7e28634a858b860aa8"
+  },
+  {
+    "recipe": "Pastırmalı Ispanak",
+    "image": "assets/generated/dish-2ee0665ffe07e0.webp",
+    "sha256": "f0e5c275cd1969277dfee48b9ef4f15069fed0ea510d519bacde426f458b9ad2"
+  },
+  {
+    "recipe": "Patlıcan Kebabı",
+    "image": "assets/generated/next100-a7521222b31284.webp",
+    "sha256": "2ab67a84e8c40aff1e584fc48fe2cddf3b50c267717c4e4ef417c6cb196f2120"
+  },
+  {
+    "recipe": "Nohutlu Ispanak",
+    "image": "assets/generated/dish-7dcb6e11c40009.webp",
+    "sha256": "ca7f6f50b71f19bec8e28eb9d2c880e0dc2fdfe2f0612f284a9f52fb22d970ad"
+  },
+  {
+    "recipe": "Pesto Makarna",
+    "image": "assets/generated/next100-6a4ded48741186.webp",
+    "sha256": "160931b6a038143fcd7dc0b76c73a746413f52da1f7ed3c1217b15c50f57fe88"
+  },
+  {
+    "recipe": "Zeytinli Ekmek",
+    "image": "assets/generated/next100-cb13174367fa17.webp",
+    "sha256": "56d881d76bb825a1e0b2374493dd5b4fca925fb268d32889233117362745e13e"
+  },
+  {
+    "recipe": "Patates Gratin",
+    "image": "assets/generated/next100-fcfb952389fb0c.webp",
+    "sha256": "d0608c8701f5e462df02285a198697d488c06917ec4553346c34e141a0325f1e"
+  },
+  {
+    "recipe": "Quiche Lorraine",
+    "image": "assets/generated/dish-93194648a6e575.webp",
+    "sha256": "5118c06cf022d326868d2677f6661252d0b35eb0ee4c54c85839161076ec5018"
+  },
+  {
+    "recipe": "Soğan Çorbası",
+    "image": "assets/generated/next100-e5ea75f8606ef0.webp",
+    "sha256": "a32a2334ffaf4888c0b2e97d84b9b8212247c7de507ee068d30a2f4e0e7bca61"
+  },
+  {
+    "recipe": "Tavuk Fajita",
+    "image": "assets/generated/next100-4ac873d9ea811f.webp",
+    "sha256": "7deba92f734ff09aa94354dde043c0d142dabc95e2160f824c012965a1dddb6d"
+  },
+  {
+    "recipe": "Tacos",
+    "image": "assets/generated/next100-5826a105affa14.webp",
+    "sha256": "4d18ceb74dbc6c7bbc34930f99996a4d8d47399e8069f91e30b20f550808cfdc"
+  },
+  {
+    "recipe": "Nachos",
+    "image": "assets/generated/next100-e20723e6f90854.webp",
+    "sha256": "54b08b7b7b3e672dcac5c08f09a98106db5d18375415497121e0cbfaac614248"
+  },
+  {
+    "recipe": "Palak Paneer",
+    "image": "assets/generated/next100-00b76bb3734da9.webp",
+    "sha256": "cf80f214075c01d983ae768dacbc4398ff9a0a8363a98ac87f060526e0046d57"
+  },
+  {
+    "recipe": "Tavuk Korma",
+    "image": "assets/generated/dish-9359a4384b4257.webp",
+    "sha256": "6d51113a32c252761ecbd2b2f954796f1d8a17a3d974406a92157eb2eaa0e699"
+  },
+  {
+    "recipe": "Bibimbap",
+    "image": "assets/generated/next100-18ed15a223d49a.webp",
+    "sha256": "d208af97a0aff6099c69a4624f56a35869e5e818fb8c4b3cac29bb87e2c09e28"
+  },
+  {
+    "recipe": "Yakisoba",
+    "image": "assets/generated/dish-208f181359434d.webp",
+    "sha256": "db61d21634e416296ccea8bc203c81c525d5672b51b635ccf02bfd969f108d60"
+  },
+  {
+    "recipe": "Katsu Tavuk",
+    "image": "assets/generated/katsu-tavuk.webp",
+    "sha256": "ad2319f2bc9346d769dd68d69455062c0b251fb3bdfb9d2a8f1ebc68e28d3849"
+  },
+  {
+    "recipe": "Tatlı Ekşi Tavuk",
+    "image": "assets/generated/next100-b5e0848294e0f5.webp",
+    "sha256": "eee65f48b3069ecb3ecd64e31f663023439024c481623ac715ce24be9d68d352"
+  },
+  {
+    "recipe": "Hindistan Cevizli Pilav",
+    "image": "assets/generated/dish-921d3cd619340e.webp",
+    "sha256": "0c0aa6cc5c1eb321020329c25637f2e7f236e1ff727a2856e766ac9fb467db2c"
+  },
+  {
+    "recipe": "Şakşuka",
+    "image": "assets/generated/dish-1612f46b3b70a5.webp",
+    "sha256": "1b324869dc520e93435c1eb8c58df7dff4f2cdfb30b5d44fdf26fc4d62e57dae"
+  },
+  {
+    "recipe": "Shakshuka",
+    "image": "assets/generated/next100-d8f3c71e6d57e1.webp",
+    "sha256": "b664f0ac97af9b2d3c56379c87116abf728999c7818a0c6bfb26bb7323c15c70"
+  },
+  {
+    "recipe": "Kuzu Şiş",
+    "image": "assets/generated/next100-aad363fc5fb72d.webp",
+    "sha256": "2428f6e2e63ac7e3a423b166778cf5c50a1c40856235c6859ab9e7a713d8f489"
+  },
+  {
+    "recipe": "BBQ Tavuk",
+    "image": "assets/generated/dish-184d40ba7c09fc.webp",
+    "sha256": "e40017990b704aaf0ab2e03f28fec34e328e356b2ad2b80a1b9a41daf748fee3"
+  },
+  {
+    "recipe": "Mısırlı Patates Çorbası",
+    "image": "assets/generated/dish-dd9e542392839e.webp",
+    "sha256": "8daef3ad1ba2cd467cd02d09b9d039e5c0c2dae7819de2bbbf23ceb659a4bd46"
+  },
+  {
+    "recipe": "Mısır Ekmeği",
+    "image": "assets/generated/next100-c27617ef91349f.webp",
+    "sha256": "252fdc28149b9876d3d853c3668fd8a0030dead7fe186119064e5f1cc4987632"
+  },
+  {
+    "recipe": "Şeftalili Tart",
+    "image": "assets/generated/next100-8f3f38efd8c27a.webp",
+    "sha256": "6fdf328dbced86da554dadfc864948f3d30f308ba12fa15c62df2645247ef512"
+  },
+  {
+    "recipe": "Kirazlı Clafoutis",
+    "image": "assets/generated/dish-800f5f57db6ccf.webp",
+    "sha256": "649163bc85f031a7d705de29ba81fbdca751dfef3785faeb350efb0b62b59934"
+  },
+  {
+    "recipe": "Ananaslı Muhallebi",
+    "image": "assets/generated/dish-7cdfce85b2911e.webp",
+    "sha256": "340f21bc9cf4e07224aa7f3948b291e7533b83379559f5e62a01807dea5186e6"
+  },
+  {
+    "recipe": "Portakallı Kek",
+    "image": "assets/generated/next100-53cf399c0a0f7b.webp",
+    "sha256": "678b71a01484def39f2e234d906f0c35dcfcb50a9b9edba004ae52f53a632861"
+  },
+  {
+    "recipe": "Fıstıklı Sütlü Tatlı",
+    "image": "assets/generated/dish-25e53cc2eac9c2.webp",
+    "sha256": "1ab50706627bdc2c2e0a7c458d9f53a7f43b9d768c93b69b06cdef0af2d117fc"
+  },
+  {
+    "recipe": "Akdeniz Usulü Fırın Balık",
+    "image": "assets/generated/dish-bafb8936c0b2ec.webp",
+    "sha256": "6f0167ce19486681ab3620943febc6e66a08009b8352dbfa53bf879a947d2e3f"
+  },
+  {
+    "recipe": "Zeytinli Domatesli Makarna",
+    "image": "assets/generated/next100-57ec79991316ac.webp",
+    "sha256": "b2aa98af619be5c9b25832a3de1cb1424a69ad6fe0d9a4f8c0fe7409325b94c3"
+  },
+  {
+    "recipe": "Fırında Akdeniz Tavuğu",
+    "image": "assets/generated/dish-d4643b2f28837a.webp",
+    "sha256": "e566e038d14bb00bf56570f4a82b0e1fde76ea69de80529d86b12b3f039a564a"
+  },
+  {
+    "recipe": "Peynirli Zeytinli Poğaça",
+    "image": "assets/generated/dish-b82f75e13f31ba.webp",
+    "sha256": "6cef1fd1be629e3c63cf2c821cb717f35ca7611396166bed4029e35d165d1d80"
+  },
+  {
+    "recipe": "Domatesli Balık Güveç",
+    "image": "assets/generated/dish-24b7a7ead0c30a.webp",
+    "sha256": "257949e7d9bd9790211d7076dc18015bb5bd26f60d65f49b83f8b7c524add97b"
+  },
+  {
+    "recipe": "Zeytinyağlı Kabak",
+    "image": "assets/generated/dish-b5563c5d723e70.webp",
+    "sha256": "5e3a975bf61473aba50dc530ea64722283e4be9662768615862ab485f600bea3"
+  },
+  {
+    "recipe": "Limonlu Tavuk",
+    "image": "assets/generated/limonlu-tavuk.webp",
+    "sha256": "019c9b93b9345e51e21aaf4517634d9c74d8c2f5fdf4c1782f3f917eb3f36f08"
+  },
+  {
+    "recipe": "Nohutlu Sebze Güveci",
+    "image": "assets/generated/dish-69d6dd917f8a63.webp",
+    "sha256": "693805105ac091926c1c5d1767a4270aa9cb4577974baf1441b0cd541e50b123"
+  },
+  {
+    "recipe": "Karidesli Akdeniz Salatası",
+    "image": "assets/generated/dish-faa7f3a41092a4.webp",
+    "sha256": "ece5f9ebc0f01273efd74c336173b5b2d23709e5037975a21c2df523ae7754c1"
+  },
+  {
+    "recipe": "Ev Usulü Adana Kebap",
+    "image": "assets/generated/next100-b7d29d7c84f548.webp",
+    "sha256": "7eff8f6738e5a6cd6ee6271060fb8b18b8801d128055346e3c888374eb21a4e3"
+  },
+  {
+    "recipe": "Tantuni",
+    "image": "assets/generated/next100-fdef4e3d9cb0bd.webp",
+    "sha256": "7ac7b867a396f6fa783cef3003a57c43065f7c33ae831eca482f526cb5ef7eaa"
+  },
+  {
+    "recipe": "İçli Köfte",
+    "image": "assets/generated/next100-441e7da2c2e961.webp",
+    "sha256": "1c796257e4ca346171ebbe91bd70f33a1d815618eb70cc28bcacf0dec216f292"
+  },
+  {
+    "recipe": "Analı Kızlı",
+    "image": "assets/generated/dish-fec78c01053d66.webp",
+    "sha256": "9fd67f44d7bac42c3923ec69204a8257f9e4701774d5b263a289fced5ca873c3"
+  },
+  {
+    "recipe": "Yuvalama",
+    "image": "assets/generated/dish-17eddaf4b34341.webp",
+    "sha256": "ccc16f3c742a5efa4d46cb34cbaa2f1e0fb024fdce7bb0546787fd2bb9fe6c2c"
+  },
+  {
+    "recipe": "Alaca Çorba",
+    "image": "assets/generated/dish-32f10bb6864c1b.webp",
+    "sha256": "c161525760a82c2e902b834af0df67dabdd5e11dca4a5c1832b83d60b253ede8"
+  },
+  {
+    "recipe": "Pratik Beyran",
+    "image": "assets/generated/next100-71fb2e04040acc.webp",
+    "sha256": "c8be7b60f2e7090955d7cfcdb91085c401a6d3e2d464352b6c90d4c341fc9f47"
+  },
+  {
+    "recipe": "Kabaklama",
+    "image": "assets/generated/dish-27185d5c5dd516.webp",
+    "sha256": "d7c70d44ca210d06bda8f195fe831a5607f566e58b1c923123b58af43cd5c228"
+  },
+  {
+    "recipe": "Ali Nazik",
+    "image": "assets/generated/dish-022f461dca4936.webp",
+    "sha256": "294b812c86c2d4138aca9b6b5dc63d1091b55ce21803c5ec526291359f0af949"
+  },
+  {
+    "recipe": "Çökertme Kebabı",
+    "image": "assets/generated/dish-5e1e5ffcf5eee0.webp",
+    "sha256": "4ca1669a062b069ff33c2d3eaae11ad813a703c6bea3f0e053768680722c1b3e"
+  },
+  {
+    "recipe": "Keşkek",
+    "image": "assets/generated/dish-3f8ef20b4f5291.webp",
+    "sha256": "146de7bd919fa532da1808e63e0265a4bda02f107e73fa4d43f10fd39b2d57f6"
+  },
+  {
+    "recipe": "Çiğ Börek",
+    "image": "assets/generated/next100-c1bff9165b0ee2.webp",
+    "sha256": "413a586f03d66fe70e8a9ff3f4bc7f3978424634d3180b084685bba8f029d35f"
+  },
+  {
+    "recipe": "Balaban Köfte",
+    "image": "assets/generated/dish-1767a5669e0416.webp",
+    "sha256": "ebb2e412b6267242543f72048c832330c3d938ec26c0121aab04eeb70f810b41"
+  },
+  {
+    "recipe": "Tirit",
+    "image": "assets/generated/dish-680849980ad341.webp",
+    "sha256": "add67f3eb56359a9178ed4f3159e331f9d8be3ab7efc41a0fcfd19e4deab04db"
+  },
+  {
+    "recipe": "Çentik Kebabı",
+    "image": "assets/generated/dish-016daed9d5c5e0.webp",
+    "sha256": "91e094698a4cbf9a66ad4376dad2bd303299b029cfc113cccb750b2cf57998b0"
+  },
+  {
+    "recipe": "Hamsili Pilav",
+    "image": "assets/generated/dish-1c1a2e14af5238.webp",
+    "sha256": "91a77a94d626b4ef967ed8e2c75c2f6cc53d9db1d427fd6f227aacbb8f9ef272"
+  },
+  {
+    "recipe": "Kuymak",
+    "image": "assets/generated/next100-c77cc742f9d15a.webp",
+    "sha256": "c25b6cda0cc9c5dc6d74219c583952279968a62bf7d8441a5f47822933e5a1a8"
+  },
+  {
+    "recipe": "Karalahana Çorbası",
+    "image": "assets/generated/dish-2f8753344f74eb.webp",
+    "sha256": "0fe70ab69679ea9908004b7f779faa99db7b716dd47b36bffc23aa4bb055c61d"
+  },
+  {
+    "recipe": "Akçaabat Köfte",
+    "image": "assets/generated/dish-906e91a83535f8.webp",
+    "sha256": "b50dffecd7fc78f075d3fb6a7a13526ee894a8205634d5fc7dcb7cdbbb4b9103"
+  },
+  {
+    "recipe": "Laz Böreği",
+    "image": "assets/generated/dish-a54b5d35b40e54.webp",
+    "sha256": "1177fdbf51627c569b9559090d394961880bc99dc03ae58f19fe2cf542717837"
+  },
+  {
+    "recipe": "Kaygana",
+    "image": "assets/generated/dish-d39cadf535f5dc.webp",
+    "sha256": "9451466f1706fdf04d6150dcb81a0f4349997d968d76f61a82b350927b6a870b"
+  },
+  {
+    "recipe": "Mancarlı Pide",
+    "image": "assets/generated/dish-314187646d8e59.webp",
+    "sha256": "03bd19b28255dd5763011eaaadaef924cacb6d1106d32989ac69a11cba3275c5"
+  },
+  {
+    "recipe": "Mahluta Çorbası",
+    "image": "assets/generated/dish-7addc56fafebc8.webp",
+    "sha256": "ef71aec36d156193544f7658c9c8715f504a811f87005c1e95f740145c4d83e4"
+  },
+  {
+    "recipe": "Oruk",
+    "image": "assets/generated/dish-c4e495085e7293.webp",
+    "sha256": "b837efb4ad892e59c69507d6d10f69e9ad02c495bbd9ce8664ab1bba87db0ea8"
+  },
+  {
+    "recipe": "Fellah Köftesi",
+    "image": "assets/generated/dish-0591f02b238862.webp",
+    "sha256": "8b4ade17e22589c56508303674ae610d296be25cb708cc73352ea940d585d7ad"
+  },
+  {
+    "recipe": "Batırık",
+    "image": "assets/generated/dish-c9013861bdb706.webp",
+    "sha256": "3d5ddeb19b09b411ecd56c5af1cb79e65f75d2783570be631d98cdfaaa355b5b"
+  },
+  {
+    "recipe": "Bici Bici",
+    "image": "assets/generated/next100-4155cc94785d97.webp",
+    "sha256": "d3864e5058651d1b1c4f17d3845c41815f70323af4231a2f6e0d8a54a92fb68e"
+  },
+  {
+    "recipe": "Perde Pilavı",
+    "image": "assets/generated/dish-fff28971534fe5.webp",
+    "sha256": "3dc4ec4e1e001be782937377a22169526373fda2133c0e477f2a5cd709bb101e"
+  },
+  {
+    "recipe": "Siron",
+    "image": "assets/generated/dish-754953c02ecbbd.webp",
+    "sha256": "5c222ef5f4d7c631b1edd88d44842ac8d5fe5d6d024683f5804049437eb1d618"
+  },
+  {
+    "recipe": "Gendime Çorbası",
+    "image": "assets/generated/dish-e5ee5313cf4864.webp",
+    "sha256": "6832908a12c74ca815a9dd644a7e3c6d83c5223ec27fbc2a5b3b69ac45e6223f"
+  },
+  {
+    "recipe": "Sivas Hingeli",
+    "image": "assets/generated/dish-607cd09d911d16.webp",
+    "sha256": "8d794572ecb9aceab8a1bd2a5287064cfb2286e4160263265f202aac4bd48cf5"
+  },
+  {
+    "recipe": "Tokat Batı",
+    "image": "assets/generated/dish-fa174f0ae2cb05.webp",
+    "sha256": "bc712680897722a200a13a562509a98c4de754b44a39cb5b8efd8c7e5e361119"
+  },
+  {
+    "recipe": "Çerkez Tavuğu",
+    "image": "assets/generated/dish-41fc6de3b4df5e.webp",
+    "sha256": "4a47150ec0af7e04138fd978f03bc8e92b5bee4075c7a35241eaa4f07afcdd9c"
+  },
+  {
+    "recipe": "Uşak Tarhana Çorbası",
+    "image": "assets/generated/next100-ffd995043b7aa8.webp",
+    "sha256": "0e54d88a63927d8e1886ca7aae24121227440772d9b83a22322dcfe6854f0cfb"
+  },
+  {
+    "recipe": "Pazılı Dible",
+    "image": "assets/generated/dish-89ade8bec53ffc.webp",
+    "sha256": "1a2fc18ff18cce66f32f858d72eb3a887d38e4fe08345501598a747f97cce3fe"
+  },
+  {
+    "recipe": "Yayla Çorbası",
+    "image": "assets/generated/yayla-corbasi.webp",
+    "sha256": "649532e59fb59ff55792c78c8c856a99c172d64bf65c0121d7bf9b02f59dc73b"
+  },
+  {
+    "recipe": "Şehriye Çorbası",
+    "image": "assets/generated/dish-f56b46758c21f1.webp",
+    "sha256": "766221f815d551d5de9a5d0fd48ea1947f4fe53999110e63823f57e7a36e412d"
+  },
+  {
+    "recipe": "Zeytinyağlı Pırasa",
+    "image": "assets/generated/next100-46567832adb114.webp",
+    "sha256": "1a5a4d3436ada689e149e53df7784c2d99e01e531e145c102172cd3fffaaefda"
+  },
+  {
+    "recipe": "Bezelye Yemeği",
+    "image": "assets/generated/bezelye-yemegi.webp",
+    "sha256": "2b72582add1781dc06f6dddf972bc7e0266cd81e48a66109a74509e0141f59d7"
+  },
+  {
+    "recipe": "Sebzeli Türlü",
+    "image": "assets/generated/dish-06a980154d66ff.webp",
+    "sha256": "8b616988b0c6c168e029c760c037cdc63940cac96f618d920f6d26973b11d3d5"
+  },
+  {
+    "recipe": "Patates Salatası",
+    "image": "assets/generated/next100-f96e66e2951479.webp",
+    "sha256": "a6149efd7ffe434fad9f18dbfea41c92f3d9df3f1e4192aa78ae1d3994ca2cb6"
+  },
+  {
+    "recipe": "Kısır",
+    "image": "assets/generated/kisir.webp",
+    "sha256": "28306a3b24408e63203e0c6b5413c6e58d4743c899ed02483d82f5fadb833a0d"
+  },
+  {
+    "recipe": "Patatesli Börek",
+    "image": "assets/generated/dish-b5dc1d4427d7e6.webp",
+    "sha256": "9045fc6943b933268b338afc3a978d3e09daf7e7002e7b9e9d579d77b11857d9"
+  },
+  {
+    "recipe": "Fırında Peynirli Makarna",
+    "image": "assets/generated/dish-8c568a7b85e24a.webp",
+    "sha256": "e538b460c2b22e83712503912c6b683208932eda3c15d8d8cf938c3f8f072c63"
+  },
+  {
+    "recipe": "İrmik Helvası",
+    "image": "assets/generated/next100-05a1aced53e376.webp",
+    "sha256": "638e5dfd5c48b693435b9cf79869462d346cce3a0e2b010e73ba5530f72fe3a0"
+  },
+  {
+    "recipe": "Arpa Şehriye Pilavı",
+    "image": "assets/generated/dish-99beb09f8f69f4.webp",
+    "sha256": "1da352b58808051943fbc11c3f20cdaae75794331a5d7337b009322fbe31e738"
+  },
+  {
+    "recipe": "Yoğurtlu Semizotu",
+    "image": "assets/generated/next100-56b64f2cbd572a.webp",
+    "sha256": "44577846f32296693bb31bd7b6c20f608cb6aa4eb7809c6d4d9a539b6959f70e"
+  },
+  {
+    "recipe": "Osso Buco",
+    "image": "assets/generated/next100-04fa79473470a6.webp",
+    "sha256": "42f8b5d2d44dc9250b6c1d46430aa4ce414be3dfba760a935e286ea4a6c6206f"
+  },
+  {
+    "recipe": "Ricottalı Ravioli ve Adaçaylı Tereyağı",
+    "image": "assets/generated/dish-63eef32eeb057c.webp",
+    "sha256": "92196949fde69133e56d44fd1a1a92f5030b97a6e6253ec4a75c76dcbc341435"
+  },
+  {
+    "recipe": "Patates Gnocchi ve Domates Sosu",
+    "image": "assets/generated/next100-1b6bf0b6eb1b85.webp",
+    "sha256": "6de1636b008f4422739b790733d42f8109472ad0842f95806c056149bdbe58e3"
+  },
+  {
+    "recipe": "Arancini",
+    "image": "assets/generated/next100-1b268b6ba48e72.webp",
+    "sha256": "47d4975b8b139415684f778baf5ee0fd168f378be0a844b43fefb158cc80e8d5"
+  },
+  {
+    "recipe": "Pollo alla Cacciatora",
+    "image": "assets/generated/final92-d5447945e05bf0.webp",
+    "sha256": "09633d8315484223fcbd1fa6fa30282c8d93aaa996c25b71ec33f2b7329c6f05"
+  },
+  {
+    "recipe": "Boeuf Bourguignon",
+    "image": "assets/generated/dish-637dc0516f9033.webp",
+    "sha256": "1c8a683696832864666f60077e7a963f9c714e420a08a814dc4ab55fd60a703c"
+  },
+  {
+    "recipe": "Ördek Konfi",
+    "image": "assets/generated/next100-df75b4db0f52ad.webp",
+    "sha256": "398aaa955118d0e35980dcd368bb4f53ef89fc5ca27c4ca1a094d8b023efece2"
+  },
+  {
+    "recipe": "Somon en Croûte",
+    "image": "assets/generated/final92-ac1474fcc74bc8.webp",
+    "sha256": "daba2accf56fea8e6f556e2dd8ef3b4c447e411863a7fd3186c268cbf852a7f0"
+  },
+  {
+    "recipe": "Peynirli Sufle",
+    "image": "assets/generated/final92-743d48cf0dd14b.webp",
+    "sha256": "aebcb4995a18758e93e049c18b7261dd1bc8f5b5ecfdfa94705eedbd5a4e7972"
+  },
+  {
+    "recipe": "Tavuk Ballotine",
+    "image": "assets/generated/dish-139496bdc9ce39.webp",
+    "sha256": "41b314e78fd7d96c12d206e08a50a16f5f3a7cff62d02bbd7b560d1b853fd04a"
+  },
+  {
+    "recipe": "Deniz Mahsullü Fideuà",
+    "image": "assets/generated/dish-d5dc6f9e181c81.webp",
+    "sha256": "151b53bb7a7b1bfca3a6b281fb53806470c90a8ae97f225e23ac05006811390c"
+  },
+  {
+    "recipe": "Patatesli Ahtapot Galisya Usulü",
+    "image": "assets/generated/dish-13506dfb75d0a5.webp",
+    "sha256": "5d448ceda4fd399194f1335e3a15409116f1b6d84529aa27ed33a34c800d80af"
+  },
+  {
+    "recipe": "Kuzu Rogan Josh",
+    "image": "assets/generated/next100-81d00a91dcdf02.webp",
+    "sha256": "7046206b59e85871af30a8e4e8d40eaa0f30b50cff560f7a3a5aba70f71af5cb"
+  },
+  {
+    "recipe": "Malai Kofta",
+    "image": "assets/generated/dish-ece90e39d539da.webp",
+    "sha256": "d7b457702775c422918dab33f886685866487fd5ce8798f29de7693929715ab4"
+  },
+  {
+    "recipe": "Gyoza",
+    "image": "assets/generated/final92-22bf8b22457b98.webp",
+    "sha256": "aa1404e4384d413dd148655babcd20b02d49f83858cf84741ca3136d80288675"
+  },
+  {
+    "recipe": "Chawanmushi",
+    "image": "assets/generated/final92-42dc9035d308e8.webp",
+    "sha256": "627be21a80ae4d23134aab0ad00d8eecc5064926ff4ad8b3c4b90b55e606756a"
+  },
+  {
+    "recipe": "Bibim Mandu",
+    "image": "assets/generated/dish-774a1338022fc8.webp",
+    "sha256": "94e5d975bbad175333d8c7c3da2e817d652531437ffdd122029c8e9957f2dfd6"
+  },
+  {
+    "recipe": "Bademli Tavuk Pastilla",
+    "image": "assets/generated/next100-e58216b2d288d7.webp",
+    "sha256": "f6c13bcd3e35b0bf4e347fae3389e22d7290430429b9fbe5a790d335666e316a"
+  },
+  {
+    "recipe": "Limonlu Tavuk Tagine",
+    "image": "assets/generated/dish-92f76150177fac.webp",
+    "sha256": "ed4f227bb59efcb9e0c0e5c82b419bfade0adb78723e26cb3a994a4b3bb21cea"
+  },
+  {
+    "recipe": "Ev Yapımı Mole Soslu Tavuk",
+    "image": "assets/generated/dish-3df5e7bf777d2c.webp",
+    "sha256": "9f3153c624a6859cf29ab7a7981f8938067cfabb1c5691a4210b0fdbaed2bac1"
+  },
+  {
+    "recipe": "Pasta alla Norma",
+    "image": "assets/generated/dish-8c8a47495121e1.webp",
+    "sha256": "ada3bfea45ca1b58344e63cc329ef8abe11c10f11f99195e640f07d063c7db20"
+  },
+  {
+    "recipe": "Puttanesca",
+    "image": "assets/generated/dish-e34046d011d67d.webp",
+    "sha256": "8a589f91424cc5cbb931f34ff95680f97c6a732f82ab8f54bf50c633c471adfa"
+  },
+  {
+    "recipe": "Panzanella",
+    "image": "assets/generated/final92-70600de7769c29.webp",
+    "sha256": "b71e1c1bb4780e3aee2ca77a24d24f7bf4eecddd5e1489bdf8aaf3d22e4123af"
+  },
+  {
+    "recipe": "Caponata",
+    "image": "assets/generated/dish-6c3a89a357ae03.webp",
+    "sha256": "92d10a8a67f4566b491fe22c123683d4b1cf3ceb77b8da45b9251eabe8db9a88"
+  },
+  {
+    "recipe": "Ribollita",
+    "image": "assets/generated/final92-57183cb0fb78c7.webp",
+    "sha256": "803ec0592e85d8808b91715cb4e8a3f12485189d6db825b6d719f4c4fee849e9"
+  },
+  {
+    "recipe": "Focaccia",
+    "image": "assets/generated/final92-379520ada20e55.webp",
+    "sha256": "b1b44671d3fca7e289dec057f4f0dd71e82aec50d0a55fd84709336f537be5c9"
+  },
+  {
+    "recipe": "Tavuk Piccata",
+    "image": "assets/generated/dish-da329fbc42fac6.webp",
+    "sha256": "1c180436b0c97641380fb3c7834b008cc5a88fe47b8f8716bea3bdf266adfa40"
+  },
+  {
+    "recipe": "Salade Niçoise",
+    "image": "assets/generated/dish-9e4bf9deadaaa9.webp",
+    "sha256": "1488f900435ca27636298cf6f48588e03413257c14de1ef45614e329f43c6048"
+  },
+  {
+    "recipe": "Pissaladière",
+    "image": "assets/generated/dish-7933dd99f65dab.webp",
+    "sha256": "3257ccbcd1503d7090edf5cdb7f6fb6d795e3333192078f4946fbd26f504dbf5"
+  },
+  {
+    "recipe": "Pırasa Vinaigrette",
+    "image": "assets/generated/final92-36d11bb735f129.webp",
+    "sha256": "887089c2055005c9cb8dc908b1e8c1470d2f2a0ccb8b18430dca4e416f231946"
+  },
+  {
+    "recipe": "Patatas Bravas",
+    "image": "assets/generated/final92-577fd748fb9c94.webp",
+    "sha256": "4fa2ba9bb13c373a7784a5f218d60bf019f93f7363e504fe445170d8eba192d6"
+  },
+  {
+    "recipe": "Gazpacho",
+    "image": "assets/generated/final92-168579dfb886c5.webp",
+    "sha256": "63a48c32afac60d2fa3444ff4c6b120e34d7dc5576df61a32064ffcafcfaba7d"
+  },
+  {
+    "recipe": "Pisto Manchego",
+    "image": "assets/generated/final92-c5c8e2bfc496d7.webp",
+    "sha256": "415c2a8daa2bb6ea4e2fe15008e8f30bf96439705d97e3e417bfb484af30f2b1"
+  },
+  {
+    "recipe": "Empanada Gallega",
+    "image": "assets/generated/dish-3a81d8354239c1.webp",
+    "sha256": "33dbd18c16f4b20d8f86e0f315625a01b610e43906747a8cb2b0b50b92f2e7ef"
+  },
+  {
+    "recipe": "Souvlaki",
+    "image": "assets/generated/final92-3e3e737b0543c9.webp",
+    "sha256": "4b34a6882aeb87cff4059f430e8dda9ebb6ab6b89ffbdba805cd84eb0d486db4"
+  },
+  {
+    "recipe": "Gemista",
+    "image": "assets/generated/dish-6ffea56bfb8712.webp",
+    "sha256": "35adf1bf52b5935572a41d7f59e97d32219f01e8f29df6218f40e35d66a396cf"
+  },
+  {
+    "recipe": "Briam",
+    "image": "assets/generated/dish-8ba3fda061b9d1.webp",
+    "sha256": "5c9162c871bcae031bfeab8e9bee9b41b32bc2a07975899d820b803375bef079"
+  },
+  {
+    "recipe": "Avgolemono",
+    "image": "assets/generated/final92-e2dd5472ececdf.webp",
+    "sha256": "e6bc030a0640e05d6631a402e0fb7e336db0a31edcb1d1d0141305048b283e41"
+  },
+  {
+    "recipe": "Mercimek Mujaddara",
+    "image": "assets/generated/dish-ecf43b624b7bd9.webp",
+    "sha256": "80d7783f52e8130efe0b30440082b9fc135bf2af9161f6f0dfc51b8c2e4f11c2"
+  },
+  {
+    "recipe": "Fattoush",
+    "image": "assets/generated/final92-f995ca66a1d34c.webp",
+    "sha256": "f557480b55898e8d21e50168212fc6cb489eba6761bc8715ebb79645e9da8b40"
+  },
+  {
+    "recipe": "Fırında Karnabahar ve Tahin Sosu",
+    "image": "assets/generated/final92-58c2f14b922e86.webp",
+    "sha256": "b2c5025ad516a42688792cae043f5b1313cb98a611e278ee47688448907e9437"
+  },
+  {
+    "recipe": "Tavuk Musakhan",
+    "image": "assets/generated/dish-e2bb9bbc52895c.webp",
+    "sha256": "9e605d54e3f79990dcabfce9e2d69ac85127dcff1ad8630485bee92de69b8306"
+  },
+  {
+    "recipe": "Masoor Dal Tadka",
+    "image": "assets/generated/dish-2cb0a871eca21c.webp",
+    "sha256": "ebe02bfdc3ae85e1b3cdf23ea92c4fd780db33887ea40167f5637f064f190eab"
+  },
+  {
+    "recipe": "Aloo Gobi",
+    "image": "assets/generated/dish-395e694caf32da.webp",
+    "sha256": "a76e609749ec683dc477d1e81b64982db9e71aab17364c986eb4e378a41d5eeb"
+  },
+  {
+    "recipe": "Rajma Masala",
+    "image": "assets/generated/final92-25418bbc284c45.webp",
+    "sha256": "aef2d910d282c17bdc6d0f82049bf754970958404600160b2888e61b343af125"
+  },
+  {
+    "recipe": "Baingan Bharta",
+    "image": "assets/generated/dish-b862ae8f1bb4f3.webp",
+    "sha256": "eab0ccbbb736b5a3e0c62c6ba4590eec2d18d8ac4fc13b9e7327dcb6ec52a83c"
+  },
+  {
+    "recipe": "Naan",
+    "image": "assets/generated/final92-ca616f65dedc00.webp",
+    "sha256": "b22ce6c6c520236c4c55047d3061fe7d1c4b881aab8430144c3f52828f6cd945"
+  },
+  {
+    "recipe": "Okonomiyaki",
+    "image": "assets/generated/dish-caa55870d7101e.webp",
+    "sha256": "b4fb97896e5d3ec233d89f2665623856d72a900507c0e921653de731af9c0344"
+  },
+  {
+    "recipe": "Kitsune Udon",
+    "image": "assets/generated/final92-3023a055d5dbfb.webp",
+    "sha256": "a7349479a35500b45d3839464f4876f0897464900f4f3f1c027e4998518bf371"
+  },
+  {
+    "recipe": "Miso Çorbası",
+    "image": "assets/generated/final92-d57865d898da6a.webp",
+    "sha256": "df3d9ddb46e454d6c5b006db6be3fa5d0c4b711819c97af7c815a48420e4370e"
+  },
+  {
+    "recipe": "Onigiri",
+    "image": "assets/generated/final92-5ad4d6763b7a89.webp",
+    "sha256": "540100cd66c9a3cb26d54600a343d462de65b37c210e59a765380a77c0a37184"
+  },
+  {
+    "recipe": "Japchae",
+    "image": "assets/generated/dish-a6285439c7d932.webp",
+    "sha256": "717ae4f99562fedae05ef335a21cb88141ba85654edddd1fa22a0c2868e6d851"
+  },
+  {
+    "recipe": "Kimchi Fried Rice",
+    "image": "assets/generated/final92-2912695beb7a9c.webp",
+    "sha256": "8515650367c38a72e6d01a5575c0d21a0f5b7e9b4143d14edf148863e3e9f8fb"
+  },
+  {
+    "recipe": "Mapo Tofu",
+    "image": "assets/generated/final92-f7d4293fd7f6e1.webp",
+    "sha256": "2fe88acf3150dc811e0ae69158233f209c5dd894482f6e65bdefecab81e0afe8"
+  },
+  {
+    "recipe": "Tay Yeşil Köri",
+    "image": "assets/generated/tay-yesil-kori-ai-v6.webp",
+    "sha256": "63c9b63dae96211d52db880acd3e9d4d9f256f4f9df43a91173cd323edde9ded"
+  },
+  {
+    "recipe": "Larb Gai",
+    "image": "assets/generated/dish-f435c520d8843a.webp",
+    "sha256": "7bc22bea2a3df40025aeeaed33be38402442bee92d674c802b4633fe85caf741"
+  },
+  {
+    "recipe": "Enchiladas Rojas",
+    "image": "assets/generated/dish-66869fb6e9841d.webp",
+    "sha256": "f929244a57c61cd9d6d41bad65bb7f01f523f65cb15a9f92894287e0598a4ae9"
+  },
+  {
+    "recipe": "Chilaquiles Rojos",
+    "image": "assets/generated/dish-6f79eead43bbb1.webp",
+    "sha256": "e202f0360b45d8616f6cd3b63c9da97a302c0bb4429924814afe010b861ef5e1"
+  },
+  {
+    "recipe": "Chili con Carne",
+    "image": "assets/generated/chili-con-carne-ai-v6.webp",
+    "sha256": "7c9d1e8ccdebfcb7a97f22023d8704c377c52be0af07bd4d7d7012dbef5cf6e7"
+  },
+  {
+    "recipe": "Jambalaya",
+    "image": "assets/generated/final92-0a58b81ac2d84a.webp",
+    "sha256": "6fb497b4e09bd332d8723a721610e04625957288e134b619e4bf3f84a6a537e4"
+  },
+  {
+    "recipe": "Düğün Çorbası",
+    "image": "assets/generated/dish-dca5c795de05a4.webp",
+    "sha256": "e23a0964f7e53231038d2538e01fa92b9077ec9cfb0b037cb5c923199c217bea"
+  },
+  {
+    "recipe": "İşkembe Çorbası",
+    "image": "assets/generated/iskembe-corbasi-ai-v6.webp",
+    "sha256": "8e6a322eed23adc97fff8a6f481b76927fe9debc19cc3713b903b843619fad9f"
+  },
+  {
+    "recipe": "Kelle Paça Çorbası",
+    "image": "assets/generated/final92-71bc50d4e60334.webp",
+    "sha256": "0f6c7d4351b3d3c5ce519c42dc50b9bf32ce9d28d30827657350bcce26fdcddf"
+  },
+  {
+    "recipe": "Sakala Çarpan Çorbası",
+    "image": "assets/generated/dish-5092df481d8bdd.webp",
+    "sha256": "c4a25725abacde6ab6ac5a833d2e634d8e18fd0a8b1236932c78a6be50cfc43b"
+  },
+  {
+    "recipe": "Tutmaç Çorbası",
+    "image": "assets/generated/final92-b727733d5d2274.webp",
+    "sha256": "78867c26862fd190d8fced41726f7e54a0462a55a7763305c7d04bf7d6374650"
+  },
+  {
+    "recipe": "Toyga Çorbası",
+    "image": "assets/generated/dish-dacff75dc6fe2e.webp",
+    "sha256": "04714fa9e666a32add1fdfb4b54b940d5c1073b08e8e4346d2a1b07830811453"
+  },
+  {
+    "recipe": "Soğuk Ayran Aşı Çorbası",
+    "image": "assets/generated/soguk-ayran-asi-corbasi-ai-v6.webp",
+    "sha256": "f6d3ca0c259a643f02f879599dd841cec1398e4f87de122cfd44d93fe0b01b83"
+  },
+  {
+    "recipe": "Oğmaç Çorbası",
+    "image": "assets/generated/dish-2f17edaa8dcd68.webp",
+    "sha256": "8e2515dd8bbacbc2fd1f0bc633ec9cb468c2579a1c5ac96f7f483c16f3af2436"
+  },
+  {
+    "recipe": "Pirinç Çorbası",
+    "image": "assets/generated/dish-b213b65cdd7a82.webp",
+    "sha256": "78a1b35f7f1e9f7df8584f0cd19089c40a461bf44136bd036f340a98511a6271"
+  },
+  {
+    "recipe": "Un Çorbası",
+    "image": "assets/generated/dish-40c29cca8f106f.webp",
+    "sha256": "850ff5dd4047e3c9b289d88b2c4e0b4ec8a3cd1aaf703411fb7710ad35f72f90"
+  },
+  {
+    "recipe": "Sütlü Un Çorbası",
+    "image": "assets/generated/dish-5f8d7b7b2bedc8.webp",
+    "sha256": "f611d9da20c18f802ad8b5722c58c0f638a98112ef14f327ac1ce0a983ae5617"
+  },
+  {
+    "recipe": "Terbiyeli Sebze Çorbası",
+    "image": "assets/generated/dish-5c51b13d9c99e7.webp",
+    "sha256": "f2d9cb692f2bbd2dbed25b2dd6f89360f584202d93a6971ce8336f2479ad2e2a"
+  },
+  {
+    "recipe": "Isırgan Çorbası",
+    "image": "assets/generated/isirgan-corbasi-ai-v6.webp",
+    "sha256": "0e1d89f2c243046f6ed4cab908680b8ac81af0e4a794f569ad737686ffad52a0"
+  },
+  {
+    "recipe": "Pazı Çorbası",
+    "image": "assets/generated/dish-ed8d7c78d3269f.webp",
+    "sha256": "a7ac7a3e88b757bb9ba0bf0698c682665b4d25fba3931c164eb0c3e5acd6df46"
+  },
+  {
+    "recipe": "Kereviz Çorbası",
+    "image": "assets/generated/dish-16bbd7172f067b.webp",
+    "sha256": "e3ba64fd409d665cc3cebc813be390c388b78fc48d3ca55607e84917b1ee5b72"
+  },
+  {
+    "recipe": "Karnabahar Çorbası",
+    "image": "assets/generated/final92-b73844e3177632.webp",
+    "sha256": "358334c30798ff03edc114651e2b6716a8e30cf58258847f1838045492103af5"
+  },
+  {
+    "recipe": "Brokoli Çorbası",
+    "image": "assets/generated/brokoli-corbasi-ai-v6.webp",
+    "sha256": "fbf7d3093a2cfa00edc110e5291cb2f68b5893cf78ef4ca583507b4408f22a10"
+  },
+  {
+    "recipe": "Pırasa Çorbası",
+    "image": "assets/generated/final92-33b9179b8aa26e.webp",
+    "sha256": "daa0a8fae46d3832ae3545e7a53acf4d5a3ce18cdb34db9cbb36e6e728b2b5bc"
+  },
+  {
+    "recipe": "Patates Çorbası",
+    "image": "assets/generated/dish-f94e9effd8ca7d.webp",
+    "sha256": "a3fc9a60fb832b52e4b0c7d79a6964065ef201ad20938434bcda95636838963c"
+  },
+  {
+    "recipe": "Bal Kabağı Çorbası",
+    "image": "assets/generated/final92-21134a53e29518.webp",
+    "sha256": "b1aaca9c52b77a794c4fba81f00a16281988f81abbcf629e86f6ba42ddf0027e"
+  },
+  {
+    "recipe": "Bulgur Çorbası",
+    "image": "assets/generated/dish-5e8d0ab744ff89.webp",
+    "sha256": "ce2f3aee5676b80c2a9c110fb0cb3c6a72113b4ca7973d6a78ce5d0d39928483"
+  },
+  {
+    "recipe": "Yeşil Mercimek Çorbası",
+    "image": "assets/generated/dish-235539e3cfa06a.webp",
+    "sha256": "b0ca1a4513d72037024442b1ed56641554e7dd62aceb7c4a069d99f0d4992abc"
+  },
+  {
+    "recipe": "Nohut Çorbası",
+    "image": "assets/generated/dish-7a67463c2f9270.webp",
+    "sha256": "7175b010ac133e6204d99b15b063d9f4bc31eef83520006bbd4ba01e346edd27"
+  },
+  {
+    "recipe": "Kuru Börülce Çorbası",
+    "image": "assets/generated/dish-f1dc8093e654dc.webp",
+    "sha256": "d506736bc88a0b3af005e1ff6b645224b29b88129108259720bf3a50f81a77b6"
+  },
+  {
+    "recipe": "Kızılcık Tarhanası Çorbası",
+    "image": "assets/generated/dish-0a498b1b6738aa.webp",
+    "sha256": "49049a25bda1878b250c95c7a36b915e3e74693315d3bf8ecab5aea95454a37d"
+  },
+  {
+    "recipe": "Arabaşı Çorbası",
+    "image": "assets/generated/arabasi-corbasi-ai-v6.webp",
+    "sha256": "56b8027e3796a2a6efcf0c6471450ba92ad0721bab814f9629c7dbd35ba811e2"
+  },
+  {
+    "recipe": "Lebeniye Çorbası",
+    "image": "assets/generated/lebeniye-corbasi-ai-v6.webp",
+    "sha256": "3c9591a945890f7f3d2f70f62cba8e49879dee0b1b41cea32c9c1423082e44dc"
+  },
+  {
+    "recipe": "Ekşili Köfte Çorbası",
+    "image": "assets/generated/final92-2558211ae5efb9.webp",
+    "sha256": "3b7f4baf38c81f80ea542b6d3f2bad221da320332a219521c8134922b318b05c"
+  },
+  {
+    "recipe": "Bamya Çorbası",
+    "image": "assets/generated/bamya-corbasi-ai-v6.webp",
+    "sha256": "8b3b56ade76cdd22b46e518dbb72a67476f0774cc27502c9e7064dbd7ef5b6f3"
+  },
+  {
+    "recipe": "Topalak Çorbası",
+    "image": "assets/generated/dish-07dff84943c68e.webp",
+    "sha256": "23979a4b111fc5556c48a4aab51903078750e6670d235cf94c8c5ba59eee986f"
+  },
+  {
+    "recipe": "Yüksük Çorbası",
+    "image": "assets/generated/final92-aed24e2c9f6a6c.webp",
+    "sha256": "9cb3d85fcf3ad2a84796586ab2de92a43e79a5c7f5e64b20b2db4dbb3b76a19d"
+  },
+  {
+    "recipe": "Sütlü Erişte Çorbası",
+    "image": "assets/generated/dish-a6269a929126ad.webp",
+    "sha256": "51753005dc596f8db35065bc27d1a47dfc151e8d9bde0f8cf7abafc6ecc2dca8"
+  },
+  {
+    "recipe": "Aşotu Çorbası",
+    "image": "assets/generated/dish-0eb08054d97edb.webp",
+    "sha256": "cda71b01b737486e6ddd43dd1b3cb6e144c1548e0a9a06b362595457c7f66c7c"
+  },
+  {
+    "recipe": "Hanımağa Çorbası",
+    "image": "assets/generated/dish-bedf7d32d3d23d.webp",
+    "sha256": "da5bfc742f8f1c4726d4f0befe3a58e4d0c901b9e0c78a934aad57abd7a6020e"
+  },
+  {
+    "recipe": "Muradiye Çorbası",
+    "image": "assets/generated/dish-2eb238829b30b3.webp",
+    "sha256": "6523502e3b08000448f37e1b72e027070a892366f5cf8406e9966308ba99b750"
+  },
+  {
+    "recipe": "Çeşmi Nigar Çorbası",
+    "image": "assets/generated/dish-00701940961900.webp",
+    "sha256": "518e85b342ef543b14c3b0251b97c0e1dba96cb47b6f9b7a4e927fbbe6f5f324"
+  },
+  {
+    "recipe": "Sorpa Çorbası",
+    "image": "assets/generated/dish-fe2ca961c1f5d8.webp",
+    "sha256": "7af9209aeec69527ec67bb8556c45ab837412b1d9e6dccdbb519d178daaa5ded"
+  },
+  {
+    "recipe": "Kestane Çorbası",
+    "image": "assets/generated/dish-2daa858ba243be.webp",
+    "sha256": "d4886dba98f2d5ac7696d2f09e8a8b93b910ed301be7cef48e105787efeaab87"
+  },
+  {
+    "recipe": "Yer Elması Çorbası",
+    "image": "assets/generated/dish-c6d60a4dc18788.webp",
+    "sha256": "f58275d1b3167198eef44fe82bc221db3121d01cfb1841b21ab1afa545d7c4a9"
+  },
+  {
+    "recipe": "Sütlü Dövme Çorbası",
+    "image": "assets/generated/dish-e43d13e37da6c4.webp",
+    "sha256": "381fe7387873727cb5693ea64a527d813e00c155c3349a53a25e3640887b44a5"
+  },
+  {
+    "recipe": "Zeytinyağlı Enginar",
+    "image": "assets/generated/final92-791e191a6e6283.webp",
+    "sha256": "7747dd620201952898becb266a84451f535605eb5821dfb6ac8cfcdf056d9e97"
+  },
+  {
+    "recipe": "Zeytinyağlı Kereviz",
+    "image": "assets/generated/zeytinyagli-kereviz-ai-v6.webp",
+    "sha256": "d98307b6f9a8911613207ce2406ca24d52d31fd42e007f78b3250fd209f88d86"
+  },
+  {
+    "recipe": "Zeytinyağlı Yer Elması",
+    "image": "assets/generated/dish-31185a14950de9.webp",
+    "sha256": "bb8855c87ee0b65e82a33923b2a04320df9a50d3db228aaffb09b9d600e13240"
+  },
+  {
+    "recipe": "Zeytinyağlı Bakla",
+    "image": "assets/generated/zeytinyagli-bakla-ai-v6.webp",
+    "sha256": "183f3cc09f21acc1f99f4fff0b017df94d6e2dead557f013cd160c53212adb43"
+  },
+  {
+    "recipe": "İç Bakla Yemeği",
+    "image": "assets/generated/dish-7967538b13a0ae.webp",
+    "sha256": "9ecfe446faf94692df87e0dae3023ea34956fd26161c0eea8848fcae5dfe12ea"
+  },
+  {
+    "recipe": "Barbunya Pilaki",
+    "image": "assets/generated/final92-712c07f0f5d0de.webp",
+    "sha256": "c3442e8f5f43ed2b67a065b1af71c53a5192aa75e95808d5c6f8b7b5acbc0db7"
+  },
+  {
+    "recipe": "Börülce Yemeği",
+    "image": "assets/generated/dish-8734f734e30b00.webp",
+    "sha256": "b435f439e743523224a769d0aab74d76df380966bf2f886b4b59e88d150657d5"
+  },
+  {
+    "recipe": "Yeşil Mercimek Yemeği",
+    "image": "assets/generated/dish-529ea45b517863.webp",
+    "sha256": "f6ad386c63e4327cb696cdeff15ac56dedb1e4e6c5604130c41354dd031072b8"
+  },
+  {
+    "recipe": "Semizotu Yemeği",
+    "image": "assets/generated/semizotu-yemegi-ai-v6.webp",
+    "sha256": "ca8b4375563f438a58de38318a6915f840053ec431b2f6170aed9cdf36e00b13"
+  },
+  {
+    "recipe": "Pazı Kavurması",
+    "image": "assets/generated/dish-a1418d9b28b1d2.webp",
+    "sha256": "2563b06cb90c9afaf11480bf771ba4a111d041f2e884b65dca398f2281cfc51b"
+  },
+  {
+    "recipe": "Ebegümeci Yemeği",
+    "image": "assets/generated/dish-139f906e053b8f.webp",
+    "sha256": "1c420f81868da951ef294418a52e4433229fe42f3fbdf1fd8e5fe9939f77150a"
+  },
+  {
+    "recipe": "Isırgan Kavurması",
+    "image": "assets/generated/dish-d1c75ee034e7a7.webp",
+    "sha256": "60feb5e732e4b6c4528d1649b636279a76ba54e60e6c68cd8a9195ed11b6f691"
+  },
+  {
+    "recipe": "Madımak Yemeği",
+    "image": "assets/generated/dish-48ca5b57aacb18.webp",
+    "sha256": "33bc10e3852940a9ce61917c1d00a206c65bd18db970139bbe70ec6a8dd19773"
+  },
+  {
+    "recipe": "Taze Fasulye Diblesi",
+    "image": "assets/generated/dish-cb25d87d53dc81.webp",
+    "sha256": "f9a311e1b2ad3b89b0a116bc5e0c29da9af91e275fde4f1e17de8c3c5879b41e"
+  },
+  {
+    "recipe": "Fasulye Turşusu Kavurması",
+    "image": "assets/generated/dish-6aabebc6063702.webp",
+    "sha256": "aeeb9e1cfa3132c5e3ae9751af9205cca0f097ed14e42efa204d6e3f978175e6"
+  },
+  {
+    "recipe": "Mantar Sote",
+    "image": "assets/generated/dish-58ba44dd4ad94e.webp",
+    "sha256": "b92673dbc0d68d1dde129a6d732c0c1d94166fe0ee82f300c384480f3a3cda92"
+  },
+  {
+    "recipe": "Bamya Yemeği",
+    "image": "assets/generated/final92-4767d479ed9d66.webp",
+    "sha256": "402b2d21319a17c513bee49a2003d70c23e10c1bac9f3200f7585218d3309d7b"
+  },
+  {
+    "recipe": "Kabak Çintmesi",
+    "image": "assets/generated/dish-26919c3880ca4a.webp",
+    "sha256": "4d59b42204a60feb363d4fe1f75539c51dec97e9136e7b58e16a3b914ae60eb0"
+  },
+  {
+    "recipe": "Kabak Kalye",
+    "image": "assets/generated/final92-8e4874a0c53610.webp",
+    "sha256": "c2f352a1fa529f1f9e1f43b386cfd692203ba52270a1fc9071ed6d5e55900a5d"
+  },
+  {
+    "recipe": "Patlıcan Silkme",
+    "image": "assets/generated/dish-9ce9099630ff72.webp",
+    "sha256": "67a464f95ca0e8c62d4e3436c8ab4af0447248861e8742cdb9a8f9d4d40b8b20"
+  },
+  {
+    "recipe": "Patlıcan Çığırtma",
+    "image": "assets/generated/dish-d4d11cbd8e003b.webp",
+    "sha256": "e82446f50196d1aecea1142e8b8604e4126d5020a3ba3a7d54cd8fa6a1f9b948"
+  },
+  {
+    "recipe": "Biber Çığırtma",
+    "image": "assets/generated/dish-b3cd197fc802a1.webp",
+    "sha256": "55f86370f261263cdebcb3478acceb98ff53015cf9c7ae15b43dabeef5028895"
+  },
+  {
+    "recipe": "Karnabahar Kızartması",
+    "image": "assets/generated/dish-c573bd679ced0e.webp",
+    "sha256": "98961f17af47886b3e5d1b740e0316f3f67b00684c43ab458edbced6b1c2f7ba"
+  },
+  {
+    "recipe": "Karnabahar Graten",
+    "image": "assets/generated/dish-3bfabeb82e3db5.webp",
+    "sha256": "901f964f48fe8bb7a16eeaf828b87b5e64052fe6ac3b0e169d972f399f58ff7d"
+  },
+  {
+    "recipe": "Brokoli Graten",
+    "image": "assets/generated/dish-cc09bc1f09b6e6.webp",
+    "sha256": "a34285866ae6064ec3ede4a462f32d8d37debd1e9e9789c97fa554113bf0752d"
+  },
+  {
+    "recipe": "Pırasa Mücveri",
+    "image": "assets/generated/dish-ca61bcf9898e46.webp",
+    "sha256": "c8cc889f47feaa315a0748a3323027b0314e9b53b55119c2ec25288fb3a0d6c9"
+  },
+  {
+    "recipe": "Ispanak Borani",
+    "image": "assets/generated/ispanak-borani-ai-v6.webp",
+    "sha256": "4f252d6e60597dd141fe89c3bd51f31c41fcf7f8f9b9837aeb5f020047c2f395"
+  },
+  {
+    "recipe": "Yumurtalı Pırasa",
+    "image": "assets/generated/dish-32acbf9b1fa80d.webp",
+    "sha256": "377bfd642ca3b1ffa20e17a8e5489bb2d01bc7bcaa1f05428aa03ea6f8cb02fb"
+  },
+  {
+    "recipe": "Yumurtalı Taze Fasulye",
+    "image": "assets/generated/dish-2b46de047d4344.webp",
+    "sha256": "970f71f66d18b16fc97d6472c721eaea9b17edb0f4c7e2281990f9bff14b0f93"
+  },
+  {
+    "recipe": "Yumurtalı Patlıcan",
+    "image": "assets/generated/dish-bbc4b2ef5d24d2.webp",
+    "sha256": "27a1027c9ef8d365d666944ad3aa204d39cba3c9f1064b3f7ab16a1544adcce1"
+  },
+  {
+    "recipe": "Kapuska",
+    "image": "assets/generated/dish-7a452ed2f40af5.webp",
+    "sha256": "75d69a20275e82e2ba730bc7c3b54fd138c34dfbdc082e42bbbb9f519935af68"
+  },
+  {
+    "recipe": "Kereviz Pane",
+    "image": "assets/generated/dish-11f9ae9da5a314.webp",
+    "sha256": "b7dc5d08a8c81bdc4d867f66f2b1764b955997f47c5c2b7eb7968ad60129f728"
+  },
+  {
+    "recipe": "Patates Kavurması",
+    "image": "assets/generated/dish-f32452cb1f86d7.webp",
+    "sha256": "1c28ef75041e03b6dd729734ebf3c5511951be54a849fe68b8e7a5f95109a096"
+  },
+  {
+    "recipe": "Patates Yahni",
+    "image": "assets/generated/dish-66e8a4f6ede9fc.webp",
+    "sha256": "bc3e3799ce5a22fbd2d27fdbf27ea92e5c38397803f226e1427771b840195d96"
+  },
+  {
+    "recipe": "Nohutlu Kabak",
+    "image": "assets/generated/dish-ad7d6146cc697c.webp",
+    "sha256": "2521b2dc24845a42a7fb4f78b498fe6c74f4ff2749153983ca7142d366468d67"
+  },
+  {
+    "recipe": "Fırında Sebzeli Mücver",
+    "image": "assets/generated/dish-568ef35b2f46f0.webp",
+    "sha256": "02de695b998ce7d087ba26d2736501c8d1655ccc434cc8ab1a7dbf872f6e59c4"
+  },
+  {
+    "recipe": "Erişteli Yeşil Mercimek Yemeği",
+    "image": "assets/generated/dish-800fe25b209c20.webp",
+    "sha256": "0dd9736ee466b5a4527129972f9294135d72e81c097a64d25c9781fcb1529d51"
+  },
+  {
+    "recipe": "Kuru Bakla Yemeği",
+    "image": "assets/generated/dish-681e7add67ed8d.webp",
+    "sha256": "d4fc065c4a023363822605732d6af23a8819f73d55b3d457b88545c1c2b941f8"
+  },
+  {
+    "recipe": "Maş Fasulyesi Yemeği",
+    "image": "assets/generated/dish-42ae24de8062ff.webp",
+    "sha256": "5a5be27e01fc949536c85636e25f1c3e25dc98cad01a99b288d1f34d5fb13639"
+  },
+  {
+    "recipe": "Fırında Mantarlı Patates",
+    "image": "assets/generated/dish-1e3652c1ece701.webp",
+    "sha256": "c6466c34ee9f8a633448a8a36dde7bb95646f3a8bbeefcd4556cc4a3f434879a"
+  },
+  {
+    "recipe": "İnegöl Köfte",
+    "image": "assets/generated/inegol-kofte-ai-v6.webp",
+    "sha256": "3797dcf8d6dee464266b25da1bd448e1769c1b771654105dcf79ead0f1a62b06"
+  },
+  {
+    "recipe": "Tekirdağ Köftesi",
+    "image": "assets/generated/final92-607020c4db5749.webp",
+    "sha256": "e4f30e3d8914ac7e1f427d88fd851179c429f63eb5bc475d1b74081572cdacfe"
+  },
+  {
+    "recipe": "İzmir Köfte",
+    "image": "assets/generated/izmir-kofte-ai-v6.webp",
+    "sha256": "4f910f2caed584e48d5d35273d86e569b3cb3cd0b41e463297a6b3778442b1e3"
+  },
+  {
+    "recipe": "Tire Köftesi",
+    "image": "assets/generated/final92-14346d6cb501d7.webp",
+    "sha256": "e133d59c223033b61bc11461790aa7f749e332bde01a7bcb8a75be11efb470ca"
+  },
+  {
+    "recipe": "Kadınbudu Köfte",
+    "image": "assets/generated/recovered-oct17-2.webp",
+    "sha256": "e4cec1a84f7396f20798bb2541b7baad7f35653b1f8ff613edb820402e44ef43"
+  },
+  {
+    "recipe": "Dalyan Köfte",
+    "image": "assets/generated/dalyan-kofte-ai-v6.webp",
+    "sha256": "2234e50740cd780167c5ad1f9484feebb0c5ab6d5a6af3ec9bf83c09c047b2a8"
+  },
+  {
+    "recipe": "Hasanpaşa Köfte",
+    "image": "assets/generated/hasanpasa-kofte-ai-v6.webp",
+    "sha256": "9a9e2c158800db8b2b171bc705241ec4ca6acfc06cc727ac77eeca50ace46cb7"
+  },
+  {
+    "recipe": "Sulu Köfte",
+    "image": "assets/generated/final92-21d3cba88637f4.webp",
+    "sha256": "019ef016e7b8b53e17b8794d135382f57a563141f1e5bed16c38afde827e1af2"
+  },
+  {
+    "recipe": "Ekşili Köfte",
+    "image": "assets/generated/eksili-kofte-ai-v6.webp",
+    "sha256": "862afe0e21a93c79178d6a9f4d33cd8046fd2a7a6ee00c61b90599e52b01d803"
+  },
+  {
+    "recipe": "Kıbrıs Köftesi",
+    "image": "assets/generated/dish-846dee2586ab1f.webp",
+    "sha256": "d9ebbfe519b6e26c421d99780e60112ae530a5c40bac64e4b489b8d9ae203f45"
+  },
+  {
+    "recipe": "Sivas Köftesi",
+    "image": "assets/generated/dish-03a28380bb0613.webp",
+    "sha256": "b91c00c4c4e0cacf78e7147431ce22ba32ab93f1d71977c2c6d9cf5645548035"
+  },
+  {
+    "recipe": "Pideli Köfte",
+    "image": "assets/generated/final92-887ac3fcfecce3.webp",
+    "sha256": "906e73aa6fc2f9b47e68569cd8f89f3d4a914856f8a354ab728800e661a3e5fb"
+  },
+  {
+    "recipe": "Beyti Kebap",
+    "image": "assets/generated/final92-baa1e9e521936e.webp",
+    "sha256": "e364cc2c463c5389eb4711a0497c6bc86f8f59844bec0399c6ced7add60e4390"
+  },
+  {
+    "recipe": "Fırında Urfa Kebap",
+    "image": "assets/generated/dish-e6421802bb699e.webp",
+    "sha256": "1a74695c1d56eae9d3a7a180c04f979d7b458eceaa581a1c298b11fd4dbef6fc"
+  },
+  {
+    "recipe": "Hatay Tepsi Kebabı",
+    "image": "assets/generated/hatay-tepsi-kebabi-ai-v6.webp",
+    "sha256": "bf63ac11a28c256bcdf90f3d5222b84416afbe03919b5011edae2653cc17e535"
+  },
+  {
+    "recipe": "Hatay Kağıt Kebabı",
+    "image": "assets/generated/hatay-kagit-kebabi-ai-v6.webp",
+    "sha256": "91af8a0852cf6bb6291bed2f5b056eb54ae804bd17d29e52bf87dcdbbd6762a8"
+  },
+  {
+    "recipe": "Kuşbaşı Kağıt Kebabı",
+    "image": "assets/generated/resume-24bb52a0f0cb51.webp",
+    "sha256": "7cdce60b2db37303e3bf70461ae0cb3810ca56995b454794b53a6e70d69f92e1"
+  },
+  {
+    "recipe": "Orman Kebabı",
+    "image": "assets/generated/orman-kebabi-ai-v6.webp",
+    "sha256": "0c6ccac037b1c5c081e4160502502c39c37ecbaf4d8179925cd10e07424743dd"
+  },
+  {
+    "recipe": "Tas Kebabı",
+    "image": "assets/generated/final92-5eb2e7a39d6434.webp",
+    "sha256": "f097c6310b0685f77158246bca20742f52af4f09249c99378b071b1badd9814a"
+  },
+  {
+    "recipe": "Çiftlik Kebabı",
+    "image": "assets/generated/dish-895501943e66c9.webp",
+    "sha256": "cf6643a2428b1c4adc46da0aeda4b57cafbeca1ce87d4910cf4ff816bdee36d6"
+  },
+  {
+    "recipe": "Elbasan Tava",
+    "image": "assets/generated/final92-41c8080081eb1b.webp",
+    "sha256": "093a6198f9f64f0b641752f9e861737f0fb3e728d90f45ae049c47073e127125"
+  },
+  {
+    "recipe": "Kuzu Kapama",
+    "image": "assets/generated/dish-fc1b99e2974756.webp",
+    "sha256": "cb9c40f804ef9aad62f9034a1b386ba27f91c7321fb5fd1baee9dee1197bc024"
+  },
+  {
+    "recipe": "Kuzu Haşlama",
+    "image": "assets/generated/kuzu-haslama-ai-v6.webp",
+    "sha256": "d48190d373bf684346c522b81174e8b423ba5fb4ce1b168dafd130894ba7f3e5"
+  },
+  {
+    "recipe": "Fırında Kuzu İncik",
+    "image": "assets/generated/firinda-kuzu-incik-ai-v6.webp",
+    "sha256": "4a7effecebc942ee07d6fd91562798f560cbf20f1ee9b7782e23b5f1a59470e7"
+  },
+  {
+    "recipe": "Sac Kavurma",
+    "image": "assets/generated/final92-ce9a4dae952890.webp",
+    "sha256": "39cab25684f3bcce612a4f9a1c07b97565c045a06dbecbd435cf158d3741636a"
+  },
+  {
+    "recipe": "Çoban Kavurma",
+    "image": "assets/generated/coban-kavurma-ai-v6.webp",
+    "sha256": "1b9fbb78be4a59619e675c61a5a5cf3b1e62e3e6311a3e54ec3e1d4025fe3b83"
+  },
+  {
+    "recipe": "Kurban Kavurması",
+    "image": "assets/generated/final92-e9ca6226aa4808.webp",
+    "sha256": "df38c437578dce1f8001cfcbae2277bd4729b089828b43cf808bcd7283a9bd32"
+  },
+  {
+    "recipe": "Dana Rosto",
+    "image": "assets/generated/dish-b32291920336f0.webp",
+    "sha256": "6f91d01786a9f3cd29fb5f1099d47599f7a523dd32c27ed6c36f132bdb340671"
+  },
+  {
+    "recipe": "Salçalı Biftek",
+    "image": "assets/generated/final92-b0716ea0032016.webp",
+    "sha256": "b72440e6914767d522b3b22e51f4f3249f10834bf9ea8437b4fe6f1b04d96f99"
+  },
+  {
+    "recipe": "Çöp Şiş",
+    "image": "assets/generated/cop-sis-ai-v6.webp",
+    "sha256": "f36f0e00c62ccb85c734bd186b5784839b23f686896007a3fda6fb0352b64fb7"
+  },
+  {
+    "recipe": "Ev Usulü İskender",
+    "image": "assets/generated/dish-1cbe7d58d06d2c.webp",
+    "sha256": "3a2d9ccd0225f9c5c10d0ebcca771fd33244c7b306043ef7d0437c2ce5b73874"
+  },
+  {
+    "recipe": "Ev Yapımı Et Döner",
+    "image": "assets/generated/ev-yapimi-et-doner-ai-v6.webp",
+    "sha256": "4d4624d586059336e135dfad481d47b0f0fc857712dc9e17f09e249b1940fa72"
+  },
+  {
+    "recipe": "Manisa Kebabı",
+    "image": "assets/generated/manisa-kebabi-ai-v6.webp",
+    "sha256": "a4cbdbc4946055cb8bffa5f52bc750b12ce3c7179d9c505da1e55fc40a9c62be"
+  },
+  {
+    "recipe": "Buğu Kebabı",
+    "image": "assets/generated/dish-373f2a97434733.webp",
+    "sha256": "f6a715da200dc50eab7469adca490468ff326038098337c7a6e9ba389fceacfc"
+  },
+  {
+    "recipe": "Ev Usulü Testi Kebabı",
+    "image": "assets/generated/dish-8c45e203cff079.webp",
+    "sha256": "004972d1af52a0d15e9fbacc6120109806b313636dd4e9109aa35787bff58663"
+  },
+  {
+    "recipe": "Arnavut Ciğeri",
+    "image": "assets/generated/dish-6dba3d0d5010bc.webp",
+    "sha256": "e3eb2309279873783206dc158270e489b64e616beff476e85f7b7a0d00fee3c8"
+  },
+  {
+    "recipe": "Edirne Tava Ciğeri",
+    "image": "assets/generated/edirne-tava-cigeri-ai-v6.webp",
+    "sha256": "66ec94215e91e69cf17fe0081aa75276a14189f3ef731ef7b39935c2c0db14c9"
+  },
+  {
+    "recipe": "Ciğer Şiş",
+    "image": "assets/generated/final92-5b5081e9d1014d.webp",
+    "sha256": "6eb1ac792499140630345b6844bbf6454987ceab05fdb21e5ad9febf29167238"
+  },
+  {
+    "recipe": "Soğanlı Ciğer Kavurma",
+    "image": "assets/generated/dish-5a37126d976f43.webp",
+    "sha256": "6a2aa354edd69547ad66ff389445203ea5715f60cae37f156b7243624fdbe1bc"
+  },
+  {
+    "recipe": "Kuzu Pirzola",
+    "image": "assets/generated/final92-3a26d0acd4d470.webp",
+    "sha256": "2824d848c7755a64aadcecd3c55101543da166f241cf6c22bf4a0131842f31ef"
+  },
+  {
+    "recipe": "Ankara Tava",
+    "image": "assets/generated/ankara-tava-ai-v6.webp",
+    "sha256": "503c0320167471349a408779e347b28721c3deca577bd2d48ffdb1d6fb51c350"
+  },
+  {
+    "recipe": "Tavuk Kapama",
+    "image": "assets/generated/dish-db0a7058381bca.webp",
+    "sha256": "bef637f8b0e00b1438766814376a9a208d0b1c6ab939e7a906c2a2036a7f7a41"
+  },
+  {
+    "recipe": "Tavuk Büryan",
+    "image": "assets/generated/dish-180f5f78d74a20.webp",
+    "sha256": "cc9fa2cf737c9dc51779f1cbcb999b22a04665234e9751bce0c2e9ee6a5e88f5"
+  },
+  {
+    "recipe": "Tavuk Güveç",
+    "image": "assets/generated/dish-c649c7e38898f3.webp",
+    "sha256": "822a8ffc0d22d698cb2b85f24271eb852c2e717d9ef6400c9d7e51b6d2d5f6fe"
+  },
+  {
+    "recipe": "Tavuklu Sultan Kebabı",
+    "image": "assets/generated/dish-97031777a29f1d.webp",
+    "sha256": "cfc575e2804a1c1a407a9e989a55ebb949eb74ea3dd680675dedb53cc6d4f4d0"
+  },
+  {
+    "recipe": "Tavuk Köftesi",
+    "image": "assets/generated/dish-b500448811c73c.webp",
+    "sha256": "a367bdcbe87f0cbe82be46fb1ba4467d35d3980b54e37a02f8dc6ffa0a463ad1"
+  },
+  {
+    "recipe": "Tavuk Şinitzel",
+    "image": "assets/generated/tavuk-sinitzel-ai-v6.webp",
+    "sha256": "69220a805c5cde5fd4d1592297fd74f70504695cff88e15314a593384e16429a"
+  },
+  {
+    "recipe": "Tavuk Külbastı",
+    "image": "assets/generated/dish-0ba9a22901f331.webp",
+    "sha256": "84b8a21f53df41cbd477ec03b7f356d88a95bb165ee8cad102ab9fe4e3f3828a"
+  },
+  {
+    "recipe": "Tavuk Topkapı",
+    "image": "assets/generated/dish-0adeb2cd29b1d0.webp",
+    "sha256": "c9bf45d852a7e2c79b9e852711555caf515d33c12e5ea2342782671dc88d5ee2"
+  },
+  {
+    "recipe": "Tavuk Çullama",
+    "image": "assets/generated/dish-df112b69663786.webp",
+    "sha256": "2409f6b7acb59ad6036961388cc2867defc9c488430374d9e5bb10d32699108d"
+  },
+  {
+    "recipe": "Hindi Tandır",
+    "image": "assets/generated/dish-31e6a46e2de29b.webp",
+    "sha256": "f32090fa220f68c176b1ee1a97310f44df721b828df135352ff3e79683ab9025"
+  },
+  {
+    "recipe": "Hindi Sote",
+    "image": "assets/generated/dish-329605a1a62412.webp",
+    "sha256": "aae56b8070591fc093da8021b31f317a2e9cd5f2045c9fe732a8438437f1e091"
+  },
+  {
+    "recipe": "Fırında Hindi But",
+    "image": "assets/generated/dish-42c3e9b9aad98b.webp",
+    "sha256": "23ca1783ff7bc619f912debe4364743ad217a70e55d54d4348c414ad78b037e9"
+  },
+  {
+    "recipe": "Kaz Tiridi",
+    "image": "assets/generated/kaz-tiridi-ai-v6.webp",
+    "sha256": "1633f289ab607789945592eaf12a5c14ab85e1001c1de5a24fd8610b3b5d1218"
+  },
+  {
+    "recipe": "Kaz Dolması",
+    "image": "assets/generated/dish-3d5067fc56689f.webp",
+    "sha256": "6c74a1b50e26a6f06cef01a4f63ba27f2bdd6f3882bbf8723f31e990065ccbfe"
+  },
+  {
+    "recipe": "Ördek Dolması",
+    "image": "assets/generated/dish-64eb887d75822d.webp",
+    "sha256": "7df2ee06c3f44a90dc5ee974da0973f3c8018ba240a20a1109412385f567134f"
+  },
+  {
+    "recipe": "Kuzu Gerdan Haşlama",
+    "image": "assets/generated/dish-e6ac6f3a421601.webp",
+    "sha256": "a8657cc8a6dbbc04d66bca08dae3847df2010f31ce6adb3c0e5225982233749c"
+  },
+  {
+    "recipe": "Kuzu Külbastı",
+    "image": "assets/generated/dish-4a507427dc9023.webp",
+    "sha256": "bd94c23d15f84f7989cba5d32d0d4d6b9c312789fbefccc731e439dc887db473"
+  },
+  {
+    "recipe": "Kaburga Dolması",
+    "image": "assets/generated/kaburga-dolmasi-ai-v6.webp",
+    "sha256": "48fa29758c05533db1dd0b9c33ce2eb8a99547881a8dcb7b819457e36c0a9eae"
+  },
+  {
+    "recipe": "Dana İncik Yahni",
+    "image": "assets/generated/dish-c4009fa6664d6c.webp",
+    "sha256": "56d6db193e966cf47ec7ac4521a7d49dddb355b9c6deae57123f0788689d0e38"
+  },
+  {
+    "recipe": "Dana Dil Söğüş",
+    "image": "assets/generated/dish-56aa6285a89b04.webp",
+    "sha256": "b189b659d9d456834aae408172d50e6796ba66670e75111ffb1970b228c6ab34"
+  },
+  {
+    "recipe": "Uykuluk Tava",
+    "image": "assets/generated/dish-9f78b2dd89520e.webp",
+    "sha256": "665071c270ed4d161228567ef39cc0071831c07a9a2ac6d3f4e9c6f9a3fd893e"
+  },
+  {
+    "recipe": "Kokoreç Tava",
+    "image": "assets/generated/dish-c4cc7d077214e9.webp",
+    "sha256": "5e9c4d65bc0cbfdae8a96971c92af19abe0d74d9282f6ec6ae76f7e7659c88c9"
+  },
+  {
+    "recipe": "İşkembe Yahnisi",
+    "image": "assets/generated/dish-b4486639a53dde.webp",
+    "sha256": "b43afb822f7350dd1c63330dba4b71daaabbb4f62e92bc8d9b35810099473924"
+  },
+  {
+    "recipe": "Kelle Söğüş",
+    "image": "assets/generated/dish-21cb85f6726908.webp",
+    "sha256": "f1843fe45900c914cd0dd2d627208f2b61a633cf2c471980770a2ec7fdbde9a7"
+  },
+  {
+    "recipe": "Fırında Palamut",
+    "image": "assets/generated/dish-6a1a25cd46e821.webp",
+    "sha256": "3b57bc74cc15b8d538be67b17edcc157072bf5a3155e0e30a3fd298d5743559b"
+  },
+  {
+    "recipe": "Hamsi Tava",
+    "image": "assets/generated/final92-89474e77d790fa.webp",
+    "sha256": "957370a620fd18ba30bd7043bc7f3c1e3ec9cb2d80dd87dd83505dfce5cdf738"
+  },
+  {
+    "recipe": "Hamsi Kuşu",
+    "image": "assets/generated/dish-9a01aa286a5828.webp",
+    "sha256": "51077d58251e17c4c906b507a2dac7224d6cf74e4a68769ba24838c8d08dd964"
+  },
+  {
+    "recipe": "Hamsi Buğulama",
+    "image": "assets/generated/dish-e8b6eb69171df9.webp",
+    "sha256": "54029c22d16973746bb32b136c08e4e400f664b59b64ce5c8beec5e6217d28a3"
+  },
+  {
+    "recipe": "Alabalık Tava",
+    "image": "assets/generated/dish-1ba8daf9c890a5.webp",
+    "sha256": "249c6b9fb5efe9fe75bc9378357174a8c8c2c674b8e45999d1bd9c5dc369e1f8"
+  },
+  {
+    "recipe": "Güveçte Alabalık",
+    "image": "assets/generated/dish-43502035f5da94.webp",
+    "sha256": "6b11602232a98d28d273fb7e4a1755ec952c43f7d9362b918cf711e0a91b7d1a"
+  },
+  {
+    "recipe": "Tuzda Levrek",
+    "image": "assets/generated/final92-62bd1a63c46ec2.webp",
+    "sha256": "15f2bf97a898384818f56f8d9be6f541ccaaab6934c7bc51585d5a2fbda7a213"
+  },
+  {
+    "recipe": "Levrek Şiş",
+    "image": "assets/generated/dish-a3e78fd0e37eac.webp",
+    "sha256": "c420af1875927b97de1afda5155a3b386a8ca0c69c95bdbcbc2eb06d7e2cec40"
+  },
+  {
+    "recipe": "Somon Izgara",
+    "image": "assets/generated/somon-izgara-ai-v6.webp",
+    "sha256": "44061ae6379c5225f813c41105faa6958bf3f7bb33466e442d3e4d9be43c7ee9"
+  },
+  {
+    "recipe": "Palamut Ekşilisi",
+    "image": "assets/generated/dish-8417807e541916.webp",
+    "sha256": "7cae3c31a081d907c47edd10bde276c56b92759f2123ea7f2cfc6c2e56849110"
+  },
+  {
+    "recipe": "Uskumru Dolması",
+    "image": "assets/generated/dish-b0fd4e4f711c30.webp",
+    "sha256": "1cc6356849f24ce2b02040b08d6524ac0e86e421de8a585360d46ba46e35f36b"
+  },
+  {
+    "recipe": "Sardalya Sarma",
+    "image": "assets/generated/dish-284df1e6306f66.webp",
+    "sha256": "a260d9addbe1a85ecb8f68e9a629ba76cf937250cc32ad1733dd4c14ab278b08"
+  },
+  {
+    "recipe": "Mezgit Tava",
+    "image": "assets/generated/dish-3d6bc066b53a7b.webp",
+    "sha256": "a5eb69f78b95948ed1b5927fe02457a550e8fd2349eef8960e783ca7785c58d3"
+  },
+  {
+    "recipe": "Balık Köftesi",
+    "image": "assets/generated/balik-koftesi-ai-v6.webp",
+    "sha256": "600e0b45d56fa5bb929096d0fb5896fd85d1e940f6ff17b387afd477f0dc2db4"
+  },
+  {
+    "recipe": "Midye Dolma",
+    "image": "assets/generated/midye-dolma-ai-v6.webp",
+    "sha256": "aa53da19b40a2119683c1303fec2af80ad651fc129c3c335807c0e90a0380578"
+  },
+  {
+    "recipe": "Ramazan Pidesi",
+    "image": "assets/generated/ramazan-pidesi-ai-v6.webp",
+    "sha256": "e060d1ed36571403b5e106b29b02b8b8f9179605b7c05b59eb2503ed38855041"
+  },
+  {
+    "recipe": "Bazlama",
+    "image": "assets/generated/final92-6668072711ecc8.webp",
+    "sha256": "412ab140437a575c1fa02b3d8be74ea2f5369c0da14f58002dff44d167cc9b49"
+  },
+  {
+    "recipe": "Katmerli Gözleme",
+    "image": "assets/generated/dish-80a79aeb2daf01.webp",
+    "sha256": "e4aa50ece1d36c7084bf29e8442fecdbe812a6a98bd878e3f966d9ded8a263b3"
+  },
+  {
+    "recipe": "Tandır Ekmeği",
+    "image": "assets/generated/resume-7cb45d72d792d2.webp",
+    "sha256": "8ec58f4a973202715e0586cf0746ad1467f53144a001ce5cc9d7d8880038687a"
+  },
+  {
+    "recipe": "Lavaş",
+    "image": "assets/generated/lavas-ai-v6.webp",
+    "sha256": "6ba7daf52b4d32295a5edf6c06fbb0a8e66a58d8ff44b598f520a9ff73374a57"
+  },
+  {
+    "recipe": "Yufka Ekmeği",
+    "image": "assets/generated/yufka-ekmegi-ai-v6.webp",
+    "sha256": "656eda4ea66ab0580f18fbb6de434884b2926b21a295c9e1d99f12f6b12ad205"
+  },
+  {
+    "recipe": "Haşhaşlı Çörek",
+    "image": "assets/generated/dish-7e12402725adbf.webp",
+    "sha256": "55eabbeab6c245b48d9a780af9ee8e9e3ea5527746f63430379ec7c28a0b2595"
+  },
+  {
+    "recipe": "Tahinli Tuzlu Çörek",
+    "image": "assets/generated/dish-1a449a5157e900.webp",
+    "sha256": "6f0b04f05bf097254cf9ba9d302b0214921fcb2db64c0ab76664148f866a3a88"
+  },
+  {
+    "recipe": "Cevizli Lokum",
+    "image": "assets/generated/dish-1729061523853c.webp",
+    "sha256": "f20e736b02b64084d816e1b1fb47d80478a221f335bda0707cce3ee85b7ce25c"
+  },
+  {
+    "recipe": "İçli Kete",
+    "image": "assets/generated/dish-6ff23056da21bf.webp",
+    "sha256": "44d8c45a96923da7adf5c8ccd73fbdaeac7fcd10bd538d38239034fe6c2808b8"
+  },
+  {
+    "recipe": "Sade Açma",
+    "image": "assets/generated/dish-e94097208f7ae2.webp",
+    "sha256": "ea8f0128df5dadf6d7aa73765a78bda1a26cdb7585a66d33bb1a5d360907311f"
+  },
+  {
+    "recipe": "Sokak Simidi",
+    "image": "assets/generated/sokak-simidi-ai-v6.webp",
+    "sha256": "ec3d9981eadeca584cd6760b6589db0b864fb212bab8dc4afa64d492137332fa"
+  },
+  {
+    "recipe": "Kumru Ekmeği",
+    "image": "assets/generated/dish-93fdcb39a21e38.webp",
+    "sha256": "ddd4e9be72c39d55eff5b5156605022641ee8488c10cd04fcee700c44244e7cf"
+  },
+  {
+    "recipe": "Trabzon Ekmeği",
+    "image": "assets/generated/dish-7cb416cf2b6c9e.webp",
+    "sha256": "f66a842d5974ec5c8f3b2261608c678f717c6e475d657a009fcaab25be2c5f07"
+  },
+  {
+    "recipe": "Nohut Mayalı Ekmek",
+    "image": "assets/generated/dish-0ff7e3531e1ec2.webp",
+    "sha256": "b047199d58a62fbe1956c9a3bfaa118125ef9b2dd1adcc35bd77a5c46ee3ca57"
+  },
+  {
+    "recipe": "Sürmene Pidesi",
+    "image": "assets/generated/dish-93685f6c8e0c72.webp",
+    "sha256": "9aca536e2b292f95b6636e2a6367be4c01f0f394fdefaf8201cbbd445af95c8a"
+  },
+  {
+    "recipe": "Bafra Pidesi",
+    "image": "assets/generated/bafra-pidesi-ai-v6.webp",
+    "sha256": "0f0af143cd81b0d5ec8ceffa64211039885dfa4fe78a0ae34134b0a14e9d0b21"
+  },
+  {
+    "recipe": "Terme Pidesi",
+    "image": "assets/generated/dish-105aaa382f7502.webp",
+    "sha256": "06bf94122637ec249e427d190c538bb61d540ec00188d03001547dfb1c87c35c"
+  },
+  {
+    "recipe": "Lahmacun",
+    "image": "assets/generated/resume-5704f7f5bfffee.webp",
+    "sha256": "7d0c9b8fb643e2ec9a4352cf6e0b1b0706297f18e159e459d6f5dca0fa6d3bd4"
+  },
+  {
+    "recipe": "Cantık",
+    "image": "assets/generated/resume-981c6f6dd8b540.webp",
+    "sha256": "c8292c5fe6203b1160940bb1e711681b35d86ec3e06caf32879ef568132544f9"
+  },
+  {
+    "recipe": "Su Böreği",
+    "image": "assets/generated/su-boregi-ai-v6.webp",
+    "sha256": "f5d7c214d66f88ac288e71f1504cca776fe6a98dded43ee64c0f738abb98df89"
+  },
+  {
+    "recipe": "Kürt Böreği",
+    "image": "assets/generated/dish-ab0416f04ff928.webp",
+    "sha256": "7188b8214e07c6e9f4455228bf8199a90b161be205bd614e7f8708632452c5cb"
+  },
+  {
+    "recipe": "Boşnak Böreği",
+    "image": "assets/generated/dish-ac570fccdd5d04.webp",
+    "sha256": "f166db145f46abc656ef4fa80d1f343e2f7e2ff32e99058f4e239151e4b074cd"
+  },
+  {
+    "recipe": "Arnavut Böreği",
+    "image": "assets/generated/dish-57d1ecc961601a.webp",
+    "sha256": "7ed19758df8c9f6650479e1a1c52cb55ffb48b9337170d8d1dfaa00e8306ef64"
+  },
+  {
+    "recipe": "Dızmana",
+    "image": "assets/generated/dish-4c682c287f03c4.webp",
+    "sha256": "b77aebc65eb3cc992abfcc3aba05c744546e5e9d195ed4f447898b50f9ec7983"
+  },
+  {
+    "recipe": "Göbete",
+    "image": "assets/generated/dish-1f29def7f4429b.webp",
+    "sha256": "dc2287140a42f8f7d995eaf3053f53327eb829bcd02178fb273da477cb8378c1"
+  },
+  {
+    "recipe": "Çarşaf Böreği",
+    "image": "assets/generated/dish-7ff1a244b61085.webp",
+    "sha256": "074ed0798b565303eed9f6b715c9e0769a4fdce92e104c8a9f8ad14182cfaa3b"
+  },
+  {
+    "recipe": "Avcı Böreği",
+    "image": "assets/generated/dish-6ff08367fb4aca.webp",
+    "sha256": "5784c460d0a59e2d749009da34809a64cfa1ae64c64c89eed04807e74bd68492"
+  },
+  {
+    "recipe": "Paçanga Böreği",
+    "image": "assets/generated/pacanga-boregi-ai-v6.webp",
+    "sha256": "840ee27566d6563963ad4db45cb80473224e8c28501976e2d73f9c94e33eca0a"
+  },
+  {
+    "recipe": "Sigara Böreği",
+    "image": "assets/generated/dish-58f5e614669488.webp",
+    "sha256": "99b0327025ee102be3d19f757a7d83f3a088d8e90dd368e46b6f22434ac18608"
+  },
+  {
+    "recipe": "Gül Böreği",
+    "image": "assets/generated/dish-faf55e55c66e7a.webp",
+    "sha256": "87d3601a45d74e23c47dc8953a87bd643feefd36ec045fff43bdc2c5cb2d8251"
+  },
+  {
+    "recipe": "Muska Böreği",
+    "image": "assets/generated/dish-96fa7cd7cce9d8.webp",
+    "sha256": "76c0e7b179048e6b9c45c6a4d5dbb8af8be3630ffce9935c83f0298efb428ab5"
+  },
+  {
+    "recipe": "Tava Böreği",
+    "image": "assets/generated/dish-1cfee46bc768f1.webp",
+    "sha256": "88df0be2818a0c70160f97ba0221e01cf2f96e08a88ab9517a0aac2cb34eba0b"
+  },
+  {
+    "recipe": "Milföylü Tepsi Böreği",
+    "image": "assets/generated/dish-881de3f84a6ee9.webp",
+    "sha256": "b75506b54038f762ebd6074fe11343aaaf51a8dc863f4f2915009f3de857b685"
+  },
+  {
+    "recipe": "Talaş Böreği",
+    "image": "assets/generated/dish-82d6af39988263.webp",
+    "sha256": "6e466984091f260ab4c7c98e8148baf1f6d55101e3273719f664b761fdda5ac3"
+  },
+  {
+    "recipe": "Sarıyer Böreği",
+    "image": "assets/generated/dish-b4874fdce65f19.webp",
+    "sha256": "c72720aaa0ec9e251ea06d93c61eab1836c434c8626a35999e3e08bc570fb320"
+  },
+  {
+    "recipe": "Puf Böreği",
+    "image": "assets/generated/dish-67a8192113b520.webp",
+    "sha256": "7f54fb412d5daffb793f1c49acf223ced42f21bc917e349b528c99c1794721b5"
+  },
+  {
+    "recipe": "Pişi",
+    "image": "assets/generated/dish-75d3342d2173bf.webp",
+    "sha256": "0ae93349f64020327987a07d00486584a47d31440b7a3a3f2dc1ae3d49a1457e"
+  },
+  {
+    "recipe": "Peynirli Gözleme",
+    "image": "assets/generated/dish-e7e22216ffd3ce.webp",
+    "sha256": "5b51da50b0ec09f9c138f6fb9def04394f5336eecea4fae50c4c2a04ec80caf0"
+  },
+  {
+    "recipe": "Otlu Gözleme",
+    "image": "assets/generated/otlu-gozleme-ai-v6.webp",
+    "sha256": "aa51cd6caf366f9d105e384f9c74720f7987d1eb36e44e8c5faed880ff74c9dc"
+  },
+  {
+    "recipe": "Biberli Ekmek",
+    "image": "assets/generated/resume-d708b73a5abb15.webp",
+    "sha256": "415b25cff830c2605dbc46596440903f986dd591ee77ca4212ff599cccc92f0c"
+  },
+  {
+    "recipe": "Velibah",
+    "image": "assets/generated/dish-32f471845a2893.webp",
+    "sha256": "f20e019f7f2e483772fa1610a5c2ae0c6f17369004d3b617346bdf53be0ae419"
+  },
+  {
+    "recipe": "Sıkma",
+    "image": "assets/generated/dish-de9a5ef7bc0c71.webp",
+    "sha256": "5ffa5b797244d83bd664c96556062ee418269cf7d306a0b3989738c8acd58ad5"
+  },
+  {
+    "recipe": "Çökelekli Bazlama",
+    "image": "assets/generated/dish-ce0421327786d5.webp",
+    "sha256": "4ca0cba86703509d499eb192ac8b9ec805e57dd5e53b0fe57bf0ec3938d1e72a"
+  },
+  {
+    "recipe": "Mahluta Pilavı",
+    "image": "assets/generated/dish-de21e930be355b.webp",
+    "sha256": "6ddee7689f5e59020d45eda44079213f7e2e8da4e24eccb4244fd1d1ce586f7b"
+  },
+  {
+    "recipe": "İç Pilav",
+    "image": "assets/generated/dish-4e68c85e61adf8.webp",
+    "sha256": "f510d0b46e110324f061d6a3b993ee2a34b8db274665de53f08e1c1db2fb8073"
+  },
+  {
+    "recipe": "Firik Pilavı",
+    "image": "assets/generated/dish-a7d8edcb76b641.webp",
+    "sha256": "498c8ba901f3029ac64d8e511783e80206772484213c8b3795249599219841f2"
+  },
+  {
+    "recipe": "Meyhane Pilavı",
+    "image": "assets/generated/dish-7fd044f1220480.webp",
+    "sha256": "acf714ac55608df917ff3081ff4dada1ab9ce2ebebf315c9a493769013bc22a8"
+  },
+  {
+    "recipe": "Domatesli Pirinç Pilavı",
+    "image": "assets/generated/recovered-oct17-12.webp",
+    "sha256": "00786221c1e582220edf9010573cbce561f9966e7bd467f02daaf331734b932a"
+  },
+  {
+    "recipe": "Patlıcanlı Pilav",
+    "image": "assets/generated/dish-e8c9ab091c5b5c.webp",
+    "sha256": "d8f3c9a1cd34a11c693f67f2c01b5f45d9997e79e32adb9ca7f93aeefd1d7516"
+  },
+  {
+    "recipe": "Kestaneli Pilav",
+    "image": "assets/generated/dish-268693ca38c497.webp",
+    "sha256": "339a67d9e7b20ab08a7a31909cdb9878070dc8b3488cc281009be5df2e698499"
+  },
+  {
+    "recipe": "Dövme Pilavı",
+    "image": "assets/generated/dish-8076a6972c4908.webp",
+    "sha256": "9edefe4af3fef51b0b3774d145be9be58089594d3b819e37a852f6e3e8f6bf33"
+  },
+  {
+    "recipe": "Mercimekli Erişte Pilavı",
+    "image": "assets/generated/dish-9b7bbee7306a7a.webp",
+    "sha256": "c1ae9be19b9b9bed5d9f842d3d85b90d3c26eb36025c47e956249559127176a8"
+  },
+  {
+    "recipe": "Şehriyeli Pirinç Pilavı",
+    "image": "assets/generated/resume-4ba0ab22426ff5.webp",
+    "sha256": "b6b1ec211537c04ebe00da4b64f2e7e885a19ca8a207bbec06174933f6e72765"
+  },
+  {
+    "recipe": "Havuçlu Özbek Pilavı",
+    "image": "assets/generated/havuclu-ozbek-pilavi-ai-v6.webp",
+    "sha256": "b09fc9cb9328b9268f34af2d0835d43ca923bf1cd984374111588a52e2f26f29"
+  },
+  {
+    "recipe": "İstanbul Pilavı",
+    "image": "assets/generated/dish-93673a1660ad2d.webp",
+    "sha256": "60f194126bfd979bb3e51d4ceb48b4e792e02d6d7bc501f49305b3f356ad21fd"
+  },
+  {
+    "recipe": "Acem Pilavı",
+    "image": "assets/generated/dish-75c7145f63e7d2.webp",
+    "sha256": "e80f97526afd4fd715947a32af5c6089d2c6047c1047a6de1788fa5ce48e6d83"
+  },
+  {
+    "recipe": "Ali Paşa Pilavı",
+    "image": "assets/generated/dish-895e49ba3298c5.webp",
+    "sha256": "dccb947e3679d2a7eab99685515f192bcd089b37df549a61ca913f3a73ab8481"
+  },
+  {
+    "recipe": "Özbek Mantısı",
+    "image": "assets/generated/ozbek-mantisi-ai-v6.webp",
+    "sha256": "7e515d5ec8c1e8abeb5d547f3a4857a8f328af7b69852d8b3ae2bec25ab859e5"
+  },
+  {
+    "recipe": "Tepsi Mantısı",
+    "image": "assets/generated/tepsi-mantisi-ai-v6.webp",
+    "sha256": "c1e0f5e216d8aeeff4b7aabbebdfe55a2fe1981f2967075dda19f05d56990e6f"
+  },
+  {
+    "recipe": "Boyoz",
+    "image": "assets/generated/resume-1b78c47075b78b.webp",
+    "sha256": "a1c4a77996d78d16b9e8722e4691b42102db6de88c2949d043fd1562ec7373ee"
+  },
+  {
+    "recipe": "Dereotlu Poğaça",
+    "image": "assets/generated/resume-23929ae08e0920.webp",
+    "sha256": "c2078b9e629bc9329652f13042ef3e07a5beeb7f8e327c832ea183b5f4a6803f"
+  },
+  {
+    "recipe": "Karaköy Poğaçası",
+    "image": "assets/generated/resume-90bcb2486ea137.webp",
+    "sha256": "e1cefc1f2fd52335272b9da6f137e254d4d274de74a36adcc781ab88bb5283dc"
+  },
+  {
+    "recipe": "Kandil Simidi",
+    "image": "assets/generated/kandil-simidi-ai-v6.webp",
+    "sha256": "979c40d2d6cfec87d03ef96fc47c307f2c3f4e762e096667e6ede4ad65e2d1ab"
+  },
+  {
+    "recipe": "Çatal Kurabiye",
+    "image": "assets/generated/catal-kurabiye-ai-v6.webp",
+    "sha256": "e4d5363315d94e7dfe1eb01a59222b343ade8942a5e5cb56aa23bc10fc714937"
+  },
+  {
+    "recipe": "Kaşarlı Pide",
+    "image": "assets/generated/kasarli-pide-ai-v6.webp",
+    "sha256": "0b7577ebf47b92f6a54889a4a756a66af3662957dd292d27c73e4762dfb88a3a"
+  },
+  {
+    "recipe": "Yumurtalı Pide",
+    "image": "assets/generated/yumurtali-pide-ai-v6.webp",
+    "sha256": "700fb02a9585c478877c4b127064ae5da2aadc33f1fe96b1539a12dcf4c40201"
+  },
+  {
+    "recipe": "Semsek",
+    "image": "assets/generated/final92-d75805295b5e7c.webp",
+    "sha256": "972cc1df829ea8d15b1c37fa54bcaaff71ca110b4568db9838c67c3edcdf8e7c"
+  },
+  {
+    "recipe": "Ağzı Açık",
+    "image": "assets/generated/final92-942957246d5662.webp",
+    "sha256": "10d38224058d4a31925b2b402c0c91656d7bd797a3868d639ce9055bb82bc04e"
+  },
+  {
+    "recipe": "Ağzı Yumuk",
+    "image": "assets/generated/agzi-yumuk-ai-v6.webp",
+    "sha256": "b028a702846eef9acd15309e2d0deec429c7e0f95fed0d72232ee1b835845175"
+  },
+  {
+    "recipe": "Fodula",
+    "image": "assets/generated/fodula-ai-v6.webp",
+    "sha256": "c76729ee65e6440fac59f238ee3ef4ef7cc7322cda5c19b90dbb3c3574e700c1"
+  },
+  {
+    "recipe": "Mercimekli Bükme",
+    "image": "assets/generated/mercimekli-bukme-ai-v6.webp",
+    "sha256": "8433c7d4d3a74f278b7e1fce674b2b2bbf26fe8c866b4ce0ca1f55a2ba86c0b3"
+  },
+  {
+    "recipe": "Piruhi",
+    "image": "assets/generated/piruhi-ai-v6.webp",
+    "sha256": "1c0502b10c82b82dfec48980dd41f3c8e4da832be2b4bb1147bd371d9d69b4cf"
+  },
+  {
+    "recipe": "Sinop Mantısı",
+    "image": "assets/generated/final92-1c8ca6d70d68a0.webp",
+    "sha256": "20cd75825384f0350b87428a02511c651b7a32df1d0b6036825a52f61ceff517"
+  },
+  {
+    "recipe": "Yağ Mantısı",
+    "image": "assets/generated/final92-6780e2f849b2d8.webp",
+    "sha256": "45e12e7a810617059111de7743b7037f698ebc4c7c959ffa1411d1b2b03bdb93"
+  },
+  {
+    "recipe": "Patatesli Hingel",
+    "image": "assets/generated/patatesli-hingel-ai-v6.webp",
+    "sha256": "7c05d21e1c88d572ff30c4c0a47817819511da363da27d92c0ccd1baebf8db9a"
+  },
+  {
+    "recipe": "Siyez Bulguru Pilavı",
+    "image": "assets/generated/siyez-bulguru-pilavi-ai-v6.webp",
+    "sha256": "a13b60a83df3fb7edd5f0f7714bd593373eeeea8b0de3a8fd4d15beba39c8f26"
+  },
+  {
+    "recipe": "Nohutlu Bulgur Pilavı",
+    "image": "assets/generated/nohutlu-bulgur-pilavi-ai-v6.webp",
+    "sha256": "58d0cb1aed7cf98e3b259a9151d2c84b613b34f9894923ae697b19068b6cf683"
+  },
+  {
+    "recipe": "Sebzeli Bulgur Pilavı",
+    "image": "assets/generated/sebzeli-bulgur-pilavi-ai-v6.webp",
+    "sha256": "d33088328dd88fa6f3380f113b521e2f6e88686e086f21d63cd27c7d53a21c24"
+  },
+  {
+    "recipe": "Kabaklı Bulgur Pilavı",
+    "image": "assets/generated/final92-74468b70933c7d.webp",
+    "sha256": "940ff7856a14984bb4717d31a7e0d446d5bc9e390d7f149e6d3bc2fc59ee91c4"
+  },
+  {
+    "recipe": "Künefe",
+    "image": "assets/generated/final92-b3dfb62af851b9.webp",
+    "sha256": "c3021f2546a59826fbb29cc5b37343570969870592e5314cdd8b58d44df7ce0a"
+  },
+  {
+    "recipe": "Güllaç",
+    "image": "assets/generated/gullac-ai-v6.webp",
+    "sha256": "6d11ab159ea73a3fbb21820e5ded8e86e3d60206f40087b61f48de19b8741b0c"
+  },
+  {
+    "recipe": "Lokma",
+    "image": "assets/generated/lokma-ai-v6.webp",
+    "sha256": "3d6562c1d78ef1cd04935a733a17ea77f3f57aac41235bdf27fd3d6039198a0c"
+  },
+  {
+    "recipe": "Tulumba Tatlısı",
+    "image": "assets/generated/tulumba-tatlisi-ai-v6.webp",
+    "sha256": "97eb65b4de72d068a9ecd34dce965d62c86b60c652ed4abf47b826974a9e0cc2"
+  },
+  {
+    "recipe": "Şekerpare",
+    "image": "assets/generated/sekerpare-ai-v6.webp",
+    "sha256": "5a45f24139f6b4e772a4c595e847dafbeaf4378e15a1b91165ed59ac1a4952e8"
+  },
+  {
+    "recipe": "Revani",
+    "image": "assets/generated/final92-5fcd729130c5a6.webp",
+    "sha256": "a0f23bc30f63b8ade6c40367db35d6d6f76f8d3e24f7de8d485d7ecd165d7592"
+  },
+  {
+    "recipe": "Kalburabastı",
+    "image": "assets/generated/final92-4502ca34e00d66.webp",
+    "sha256": "fd40409ebb88557178f0abfbefbcba0f599a4918c9e05cb519a0408e70514eb8"
+  },
+  {
+    "recipe": "Un Helvası",
+    "image": "assets/generated/un-helvasi-ai-v6.webp",
+    "sha256": "2cc9b1c6c875c55c908b78786cee0f2bb68bcf47c5cfdc60896e7fc9ad809d66"
+  },
+  {
+    "recipe": "Peynir Helvası",
+    "image": "assets/generated/peynir-helvasi-ai-v6.webp",
+    "sha256": "08e53101c11e7d3d0a10ad904aa22953184fc8a838c47c48e6d6e5befae9e17a"
+  },
+  {
+    "recipe": "Höşmerim",
+    "image": "assets/generated/hosmerim-ai-v6.webp",
+    "sha256": "25b227dd8cade3ec44545f4fa5b703687a353b8bc5255807e0686776cc99bbc1"
+  },
+  {
+    "recipe": "Süt Helvası",
+    "image": "assets/generated/sut-helvasi-ai-v6.webp",
+    "sha256": "ed264631952f49e4f923b952228e9913ef0dbad99ab24c562e74db4310b5d9aa"
+  },
+  {
+    "recipe": "Tahinli Un Helvası",
+    "image": "assets/generated/final92-9479f2fc4ef60f.webp",
+    "sha256": "9280a5a134b82f861245a4e034734e557b0aac0480b9086248a74455939b4ba8"
+  },
+  {
+    "recipe": "Zerde",
+    "image": "assets/generated/final92-93da93f1131c06.webp",
+    "sha256": "0a7cafa77401608a8221b6aea8f04de0ef07169cdaffbfd86feb4e47f8b5a3a7"
+  },
+  {
+    "recipe": "Keşkül",
+    "image": "assets/generated/keskul-ai-v6.webp",
+    "sha256": "18a963eeae173b38450f24bb51a65561cb4bdc2e3b99f63a539f01c8b635a14d"
+  },
+  {
+    "recipe": "Kazandibi",
+    "image": "assets/generated/kazandibi-ai-v6.webp",
+    "sha256": "d0ae69f3736642f0019dbbe69cfef4dd076298fcf77137a9d915b09f6856e24d"
+  },
+  {
+    "recipe": "Tavukgöğsü",
+    "image": "assets/generated/tavukgogsu-ai-v6.webp",
+    "sha256": "c2c8bb370248acf984d72f678ac4ea505cecddcc25a881469c53b30bd781e890"
+  },
+  {
+    "recipe": "Su Muhallebisi",
+    "image": "assets/generated/su-muhallebisi-ai-v6.webp",
+    "sha256": "77ad997d9217fb742d906331ce60f86112ae1c73aae9cae22a330cab8957d952"
+  },
+  {
+    "recipe": "Sakızlı Muhallebi",
+    "image": "assets/generated/final92-daf0d75e416747.webp",
+    "sha256": "51dd866217e527b3f9e9e259e20fa0383f591b7a4f115f8c59a8fa8d747eb7c6"
+  },
+  {
+    "recipe": "İncir Uyutması",
+    "image": "assets/generated/final92-c88a7f9a4c6b18.webp",
+    "sha256": "3d31ca1b0155284da75565c6811c46a053bab0b59e7472bbdb7eaefc3a161cdf"
+  },
+  {
+    "recipe": "Palüze",
+    "image": "assets/generated/paluze-ai-v6.webp",
+    "sha256": "45d5bbf68c1dc8f5804cc5103638fd1b18c2435f72a3b589ec87d593e8927286"
+  },
+  {
+    "recipe": "Haside",
+    "image": "assets/generated/haside-ai-v6.webp",
+    "sha256": "7f4bd20873c7560aef5a2ce590255aedeef81b5de67c080b33add4f3ddf3e032"
+  },
+  {
+    "recipe": "Aşure",
+    "image": "assets/generated/asure-ai-v6.webp",
+    "sha256": "29170debc19c801179a4624cbf7019eb6b975387b0fb9e34115f0b0a983b5b38"
+  },
+  {
+    "recipe": "Kabak Tatlısı",
+    "image": "assets/generated/kabak-tatlisi-ai-v6.webp",
+    "sha256": "39f9540fa48bedd33733424e50f76c30025c64ad6f59b47e61ac60b4c491625d"
+  },
+  {
+    "recipe": "Ayva Tatlısı",
+    "image": "assets/generated/final92-17229e3c4e1944.webp",
+    "sha256": "e8cee6e5c1c031baa3a07355c7f6897694e63267231817fb27961d755bc91de0"
+  },
+  {
+    "recipe": "Cevizli İncir Dolması",
+    "image": "assets/generated/final92-92e237d32907bb.webp",
+    "sha256": "0e07d96c858a7e0abf1316de51133d156d41f8e8aa20cc1d000d5040bb65c7bc"
+  },
+  {
+    "recipe": "Fırında Elma Dolması",
+    "image": "assets/generated/firinda-elma-dolmasi-ai-v6.webp",
+    "sha256": "cacb5326da918159e1442f5fd8ba2d5ae00c1e5f2b6acc52c1aa427f9b50cbea"
+  },
+  {
+    "recipe": "Pekmezli Armut Tatlısı",
+    "image": "assets/generated/pekmezli-armut-tatlisi-ai-v6.webp",
+    "sha256": "5dbe4a6aa50f0ab0e226edf77f89bc426b960b911e63176c0caae9e9d7b8c36d"
+  },
+  {
+    "recipe": "Nevzine",
+    "image": "assets/generated/nevzine-ai-v6.webp",
+    "sha256": "46b58ed1f448a66a860842a7d544fe0d71baf218a63b7ce2096188788cb645bb"
+  },
+  {
+    "recipe": "Aside",
+    "image": "assets/generated/aside-ai-v6.webp",
+    "sha256": "4e6740ba66816deb38f9c6606748e4e6f13460658b5db06654eb72739b9fa3da"
+  },
+  {
+    "recipe": "Hira Tatlısı",
+    "image": "assets/generated/final92-36a779588f02bd.webp",
+    "sha256": "b0f78bab4efb4b3e18b1d5db9024d51401d653809275d9324ed4d48511d44eae"
+  },
+  {
+    "recipe": "Şambali",
+    "image": "assets/generated/final92-f535ff30f566d5.webp",
+    "sha256": "1f14bcca8a1c6a72b5d5ae5f549badc3ef846961c863736f6fbb252f24b7cb53"
+  },
+  {
+    "recipe": "Kemalpaşa Tatlısı",
+    "image": "assets/generated/kemalpasa-tatlisi-ai-v6.webp",
+    "sha256": "5fc9fa5fc60bc9130243dc4585587687cc89ba04da172995b725d9130b1d2bfd"
+  },
+  {
+    "recipe": "Dilber Dudağı",
+    "image": "assets/generated/dilber-dudagi-ai-v6.webp",
+    "sha256": "2322e596e933456d097bf3a7999ab24ebc5b3c552f275a53acd58eb9cca36a03"
+  },
+  {
+    "recipe": "Bülbül Yuvası",
+    "image": "assets/generated/bulbul-yuvasi-ai-v6.webp",
+    "sha256": "5f31b6bf08f01d56fe88f05e8cc1c32f6ff0982f1e31a74ac59a732b90430c3f"
+  },
+  {
+    "recipe": "Burma Kadayıf",
+    "image": "assets/generated/burma-kadayif-ai-v6.webp",
+    "sha256": "e99e64000f62d081838b4edf54f31355c9d39bdcbe61ae96f54d582df29a9210"
+  },
+  {
+    "recipe": "Kadayıf Dolması",
+    "image": "assets/generated/final92-ade6771102615d.webp",
+    "sha256": "b82af48cd83cd303b1ca74fdb0ee71a5649684377a8418b4b2ba75a372a91c9f"
+  },
+  {
+    "recipe": "Cevizli Sarı Burma",
+    "image": "assets/generated/final92-9e177233ae3c23.webp",
+    "sha256": "9d5471168d3058a93ccad0a28b7c00d103041de2542c82ca20df2d7a54faa0dc"
+  },
+  {
+    "recipe": "Fıstıklı Şöbiyet",
+    "image": "assets/generated/fistikli-sobiyet-ai-v6.webp",
+    "sha256": "8f07f8b0eed89692bf5bfcb159b53a2d986903adc61ce0e16d150cab12c5f194"
+  },
+  {
+    "recipe": "Taş Kadayıf",
+    "image": "assets/generated/tas-kadayif-ai-v6.webp",
+    "sha256": "f3813e5071dccb46b276099dbbf970ce88f3cfbeeef3d82dc5b6b5c7c48c8ea8"
+  },
+  {
+    "recipe": "Vezir Parmağı",
+    "image": "assets/generated/vezir-parmagi-ai-v6.webp",
+    "sha256": "8ee19a91051f71ad2d368d2b332a742d4830382c541811242d67f9ec9eb183ce"
+  },
+  {
+    "recipe": "İzmir Bomba",
+    "image": "assets/generated/izmir-bomba-ai-v6.webp",
+    "sha256": "3f80d63310340e300b75aad935d31f82d3ad688cffb6cff40c09fa4916d50d9a"
+  },
+  {
+    "recipe": "Acıbadem Kurabiyesi",
+    "image": "assets/generated/final92-087dbcd875367e.webp",
+    "sha256": "5a682c82078aa8526c009c999668ac888df1089d5ee663e93eb8de6dab1d990e"
+  },
+  {
+    "recipe": "Kavala Kurabiyesi",
+    "image": "assets/generated/final92-82ce20d4bcb753.webp",
+    "sha256": "07d70b5f979aeb3c6a54672ecd84cc5296632f481f5a92c0a20ef16e126b3446"
+  },
+  {
+    "recipe": "Un Kurabiyesi",
+    "image": "assets/generated/un-kurabiyesi-ai-v6.webp",
+    "sha256": "f1121f2c7243ae6885b226410cc9f09bbd007115c7a4256bf5100ac85867dd87"
+  },
+  {
+    "recipe": "Elmalı Kurabiye",
+    "image": "assets/generated/elmali-kurabiye-ai-v6.webp",
+    "sha256": "1135ec1de75d455d52464ccd32e065b1b2da95a4ece5a3c0eb9035a4592b7a38"
+  },
+  {
+    "recipe": "İzmir Lor Kurabiyesi",
+    "image": "assets/generated/izmir-lor-kurabiyesi-ai-v6.webp",
+    "sha256": "3aa403502d469b123850c6c7dd044707c97bce86bb0c40b79c0ca3f728300317"
+  },
+  {
+    "recipe": "Susamlı Anne Kurabiyesi",
+    "image": "assets/generated/susamli-anne-kurabiyesi-ai-v6.webp",
+    "sha256": "bf1d157ec3b2fb3ef39f2cdd25bd9aaf30e5cb605076058bf2962a96fd3d2251"
+  },
+  {
+    "recipe": "Tahinli Rulo Kurabiye",
+    "image": "assets/generated/final92-65a4dae3bdd84e.webp",
+    "sha256": "303c8fdbdd68437c5d8d94bf96a7f47ccd9f21925e3ffaea6a4570c2483db6f4"
+  },
+  {
+    "recipe": "Cezerye",
+    "image": "assets/generated/final92-aeef8ee625724b.webp",
+    "sha256": "bace9a46ba7b1e94b5158bb99ae10987a9c0b066f63be93328cd4bcd3144ee8c"
+  },
+  {
+    "recipe": "Cevizli Sucuk",
+    "image": "assets/generated/cevizli-sucuk-ai-v6.webp",
+    "sha256": "018ece2780d805fd3715cb560a22105b0089def6047013f89954ab3e4941c5d0"
+  },
+  {
+    "recipe": "Rokoko",
+    "image": "assets/generated/rokoko-ai-v6.webp",
+    "sha256": "1f7c354764f33b801d5c9c99a86bdc1195faf870f4eaebcf82c9ed684cb4b441"
+  },
+  {
+    "recipe": "Mozaik Pasta",
+    "image": "assets/generated/mozaik-pasta-ai-v6.webp",
+    "sha256": "07a87eba20921fbc5bc15b508c66f213d9b48e6d1c7b782be153aae9d052c92c"
+  },
+  {
+    "recipe": "Ağlayan Pasta",
+    "image": "assets/generated/aglayan-pasta-ai-v6.webp",
+    "sha256": "861e32c699603a6b12167a5445b6a964f067b505245209f6b67359d0cdf58818"
+  },
+  {
+    "recipe": "Köstebek Pasta",
+    "image": "assets/generated/final92-cb01d6b615170f.webp",
+    "sha256": "7c934e91de7931d086bd9fcbdad75907fd2f9603a45a9d69afd9658c159c579e"
+  },
+  {
+    "recipe": "Kıbrıs Tatlısı",
+    "image": "assets/generated/final92-1a2a1a972083ae.webp",
+    "sha256": "7060afff20746e598960958e09ac7b8924d79a94a2672da8bebbed4ba48f72b8"
+  },
+  {
+    "recipe": "Haşhaşlı Revani",
+    "image": "assets/generated/hashasli-revani-ai-v6.webp",
+    "sha256": "4e276b54f8eca76aede5ed498648a46a216ee9fe2888cb8fbd42317486d4be61"
+  },
+  {
+    "recipe": "Tahinli Kek",
+    "image": "assets/generated/tahinli-kek-ai-v6.webp",
+    "sha256": "35b11f1d8b7e6dc29e471401bc28d0129422d738bc007140482b35539eff5a3b"
+  },
+  {
+    "recipe": "Havuçlu Cevizli Tarçınlı Kek",
+    "image": "assets/generated/havuclu-cevizli-tarcinli-kek-ai-v6.webp",
+    "sha256": "f062a35b7c4b74cff553355e675e3d17c37af85682eafa3df94f73d33fa05102"
+  },
+  {
+    "recipe": "Islak Kek",
+    "image": "assets/generated/islak-kek-ai-v6.webp",
+    "sha256": "9abaf87206b842861abf4cb5280b93e7375426a892d53139cf1ead01e53c1404"
+  },
+  {
+    "recipe": "Frambuazlı Yoğurt Tatlısı",
+    "image": "assets/generated/final92-9b487147338b72.webp",
+    "sha256": "91f988cd84d9479653f308309862a98a7887c4f0d6e26b778ed0a3326a913d5a"
+  },
+  {
+    "recipe": "Panna Cotta",
+    "image": "assets/generated/final92-3d26f73be7fc07.webp",
+    "sha256": "f6f78e69953d131165816bb4ca995c4af9bd099e190edf648e4a1cbd3586a184"
+  },
+  {
+    "recipe": "Crème Brûlée",
+    "image": "assets/generated/creme-brulee-ai-v6.webp",
+    "sha256": "593dddf670b65f40de2e864585ff5c75d6f92999c3225bb59c8d0cd6d1ab2885"
+  },
+  {
+    "recipe": "Paris-Brest",
+    "image": "assets/generated/paris-brest-ai-v6.webp",
+    "sha256": "c5503cf920bb1139e5c8e28a223642c5b98e2dd3b9252eb72fb49ad466f3f754"
+  },
+  {
+    "recipe": "Saint-Honoré",
+    "image": "assets/generated/saint-honore-ai-v6.webp",
+    "sha256": "6bb06485a0defe8fbda97f3d89947d8c1a4c1230f46e49c487a9eab29b28624e"
+  },
+  {
+    "recipe": "Mille-feuille",
+    "image": "assets/generated/mille-feuille-ai-v6.webp",
+    "sha256": "31427393366708d5f0c572d3f27fb59adde8b4347477ae1560701c9a048fc72f"
+  },
+  {
+    "recipe": "Opéra Pastası",
+    "image": "assets/generated/final92-07225f560b900d.webp",
+    "sha256": "f1fae654a848efb5fa8d0939d92efd61b8fdf20f0c184d9ab94a6ae9d6a21cb7"
+  },
+  {
+    "recipe": "Éclair",
+    "image": "assets/generated/final92-c1b9327b72ce73.webp",
+    "sha256": "288ddabda0dd79231945009b08ac36565c6695f16fa68a8f881ed215df29e186"
+  },
+  {
+    "recipe": "Croquembouche",
+    "image": "assets/generated/croquembouche-ai-v6.webp",
+    "sha256": "aacd3da0a43428f9a788d42a8601a920805b3b323c72c057a032f90c8a748f65"
+  },
+  {
+    "recipe": "Pavlova",
+    "image": "assets/generated/pavlova-ai-v6.webp",
+    "sha256": "929164798cd201bd2259738ed20b303b9d00accd63db5d54ca1bd465a8642306"
+  },
+  {
+    "recipe": "Sachertorte",
+    "image": "assets/generated/sachertorte-ai-v6.webp",
+    "sha256": "ad4c178e4770ded28cf4f84095e24784c6f8b9419fc67fb3361e6cdec776427c"
+  },
+  {
+    "recipe": "Linzer Torte",
+    "image": "assets/generated/linzer-torte-ai-v6.webp",
+    "sha256": "d7b1df76f79e01c7bdc93a7bc26ee91b6c33d9dde86b612470b0b13b02b54f07"
+  },
+  {
+    "recipe": "Apfelstrudel",
+    "image": "assets/generated/final92-143a8b6a7a0770.webp",
+    "sha256": "4a320984f03087cdabb1efe539738822e666d07e81b2b96797c2e6e5a6f42ffe"
+  },
+  {
+    "recipe": "Black Forest Cake",
+    "image": "assets/generated/final92-5095191499a0e6.webp",
+    "sha256": "e291b7238aa943c41fa0c7a30ae16eb9550471075e081b94c952f16c26ee8ed6"
+  },
+  {
+    "recipe": "Basque Cheesecake",
+    "image": "assets/generated/basque-cheesecake-ai-v6.webp",
+    "sha256": "7800b028cd08932a0e0161bc121965fdd2609e3ecb643508abfd0ce09d8c896c"
+  },
+  {
+    "recipe": "Cannoli",
+    "image": "assets/generated/cannoli-ai-v6.webp",
+    "sha256": "3aebe87b2468d864242e9dd443777727673e7b561af75721f12fc5e2c2dae68d"
+  },
+  {
+    "recipe": "Sfogliatelle",
+    "image": "assets/generated/sfogliatelle-ai-v6.webp",
+    "sha256": "a2e5157e4e75d6820db1000cf99c85bf659725fc11dea85465554a8df5114b04"
+  },
+  {
+    "recipe": "Pastel de Nata",
+    "image": "assets/generated/pastel-de-nata-ai-v6.webp",
+    "sha256": "5408a646cc5c0fabf72b6489e9326e01488bbadfbf781a81f51103896489580e"
+  },
+  {
+    "recipe": "Churros",
+    "image": "assets/generated/final92-331f59130157c3.webp",
+    "sha256": "4e3400b11940165d56e7c7da66221fb95b7484f3e84ca841b70ba623e192e9a8"
+  },
+  {
+    "recipe": "Mochi Daifuku",
+    "image": "assets/generated/final92-32dc6ccbfc3a55.webp",
+    "sha256": "eb61bff16c2bdd20982537b25b3efd8af9c82c2d232f34d1203e8808674bd4f0"
+  },
+  {
+    "recipe": "Gulab Jamun",
+    "image": "assets/generated/gulab-jamun-ai-v6.webp",
+    "sha256": "3eb2e88ef0a558fbe5f6171acf5d488832093dd25e83cc12f9c304a5f95395df"
+  },
+  {
+    "recipe": "Antalya Piyazı",
+    "image": "assets/generated/antalya-piyazi-ai-v6.webp",
+    "sha256": "869c459b27aacf28c7778b70c2a58d2062397c38a36e9672bc6cf01ae29d443e"
+  },
+  {
+    "recipe": "Gavurdağı Salatası",
+    "image": "assets/generated/gavurdagi-salatasi-ai-v6.webp",
+    "sha256": "db8e437a5fd5d233b60130a8178d862d2a61b59cd884d5b8b811a0cab923df49"
+  },
+  {
+    "recipe": "Kaşık Salatası",
+    "image": "assets/generated/kasik-salatasi-ai-v6.webp",
+    "sha256": "7ef36c6e160496d807e04825b15bab38d5e59a0cb966606267a16c64f0874cc4"
+  },
+  {
+    "recipe": "Roka ve Beyaz Peynir Salatası",
+    "image": "assets/generated/final92-2daa12e5bc4959.webp",
+    "sha256": "6dc291f337512566651a60c45514e0ccd93afc0d92447d5f68e4d34392c428ce"
+  },
+  {
+    "recipe": "Turp Salatası",
+    "image": "assets/generated/final92-6ca2df210de3f0.webp",
+    "sha256": "3fc6425c4929874606652c679997ee2568afc41dcb8c0ef40516171a442179b7"
+  },
+  {
+    "recipe": "Yoğurtlu Kereviz Salatası",
+    "image": "assets/generated/yogurtlu-kereviz-salatasi-ai-v6.webp",
+    "sha256": "8eed50efffb20d2833144860fb49a5d1438e60b8193f80acb669af3297588abe"
+  },
+  {
+    "recipe": "Mor Lahana Salatası",
+    "image": "assets/generated/mor-lahana-salatasi-ai-v6.webp",
+    "sha256": "b36a7984214496a23683bfc4d0698e85241e4f5394ec9edf22b65709179afb1d"
+  },
+  {
+    "recipe": "Yoğurtlu Beyaz Lahana Salatası",
+    "image": "assets/generated/yogurtlu-beyaz-lahana-salatasi-ai-v6.webp",
+    "sha256": "565ad7c6e73cbcc095e72982903a8d44d0bba79075bcce64438010cda188433f"
+  },
+  {
+    "recipe": "Pancar Salatası",
+    "image": "assets/generated/pancar-salatasi-ai-v6.webp",
+    "sha256": "af65d37c75bbf5625d3d5a7cf997583bb467883214e8bbfab1f9012fb060bb70"
+  },
+  {
+    "recipe": "Deniz Börülcesi Salatası",
+    "image": "assets/generated/final92-1d6c9ec39dd0d1.webp",
+    "sha256": "c5c65f7b7e50b5087595912cf9aa96f24f83647f10f99319bf96c303b3544c91"
+  },
+  {
+    "recipe": "Kuru Börülce Salatası",
+    "image": "assets/generated/final92-74ec60ec291c0d.webp",
+    "sha256": "d3c3c3c70664d9a36a7392bacd8a0a97f47b4fd27c5db9068ba09c1d4cb3302b"
+  },
+  {
+    "recipe": "Yeşil Mercimek Salatası",
+    "image": "assets/generated/yesil-mercimek-salatasi-ai-v6.webp",
+    "sha256": "ead70821660d8bbbe086bc8cf9d11a55b94f082d47e23726289abac789622025"
+  },
+  {
+    "recipe": "Buğday Salatası",
+    "image": "assets/generated/bugday-salatasi-ai-v6.webp",
+    "sha256": "10830e0cb7337aab7a3e6a06ba8717c647de64e124a8b9071d7b29f49f0bfca7"
+  },
+  {
+    "recipe": "Maş Fasulyesi Salatası",
+    "image": "assets/generated/mas-fasulyesi-salatasi-ai-v6.webp",
+    "sha256": "dd65c2e3a06049b86ae34598158c2e6d30198dfaa5645bb1f14974e0d7a89e7c"
+  },
+  {
+    "recipe": "Domatesli Semizotu Salatası",
+    "image": "assets/generated/domatesli-semizotu-salatasi-ai-v6.webp",
+    "sha256": "546c5ec76b2b8bc2c530f207c598975cc59b1d65ff329de0ea90bce9ca72351b"
+  },
+  {
+    "recipe": "Zahter Salatası",
+    "image": "assets/generated/final92-21c8c5704a2aa1.webp",
+    "sha256": "e3d7becf44c112d7897dc475374b602ea9c8c4836cd5172cf97d0f2e206f8480"
+  },
+  {
+    "recipe": "Köz Biber Salatası",
+    "image": "assets/generated/final92-b1acecd9150e6d.webp",
+    "sha256": "46f5a832f72f9b20cff6fe672f0de57c2b0bd28ca81f865cc8178c88519a9dc4"
+  },
+  {
+    "recipe": "Sumaklı Soğan Salatası",
+    "image": "assets/generated/sumakli-sogan-salatasi-ai-v6.webp",
+    "sha256": "b1eedccef49a9ddffad5c5b0700dfe5da1603421eb6cc20d26c817c848c25239"
+  },
+  {
+    "recipe": "Kuzukulağı Salatası",
+    "image": "assets/generated/kuzukulagi-salatasi-ai-v6.webp",
+    "sha256": "5fda4ce80efd09e9bee500ca8e7efc0ef3f30486ffaa3bc21854aadd81d6d53d"
+  },
+  {
+    "recipe": "Taze Bakla Salatası",
+    "image": "assets/generated/taze-bakla-salatasi-ai-v6.webp",
+    "sha256": "c7a23f9c65d2aa5bf14cb62013ec2bfd62c52c6a9c62de19319799d9cfda54ee"
+  },
+  {
+    "recipe": "Haydari",
+    "image": "assets/generated/haydari-ai-v6.webp",
+    "sha256": "7fe90dfdbb30c96207927ba4bab722c504037d2b0f4fd391ad9b153d4a99fd19"
+  },
+  {
+    "recipe": "Atom Meze",
+    "image": "assets/generated/final92-546533cd03c1df.webp",
+    "sha256": "f29420ef0e9f0253cd20383b3307bc9c68c0392adb67f4fa5377c451cf92ff64"
+  },
+  {
+    "recipe": "Acılı Ezme",
+    "image": "assets/generated/final92-00ef07862a6089.webp",
+    "sha256": "d3da13e20c71298527cc2f3b9c8265350157a574eeb479c2f55fc59c489f59ca"
+  },
+  {
+    "recipe": "Muhammara",
+    "image": "assets/generated/muhammara-ai-v6.webp",
+    "sha256": "0d714227f88e07825eb9fae5d23853010b3f2e36ce22e57a69536c7fa3983c84"
+  },
+  {
+    "recipe": "Fava",
+    "image": "assets/generated/fava-ai-v6.webp",
+    "sha256": "326e4f3cd6f9694542b8d5fc71839706aac2085a1aa09c53c235e4f0efb1ed8e"
+  },
+  {
+    "recipe": "Cevizli Tarator",
+    "image": "assets/generated/cevizli-tarator-ai-v6.webp",
+    "sha256": "6f52b431aa141ce2011007d4104d89d9972e9c516a83c8bffec4f75320a4ce46"
+  },
+  {
+    "recipe": "Hibeş",
+    "image": "assets/generated/final92-b9aa273d4cdcc6.webp",
+    "sha256": "62e86073a57bc3e147f00ebc0c0b03dfc8afef280a065cc7360b97d56006e738"
+  },
+  {
+    "recipe": "Kabak Tarator",
+    "image": "assets/generated/final92-5ed94c07dda1e5.webp",
+    "sha256": "14d94b486de83f0fa0a09863185b8a3e1e75bc8f6cd6b539969c0fa216081042"
+  },
+  {
+    "recipe": "Köpoğlu",
+    "image": "assets/generated/resume-ff0374276171ea.webp",
+    "sha256": "724ccb292836ec7abe3028a1cf4160e3c94e1afc7ee23f2c54c073d98a80a290"
+  },
+  {
+    "recipe": "Girit Ezmesi",
+    "image": "assets/generated/girit-ezmesi-ai-v6.webp",
+    "sha256": "bad5eb1656e9c17ef883c6411accfd91dfcc30c96399dd6d5c433c6994d304fc"
+  },
+  {
+    "recipe": "Yoğurtlu Köz Patlıcan",
+    "image": "assets/generated/yogurtlu-koz-patlican-ai-v6.webp",
+    "sha256": "4c0185c4aa8f148f471c727658e977390736415d9716797a19130410faacd3f9"
+  },
+  {
+    "recipe": "Patlıcan Söğürme",
+    "image": "assets/generated/patlican-sogurme-ai-v6.webp",
+    "sha256": "48e0cf7b63dfbb148b90f0b6d7c0937a9c9896803d09329ba26f54730eed2b44"
+  },
+  {
+    "recipe": "Yoğurtlu Pazı Mezesi",
+    "image": "assets/generated/resume-d7b8e78f00425c.webp",
+    "sha256": "dcaee436bd7676ccab3f3243a2eca225abff6042b3f5a980e17d1dbbcfc8fc33"
+  },
+  {
+    "recipe": "Yoğurtlu Karnabahar Salatası",
+    "image": "assets/generated/resume-2d2e3bc605ad4b.webp",
+    "sha256": "deca074dc21f54e5cf52f72692ba9cba1800c3452294b4544767bed365986506"
+  },
+  {
+    "recipe": "Topik",
+    "image": "assets/generated/resume-2a2eb54dc46c62.webp",
+    "sha256": "302ab11e78ebaff85df752ffec3451e9bca816b57be7e78a38b2e9d563c50e9d"
+  },
+  {
+    "recipe": "Çiroz Salatası",
+    "image": "assets/generated/ciroz-salatasi-ai-v6.webp",
+    "sha256": "1edd5a47addbeb75779ea827f65ceb12521c200767470b3b084fb152549ffdca"
+  },
+  {
+    "recipe": "Köz Soğan Mezesi",
+    "image": "assets/generated/koz-sogan-mezesi-ai-v6.webp",
+    "sha256": "8bcb2ecabb361241023f85ccc7404b40e0a1ee486de500499b119d7b219dba62"
+  },
+  {
+    "recipe": "Yoğurtlu Mantar Mezesi",
+    "image": "assets/generated/yogurtlu-mantar-mezesi-ai-v6.webp",
+    "sha256": "8a0ae6fec75a4eef66cbd7468c686251a8ef766471c5496d2f03e41e6441144b"
+  },
+  {
+    "recipe": "Sürk Salatası",
+    "image": "assets/generated/resume-9894c2cca8c3a6.webp",
+    "sha256": "82e865f81064297fc41b5e4a0cb661ecef286828241011b6027aeee80aa4a4c6"
+  },
+  {
+    "recipe": "Tahinli Pancar Mezesi",
+    "image": "assets/generated/resume-8850cc0313d00e.webp",
+    "sha256": "a916544f05aff043bfc060cce6240ed8aa9250b5f6a280a636fa04767ac3b6b8"
+  },
+  {
+    "recipe": "Yumurta Kapama",
+    "image": "assets/generated/resume-d7ea73ed3634d0.webp",
+    "sha256": "b1dcc516910be47271fd85784238d453117dd16edbcfd40a5c3ae075860ea2cc"
+  },
+  {
+    "recipe": "Yumurta Dolması",
+    "image": "assets/generated/yumurta-dolmasi-ai-v6.webp",
+    "sha256": "1ef4fda2ccebdd86f987c6289faff4056d8286af486fa8376ae6bd3e8b0e0ce1"
+  },
+  {
+    "recipe": "Yumurta Piyazı",
+    "image": "assets/generated/yumurta-piyazi-ai-v6.webp",
+    "sha256": "a6136c3ab4ee367f1441d3140aaae8745d57a995a3d8ec577253b6a5dd36b22b"
+  },
+  {
+    "recipe": "Kıymalı Yumurta",
+    "image": "assets/generated/kiymali-yumurta-ai-v6.webp",
+    "sha256": "b2fe8f9febc84be2f97905f7d14046f626978a5ca6187d4d54f122e12062202d"
+  },
+  {
+    "recipe": "Kavurmalı Yumurta",
+    "image": "assets/generated/resume-57e2d6ec65176c.webp",
+    "sha256": "d6847063789ae9cff2676abbec3aafdc289dd665291d7f16df7e9767baec73e5"
+  },
+  {
+    "recipe": "Sahanda Yumurta",
+    "image": "assets/generated/resume-d88ed4f18e60d0.webp",
+    "sha256": "0ae0ed6021c90e644e02bd519a73af558d9c4a831be557531b39eea3dfe75e83"
+  },
+  {
+    "recipe": "Beyaz Peynirli Omlet",
+    "image": "assets/generated/resume-701c2f1ee14dab.webp",
+    "sha256": "a355245785e58efd929692d017f94dbcaeaa8bc944a43a8f86c69d2c6fa5379d"
+  },
+  {
+    "recipe": "Lorlu Biber Kavurması",
+    "image": "assets/generated/lorlu-biber-kavurmasi-ai-v6.webp",
+    "sha256": "9bad4e977d94b17d621494d29228ce82b6d5ce063b850fd007143da9de5322f0"
+  },
+  {
+    "recipe": "Sütlü Biber",
+    "image": "assets/generated/sutlu-biber-ai-v6.webp",
+    "sha256": "cbc0a9bc1e6dc315dc0e19d054c16d59eead51a84447b1c70246972a9ad4eb30"
+  },
+  {
+    "recipe": "Kahvaltılık Çemen",
+    "image": "assets/generated/kahvaltilik-cemen-ai-v6.webp",
+    "sha256": "06e6fcaec1825e77d8d9fe618d73be8fade83576cbf4b8e6a5ae17b234567fc9"
+  },
+  {
+    "recipe": "Siyah Zeytin Ezmesi",
+    "image": "assets/generated/resume-32906b60bf501a.webp",
+    "sha256": "b718fd9368082a8d6a222d621a9b86dc6893bedb8a47172009646787c781c7c8"
+  },
+  {
+    "recipe": "Çingene Pilavı",
+    "image": "assets/generated/resume-0dcdc3c890f9eb.webp",
+    "sha256": "313bfdc8d4049444320a5468fb75f7dcac70d7b2e787a7c0e960f7df8f2fab32"
+  },
+  {
+    "recipe": "Hellim Tava",
+    "image": "assets/generated/resume-0fac59519e143b.webp",
+    "sha256": "31e24831c88c8c5751e3f5b6c40ec655eb68015393488ce2d037714b3a8b8b9e"
+  },
+  {
+    "recipe": "Marul Salatası",
+    "image": "assets/generated/marul-salatasi-ai-v6.webp",
+    "sha256": "e1f05fbac927bbb5a82ed95e7fd6e1d9bc08c7cb73ec911607e13f981b8aa2ff"
+  },
+  {
+    "recipe": "Limonlu Havuç Salatası",
+    "image": "assets/generated/limonlu-havuc-salatasi-ai-v6.webp",
+    "sha256": "b998d419bbf5c7628827410179d8fc1af9c83e0af9cc6d7388b0136655ee953a"
+  },
+  {
+    "recipe": "Yeşil Zeytin Salatası",
+    "image": "assets/generated/yesil-zeytin-salatasi-ai-v6.webp",
+    "sha256": "f191de90e564c3c733dc7af6b85aa5ac0cdd0ca45dbb534a8e3c0298edb959ce"
+  },
+  {
+    "recipe": "Tahin Pekmez Karışımı",
+    "image": "assets/generated/tahin-pekmez-karisimi-ai-v6.webp",
+    "sha256": "9cf26253a9b2f5e9e74f29b3e5d6c4fe552d9a872a1777de55d2d089f1870b5e"
+  },
+  {
+    "recipe": "Tarama Mezesi",
+    "image": "assets/generated/resume-195996b5476612.webp",
+    "sha256": "6a2c4a801b09d6159b905e5b617bb08e5338403ecc9472cc0bc0312c6fc2c6cd"
+  },
+  {
+    "recipe": "Kuru Domates Salatası",
+    "image": "assets/generated/resume-4fdf78c5b7b9bc.webp",
+    "sha256": "258cb386bb616cbb62d7d773aabb6553d357bc6944765852b6a33b0fe9f77e11"
+  },
+  {
+    "recipe": "Nuraniye Mezesi",
+    "image": "assets/generated/nuraniye-mezesi-ai-v6.webp",
+    "sha256": "b2765122454ccce4d992baaf5f1de419205929ea459a4a91d926d1ae3253e00f"
+  },
+  {
+    "recipe": "Lahana Sarması",
+    "image": "assets/generated/lahana-sarmasi-ai-v6.webp",
+    "sha256": "3458b6d5f86a2b5d8a8f7ba1677dd05e1ef93b6a64ed5df890169b450339c15b"
+  },
+  {
+    "recipe": "Karalahana Sarması",
+    "image": "assets/generated/karalahana-sarmasi-ai-v6.webp",
+    "sha256": "28a2be733426de402efb66e61bba44fe1575ec1476bb7aa7d936d97e06dd94a5"
+  },
+  {
+    "recipe": "Pazı Sarması",
+    "image": "assets/generated/pazi-sarmasi-ai-v6.webp",
+    "sha256": "e4c49c92b606d4af8884fdf07058ca04fad29c0e484cbc1f4ccd9a0d7a02585d"
+  },
+  {
+    "recipe": "Labada Sarması",
+    "image": "assets/generated/resume-e21ea6ad5d6fac.webp",
+    "sha256": "5f5e001f44479817671877cce533321c2eb09d0d3813252c1ffaaecce41c2de9"
+  },
+  {
+    "recipe": "Pancar Yaprağı Sarması",
+    "image": "assets/generated/dish-c73648548c4d7c.webp",
+    "sha256": "624ad46558e9bc18c244556dfcc2fafa39f788c55d278205b1ca632c23d539ad"
+  },
+  {
+    "recipe": "Kuru Patlıcan Dolması",
+    "image": "assets/generated/resume-5dca156c766536.webp",
+    "sha256": "e6b173469a7ed6ffac3e12cdbd16c4c671551aa3544644579fd8f75aadbbd8d1"
+  },
+  {
+    "recipe": "Kuru Biber Dolması",
+    "image": "assets/generated/kuru-biber-dolmasi-ai-v6.webp",
+    "sha256": "458d192f66c04ca3874883eb372514895cbf8e321e2174cb125a45044ae8c58d"
+  },
+  {
+    "recipe": "Patlıcan Dolması",
+    "image": "assets/generated/patlican-dolmasi-ai-v6.webp",
+    "sha256": "1f63b758d09ad757a6ec14efcdec08c6f4a9f221c318fd592459fb3835a5961b"
+  },
+  {
+    "recipe": "Domates Dolması",
+    "image": "assets/generated/domates-dolmasi-ai-v6.webp",
+    "sha256": "ec53b0ce0a37ab07c8f2776ef303ff83540a4d303d045c9008e1e68a4b99dca0"
+  },
+  {
+    "recipe": "Soğan Dolması",
+    "image": "assets/generated/dish-42ee32534f0323.webp",
+    "sha256": "b86d9578ec2107958f5bbf870503629d9494884509c2b72c5f431fb8424a6c76"
+  },
+  {
+    "recipe": "Pırasa Dolması",
+    "image": "assets/generated/pirasa-dolmasi-ai-v6.webp",
+    "sha256": "7c555b69106b5cbf7019294ce4050f9749d7d792d2ab71fc8a41cdcf15e1b96c"
+  },
+  {
+    "recipe": "Kabak Çiçeği Dolması",
+    "image": "assets/generated/resume-df1798fb4fe427.webp",
+    "sha256": "5511dedbebcec8e07f2812785377f3e90aa560e93d15e8f6492a9ac518d84b4b"
+  },
+  {
+    "recipe": "Enginar Dolması",
+    "image": "assets/generated/resume-5365cd69d7b5a0.webp",
+    "sha256": "dee1c8228cc1d039f24951c79c5211870aa155804abb2e9b4cbd9e1ee3827d45"
+  },
+  {
+    "recipe": "Ayva Dolması",
+    "image": "assets/generated/ayva-dolmasi-ai-v6.webp",
+    "sha256": "89937437ae86d20fe9bc7a75960c176035641f913d8e0fe3621f146a71adeba1"
+  },
+  {
+    "recipe": "Elma Dolması",
+    "image": "assets/generated/dish-8f851e08ace918.webp",
+    "sha256": "40c351b8eab67101ae585a79797ab355c11fe34a259498e71ddcb5662590de88"
+  },
+  {
+    "recipe": "Şalgam Dolması",
+    "image": "assets/generated/salgam-dolmasi-ai-v6.webp",
+    "sha256": "73cdfa2ea43b39c4f2ced693d98a1b1bf760e50e5fe73c0e789fc254414ba35a"
+  },
+  {
+    "recipe": "Patates Dolması",
+    "image": "assets/generated/patates-dolmasi-ai-v6.webp",
+    "sha256": "e6e49971dcf14fc9afecccac2a2eab8794ab0030a832e5f5bb64bdf39ef93e31"
+  },
+  {
+    "recipe": "Acur Dolması",
+    "image": "assets/generated/acur-dolmasi-ai-v6.webp",
+    "sha256": "976b12df7e802a511d7deba7e61f67c95124bc72ae360e790605cdb3e6479d34"
+  },
+  {
+    "recipe": "Kiraz Yaprağı Sarması",
+    "image": "assets/generated/resume-347dd4b1845025.webp",
+    "sha256": "a9ebb9c1d1864ce747699bf4d893388be32a38976e48d937bf763b59a94200d2"
+  },
+  {
+    "recipe": "Şıhıl Mahşi",
+    "image": "assets/generated/dish-ed15a6697b5bfc.webp",
+    "sha256": "1a704ba8eca6f44f3c85d712b3adf31289fce9045367fff4a9f109469fb1d5fd"
+  },
+  {
+    "recipe": "Baklalı Dolma",
+    "image": "assets/generated/resume-1e6571b237091c.webp",
+    "sha256": "f07317450a37dd42abbfcea378cf4d7ba9c97fe7e3260b735ccce4aaae69d442"
+  },
+  {
+    "recipe": "Kitel Raha",
+    "image": "assets/generated/kitel-raha-ai-v6.webp",
+    "sha256": "a7b996f5687bbaf3ea29a57ef5e464272d51f7722cd5931d76d757f6caff3b5a"
+  },
+  {
+    "recipe": "İkbebet",
+    "image": "assets/generated/ikbebet-ai-v6.webp",
+    "sha256": "2c5fe8009a6840bc230d9bcea5ee76883807b3ee62d17aead2db56735af11bfa"
+  },
+  {
+    "recipe": "İrok",
+    "image": "assets/generated/irok-ai-v6.webp",
+    "sha256": "4743546d40752c855403196795612723de1a16f9ab63423cb295b2f7dbbe5711"
+  },
+  {
+    "recipe": "Sini Köftesi",
+    "image": "assets/generated/dish-0425a8bb169bb5.webp",
+    "sha256": "caa8ca6b9d90f6c3f6230832e376e64210ad3050a0a530d2eba93a0409e1f9e1"
+  },
+  {
+    "recipe": "Sıkma Köfte",
+    "image": "assets/generated/sikma-kofte-ai-v6.webp",
+    "sha256": "bc9b6582a13a86df67b4b15a78e49e31f755e7dd1b7f3a767ed635710bfda10a"
+  },
+  {
+    "recipe": "Kabaklı Çimdik Köfte",
+    "image": "assets/generated/resume-ba3fbe83f03613.webp",
+    "sha256": "2f52b7af53e9dec818599560b455583af28226bb623bdf0afd10e6f4a9becc1d"
+  },
+  {
+    "recipe": "Yoğurtlu Balkabağı Köftesi",
+    "image": "assets/generated/resume-accfe49ca6ac3f.webp",
+    "sha256": "bdf0bff803838fe0615f43d6cff8492e5549f9b04138374066301de30d993d9c"
+  },
+  {
+    "recipe": "Haşhaşlı Top Köfte",
+    "image": "assets/generated/hashasli-top-kofte-ai-v6.webp",
+    "sha256": "a98a899a12ce22e18665a0dc1df766dc3efba883a096265b1fa4b499da107eb2"
+  },
+  {
+    "recipe": "Patlıcanlı Bulgur Köftesi",
+    "image": "assets/generated/dish-319a12c8ee7bff.webp",
+    "sha256": "cf06b72de3ba9f57106e28581fd0aa5cb1b1fb116f0186c8b10bd558f728612d"
+  },
+  {
+    "recipe": "Yoğurtlu Bulgur Köftesi",
+    "image": "assets/generated/yogurtlu-bulgur-koftesi-ai-v6.webp",
+    "sha256": "b3e42fe49bdbb5bf71c49bc074f263efd6b347e6908f92fcc298d63b65cd3601"
+  },
+  {
+    "recipe": "Ispanaklı Bulgur Köftesi",
+    "image": "assets/generated/ispanakli-bulgur-koftesi-ai-v6.webp",
+    "sha256": "552eff1582ab394298c8a0b73554cae90c53071b70e526afbb5ce0e0636a92ae"
+  },
+  {
+    "recipe": "Urfa Yumurtalı Köfte",
+    "image": "assets/generated/urfa-yumurtali-kofte-ai-v6.webp",
+    "sha256": "ca19084b95a50c565a62ceda0d357715d77e169a72a5d9cd42fa3e3960433c37"
+  },
+  {
+    "recipe": "Etsiz Çiğ Köfte",
+    "image": "assets/generated/resume-4be4a05bcee088.webp",
+    "sha256": "bd98add79fbec5f1a6935cffeb2585de5f3c57040a9c716c263d2d10180fb772"
+  },
+  {
+    "recipe": "Kuru Kabak Sarması",
+    "image": "assets/generated/resume-83adc7f784a365.webp",
+    "sha256": "a7b504a71b6186f4caf7bf3fccddebe6c346e2626fc0d55ba8821e92ff8fdcd0"
+  },
+  {
+    "recipe": "Pierogi Ruskie",
+    "image": "assets/generated/pierogi-ruskie-ai-v6.webp",
+    "sha256": "1f42b37fd648a87d358ebde8389bba04b483c6aef14e6bb6cf32d6446891daf1"
+  },
+  {
+    "recipe": "Pelmeni",
+    "image": "assets/generated/pelmeni-ai-v6.webp",
+    "sha256": "b3bd79518cb1c6694626083b374b52083e38f1f1811c9cddfd67d412857028b2"
+  },
+  {
+    "recipe": "Khinkali",
+    "image": "assets/generated/recovered-oct17-7.webp",
+    "sha256": "35650d0bac2942d340f28157a65ee965535505a177532157e6ff1aa8ec80fe14"
+  },
+  {
+    "recipe": "Sebzeli Momo",
+    "image": "assets/generated/sebzeli-momo-ai-v6.webp",
+    "sha256": "715b2d0d5ca4f000d86ef8485d6f61d60eb7e0bf66429efa479631a5728c8161"
+  },
+  {
+    "recipe": "Haşlama Wonton",
+    "image": "assets/generated/resume-61f11e8b88630a.webp",
+    "sha256": "c69a0d7e0e27d3831742d4a39d408e187a13d467f9aaaba069722429b0468c91"
+  },
+  {
+    "recipe": "Ashak",
+    "image": "assets/generated/resume-5ecfef6eb86475.webp",
+    "sha256": "9968570511aad2e8f9d557c669505f79c4b455aa26a6151610b267537edd202c"
+  },
+  {
+    "recipe": "Şiş Barak",
+    "image": "assets/generated/sis-barak-ai-v6.webp",
+    "sha256": "dc7cd675e24457ce617e51939aa21a620e7cec0ed17203f1d2f35b6328ce6e35"
+  },
+  {
+    "recipe": "Siu Mai",
+    "image": "assets/generated/siu-mai-ai-v6.webp",
+    "sha256": "22532e900f9c4aa66294a9e6040d0a824cbbfb2b7b81c643f34985fa30b5927f"
+  },
+  {
+    "recipe": "Har Gow",
+    "image": "assets/generated/har-gow-ai-v6.webp",
+    "sha256": "707aa15dfa7751a659ce3e1f4401a7ad50122ea7b079f31273142f1704c7f3c0"
+  },
+  {
+    "recipe": "Xiaolongbao",
+    "image": "assets/generated/xiaolongbao-ai-v6.webp",
+    "sha256": "3a462c06a8748bdd10a9c375e8e101529566b31d7990cdd717213e5c20038470"
+  },
+  {
+    "recipe": "Vareniki",
+    "image": "assets/generated/resume-e0945464fabaa4.webp",
+    "sha256": "15e63452ea509d937acf06bfd7fe9beb7db9960b3c2300d0e410f90929e79754"
+  },
+  {
+    "recipe": "Kreplach",
+    "image": "assets/generated/resume-0632030aeea415.webp",
+    "sha256": "1e3972b68f9282a590518beb5d66b50662836c9d28f964c2fb021c75fd2c534c"
+  },
+  {
+    "recipe": "Maultaschen",
+    "image": "assets/generated/maultaschen-ai-v6.webp",
+    "sha256": "98473463f0128242e0a3d21aeca5923d1ea95ac4844d810806c67d403a1df990"
+  },
+  {
+    "recipe": "Tortelli di Zucca",
+    "image": "assets/generated/tortelli-di-zucca-ai-v6.webp",
+    "sha256": "c9dbbf7db6f5b33d7487e37c14a71e62f416ab14394280fe0170ca4ff78f1918"
+  },
+  {
+    "recipe": "Culurgiones",
+    "image": "assets/generated/culurgiones-ai-v6.webp",
+    "sha256": "0377aafc5366015bfee334c39928c7fe032c8d71b80fcdfccfbe70f9ff99b1aa"
+  },
+  {
+    "recipe": "Cjarsons",
+    "image": "assets/generated/dish-94e6e015d7232b.webp",
+    "sha256": "7ab36ce448ca369f887fa284248348521a4d289cd69baf7645477616eec331b3"
+  },
+  {
+    "recipe": "Schlutzkrapfen",
+    "image": "assets/generated/schlutzkrapfen-ai-v6.webp",
+    "sha256": "4cc936e75c796f80e76bf81f3ff78961b9194f6635ae0f9b0ae3b03a177fcada"
+  },
+  {
+    "recipe": "Bryndzové Pirohy",
+    "image": "assets/generated/resume-519eeac8d4c013.webp",
+    "sha256": "e9dd243f1906aa072e730c8583425191dbf79a902e0db13851845b9757011a2b"
+  },
+  {
+    "recipe": "Svestkove Knedliky",
+    "image": "assets/generated/resume-2cff0f7b516106.webp",
+    "sha256": "04100880f2c82d9fc9dc2bf1f0a5d5371b45069b7d39dd8f42202118c2ca8d1b"
+  },
+  {
+    "recipe": "Cepelinai",
+    "image": "assets/generated/cepelinai-ai-v6.webp",
+    "sha256": "8d52e33f6ba959f71b5b5a1b12c44552a6474673277403eb575c0804ae432b9f"
+  },
+  {
+    "recipe": "Kartoffelklosse",
+    "image": "assets/generated/kartoffelklosse-ai-v6.webp",
+    "sha256": "f8068ba8c3694c96edb64e07c58ca5225aef77f42edeb33be641cc94921458c7"
+  },
+  {
+    "recipe": "Canederli",
+    "image": "assets/generated/canederli-ai-v6.webp",
+    "sha256": "abd8550c6b63069a5c1a13469d552c2853e62f9a1a2e912519a9bbf746ab8336"
+  },
+  {
+    "recipe": "Coxinha",
+    "image": "assets/generated/coxinha-ai-v6.webp",
+    "sha256": "e95075196fe3c233d5f1ea061b1b0a8f3196347827bd45649f5673c6d58ae503"
+  },
+  {
+    "recipe": "Papas Rellenas",
+    "image": "assets/generated/resume-33f83c87e1ecf9.webp",
+    "sha256": "897febbb6a56c21159b73026209d7e844549b8f00ab29dd980c034c15a5cf0ee"
+  },
+  {
+    "recipe": "Pitepalt",
+    "image": "assets/generated/resume-d4e38a3d90aada.webp",
+    "sha256": "b4f47ca4393bce7e9cd5009107d371385aef93a54efcad4887da70e11111984e"
+  },
+  {
+    "recipe": "Pasta e Ceci",
+    "image": "assets/generated/pasta-e-ceci-ai-v6.webp",
+    "sha256": "f3ecc3178d903370848370ccfbe8b467d18bae7fce19a072b58a4499beaf7a5d"
+  },
+  {
+    "recipe": "Pasta e Fagioli",
+    "image": "assets/generated/pasta-e-fagioli-ai-v6.webp",
+    "sha256": "99f27c09ef4b7641e8c02c5513677031854d04c58c64be6c36a4a348221bdac1"
+  },
+  {
+    "recipe": "Cacio e Pepe",
+    "image": "assets/generated/cacio-e-pepe-ai-v6.webp",
+    "sha256": "1789e4f1163c8d9e90d02fe95dedb2a3452bebb64339626d493c9ccb85acd6e2"
+  },
+  {
+    "recipe": "Pasta al Limone",
+    "image": "assets/generated/pasta-al-limone-ai-v6.webp",
+    "sha256": "aab4bf65f624f997138a74e5716a5572c946794b4caeeaac364da150d7a2d56e"
+  },
+  {
+    "recipe": "Pasta al Tonno",
+    "image": "assets/generated/resume-579d8f54401981.webp",
+    "sha256": "e0d1639b48b414d90f3cd414eed24f3ed7f70c84436e63c7e8f4575e6a6450fc"
+  },
+  {
+    "recipe": "Polenta ai Funghi",
+    "image": "assets/generated/dish-fffd4107b99c60.webp",
+    "sha256": "1e56e9e392815fc8a8bb5df8d5b56fd9a3d32b0ef9b7cfa6e36cb65e711ffb82"
+  },
+  {
+    "recipe": "Melanzane alla Parmigiana",
+    "image": "assets/generated/resume-3964069c57a8fa.webp",
+    "sha256": "d92b61e9687ec032933df408a3d07e33c839b4b068099ea9ba8e39a4473c4154"
+  },
+  {
+    "recipe": "Risi e Bisi",
+    "image": "assets/generated/risi-e-bisi-ai-v6.webp",
+    "sha256": "8931d9c6d9b2c4260e9c157b62681db0cb23ad4acd9c62ffdb4b8a93e388439b"
+  },
+  {
+    "recipe": "Zuppa di Farro",
+    "image": "assets/generated/zuppa-di-farro-ai-v6.webp",
+    "sha256": "c655e5776fee74905dfecf0677bff516fefdaf47795f860d8dc17ce8cd95a21e"
+  },
+  {
+    "recipe": "Pappa al Pomodoro",
+    "image": "assets/generated/pappa-al-pomodoro-ai-v6.webp",
+    "sha256": "6ee3ea76cba37d69f16d41eb292e0d8e2aaea8d4efa0d3d75367a328b9002c56"
+  },
+  {
+    "recipe": "Insalata di Finocchi",
+    "image": "assets/generated/dish-fda4ce3997190c.webp",
+    "sha256": "0b38eb9b5574db148df748dbdb904e981301296f8090be6f0f33277f054869bc"
+  },
+  {
+    "recipe": "Stracciatella alla Romana",
+    "image": "assets/generated/stracciatella-alla-romana-ai-v6.webp",
+    "sha256": "b0ae53ec4ed3702ffbcb3cce8f7845fd777094abaf9acaef4c944183780e8eaa"
+  },
+  {
+    "recipe": "Bagna Cauda",
+    "image": "assets/generated/resume-a227a5093633ef.webp",
+    "sha256": "8ea9939ea6a5e0169fb41b9201f57ebd6e024dbc0bfb6c6e79ea8febdad20275"
+  },
+  {
+    "recipe": "Socca",
+    "image": "assets/generated/resume-c242138d850180.webp",
+    "sha256": "2de28cc93fe93ea20cc53db5cb4be9a5efcee97cfe9628acb64177443ab93bef"
+  },
+  {
+    "recipe": "Salade Lyonnaise",
+    "image": "assets/generated/salade-lyonnaise-ai-v6.webp",
+    "sha256": "54b573dea831219364df6b32388c55990384cbb17190289938ced0c4d306f9bd"
+  },
+  {
+    "recipe": "Poulet Basquaise",
+    "image": "assets/generated/poulet-basquaise-ai-v6.webp",
+    "sha256": "ad56e82b986965b733c35c3c59cfdb80151617dd89a51b5c4d596a6fb269d2ed"
+  },
+  {
+    "recipe": "Poulet à la Moutarde",
+    "image": "assets/generated/poulet-a-la-moutarde-ai-v6.webp",
+    "sha256": "506a266d7fe5bcd18d969e68b772a9b1e632225e9dc02953973b7799b077f978"
+  },
+  {
+    "recipe": "Carottes Vichy",
+    "image": "assets/generated/carottes-vichy-ai-v6.webp",
+    "sha256": "0892a77cb3870092ada2f3c3706965c425168fd8d5851a7c210318857e73c349"
+  },
+  {
+    "recipe": "Pommes Anna",
+    "image": "assets/generated/resume-4fd3b62e0d8d60.webp",
+    "sha256": "1685dad93bd548b709384546b99095227daacace6a07e91b00a512a9460cbd3e"
+  },
+  {
+    "recipe": "Gratin de Courgettes",
+    "image": "assets/generated/resume-a08a4c65cb4abd.webp",
+    "sha256": "3e7304b99be4075595c1fe8687b626b82d21a9502e05320d000199786c3c1196"
+  },
+  {
+    "recipe": "Endives Braisées",
+    "image": "assets/generated/dish-bb8bb8dff4ae65.webp",
+    "sha256": "1610b79910580fc6b57f8cb30387dd69efb04d3b502fb497dd4682a71dcfd2ec"
+  },
+  {
+    "recipe": "Salmorejo",
+    "image": "assets/generated/salmorejo-ai-v6.webp",
+    "sha256": "cc8055949387b52e3d103016f9786599243ffa6f64f4973123f328f28b8ff1f8"
+  },
+  {
+    "recipe": "Ajo Blanco",
+    "image": "assets/generated/ajo-blanco-ai-v6.webp",
+    "sha256": "39841e08431ad0718202edf199f12521a6c59eec5431da47eefee3799ad4f7e8"
+  },
+  {
+    "recipe": "Espinacas con Garbanzos",
+    "image": "assets/generated/espinacas-con-garbanzos-ai-v6.webp",
+    "sha256": "2a8e15fa186f3da85d3762222ca8316a070139418d857edb7610ebb816f93d46"
+  },
+  {
+    "recipe": "Papas Arrugadas",
+    "image": "assets/generated/papas-arrugadas-ai-v6.webp",
+    "sha256": "558341aa7e66d83c8452b6837a9d0a77620fdae12af3ce062504cae4bca5dba2"
+  },
+  {
+    "recipe": "Escalivada",
+    "image": "assets/generated/resume-acd60faf62ccb7.webp",
+    "sha256": "c72287baa1c54065ba44721a254d72f0676b91c1098aa43d9a45b468e0ab44fc"
+  },
+  {
+    "recipe": "Bacalao a la Vizcaína",
+    "image": "assets/generated/resume-de2aa4060eb8f3.webp",
+    "sha256": "8f2bcf03b4c627b890864864ddfafd50f0bca6bb6d2a3d7e4efab731ee50fc96"
+  },
+  {
+    "recipe": "Caldo Verde",
+    "image": "assets/generated/caldo-verde-ai-v6.webp",
+    "sha256": "3db4f97befb2086390c476eff46fbdde2877d5dd9ddd8104766efed33895f40d"
+  },
+  {
+    "recipe": "Bacalhau à Brás",
+    "image": "assets/generated/bacalhau-a-bras-ai-v6.webp",
+    "sha256": "48769cde5ed9cb397e750e14a355d71e50d22a9be8c1ececc34da3f65afaf344"
+  },
+  {
+    "recipe": "Arroz de Tomate",
+    "image": "assets/generated/arroz-de-tomate-ai-v6.webp",
+    "sha256": "918661025c9b3fb0471bdada8cd883732a74fbcfa97ba42fcd73a85c228cc819"
+  },
+  {
+    "recipe": "Dana Etli Bifanas",
+    "image": "assets/generated/dish-901a452f49bc85.webp",
+    "sha256": "c318f3b9156841492f1f21909528f46fdc6a14e2c7a0cb427745a7835546fa34"
+  },
+  {
+    "recipe": "Kartoffelpuffer",
+    "image": "assets/generated/kartoffelpuffer-ai-v6.webp",
+    "sha256": "fbd78eb7f88c66058300d28fe0eb6ff8bbff2492b5c8373322579bf9b8edcb4d"
+  },
+  {
+    "recipe": "Käsespätzle",
+    "image": "assets/generated/resume-12b926a20fd34f.webp",
+    "sha256": "782cd32810041edc7dd60412c8519065b6c067bf8b1207980f6b75bef1df6e1d"
+  },
+  {
+    "recipe": "Kartoffelsalat",
+    "image": "assets/generated/resume-d6e1571cfea9a2.webp",
+    "sha256": "ffe7a79cf88ae921c2e0476e401492b5d11b45cd1fd04dfe741c801a258730f2"
+  },
+  {
+    "recipe": "Rösti",
+    "image": "assets/generated/rosti-ai-v6.webp",
+    "sha256": "6c405348998115d8175edf4f910f79affa75ddbaa2c2083b9f230abf20552d11"
+  },
+  {
+    "recipe": "Älplermagronen",
+    "image": "assets/generated/dish-7fd647df0c3047.webp",
+    "sha256": "0f54a12477667e2910b3a161eb7764b69b90097e5c5f02235fb64aac5dfebe55"
+  },
+  {
+    "recipe": "Stoemp",
+    "image": "assets/generated/stoemp-ai-v6.webp",
+    "sha256": "299aa54b564f64099e5c3907f5239ba9c4b98bccfc5939b29a47c71589a6540b"
+  },
+  {
+    "recipe": "Cassoulet",
+    "image": "assets/generated/cassoulet-ai-v6.webp",
+    "sha256": "bde7df719d2789bc2daddb0bf40f139e4d3bf59ee68d3c8ee67347fda36744fb"
+  },
+  {
+    "recipe": "Blanquette de Veau",
+    "image": "assets/generated/blanquette-de-veau-ai-v6.webp",
+    "sha256": "9e513255babd8dfcbe681f6b440bfd22c045d2a33876cba8994791cfa9f3422a"
+  },
+  {
+    "recipe": "Tartiflette",
+    "image": "assets/generated/resume-b52ebb79fad58f.webp",
+    "sha256": "8bf8df5ebd062230d19adef29aacc633f3addecd45d343374f3c8c279e43a602"
+  },
+  {
+    "recipe": "Brandade de Morue",
+    "image": "assets/generated/resume-51f9321358c51b.webp",
+    "sha256": "d6f24197dd2949f29cd1115026c1bbe8016b6f2bb1eff0319b18aa4a8f522114"
+  },
+  {
+    "recipe": "Piperade",
+    "image": "assets/generated/piperade-ai-v6.webp",
+    "sha256": "17e69879b52822170025fa5c4ecee0ab4a77ad1f8ea9ea699899eb3f87870245"
+  },
+  {
+    "recipe": "Steak au Poivre",
+    "image": "assets/generated/steak-au-poivre-ai-v6.webp",
+    "sha256": "52f8a8584699144177d83c190f63ab46956ae590614eef6af1441d92f6c7abc5"
+  },
+  {
+    "recipe": "Gratin Dauphinois",
+    "image": "assets/generated/gratin-dauphinois-ai-v6.webp",
+    "sha256": "a37873b01a91894056050f8103b82815bccbd8ac38133416881601ccd70304fd"
+  },
+  {
+    "recipe": "Poule au Pot",
+    "image": "assets/generated/poule-au-pot-ai-v6.webp",
+    "sha256": "e1b09c9aad44183e670739029e09434e245c0062d135178e67f437b8cb66e7c4"
+  },
+  {
+    "recipe": "Saltimbocca alla Romana",
+    "image": "assets/generated/dish-62281aaf6fe741.webp",
+    "sha256": "c4bf6f0c6e2bc86d9f281498b5a374be85bf96cf2c5e0d49ea9d912bfb360a8f"
+  },
+  {
+    "recipe": "Vitello Tonnato",
+    "image": "assets/generated/resume-e8855e8ae5b768.webp",
+    "sha256": "3a1c7b5e83b3e03b134f42127cfbaa0649c04c4a6bdc383f96baa426407d4cf2"
+  },
+  {
+    "recipe": "Supplì al Telefono",
+    "image": "assets/generated/resume-94a27e2a66a23e.webp",
+    "sha256": "70c08edc3b86950999b09a4cc5f5239f9fe6b772ecbcf7cc38fb0e049dbd93a5"
+  },
+  {
+    "recipe": "Pasta alla Gricia",
+    "image": "assets/generated/pasta-alla-gricia-ai-v6.webp",
+    "sha256": "2fb7c7a153f7ea60d81f265b950b62eb32248ced5f10e09f2955eb8f7631adc7"
+  },
+  {
+    "recipe": "Orecchiette con Cime di Rapa",
+    "image": "assets/generated/orecchiette-con-cime-di-rapa-ai-v6.webp",
+    "sha256": "3721348e854ecee278ab83b25bd5cbb8f0c0ca6fec7409d7eb301806b00ae66e"
+  },
+  {
+    "recipe": "Farinata",
+    "image": "assets/generated/farinata-ai-v6.webp",
+    "sha256": "8c5b9eadb0c5f4775cdd7b4edf13a1559e787b4f2af7022f467a3b4471e29dc7"
+  },
+  {
+    "recipe": "Torta Pasqualina",
+    "image": "assets/generated/resume-fd8bd13cbed5c2.webp",
+    "sha256": "f90ce6a03581c0692bef93f3c5f4e0ba757a60df1a1341213020dae49f411047"
+  },
+  {
+    "recipe": "Gnudi",
+    "image": "assets/generated/resume-aafd3e5cf66e92.webp",
+    "sha256": "2abebce5516db12004a099905fe7afa51d719b908f14b5484347074a129805ff"
+  },
+  {
+    "recipe": "Fegato alla Veneziana",
+    "image": "assets/generated/resume-d94ad19fe3543a.webp",
+    "sha256": "82b7bc263a0e33e50cb60a7c8ed6178b0c3fc2fe57eae9b5deeed154648d2b76"
+  },
+  {
+    "recipe": "Frittata di Spaghetti",
+    "image": "assets/generated/frittata-di-spaghetti-ai-v6.webp",
+    "sha256": "be97357df132f3f1bfe604b7d824a0cc68ab2d7ee62226f7a4159d8846217c7f"
+  },
+  {
+    "recipe": "Borscht",
+    "image": "assets/generated/borscht-ai-v6.webp",
+    "sha256": "950b26b30b92eca25c494cc0fda75561cdc3fd4fbce41c84ead791f5f7f7e9bc"
+  },
+  {
+    "recipe": "Beef Stroganoff",
+    "image": "assets/generated/beef-stroganoff-ai-v6.webp",
+    "sha256": "8a5e304d43a6e89f03fb5cbe624d14f370208bf8968138e971c704bde95deb32"
+  },
+  {
+    "recipe": "Syrniki",
+    "image": "assets/generated/resume-34233cf5b28b6d.webp",
+    "sha256": "e8a5eb310d40113e60869c071cfbbe0bcc08cb457a4af100a9f5960fcebc392f"
+  },
+  {
+    "recipe": "Shchi",
+    "image": "assets/generated/resume-95d88b3c42ed71.webp",
+    "sha256": "d33cc7b2f86202d9aa5a54266955e3dde6d55d8f33a516cf469bce92f9eaef5c"
+  },
+  {
+    "recipe": "Pirozhki",
+    "image": "assets/generated/resume-eec57a956ffdaa.webp",
+    "sha256": "f30289aee37d44012ae4fa9fa7611d80f4587c48717d598f47593eaca59c3996"
+  },
+  {
+    "recipe": "Golubtsy",
+    "image": "assets/generated/dish-9d3be5b8079945.webp",
+    "sha256": "93a079bc036e16c8f2f0f9aa730c03205ac5b021e77780d558aaaa0d5d94b8fc"
+  },
+  {
+    "recipe": "Bigos",
+    "image": "assets/generated/bigos-ai-v6.webp",
+    "sha256": "17433b5548e5c1573fef65bbc4cac611c7d37595d04eb839cd89c6c37751ddcd"
+  },
+  {
+    "recipe": "Żurek",
+    "image": "assets/generated/zurek-ai-v6.webp",
+    "sha256": "cb721b87602dfd67b07dbdfb9d09d6c7ba5aebcee74df249fb95619ab57f2382"
+  },
+  {
+    "recipe": "Zapiekanka",
+    "image": "assets/generated/zapiekanka-ai-v6.webp",
+    "sha256": "4f928af8efe8552e876a7c005fd3bb093771d0f417bf3e87642f40556d82b22b"
+  },
+  {
+    "recipe": "Köttbullar",
+    "image": "assets/generated/resume-6475b49f4869cb.webp",
+    "sha256": "3fb3788e45d5a18cce5d14fdd0edd57e2b8966916dd718007ad4059e4358ae77"
+  },
+  {
+    "recipe": "Janssons Frestelse",
+    "image": "assets/generated/resume-fc4f82a5dde69c.webp",
+    "sha256": "c48a12c60c155e1f20a23ce29c5eae538a6d5700db0dcc391031dd04c0b475de"
+  },
+  {
+    "recipe": "Lohikeitto",
+    "image": "assets/generated/resume-49a2ae0d7edd68.webp",
+    "sha256": "5954c0f3d377b337666fc3edb0070b44c5f7c020b8985d1271ab0275c07bf548"
+  },
+  {
+    "recipe": "Cullen Skink",
+    "image": "assets/generated/cullen-skink-ai-v6.webp",
+    "sha256": "90a98dc76e359bc01aef9e4407366455f52e884dcb9b9fcb3b88660621fcbb05"
+  },
+  {
+    "recipe": "Irish Colcannon",
+    "image": "assets/generated/irish-colcannon-ai-v6.webp",
+    "sha256": "4ccbfc0d98de3a97b4487cfeb8fe594feb9c947c8c5c0418d17219d111ad26b0"
+  },
+  {
+    "recipe": "Welsh Rarebit",
+    "image": "assets/generated/welsh-rarebit-ai-v6.webp",
+    "sha256": "2107cbf07c2569f67991abf5966a3a94e87918ba51e0dcf955172e1cd9b11545"
+  },
+  {
+    "recipe": "Lancashire Hotpot",
+    "image": "assets/generated/resume-47a804b51a027a.webp",
+    "sha256": "6f17959e9a046963e465ba3a8d7b9484ec27e3637ccc0dca73eac09836331c43"
+  },
+  {
+    "recipe": "Rouladen",
+    "image": "assets/generated/resume-6f989037749c22.webp",
+    "sha256": "d9c9da050a2988e00aa7690dc72a2754631b674b4ee5f07efc9648a0383bc5c5"
+  },
+  {
+    "recipe": "Sauerbraten",
+    "image": "assets/generated/resume-1015b9ad7d6e3e.webp",
+    "sha256": "a8083f857425e9d1d24c2a2f9f5fdd6a79948e106b354d767436ff1875071d07"
+  },
+  {
+    "recipe": "Königsberger Klopse",
+    "image": "assets/generated/konigsberger-klopse-ai-v6.webp",
+    "sha256": "d62592bb0fd019a53e21f3e824a3bc472b3f818a01960349a049b8a75cc35410"
+  },
+  {
+    "recipe": "Senfeier",
+    "image": "assets/generated/senfeier-ai-v6.webp",
+    "sha256": "d1e0b867d84c5c337a05a7fd73b3e6d422a44cfe85a28261ba23f47b84b4bb99"
+  },
+  {
+    "recipe": "Flammkuchen",
+    "image": "assets/generated/dish-c09b684a501416.webp",
+    "sha256": "7c8bd40f7e9035ca311484445a49073c6888db4825583b6933be22f459f6269b"
+  },
+  {
+    "recipe": "Semmelknödel",
+    "image": "assets/generated/semmelknodel-ai-v6.webp",
+    "sha256": "fc7993ebb19c53def49f50121bf4c1c9f2652e77b0c0e8e7797095642fccde33"
+  },
+  {
+    "recipe": "Schupfnudeln",
+    "image": "assets/generated/resume-1d485fef5aa127.webp",
+    "sha256": "16e159f480220d545ac3673c235751a1b637abce43ad5aa6742e9c6a9927b4b2"
+  },
+  {
+    "recipe": "Brezel",
+    "image": "assets/generated/resume-18da139b95ecfd.webp",
+    "sha256": "ec328e5ff900b505ba9b586626ef82f60c9c0858d456f24d34a40f66c473e215"
+  },
+  {
+    "recipe": "Obatzda",
+    "image": "assets/generated/resume-700645fdead714.webp",
+    "sha256": "0d73aa45198762c37122560b025b91f1a513147a0f56b6fd53251cc22e00535d"
+  },
+  {
+    "recipe": "Labskaus",
+    "image": "assets/generated/dish-1d7736e55e0802.webp",
+    "sha256": "dac09a80fbf61f8564d4e3f681049435f5359c2e592a89167689f0245fe5fd40"
+  },
+  {
+    "recipe": "Pisto con Huevo",
+    "image": "assets/generated/pisto-con-huevo-ai-v6.webp",
+    "sha256": "ebb120de339c514f56229a6108d7b828fd8813a90d6ad9149763912cd2391c1b"
+  },
+  {
+    "recipe": "Fabada Asturiana",
+    "image": "assets/generated/fabada-asturiana-ai-v6.webp",
+    "sha256": "145f0ca1943d47896290e3b0403b367c3a5fa3e3d8d29305f824ef71d040bb1c"
+  },
+  {
+    "recipe": "Cocido Madrileño",
+    "image": "assets/generated/cocido-madrileno-ai-v6.webp",
+    "sha256": "377c295933ac250a673c0339a59b5ce53f634d3571ec787344670e7175f3b508"
+  },
+  {
+    "recipe": "Ajoarriero",
+    "image": "assets/generated/resume-7f9ae4dd49469b.webp",
+    "sha256": "8f2bd2518c43b7952255d136763baec03c811161f12806847139940601dfd6ca"
+  },
+  {
+    "recipe": "Migas",
+    "image": "assets/generated/dish-9ab26ee79b5729.webp",
+    "sha256": "67b246ce33ed2c7640962fee5fa2e1f896dc163303c7749febf4453f1c6356d9"
+  },
+  {
+    "recipe": "Gambas al Pil Pil",
+    "image": "assets/generated/dish-aab40b2bbbfb0f.webp",
+    "sha256": "8c92f755e3da0e6c9d0d3ac64fc9288eeb93fb8ed9acd0988db27fbb839f46cb"
+  },
+  {
+    "recipe": "Patatas a la Riojana",
+    "image": "assets/generated/resume-c8e55838215a10.webp",
+    "sha256": "92725a19d1a9fbf4a7925e9f462ca91090005e8a7999a50a08f0443918eb97f1"
+  },
+  {
+    "recipe": "Escudella",
+    "image": "assets/generated/resume-9436d8303286c9.webp",
+    "sha256": "e944a981ed87bf127ddfe2c002ebd64eaf8f12aa4aebd791d8570b9bedbb7fd2"
+  },
+  {
+    "recipe": "Fricandó",
+    "image": "assets/generated/fricando-ai-v6.webp",
+    "sha256": "9814ed288df60410f7a028f61964064f73aeebcca0d34b8e381613e463508038"
+  },
+  {
+    "recipe": "Fideus a la Cassola",
+    "image": "assets/generated/dish-382a48c7831a26.webp",
+    "sha256": "24f775e61e6bfb415f25a9d1b3194dafcaf995467b5c7f7b2ac42ee073588f86"
+  },
+  {
+    "recipe": "Hachis Parmentier",
+    "image": "assets/generated/hachis-parmentier-ai-v6.webp",
+    "sha256": "9d4903c79d572a9240a87912ceb0f2c40120a49443f984e51eda6e6e0f221dd8"
+  },
+  {
+    "recipe": "Croque Monsieur",
+    "image": "assets/generated/croque-monsieur-ai-v6.webp",
+    "sha256": "a744cb248b18cf46a0bdc9eda2392a374af84c70a332114a8bd7a3cec4ffe3a6"
+  },
+  {
+    "recipe": "Croque Madame",
+    "image": "assets/generated/resume-6db7f8278d0fea.webp",
+    "sha256": "c076133ba30d148bd73dfb4f9bf8b03647a99186ccd963409bb242e54e93c182"
+  },
+  {
+    "recipe": "Sole Meunière",
+    "image": "assets/generated/resume-5d86519080ee87.webp",
+    "sha256": "13bb7374c1cb1d73215948dfc77dba73097027d3de1bb25baa02f3e866b16787"
+  },
+  {
+    "recipe": "Quenelles de Lyon",
+    "image": "assets/generated/dish-e193dba06ddc6a.webp",
+    "sha256": "96431ab2505625ff68698924ef86ea4df90d52f205ff3450cd8796e271b2d3e0"
+  },
+  {
+    "recipe": "Gougères",
+    "image": "assets/generated/resume-85a54832e7c731.webp",
+    "sha256": "deda02ad4f2793f2fb30fd95af3c4ae3f1ac8b5b7c88fe37a9fbd49b5844f567"
+  },
+  {
+    "recipe": "Soupe au Pistou",
+    "image": "assets/generated/soupe-au-pistou-ai-v6.webp",
+    "sha256": "74dfb4c65f67a091208708fa4080c29b97385bc7354876a222398ea741b0874d"
+  },
+  {
+    "recipe": "Tian Provençal",
+    "image": "assets/generated/tian-provencal-ai-v6.webp",
+    "sha256": "b3b3f2f4e964685f2439cd83db620f4df6a0908b7706fff30dc786a4049fb77b"
+  },
+  {
+    "recipe": "Salade de Lentilles",
+    "image": "assets/generated/salade-de-lentilles-ai-v6.webp",
+    "sha256": "7a168b4af374f9856334ba57e18cfd3ce7f55618dcfe60b66db34bccb9bc56e9"
+  },
+  {
+    "recipe": "Clafoutis aux Pruneaux",
+    "image": "assets/generated/dish-b0d54ece1020e2.webp",
+    "sha256": "b8239ea794b574b035e8e4bc97c64245f1ef5f5a735fb3c984b0c5267e074c80"
+  },
+  {
+    "recipe": "Shepherd’s Pie",
+    "image": "assets/generated/dish-a4670fe17130f3.webp",
+    "sha256": "eb0011df7ab6d100f8dd1459ea1eb9b1ff99227196a02ceba2b01dcd1e4563e5"
+  },
+  {
+    "recipe": "Cottage Pie",
+    "image": "assets/generated/resume-9e40901285f4f1.webp",
+    "sha256": "a7682d29b86dd4516cf037e1fba02f1cab8f1fe0fc5dbcbbca3b6b362199e69c"
+  },
+  {
+    "recipe": "Fish Pie",
+    "image": "assets/generated/resume-4842132e0408e7.webp",
+    "sha256": "d53d7790548d72e049c3678d116b46b2d19a1478536a72c960a00641315b9ba8"
+  },
+  {
+    "recipe": "Toad in the Hole",
+    "image": "assets/generated/resume-1567c52cf47304.webp",
+    "sha256": "dbe2154b663c9c111e5e54e6eee4f7e4e0eebd5d748ea116c7d20546463b5271"
+  },
+  {
+    "recipe": "Yorkshire Pudding",
+    "image": "assets/generated/yorkshire-pudding-ai-v6.webp",
+    "sha256": "fa63288b16028763423c9651dd4e053aa04b0ec126327a558225ffa1418f3b7b"
+  },
+  {
+    "recipe": "Scotch Eggs",
+    "image": "assets/generated/dish-74eddb1e9cf9c2.webp",
+    "sha256": "ce29311d2bd2d0b8d179efa1d4c6022c9dd65213ca90438510c0625d247b7cb8"
+  },
+  {
+    "recipe": "Cornish Pasty",
+    "image": "assets/generated/cornish-pasty-ai-v6.webp",
+    "sha256": "0ff951b7266f3ed19ed4f8cd62e84ff9e31c97ae7a8c37e8cdbaa8b63408356a"
+  },
+  {
+    "recipe": "Chicken Pot Pie",
+    "image": "assets/generated/chicken-pot-pie-ai-v6.webp",
+    "sha256": "7e83cc968cecc2f695e1031d68f563ecfb88ad363d2ffef713ac4252987e9e1b"
+  },
+  {
+    "recipe": "Clam Chowder",
+    "image": "assets/generated/clam-chowder-ai-v6.webp",
+    "sha256": "4611e410cd8e2831de8e87c442cdaa098d9b512cd61b8836bd3f7feeec494067"
+  },
+  {
+    "recipe": "Shrimp and Grits",
+    "image": "assets/generated/dish-b7189c39fd27c6.webp",
+    "sha256": "e3948a400922f7ebf4636ce7d5847f04fb2c805c443966c6785d1f2cc1d359ac"
+  },
+  {
+    "recipe": "Sambar",
+    "image": "assets/generated/dish-8d406e4daf7e3c.webp",
+    "sha256": "d0ba96c0d217c586cbd5b54948a4f6893af1e6f30d8087eee3f4a3fae3e9731d"
+  },
+  {
+    "recipe": "Ven Pongal",
+    "image": "assets/generated/resume-0f2c3b9f37371b.webp",
+    "sha256": "59000d9b75ea9746a5bff280f03d5541d19c03b1472c60aa417a4a01c119c46b"
+  },
+  {
+    "recipe": "Poha",
+    "image": "assets/generated/resume-a4d72a6cee97e3.webp",
+    "sha256": "a9863ae21a56825f24e3ec2dd08fbdd34bd64b167e382ae4c90867c8e805e455"
+  },
+  {
+    "recipe": "Besan Chilla",
+    "image": "assets/generated/besan-chilla-ai-v6.webp",
+    "sha256": "4551ac7a757a0f39180dd0abcffa9369d61eb1353c0e12f124ea446a1d93c93a"
+  },
+  {
+    "recipe": "Dhokla",
+    "image": "assets/generated/dhokla-ai-v6.webp",
+    "sha256": "ae0b0978efd9aa41e66cd388dda69b93c0bc89deb6ceb0d23a0c16cd8130ab5d"
+  },
+  {
+    "recipe": "Dal Makhani",
+    "image": "assets/generated/dal-makhani-ai-v6.webp",
+    "sha256": "8c9491d17e4936b2852efa9c528846ab7dce9e76cf3cec08bc35479c4c5286f7"
+  },
+  {
+    "recipe": "Methi Matar Malai",
+    "image": "assets/generated/methi-matar-malai-ai-v6.webp",
+    "sha256": "d4f891bd2b07c77dd44ec31bdc77086067255806627745180ef809742852e421"
+  },
+  {
+    "recipe": "Dum Aloo",
+    "image": "assets/generated/resume-80526ecfb2f37b.webp",
+    "sha256": "340ed02a459b16be07275586a13d957e23e8963f03563a36712665c4214ed808"
+  },
+  {
+    "recipe": "Keema Matar",
+    "image": "assets/generated/resume-8cd4710029f2a4.webp",
+    "sha256": "5911390ba3b0c3c16010b40915aaea3e9c3cd41a7dec997204acfadc40f9c6bc"
+  },
+  {
+    "recipe": "Hyderabadi Sebzeli Biryani",
+    "image": "assets/generated/dish-ac1582e9df201f.webp",
+    "sha256": "01595d268566dcb944cf9d6a8de87e246d835eef956cc9fa38bdcb95c229aef0"
+  },
+  {
+    "recipe": "Rasam",
+    "image": "assets/generated/rasam-ai-v6.webp",
+    "sha256": "c9745f338f936d5f8ab6a6e32338a53d13dd9abf94c76694174efa88abc5f6b8"
+  },
+  {
+    "recipe": "Kheer",
+    "image": "assets/generated/kheer-ai-v6.webp",
+    "sha256": "6484b3a061004231e2613c8e8947f92f89d8181c1c9c37a3c2b2f4fbf61bc35e"
+  },
+  {
+    "recipe": "Kiribath",
+    "image": "assets/generated/kiribath-ai-v6.webp",
+    "sha256": "826bffd35de6c3781e08cfb3524d7e427ce8581d91bf1bad0a0f3b7c9a028c45"
+  },
+  {
+    "recipe": "Parippu",
+    "image": "assets/generated/parippu-ai-v6.webp",
+    "sha256": "e10311074ee74541f990e0dad5820a5f9c497ed72b9abbb2bd6b230e602ed13e"
+  },
+  {
+    "recipe": "Pol Sambol",
+    "image": "assets/generated/resume-4f23328bf03b6f.webp",
+    "sha256": "16c42c28c47b55bc4f76d6c389a9d5ed2bc80a588fbe23f09126370cd2eeeca2"
+  },
+  {
+    "recipe": "Nihari",
+    "image": "assets/generated/resume-37cf94cc5c4633.webp",
+    "sha256": "9b1e6f8a8e3045bf21922dd1838e5bf79fcb35a593f3b199afe070ff64e971cc"
+  },
+  {
+    "recipe": "Chicken Karahi",
+    "image": "assets/generated/chicken-karahi-ai-v6.webp",
+    "sha256": "83256d9598432545e4d0bea5c0c457a370cd15c3309d1a53e4f11db1f9d8451b"
+  },
+  {
+    "recipe": "Aloo Gosht",
+    "image": "assets/generated/aloo-gosht-ai-v6.webp",
+    "sha256": "c77b00b34bb757bfe8c782f2f5fbe7138ca4f0166dbb156bf894a87b5573993e"
+  },
+  {
+    "recipe": "Bhuna Khichuri",
+    "image": "assets/generated/bhuna-khichuri-ai-v6.webp",
+    "sha256": "3884dd7cfd659944b33414bda666e11ab6153526174e84a663f9e638e5f68fc7"
+  },
+  {
+    "recipe": "Shorshe Mach",
+    "image": "assets/generated/dish-9ff833e5a06408.webp",
+    "sha256": "322f34ff5f894897e6408f66b9d6c6216cb1df72d08a63dbdde65bfb273a783a"
+  },
+  {
+    "recipe": "Aloo Tama",
+    "image": "assets/generated/aloo-tama-ai-v6.webp",
+    "sha256": "59ca846abaab1a304a79c58e48d434e26ba9212a072d88389b63c949fa72a395"
+  },
+  {
+    "recipe": "Nikujaga",
+    "image": "assets/generated/resume-7c55b659384027.webp",
+    "sha256": "a74202a8657ca0b548736ef0e5525db833de95a3bc24c5555cc773cd59400bb2"
+  },
+  {
+    "recipe": "Tamagoyaki",
+    "image": "assets/generated/resume-c9207d4b67e41f.webp",
+    "sha256": "da3fe3c3aff11c4df1cfe5fec8f0780aadf30c94a758e10c005f173f91954d6a"
+  },
+  {
+    "recipe": "Agedashi Tofu",
+    "image": "assets/generated/agedashi-tofu-ai-v6.webp",
+    "sha256": "3c15d851867b7bdcae268856345af789f69b9a20024260102dd8087eb7427e26"
+  },
+  {
+    "recipe": "Nasu Dengaku",
+    "image": "assets/generated/nasu-dengaku-ai-v6.webp",
+    "sha256": "d9742a8b669e1969387e928d2c4b6b5f2fdf11ca7323f7fa32a643b1f9ec8b83"
+  },
+  {
+    "recipe": "Kabocha no Nimono",
+    "image": "assets/generated/kabocha-no-nimono-ai-v6.webp",
+    "sha256": "51c936253ddfc13fe537a50d240a1291f6cacf92026c487b89adcafec547a1ee"
+  },
+  {
+    "recipe": "Chirashi Sushi",
+    "image": "assets/generated/chirashi-sushi-ai-v6.webp",
+    "sha256": "f46e1b1eb7767dff5f25018bde2a7b1deaa05e44bd124b969aad7b9c1bf6e441"
+  },
+  {
+    "recipe": "Karaage",
+    "image": "assets/generated/resume-6c4f13129892af.webp",
+    "sha256": "5c65e9116287f66f95c545a4b412718653d3d06a7bd9e025405bae1b1c4f3b20"
+  },
+  {
+    "recipe": "Hiyayakko",
+    "image": "assets/generated/resume-b74f41a2fe9be3.webp",
+    "sha256": "c518fbee1f0c9a620bb2a5c8df2d60d7622b415995c960dd8b7f622ef2af2ebc"
+  },
+  {
+    "recipe": "Dorayaki",
+    "image": "assets/generated/dorayaki-ai-v6.webp",
+    "sha256": "c84472522e6f4735c90dbb4d202283cffa9e14d6f268fdeb1670962c98a28f87"
+  },
+  {
+    "recipe": "Dan Dan Noodles",
+    "image": "assets/generated/dish-bff66a0aed6850.webp",
+    "sha256": "f453748b9005820b28d1dd4e54be9005aa62cc933c74033d5771d999062d4970"
+  },
+  {
+    "recipe": "Ma Yi Shang Shu",
+    "image": "assets/generated/ma-yi-shang-shu-ai-v6.webp",
+    "sha256": "6681f11ceb46126f2e3424284d84feec72125412c729ee7900b45687c2886a3b"
+  },
+  {
+    "recipe": "Di San Xian",
+    "image": "assets/generated/di-san-xian-ai-v6.webp",
+    "sha256": "930f26a6acf80d22bae4067923d9085989011675d52390582a88c6b2cf735562"
+  },
+  {
+    "recipe": "Chinese Tomato Egg",
+    "image": "assets/generated/chinese-tomato-egg-ai-v6.webp",
+    "sha256": "fba17736185448ca1d8ccf0e04842ad7adb01307f4a4fd2853689a24150593b5"
+  },
+  {
+    "recipe": "Cong You Bing",
+    "image": "assets/generated/resume-240a8ef5017d96.webp",
+    "sha256": "dd943304633cee1cff55b7dc6f68957800d08e8baf5a23377e42d146e8ab4f91"
+  },
+  {
+    "recipe": "Claypot Chicken Rice",
+    "image": "assets/generated/dish-84bd5378918c4a.webp",
+    "sha256": "fd4884c6b8570564dbbfe2c17b19f19b58386cb250e38d590dd2748ef6bab4e9"
+  },
+  {
+    "recipe": "Suan La Tang",
+    "image": "assets/generated/resume-6ccf9c1a8214c6.webp",
+    "sha256": "5816db8b32c8c8dbdeec30bbeeba67e5b2a25f6649ef61642b4566832f4675ae"
+  },
+  {
+    "recipe": "Lo Han Jai",
+    "image": "assets/generated/lo-han-jai-ai-v6.webp",
+    "sha256": "e0233a77f6e487a329663c74ea9a85d56374515291a244ad970808e16aadc455"
+  },
+  {
+    "recipe": "Bulgogi",
+    "image": "assets/generated/bulgogi-ai-v6.webp",
+    "sha256": "92dbda879f98dc1dc54b3a2c9acd1b17e45a689c7f18823ff4954e01f03009b0"
+  },
+  {
+    "recipe": "Dubu Jorim",
+    "image": "assets/generated/dubu-jorim-ai-v6.webp",
+    "sha256": "c787ad39d4f5acf8b340bde148462a9dcae0f122fb6d0f37446f5dc5374b4ee2"
+  },
+  {
+    "recipe": "Pajeon",
+    "image": "assets/generated/pajeon-ai-v6.webp",
+    "sha256": "e3766c51e4ebf74baf09e55aded70aa460ad76f16bfe7f62bcdc414c39781073"
+  },
+  {
+    "recipe": "Tteokbokki",
+    "image": "assets/generated/resume-7be018d8564757.webp",
+    "sha256": "c99672eacb6170a101e1f0c5fd683ed8960bafe9146f66a0b2b51db0e164fc1a"
+  },
+  {
+    "recipe": "Samgyetang",
+    "image": "assets/generated/resume-705df89b552ffc.webp",
+    "sha256": "c1e92a2f4c3fc93b098572f76f0a96c9ded7d00f037ad5554f9eb090c3fbe74b"
+  },
+  {
+    "recipe": "Tom Kha Gai",
+    "image": "assets/generated/tom-kha-gai-ai-v6.webp",
+    "sha256": "0ac7c50e409cb2e2ae8ec543f49ec596178e19c086357d249b38eb01bf6f0abe"
+  },
+  {
+    "recipe": "Pad Kra Pao",
+    "image": "assets/generated/pad-kra-pao-ai-v6.webp",
+    "sha256": "c6e44cc44d965ee8d15b6b0fe52457a0c3d44c3424905729296af49ed7ab49ce"
+  },
+  {
+    "recipe": "Som Tam",
+    "image": "assets/generated/som-tam-ai-v6.webp",
+    "sha256": "0dbd1eaf5407fa3087d77c181e94be123c617745025caa3876825902dd3c3885"
+  },
+  {
+    "recipe": "Hor Mok Pla",
+    "image": "assets/generated/hor-mok-pla-ai-v6.webp",
+    "sha256": "5d3ec5b37eaacf74fd36cdb62d40b97ecb82f11077180f37f93eda2f621aa577"
+  },
+  {
+    "recipe": "Mango Sticky Rice",
+    "image": "assets/generated/resume-220d96f1e7f651.webp",
+    "sha256": "2dce361630fa40a72353d472829f02fa76785fac7e08b5b8fbcbd49e8254e26a"
+  },
+  {
+    "recipe": "Pho Ga",
+    "image": "assets/generated/resume-600ee0fd70fa69.webp",
+    "sha256": "a65f168fefe2eeaa1c8ac0c165d7cee51e0351824abb49da317cc28a0ddd7978"
+  },
+  {
+    "recipe": "Goi Cuon",
+    "image": "assets/generated/dish-80205aaa61949c.webp",
+    "sha256": "2d44de6ae11f61892244a013b507caddec7e5a701fd5f695cf1bf89850c9f470"
+  },
+  {
+    "recipe": "Banh Xeo",
+    "image": "assets/generated/dish-74fe095451a74e.webp",
+    "sha256": "c871fb04f45444711a595f2a52d64d192926faefd778cfd4f1eb8e66e27701cd"
+  },
+  {
+    "recipe": "Ca Kho To",
+    "image": "assets/generated/ca-kho-to-ai-v6.webp",
+    "sha256": "a6eb8f118fbcdd451f0441086b54385fae99b4e7c144406feeba5f8196866cc8"
+  },
+  {
+    "recipe": "Beef Rendang",
+    "image": "assets/generated/beef-rendang-ai-v6.webp",
+    "sha256": "a4b8afeeb143d43bd24d58d0a69632acd92a6d43f844fdc02c4f10e901655e02"
+  },
+  {
+    "recipe": "Gado Gado",
+    "image": "assets/generated/gado-gado-ai-v6.webp",
+    "sha256": "96c6e6b58205e111447d9734f1a4fd5d8738e69bdd15ac7404f627a9b0b7bff9"
+  },
+  {
+    "recipe": "Soto Ayam",
+    "image": "assets/generated/soto-ayam-ai-v6.webp",
+    "sha256": "e9a86f15072696acc5c9a8a78acbf6670353d7089fe0b01dceaedb70e04f450a"
+  },
+  {
+    "recipe": "Tempeh Orek",
+    "image": "assets/generated/dish-d88db8a09214fc.webp",
+    "sha256": "4c0d692cc9849f776ba46cade1544dec998c62de5b0670edafc585571ff26773"
+  },
+  {
+    "recipe": "Curry Laksa",
+    "image": "assets/generated/resume-d642b01157ebf2.webp",
+    "sha256": "2a42aed076c2e86f44c504fa10740071cceb4b64b34ba6ebc60d156a58f71c64"
+  },
+  {
+    "recipe": "Nasi Lemak",
+    "image": "assets/generated/resume-a24133f006a02a.webp",
+    "sha256": "e64c8f2d2d78500c228af3c30166ba98578d89566e2765abe7b762dcffa55fad"
+  },
+  {
+    "recipe": "Char Kway Teow",
+    "image": "assets/generated/char-kway-teow-ai-v6.webp",
+    "sha256": "f2b5bcf51f05f97ad0254938339d57ac2ceb1cd3852cc324b2a8f6aaa3e68647"
+  },
+  {
+    "recipe": "Chicken Adobo",
+    "image": "assets/generated/chicken-adobo-ai-v6.webp",
+    "sha256": "1b5bda246a9dd85c5c4f6b43b8857b57e163be96b509c1b3e39de54fe63fdf85"
+  },
+  {
+    "recipe": "Kare Kare",
+    "image": "assets/generated/dish-7ee64b00d2073d.webp",
+    "sha256": "c8109be4981561367ef07eb5b5d2496cdfce4068881e23399196075c2faefa1b"
+  },
+  {
+    "recipe": "Pancit Bihon",
+    "image": "assets/generated/pancit-bihon-ai-v6.webp",
+    "sha256": "88bc37dfe896defd06b41cc5fa92e085ec1ee39304a6f20488b0a8e55579e0fb"
+  },
+  {
+    "recipe": "Doro Wat",
+    "image": "assets/generated/doro-wat-ai-v6.webp",
+    "sha256": "f06fd9e9c10ff824760e910312d438be415496c913c6dd1e06415c179c8b8c95"
+  },
+  {
+    "recipe": "Misir Wat",
+    "image": "assets/generated/resume-14699809b02976.webp",
+    "sha256": "dc0f10d8910054d8d73aec8453d8bc86d8a5700d71b559d2e2fb270a7727851a"
+  },
+  {
+    "recipe": "Atakilt Wat",
+    "image": "assets/generated/dish-c9905ac5da5308.webp",
+    "sha256": "c650157e0b8c249a68a7242fdc7c5dee96a89a4cd8ff3121d3288281f6b1ab72"
+  },
+  {
+    "recipe": "Jollof Rice",
+    "image": "assets/generated/resume-b9352b6000c2e7.webp",
+    "sha256": "cb072f39d3fd9dbb17e4a7d9fc007de427e05589b854d7c57307468a1c1ab226"
+  },
+  {
+    "recipe": "Ewa Riro",
+    "image": "assets/generated/ewa-riro-ai-v6.webp",
+    "sha256": "f8b452d271f61eb028b461ac4544eddb478b3b0f3f5e949e5a2124e1c05b571b"
+  },
+  {
+    "recipe": "Mafé",
+    "image": "assets/generated/mafe-ai-v6.webp",
+    "sha256": "974d23d128e119690c1e2cfdf2b6a1d64915048318a3df5cf89b667d53100d83"
+  },
+  {
+    "recipe": "Yassa Poulet",
+    "image": "assets/generated/yassa-poulet-ai-v6.webp",
+    "sha256": "fdf8103d5aa91980a2306e7d0c3f8c66fdfeee86b5b71f043e686d9ec1be87e6"
+  },
+  {
+    "recipe": "Chakalaka",
+    "image": "assets/generated/chakalaka-ai-v6.webp",
+    "sha256": "5393415eb4c3bfa2b88806456b906af876d812a6d38a2c59c149afcb7ecfd504"
+  },
+  {
+    "recipe": "Bobotie",
+    "image": "assets/generated/resume-2465b7f66a27a7.webp",
+    "sha256": "dc7d63cb406b3a0530a4f62332d49d8ab976a4406c11d47629f9178a9ad8c1a9"
+  },
+  {
+    "recipe": "Githeri",
+    "image": "assets/generated/resume-849f67ccc1c42c.webp",
+    "sha256": "c04a2ed2c99963a25300e2d837a19bb4a54b769424a095115b8eb1a26a769205"
+  },
+  {
+    "recipe": "Sukuma Wiki",
+    "image": "assets/generated/sukuma-wiki-ai-v6.webp",
+    "sha256": "8617967ab532736bee6fa8f8c86440a7fb6bd5131a90badf43e4d5b85e7d6ff3"
+  },
+  {
+    "recipe": "Koshari",
+    "image": "assets/generated/koshari-ai-v6.webp",
+    "sha256": "18ce62d22ff21d9048f22880aa4f205f6becb340e2b2983c42220fa51154d67b"
+  },
+  {
+    "recipe": "Bostana",
+    "image": "assets/generated/bostana-ai-v6.webp",
+    "sha256": "eb0f6d498d304a4e7c02e4e917861bb2213d0b7e36b4e0a726a988c825a9741d"
+  },
+  {
+    "recipe": "Börülceli Köz Patlıcan Salatası",
+    "image": "assets/generated/dish-1cc4eda5421d1a.webp",
+    "sha256": "3b319c0f48d9e5ed7dbca960a5f4fa53263220b941c230298d2dd301776e5f9b"
+  },
+  {
+    "recipe": "Firik Salatası",
+    "image": "assets/generated/firik-salatasi-ai-v6.webp",
+    "sha256": "7552e2399fffc212de640252bafb0bea17d946831f1a47d87bff0f180594a98b"
+  },
+  {
+    "recipe": "Kuskus Salatası",
+    "image": "assets/generated/resume-da4a6e2d967972.webp",
+    "sha256": "a80e16c200de6e40f2eaa435478fb461258d47301b7ef9dd09bc595c156ab23f"
+  },
+  {
+    "recipe": "Taze İncirli Roka Salatası",
+    "image": "assets/generated/resume-a6e85cd82e0807.webp",
+    "sha256": "501be49ec07bf9401f14f813988351328de4f9bcb1b1de7770087a219e4926b6"
+  },
+  {
+    "recipe": "Portakallı Rezene Salatası",
+    "image": "assets/generated/dish-3453a104789981.webp",
+    "sha256": "a26d951b0152a9b90af2ee3a6b68886acc717e0058e79a1b5c14f7cee65e0af3"
+  },
+  {
+    "recipe": "Turplu Roka Salatası",
+    "image": "assets/generated/dish-630229c0871345.webp",
+    "sha256": "212c1a34ce6e16d88a9aef508e31e4c2350eb69939a17e7a2300ee6abf976bd4"
+  },
+  {
+    "recipe": "Taze Fasulye Salatası",
+    "image": "assets/generated/taze-fasulye-salatasi-ai-v6.webp",
+    "sha256": "1db616b62f3b3ce50adde3657a7d8e565b78e6439b419dd288fddbafd82f2cb9"
+  },
+  {
+    "recipe": "Kuru Kayısılı Buğday Salatası",
+    "image": "assets/generated/kuru-kayisili-bugday-salatasi-ai-v6.webp",
+    "sha256": "eb2dee07d1728fa95b80958c5d6bb7d0073c24597535ca13bc918eb386046fe0"
+  },
+  {
+    "recipe": "Yoğurtlu Buğday Salatası",
+    "image": "assets/generated/yogurtlu-bugday-salatasi-ai-v6.webp",
+    "sha256": "3a9a24b41ee1e2d27a0a343d3cc3621f2e35284eec2c7254ef31ad7d6ce6c3b5"
+  },
+  {
+    "recipe": "Közlenmiş Kapya ve Peynir Ruloları",
+    "image": "assets/generated/dish-141516a822f962.webp",
+    "sha256": "173b85cbfbea2ae341ad6289ce6abf54c6282867821bbcfeb365ecc0568153fa"
+  },
+  {
+    "recipe": "Sarımsaklı Yoğurtlu Brüksel Lahanası",
+    "image": "assets/generated/dish-8493c977a2beab.webp",
+    "sha256": "a4c6de5110500b9858255e87a68084e2a1af385d823c0a788550a3957de81e85"
+  },
+  {
+    "recipe": "Yoğurtlu Yeşil Mercimek Mezesi",
+    "image": "assets/generated/yogurtlu-yesil-mercimek-mezesi-ai-v6.webp",
+    "sha256": "29d394288f95910746ef0867a7084df9639339f0d82fd664d27421d5472912b9"
+  },
+  {
+    "recipe": "Tahinli Nohut Piyazı",
+    "image": "assets/generated/resume-19f7bae50ce1d9.webp",
+    "sha256": "ca829aa5d115f69ae56d34b1ae1e6497e57216927c1bee871a5e9cac5af221d6"
+  },
+  {
+    "recipe": "Biber Borani",
+    "image": "assets/generated/resume-e4a4aba9de1fa5.webp",
+    "sha256": "ca92b3c71171c3aacefd08188e481560caafd9808f65411f04a6c406c6e8f5c7"
+  },
+  {
+    "recipe": "Patatesli Havuç Tarator",
+    "image": "assets/generated/dish-279c7121f60525.webp",
+    "sha256": "346c7c430092a12505934ec82bbe45694b42ecfcc93bd4282cc1aab593af2f3b"
+  },
+  {
+    "recipe": "Karnabahar Kısırı",
+    "image": "assets/generated/dish-8e74fcf0c68ffa.webp",
+    "sha256": "5d9e1c7cc70a676b58fa96f4791c78879ecfd4bd4a5e38cd2d9db3493bbbf23c"
+  },
+  {
+    "recipe": "Cevizli Biber Ezmesi",
+    "image": "assets/generated/cevizli-biber-ezmesi-ai-v6.webp",
+    "sha256": "73945d2bb889f65658de59e2ff76957d8052e25785ab04465b4b871944be8e2e"
+  },
+  {
+    "recipe": "Yoğurtlu Börülce Mezesi",
+    "image": "assets/generated/yogurtlu-borulce-mezesi-ai-v6.webp",
+    "sha256": "a641eb5a37c45859132998da8afbcea0743b26df9898b6c1a65e4de43434a6fb"
+  },
+  {
+    "recipe": "Tahinli Kabak Salatası",
+    "image": "assets/generated/tahinli-kabak-salatasi-ai-v6.webp",
+    "sha256": "92849f8409234a68e5dbfc5b655343e52671e993f6ec00271e5c1e2ae849d2b1"
+  },
+  {
+    "recipe": "Salçalı Yumurta",
+    "image": "assets/generated/dish-a6b51ad894c0ff.webp",
+    "sha256": "7f2d9d5e8cb6a1b31fe8170a22f86768d54f50db24f52c61cf80d57476e9dbc4"
+  },
+  {
+    "recipe": "Soğanlı Yumurta",
+    "image": "assets/generated/dish-7f5d14fd3da9ec.webp",
+    "sha256": "2ebb76c088007d5cfc7c32b33f5bc70527bbfb91694f5a642aafd9c54694380d"
+  },
+  {
+    "recipe": "Çılbır Soslu Patates",
+    "image": "assets/generated/cilbir-soslu-patates-ai-v6.webp",
+    "sha256": "3b0bdbb9b89f519e16fddd0cbd2b10ca7e2fca73f93b834d3d50d1c19260001f"
+  },
+  {
+    "recipe": "Fırında Yumurtalı Ekmek",
+    "image": "assets/generated/resume-756890f3383011.webp",
+    "sha256": "657a77bdbdc0ee76e402032f0745e6e4f0163ae5e340157e7ef6d8cab86341fd"
+  },
+  {
+    "recipe": "Kabaklı Omlet",
+    "image": "assets/generated/resume-78a1f3277c23a4.webp",
+    "sha256": "ec3bf143660318e08079e12e3d185a616090bc72aff627cdd29a1d30257d3c82"
+  },
+  {
+    "recipe": "Domatesli Peynir Eritme",
+    "image": "assets/generated/dish-16fd3b74cb3e40.webp",
+    "sha256": "7001c958c180e27595018b6bf36295af1342687f278c7d9f7ee2f674ffb21381"
+  },
+  {
+    "recipe": "Biberli Lor Ezmesi",
+    "image": "assets/generated/dish-ff35a97f41cd85.webp",
+    "sha256": "29f21a6ae21c29a31e023aa1bea0a4b7506c731b77bb384deb673c6e98b96557"
+  },
+  {
+    "recipe": "Cevizli Bal Kabaklı Kahvaltı Ezmesi",
+    "image": "assets/generated/cevizli-bal-kabakli-kahvalti-ezmesi-ai-v6.webp",
+    "sha256": "c32f0da91d415dd62b531f8771eda4feebfb4ccc04904cb34428ef4f8394d6bd"
+  },
+  {
+    "recipe": "Patlıcanlı Yumurta Kapama",
+    "image": "assets/generated/patlicanli-yumurta-kapama-ai-v6.webp",
+    "sha256": "e9227a9425f9cb7566faddae77273ca81c963d7c920202b406239fdf5ad7244e"
+  },
+  {
+    "recipe": "Fırında Peynirli Domates",
+    "image": "assets/generated/firinda-peynirli-domates-ai-v6.webp",
+    "sha256": "430da5c9b37d387f5068987606753f89696b8a034964bccab797a395623776d2"
+  },
+  {
+    "recipe": "Fırında Peynirli Biber",
+    "image": "assets/generated/dish-1599d562b025b0.webp",
+    "sha256": "d07d7b01b3efe483aade75cbf9a3d2d4ccf9ea87d5f6acc6c9d5c71e5add7baa"
+  },
+  {
+    "recipe": "Tahinli Pekmezli Ekmek Dilimleri",
+    "image": "assets/generated/dish-a88c14e9d6b1f5.webp",
+    "sha256": "a6b7fa62c7267dd3cf7a810c8908f6bf24c997ad86f984731a2f7441d77bec72"
+  },
+  {
+    "recipe": "Peynirli İrmik Tavası",
+    "image": "assets/generated/peynirli-irmik-tavasi-ai-v6.webp",
+    "sha256": "2c13e67c5c4c8a5c2e63ff629b22c260bd05d57a4bca0bfdc6037687050f2127"
+  },
+  {
+    "recipe": "Yulaflı Tuzlu Pankek",
+    "image": "assets/generated/resume-51f660a75ff3f4.webp",
+    "sha256": "0c546a55d1ca2f29b6fb287b0f5d9cedaabad1bf3e30353800834d81db91a39a"
+  },
+  {
+    "recipe": "Susamlı Peynir Lokmaları",
+    "image": "assets/generated/resume-4081fda2807c62.webp",
+    "sha256": "f9b7317d136e4ef3fc45084fac3d41161038f04cdbf46476e66b1acf790816ec"
+  },
+  {
+    "recipe": "Domatesli Ekmek Aşı",
+    "image": "assets/generated/domatesli-ekmek-asi-ai-v6.webp",
+    "sha256": "81bfe4a024ab47803581fef5afa4b264e915d67a02000b7312d6e34bc61c02f3"
+  },
+  {
+    "recipe": "Yoğurtlu Ekmek Tirit",
+    "image": "assets/generated/dish-e2980477d4fdb4.webp",
+    "sha256": "c763a41fda50829caf68fee20a261d65a23b032727141ecb2707b0d0702777bb"
+  },
+  {
+    "recipe": "Sarımsaklı Ekmek Çorbası",
+    "image": "assets/generated/sarimsakli-ekmek-corbasi-ai-v6.webp",
+    "sha256": "2164666af3127a33ca7c8d4b8dd29623e54a974d9d84a24b5deee5554916d2c6"
+  },
+  {
+    "recipe": "Lorlu Pazı Kavurması",
+    "image": "assets/generated/lorlu-pazi-kavurmasi-ai-v6.webp",
+    "sha256": "50c2dea7067918078251dcb002d92d6ff250c48dbe90236d5156179cdfbd688d"
+  },
+  {
+    "recipe": "Kabak Beğendi",
+    "image": "assets/generated/kabak-begendi-ai-v6.webp",
+    "sha256": "8538fe78ff18e6d0c3b49def7e79e2db6338e5ec23b10435cb8d9f7a70cc9d69"
+  },
+  {
+    "recipe": "Acuka",
+    "image": "assets/generated/resume-ceb68e7a9bc5ff.webp",
+    "sha256": "db71e6d946f8bba84632292f8d7183c1778d2a198d69e64da48e38ac2c8846dc"
+  },
+  {
+    "recipe": "Cevizli Kereviz ve Elma Salatası",
+    "image": "assets/generated/resume-a989a0624e7530.webp",
+    "sha256": "feab0c774d7013144eeea02464ab5408abe28133341dd6fc62cf6a0a327c5a8e"
+  },
+  {
+    "recipe": "Yoğurtlu Kuru Biber",
+    "image": "assets/generated/yogurtlu-kuru-biber-ai-v6.webp",
+    "sha256": "2abebef94be6d86737231daa417ecf85cf02fa4a09fcdbdd571d404fa25a9112"
+  },
+  {
+    "recipe": "Kuru Patlıcan Kavurması",
+    "image": "assets/generated/kuru-patlican-kavurmasi-ai-v6.webp",
+    "sha256": "172b92e83ec7f5cddad6160aab19c923e626ffcc7e4d8549130fc7c396b1b5ce"
+  },
+  {
+    "recipe": "Pancar Borani",
+    "image": "assets/generated/pancar-borani-ai-v6.webp",
+    "sha256": "8306e9e851762cf7fbc07963c024f689e1320401aa42f4a67f8a58b75e49b120"
+  },
+  {
+    "recipe": "Köz Sarımsak Ezmesi",
+    "image": "assets/generated/koz-sarimsak-ezmesi-ai-v6.webp",
+    "sha256": "596ceda22cff1dcf4329968b7776ad7e8c3572b732c12972803bf7c3f4d0adfd"
+  },
+  {
+    "recipe": "Patates Piyazı",
+    "image": "assets/generated/resume-d945868109e06f.webp",
+    "sha256": "cf5bd538056985cd447a08ec1ffe10ba1b199268e8911bce6ce4703b1c29874a"
+  },
+  {
+    "recipe": "Peynirli Köz Patlıcan Ruloları",
+    "image": "assets/generated/resume-f74ff12983416d.webp",
+    "sha256": "2fe2945a53cc6634082088c1d0f47c0adbac28eb1280fa6f74b2d19727d4df36"
+  },
+  {
+    "recipe": "Beyaz Peynir Ezmesi",
+    "image": "assets/generated/beyaz-peynir-ezmesi-ai-v6.webp",
+    "sha256": "120bd905171d4b26fb4ff205a66f67554e3b99b1862eeff5f2b25eadf79f0d74"
+  },
+  {
+    "recipe": "Cevizli Kabak Ezmesi",
+    "image": "assets/generated/cevizli-kabak-ezmesi-ai-v6.webp",
+    "sha256": "8dcf46b59c800d51aba9be1d44545c0dd733df512b6be6bd1e7ab6e65f3b9c3d"
+  },
+  {
+    "recipe": "Közlenmiş Pırasa Salatası",
+    "image": "assets/generated/kozlenmis-pirasa-salatasi-ai-v6.webp",
+    "sha256": "49cf8ded82aad85f14d498c174e19419fe0f3f59c190c5902816f1ced1c91758"
+  },
+  {
+    "recipe": "Közlenmiş Havuç ve Tahin",
+    "image": "assets/generated/kozlenmis-havuc-ve-tahin-ai-v6.webp",
+    "sha256": "964c35f6dc1028fc234db84dc4d6c8d3d733a6a4b0e7cb87ce05acb7b4f46302"
+  },
+  {
+    "recipe": "Limonlu İç Bakla Ezmesi",
+    "image": "assets/generated/resume-f055919d00d9b9.webp",
+    "sha256": "c2f235b01124b51fd4a32597330dc17453042a2ea52a9bd37f3cb68f36b23c74"
+  },
+  {
+    "recipe": "Köz Mantar Salatası",
+    "image": "assets/generated/resume-4489a23c51a729.webp",
+    "sha256": "651f5710b5a99a821523fcd0e48933f39ec18776f6aa704c3d08f2e4b518482a"
+  },
+  {
+    "recipe": "Sarımsaklı Fırın Domates",
+    "image": "assets/generated/sarimsakli-firin-domates-ai-v6.webp",
+    "sha256": "7b202d00155fb3006d4d1b61aaaa9dbe5390d85a99e064d7ddea50a62a4e9e46"
+  },
+  {
+    "recipe": "Nar Ekşili Brüksel Lahanası",
+    "image": "assets/generated/nar-eksili-bruksel-lahanasi-ai-v6.webp",
+    "sha256": "1583742d64669b151863db20ac2a79c74d86252c5d803ac148e6545655637a61"
+  },
+  {
+    "recipe": "Yoğurtlu Bezelye Ezmesi",
+    "image": "assets/generated/yogurtlu-bezelye-ezmesi-ai-v6.webp",
+    "sha256": "151fd6defde590ccbc0e9e4aa7fc08ff08d9beac43f9c02a069e04e5bf627d64"
+  },
+  {
+    "recipe": "Cevizli Kereviz Yaprağı Salatası",
+    "image": "assets/generated/resume-fd43a64ccafd76.webp",
+    "sha256": "401c34eb256ee34a56d1769c6ae7c01d03dd04e6ee258aa272bb32988254b8e5"
+  },
+  {
+    "recipe": "Patatesli Semizotu Salatası",
+    "image": "assets/generated/resume-9cc27183150949.webp",
+    "sha256": "5eca107d5b0cac685b5d4a2d7124f60fce83f327d1d5099cfc37cc6488d29648"
+  },
+  {
+    "recipe": "Yeşil Mercimek Piyazı",
+    "image": "assets/generated/resume-930a2d02f39d64.webp",
+    "sha256": "0dd3f673af15f5ff9fce0ddb2565216f02742e5a2558b1bfd67b46f6fa1455c3"
+  },
+  {
+    "recipe": "Fırında Patates Kabuğu Dolgusu",
+    "image": "assets/generated/firinda-patates-kabugu-dolgusu-ai-v6.webp",
+    "sha256": "2b7e1e6d05b29258be96d0eed0ae0e41bead42e4daf61863a1204f2c7fa0c6ee"
+  },
+  {
+    "recipe": "Sebzeli Fırın Yumurta",
+    "image": "assets/generated/sebzeli-firin-yumurta-ai-v6.webp",
+    "sha256": "0b90ec1f61a3fbb38c0bd1c0eaf25bc93b2650216d705c1d7f073440e90cd590"
+  },
+  {
+    "recipe": "Çıtır Yumurta",
+    "image": "assets/generated/citir-yumurta-ai-v6.webp",
+    "sha256": "def63e4a75d3b470d22af812cd95cf4db603d295cf14f678ddfcfee69479bfb4"
+  },
+  {
+    "recipe": "Peynirli Biber Çanağında Yumurta",
+    "image": "assets/generated/resume-8da8eadb3d4f2c.webp",
+    "sha256": "3e3bd805ef6fa55f82ca691c7b3021a28f3b33796dbadcaad9254a8b9563ada7"
+  },
+  {
+    "recipe": "Yoğurtlu Yumurtalı Patates Ezmesi",
+    "image": "assets/generated/resume-db0232db5e33da.webp",
+    "sha256": "748f4adef394670e1851c72e9c3a901d0e7aad8f061ce3103e83c515eecb800d"
+  },
+  {
+    "recipe": "Fırında Yoğurtlu Kabak Dilimleri",
+    "image": "assets/generated/resume-a3a102f5ed496a.webp",
+    "sha256": "a2fcab694a24b93a01e4c52ac77d7155f7255d26761b3de591de254887e791f8"
+  },
+  {
+    "recipe": "Domatesli İrmik Köftesi",
+    "image": "assets/generated/domatesli-irmik-koftesi-ai-v6.webp",
+    "sha256": "545ceeb0d2f364a081ba65e125de15d9430729adc1fe94007dd515325079a388"
+  },
+  {
+    "recipe": "Şehriye Salatası",
+    "image": "assets/generated/sehriye-salatasi-ai-v6.webp",
+    "sha256": "d1caa534bf99069fb9e174f2722c332480ecfa119d5a014bcc6fac92aff74a12"
+  },
+  {
+    "recipe": "Kavrulmuş Erişte Pilavı",
+    "image": "assets/generated/kavrulmus-eriste-pilavi-ai-v6.webp",
+    "sha256": "e8e64329331ede9d39b5cebb6f414cad2d53c3c6d3bac3a352a4337f9d64a03c"
+  },
+  {
+    "recipe": "Mercimekli Erişte Salatası",
+    "image": "assets/generated/resume-e176cf43e559d5.webp",
+    "sha256": "ed9b954b187fb9d0c3b9d0f403f093da11468aa9b5286ccf485b5415ce52701e"
+  },
+  {
+    "recipe": "Domatesli Kuskus Pilavı",
+    "image": "assets/generated/resume-adcc921e914090.webp",
+    "sha256": "b810005e3a13474467d1d60d39f6472c5ee5824742cd493ef40db73fda1104ca"
+  },
+  {
+    "recipe": "Firik ve Nohut Pilavı",
+    "image": "assets/generated/resume-f2ee669c4ed671.webp",
+    "sha256": "d13f37f713a571392e6ff28188dbd7b0a21d1d96e84eaebd7cda14a6d7aad8f2"
+  },
+  {
+    "recipe": "Yeşil Mercimekli Pirinç Pilavı",
+    "image": "assets/generated/yesil-mercimekli-pirinc-pilavi-ai-v6.webp",
+    "sha256": "87d645b15b14d974618a95bd1de5dddad8ebf011603cf11d24ebbeed045575fe"
+  },
+  {
+    "recipe": "Arpa Şehriyeli Domates Dolması",
+    "image": "assets/generated/arpa-sehriyeli-domates-dolmasi-ai-v6.webp",
+    "sha256": "dec777f455e9917a07ef05da9a1e300d4e67708ba7bfdffeb4e37baa93948712"
+  },
+  {
+    "recipe": "Sebzeli Buğday Tavası",
+    "image": "assets/generated/sebzeli-bugday-tavasi-ai-v6.webp",
+    "sha256": "c6860e2385909541fe704c68755e3d3e13d8ba5e420a5591bbf476ec41d07b19"
+  },
+  {
+    "recipe": "Peynirli Karnabahar Köftesi",
+    "image": "assets/generated/resume-50b17939ab22b5.webp",
+    "sha256": "53af58ba7f3132cdd0a81c8ae5244e43fa28f569b4858dee9d027a3d6196f5fc"
+  },
+  {
+    "recipe": "Brokoli Mücveri",
+    "image": "assets/generated/resume-bcf97fcb20f231.webp",
+    "sha256": "06b52f2f9278e5b7bb93beccacb141952208b9a648d37fd68ad58bd2fc273196"
+  },
+  {
+    "recipe": "Tahinli Patates Köftesi",
+    "image": "assets/generated/resume-cbfea0ed70e2a0.webp",
+    "sha256": "be382548f911de10cd554a263639c33058cc6cc13c46e5609fd26a4e761b9d25"
+  },
+  {
+    "recipe": "Nohutlu Patlıcan Tava",
+    "image": "assets/generated/nohutlu-patlican-tava-ai-v6.webp",
+    "sha256": "31b0ba21de18312327954c1a3811a925e78f9bdb822b7a731ed7b54ecfaa77d5"
+  },
+  {
+    "recipe": "Pırasa Borani",
+    "image": "assets/generated/pirasa-borani-ai-v6.webp",
+    "sha256": "3cd5084d0e7730f7665f6fd2ec452dc95804d4ab298e66067db902c4c4f02690"
+  },
+  {
+    "recipe": "Vişne Hoşafı",
+    "image": "assets/generated/visne-hosafi-ai-v6.webp",
+    "sha256": "f2f76c16696ea41d630aafea54fd6c4c4def3fd0735686c3f712d0269034826b"
+  },
+  {
+    "recipe": "Kuru Kayısı Hoşafı",
+    "image": "assets/generated/resume-589863954a1078.webp",
+    "sha256": "5324e413e27751efe17fb823e1602d6dedb9098e161fead71a8bd62e5a055ade"
+  },
+  {
+    "recipe": "Kuru Üzüm Hoşafı",
+    "image": "assets/generated/resume-fcee19fccd48da.webp",
+    "sha256": "dbc4633b734c092b38ab878395cf4bc2fb275b639d33e78c42d8061cc0835ae2"
+  },
+  {
+    "recipe": "Erik Kompostosu",
+    "image": "assets/generated/resume-7d58359e7e63bb.webp",
+    "sha256": "02fc249365238415cf320145fb5914a0e2e7a36c2e29e140414c5451341a7310"
+  },
+  {
+    "recipe": "Elma Kompostosu",
+    "image": "assets/generated/elma-kompostosu-ai-v6.webp",
+    "sha256": "6bd577976134796b41eae77891ddd52ce33ace3414e35e070530dd3ac3586e78"
+  },
+  {
+    "recipe": "Ayva Kompostosu",
+    "image": "assets/generated/ayva-kompostosu-ai-v6.webp",
+    "sha256": "84e5a524b4a223ab9e79c45d1b54b852f46367a86aac9ab357e56c9b943278bb"
+  },
+  {
+    "recipe": "Şeftali Kompostosu",
+    "image": "assets/generated/seftali-kompostosu-ai-v6.webp",
+    "sha256": "6ecd149324e65aa0ea129057348c85b320023af345946388a4ea515a0c3ce662"
+  },
+  {
+    "recipe": "Armut Kompostosu",
+    "image": "assets/generated/resume-34f76f5a76aeba.webp",
+    "sha256": "6b864eb4e615fad5219a0dc6f300241bd7c64d15fa6084e60e8c2e422270f62a"
+  },
+  {
+    "recipe": "Reyhan Şerbeti",
+    "image": "assets/generated/resume-8079e66ccb96eb.webp",
+    "sha256": "235fdc9e7d5c8bc250d6ac767212ef02356d6cac90d20cdf496c749951dbfc19"
+  },
+  {
+    "recipe": "Hibiskus Şerbeti",
+    "image": "assets/generated/resume-cf0021ea4d4cb6.webp",
+    "sha256": "b61dc2eac75e1db6112b6d3ec0fb01eda6d0e5f21ed48b633da6cff50d1ebc9f"
+  },
+  {
+    "recipe": "Demirhindi Şerbeti",
+    "image": "assets/generated/demirhindi-serbeti-ai-v6.webp",
+    "sha256": "5ff43df2e87e75974376a7a7d660468d55179d019eef227c4482f6b17bd8557c"
+  },
+  {
+    "recipe": "Kızılcık Şerbeti",
+    "image": "assets/generated/kizilcik-serbeti-ai-v6.webp",
+    "sha256": "c446bba17d192f99de41d1ad80ffb01ae590dbcb253e1a25d6b7ea505debd24d"
+  },
+  {
+    "recipe": "Koruk Şerbeti",
+    "image": "assets/generated/koruk-serbeti-ai-v6.webp",
+    "sha256": "c482bea6a08d81fbeb07f108b67070a35758da7d11137a04618d98c0563574f6"
+  },
+  {
+    "recipe": "Nar Şerbeti",
+    "image": "assets/generated/resume-0b2e8d9fa73ab4.webp",
+    "sha256": "29c151ee8046fc6330343981bfdcd04891523829374a763ce9902c924c4aa831"
+  },
+  {
+    "recipe": "Naneli Limonata",
+    "image": "assets/generated/resume-fd3ad63f562dba.webp",
+    "sha256": "49b97bb0898a346b17be0801ff6cf231478d5cdcad30805d20c87185a887f6d6"
+  },
+  {
+    "recipe": "Portakallı Limonata",
+    "image": "assets/generated/resume-5d74193a311fe3.webp",
+    "sha256": "aab8bc786ff9ee94ca2eedcacc31b8ee051ff77b0c042869c195d5377775b7b7"
+  },
+  {
+    "recipe": "Salatalıklı Ayran",
+    "image": "assets/generated/salatalikli-ayran-ai-v6.webp",
+    "sha256": "ef6bc368b221be4d8422d8ac1d80be3bafa05f74cd507b50c131b74cf269e735"
+  },
+  {
+    "recipe": "Ev Yapımı Salep",
+    "image": "assets/generated/ev-yapimi-salep-ai-v6.webp",
+    "sha256": "7a45758d022192c835f6794b8cfe1a7bca62845280485f52a7bd6f7057737aa8"
+  },
+  {
+    "recipe": "Boza",
+    "image": "assets/generated/boza-ai-v6.webp",
+    "sha256": "b6b3f7b43fa529d732d8609331a68a6c18617323da771b2d9af756848387ed63"
+  },
+  {
+    "recipe": "Sıcak Pekmezli Süt",
+    "image": "assets/generated/resume-d7269ba4b1319d.webp",
+    "sha256": "08c2585e628d6b39242b707bbda75026dc486a5f967932437870f9bf4bacf205"
+  },
+  {
+    "recipe": "Kahveli Antrikot, Köz Kapya Kreması ve Patates Pavé",
+    "image": "assets/generated/chef50-aa443151d83753.webp",
+    "sha256": "a9378275c2d5690d8ebab5af048896cdbc0940f54cabbde26ad685c1ee196fef"
+  },
+  {
+    "recipe": "Kekik Yağlı Bonfile, Kereviz Püresi ve Arpacık Soğan",
+    "image": "assets/generated/chef50-65745027e17158.webp",
+    "sha256": "e07eaaf5ed8ffa2d2a4707d82a4a5ed4763a4d81f482b1b1024c922ac99cbbf5"
+  },
+  {
+    "recipe": "Nar Ekşili Kuzu Pirzola, İsli Patlıcan ve Bulgur Çıtığı",
+    "image": "assets/generated/chef50-35416659852daf.webp",
+    "sha256": "a38556c946b28b150f29c5eef00282845aed36ecff7f0cdec92ec776d7c3e5e8"
+  },
+  {
+    "recipe": "Ağır Pişmiş Dana Yanağı, Havuç Püresi ve Çıtır Pırasa",
+    "image": "assets/generated/chef50-9d81ef902a93a5.webp",
+    "sha256": "b0097a0feef39826b7fa937c4ca1b9779c7da0dd1ca1d503cb361a285da0ac7c"
+  },
+  {
+    "recipe": "Kuzu İncik, Nohut Kreması ve Limonlu Ispanak",
+    "image": "assets/generated/chef50-fd4753f61f080d.webp",
+    "sha256": "d5b9b96ff9749427fa85431fb9ec64d3f8268bb0ce6d605f746c51974f523f22"
+  },
+  {
+    "recipe": "Dana Ciğer, Elma Püresi ve Çıtır Soğan",
+    "image": "assets/generated/chef50-887f8173f31a50.webp",
+    "sha256": "fe92ea419ebe61c6c0184a7e30924528fadc0d6bbf3e97bb102913adc3b55d2d"
+  },
+  {
+    "recipe": "Kuzu Ciğer Mozaik, Sumaklı Soğan ve Patates Galet",
+    "image": "assets/generated/chef50-6ab4b06ef57a8f.webp",
+    "sha256": "aa9f8f11ae6d26d8dcafc5c3f70772bdaaa15e557cdcd35aa810edb9d20fa28d"
+  },
+  {
+    "recipe": "İki Pişirimli Dana Kaburga, Pekmez Glaze ve Kereviz",
+    "image": "assets/generated/chef50-48748d1ea5ab32.webp",
+    "sha256": "4a358020fe8c0335c24cd9bcf73cbc4fe37f9e1bc7a59f540476d66448b97743"
+  },
+  {
+    "recipe": "Bonfile Rulo, Ispanak Dolgusu ve Mantarlı Jus",
+    "image": "assets/generated/chef50-a8e35ddffd6d93.webp",
+    "sha256": "70fd67c499eddde8b493f5a3b0564c7845e01edf9e1e6db059b059a98fab94d4"
+  },
+  {
+    "recipe": "Antrikot Şeritleri, Hardallı Sos ve Kat Kat Patates",
+    "image": "assets/generated/chef50-9fdf855f74dbdd.webp",
+    "sha256": "331864d7ba1acab25bd36a1b1296facc50f5ca0b8c916f7f12fecea5531b2109"
+  },
+  {
+    "recipe": "Derili Levrek, Limonlu Beurre Blanc ve Rezene",
+    "image": "assets/generated/chef50-e1ece19c586b77.webp",
+    "sha256": "2a299599265df67d427a30d3543b1a03c5daa25ed2d90ecbdfb6b96d61ff9fcc"
+  },
+  {
+    "recipe": "Somon, Pancar Kabuğu ve Bezelye Püresi",
+    "image": "assets/generated/chef50-3a43aa65d6fddc.webp",
+    "sha256": "ff89f98ded3f3ba94e4619cb3e6e8d31090d19bc8cd7ecb1932d7bd42faf23e6"
+  },
+  {
+    "recipe": "Alabalık Rulo, Pazı Sarması ve Yoğurtlu Ot Sosu",
+    "image": "assets/generated/chef50-9753388343cf7d.webp",
+    "sha256": "0901623e3c00d9c3428eb4d719751725bd067702128eede0ed6a96ef1ef163fc"
+  },
+  {
+    "recipe": "Hamsi Terrine, Patates Kreması ve Turp Turşusu",
+    "image": "assets/generated/chef50-882e23506ec75d.webp",
+    "sha256": "3d7956899396e186566d39cf4575b4dccc19a8ea6874f14bf7bfdaf080b5a094"
+  },
+  {
+    "recipe": "Tereyağlı Karides, Mısır Kreması ve Kapya Yağı",
+    "image": "assets/generated/chef50-a6ad5f4173bb92.webp",
+    "sha256": "6f1eb4d2195ad025463ae54ae3404a6ad548ff09b0b473ff56671a937c46c86c"
+  },
+  {
+    "recipe": "Tavuk Göğsü Rulo, Mantar Dolgusu ve Adaçayı Sosu",
+    "image": "assets/generated/chef50-f65d4b7aa87625.webp",
+    "sha256": "f5d7588d5085e692f1ffc6638204297f075c43306c7fb65b7ac54508029a66dc"
+  },
+  {
+    "recipe": "Çıtır Tavuk But, Zencefilli Havuç ve Portakal Sosu",
+    "image": "assets/generated/chef50-783ccd16a9c876.webp",
+    "sha256": "459486f0e18d803d8d054d9a7353fe4bb7e20aa6548a05e4c79234060ed687d7"
+  },
+  {
+    "recipe": "Tavuk Kanat Konfi, Acı Bal Glaze ve Yoğurt Kreması",
+    "image": "assets/generated/chef50-b3a17129c7337f.webp",
+    "sha256": "9536a53907619b7740db70b1c08f0aa6716c0326103f072a83a830385068aa95"
+  },
+  {
+    "recipe": "Tavuk Pirzola, Köz Biber Coulis ve Bulgur Risotto",
+    "image": "assets/generated/chef50-fd744761fce4de.webp",
+    "sha256": "91a3db27da570233d4f83092593f98490c47e11a6dda6cc4d1c31ee754ae485a"
+  },
+  {
+    "recipe": "Fırın Palamut, Domates Confit ve Fesleğen Yağı",
+    "image": "assets/generated/chef50-04a70e6388e6d2.webp",
+    "sha256": "a8bc90e378e164a02d7149d413c51297a455403e5a26d8e63c19a84aed4f8857"
+  },
+  {
+    "recipe": "Mantarlı Açık Ravioli, Labne Kreması ve Fındık",
+    "image": "assets/generated/chef50-a9765e9872053d.webp",
+    "sha256": "f4f25084589d4fef65872eeff82ee4fa8ddaf96badfd854a0e155086b103a887"
+  },
+  {
+    "recipe": "Köz Patlıcan Mezzelune, Adaçaylı Tereyağı ve Ceviz",
+    "image": "assets/generated/chef50-4f501cef7c5105.webp",
+    "sha256": "cfa939061d7af57cf16d98f6ed3e223843cfac62e87af7cda669f02c293441eb"
+  },
+  {
+    "recipe": "Kabak Çiçeği Dolması, Limon Emülsiyonu ve Yoğurt",
+    "image": "assets/generated/chef50-38912cae4c3b0f.webp",
+    "sha256": "e7bcfc3c8f6b7e9276bce853ffc5c4c90d2e24e694a50153811c2fdbf7aaa395"
+  },
+  {
+    "recipe": "Pancar Carpaccio, Labne Mus ve Ceviz Krokan",
+    "image": "assets/generated/chef50-e1b3528d7ff282.webp",
+    "sha256": "e5d9b4fe87d843fe1ad68fd6a8a493df6a2c1681b43aa07bbbfcb6f724ef8102"
+  },
+  {
+    "recipe": "Karnabahar Steak, Tahin Beurre Noisette ve Nohut Çıtığı",
+    "image": "assets/generated/chef50-72974dea4bf8fd.webp",
+    "sha256": "a42471f0c0e0bf7d84d7ed6601000f607ebfc72118c7ce455c19f7f84184ac06"
+  },
+  {
+    "recipe": "Enginar Barigoule, Havuç Şeritleri ve Ot Yağı",
+    "image": "assets/generated/chef50-1ce38f879b170e.webp",
+    "sha256": "e477671c4de7f8ac503dd716968c68ebb98d6a84bab2867f2f16649fe74a78c4"
+  },
+  {
+    "recipe": "Kereviz Rémoulade, Yeşil Elma ve Fındıklı Kırıntı",
+    "image": "assets/generated/chef50-cd97eb6b076290.webp",
+    "sha256": "145a75f12a4776b03e2133f35d04dc1e48746155730629a2bf422cd89d9da552"
+  },
+  {
+    "recipe": "Sebze Millefeuille, Domates Coulis ve Fesleğen",
+    "image": "assets/generated/chef50-23bccc2c0b40b1.webp",
+    "sha256": "d3fa348719f3ae44f8f1eef4d34078563bc35efba43c2463e35830eaec1eb2a4"
+  },
+  {
+    "recipe": "Fırın Balkabağı, Bulgur Köftesi ve Yoğurt Emülsiyonu",
+    "image": "assets/generated/chef50-06140f4c5bb662.webp",
+    "sha256": "c7b63c574ae30b4e22fb19527bd038436fa25a5204d1797d4f32c5c341a51d8c"
+  },
+  {
+    "recipe": "Üç Dokulu Mantar Risotto ve Kaşar Tuile",
+    "image": "assets/generated/chef50-e1223f48249c7d.webp",
+    "sha256": "b584789d14ca5f95399767590d10e68349d04fcf791074e866a182ece25b10f4"
+  },
+  {
+    "recipe": "Bitter Çikolata Entremet, Frambuaz Insert ve Fındık Pralin",
+    "image": "assets/generated/chef50-ef040e768b398c.webp",
+    "sha256": "60c40ca0d7244c9f786b4f7728f832de51c251383b87f208c75d9e7f52ca5feb"
+  },
+  {
+    "recipe": "Beyaz Çikolata Mus, Mango Crémeux ve Hindistan Cevizi",
+    "image": "assets/generated/chef50-cb22d0052c5b75.webp",
+    "sha256": "debba0ba33e69f7afc0ea8b51d36da6b83e2e27f183242a66f6c9854d32b84b3"
+  },
+  {
+    "recipe": "Antep Fıstıklı Paris-Brest, Kaymak Kreması ve Çıtır Pralin",
+    "image": "assets/generated/chef50-41ec01a0c5ae79.webp",
+    "sha256": "dcc9a66839cf8b606650825959316d94864d5cebcd42b834d2323e8a819dae14"
+  },
+  {
+    "recipe": "Labneli Opera Dilimi, Kahve Şurubu ve Bitter Ganaj",
+    "image": "assets/generated/chef50-079bb54e0042eb.webp",
+    "sha256": "c22482c015fb3e51f63dfb1584c435c8a31d93e70bdb9f252b4c458906701a24"
+  },
+  {
+    "recipe": "Tahinli Çikolata Tart, Tuzlu Karamel ve Susam Tuile",
+    "image": "assets/generated/chef50-e711282614bcdc.webp",
+    "sha256": "154c90445ed8981c93754f26850b73226df60412a99d27778d9a7cb20f2c37cb"
+  },
+  {
+    "recipe": "Dutlu Charlotte, Vanilyalı Labne ve Badem Bisküvi",
+    "image": "assets/generated/chef50-958657e9c3ca43.webp",
+    "sha256": "fb3ba7e33978bb11d3d92720f44923552a335f4d7aff8891ff7a7fff51583ae7"
+  },
+  {
+    "recipe": "Yaban Mersinli Millefeuille, Diplomatik Krema ve Limon",
+    "image": "assets/generated/chef50-99e9f37fe9c0b1.webp",
+    "sha256": "ffa642585cdfcb7015d338e5c39446b7f938218ffa4a31e59fb1893a3e329226"
+  },
+  {
+    "recipe": "Böğürtlenli Baked Alaska ve Vanilyalı Dondurma",
+    "image": "assets/generated/chef50-35986b8fb3025c.webp",
+    "sha256": "68c8eba74fbf9e6a9b00ffb7be7e3537a8b4c80d6dfaaec15a41c2e8c89473ff"
+  },
+  {
+    "recipe": "Ayvalı Tarte Tatin, Kaymak Dondurması ve Karamel",
+    "image": "assets/generated/chef50-6f1c23c22a24dd.webp",
+    "sha256": "547d5a5cc8eb1cbe40725dbd78c5821d06004e6dcc4135ff7643bb1eb6a1db92"
+  },
+  {
+    "recipe": "Hurma Karamelli Sticky Toffee, Kaymak ve Ceviz",
+    "image": "assets/generated/chef50-432848bf9d743a.webp",
+    "sha256": "da99255b1cbe9a1d434e2e25be6ecdebe991c0eabc79fabbc5166a58b8327abe"
+  },
+  {
+    "recipe": "Ananaslı Ters Tart, Zencefilli Krema ve Çıtır Hindistan Cevizi",
+    "image": "assets/generated/chef50-28a75470e224f1.webp",
+    "sha256": "7051ca9c36b78d0a1073dc24cc31e1c1a18aa7796b0176d109d9970a222a8574"
+  },
+  {
+    "recipe": "Karadut Crémeux, Badem Finansiyer ve Limon Jölesi",
+    "image": "assets/generated/chef50-60f5b786f26184.webp",
+    "sha256": "5e78ef7175521a09b9039dc67c7f56f6d21197dec93e57b9433d49b599f66419"
+  },
+  {
+    "recipe": "Mango ve Ananas Verrine, Labne Köpüğü ve Çıtır Bisküvi",
+    "image": "assets/generated/chef50-93d56b303085fd.webp",
+    "sha256": "9ab87b8c553151e929763dbfb7907146c75ad6474834ae459d12343a4417382b"
+  },
+  {
+    "recipe": "Safranlı Sütlaç Brûlée, Kaymak ve Fıstık Krokan",
+    "image": "assets/generated/chef50-7ae6ffce80b73a.webp",
+    "sha256": "871d7b5991f6caf77875149aa861f45f59bb8857bd88bdbc88d3973e4071c4cc"
+  },
+  {
+    "recipe": "İki Dokulu Baklava, Kaymak Mus ve Vişne Sosu",
+    "image": "assets/generated/chef50-dab7e7ac22baed.webp",
+    "sha256": "e10b8ea5d8b2489775f186777b3763ba855eb9544d03eecb91982031d8076ae5"
+  },
+  {
+    "recipe": "İçli Köfte, İsli Yoğurt ve Kapya Biber Yağı",
+    "image": "assets/generated/chef50-c307df735680f7.webp",
+    "sha256": "5ce4aa0aa9be5947d7caec110a33bf090b24ac69b755873cf9df39eacf0afaf8"
+  },
+  {
+    "recipe": "Çıtır Mantı, Kuzu Ragu ve Sarımsaklı Labne",
+    "image": "assets/generated/chef50-5e29f4266bfdd6.webp",
+    "sha256": "463eee79125ea7eba4328a16089ca749c6c6e951cfb9c30a1ff29b9b3641e1b6"
+  },
+  {
+    "recipe": "Arpa Şehriye Risotto, Tavuk But ve Mantar Emülsiyonu",
+    "image": "assets/generated/chef50-e9fba19b864eca.webp",
+    "sha256": "7263cbd1c4e6772fda13bca648297a16782ae1ef0f77563f9e54ff3798962a73"
+  },
+  {
+    "recipe": "Kaymaklı Kabak Tatlısı, Tahin Dondurması ve Ceviz Tuile",
+    "image": "assets/generated/chef50-6238026db77eea.webp",
+    "sha256": "47f375c7457b24140696e589641fedfc344b1efd7c4b8cc16aaf02fb33427d9f"
+  },
+  {
+    "recipe": "Zerdeçallı Tavuk Ballotine, Ispanak ve Patates Fondant",
+    "image": "assets/generated/chef50-13f485cc731213.webp",
+    "sha256": "fc3b7b9ce5a1b687bd0b47e7db9ace456f021c586a74017f806e1d6083453a1e"
+  }
+]

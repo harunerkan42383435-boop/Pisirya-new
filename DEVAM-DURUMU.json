@@ -1,0 +1,26 @@
+{
+  "recipes": 1051,
+  "chefRecipes": 145,
+  "newChefRecipes": 50,
+  "validUniqueReferencedImages": 1051,
+  "missingImages": 0,
+  "oldRecipesPreserved": 1001,
+  "oldImagesByteIdentical": 1001,
+  "newImages": 50,
+  "newImageSizeMB": 8.34,
+  "pantryIngredients": 171,
+  "pantryCategories": 13,
+  "languages": [
+    "tr",
+    "en",
+    "ru",
+    "es",
+    "de",
+    "ar",
+    "pl"
+  ],
+  "instructionsLanguage": "tr",
+  "cssAndIconsUnchanged": true,
+  "contentReview": "9/9 findings resolved",
+  "browserValidation": "Node VM behavior checks; no installed browser binary"
+}
