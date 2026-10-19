@@ -214,3 +214,26 @@ body.detail-mode .bnav,body.cook-mode .bnav{display:none}body.detail-mode #page,
 @media(max-width:480px){.collection-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.collection-card{padding:14px;gap:7px}.collection-card strong{font-size:1rem}.collection-card small,.collection-card b{font-size:.78rem}.offer-note{font-size:.88rem}.collection-links .chip{white-space:normal;text-align:start}.chef-promo{padding:18px}}
 
 .load-more{text-align:center;padding:24px 0 12px}.load-more p{font-size:13px;color:var(--muted);margin:0 0 12px}
+
+/* Dedicated ingredient illustrations and restrained navigation motion. */
+.ingredient-icon{display:inline-block;width:32px;height:32px;object-fit:contain;vertical-align:middle;flex-shrink:0}
+.tile .te{display:grid;place-items:center;width:48px;height:48px;line-height:1}
+.tile .ingredient-icon{width:48px;height:48px;filter:drop-shadow(0 2px 2px rgb(36 75 59 / 7%))}
+.ings .ie{width:32px;display:grid;place-items:center}
+.ings .ingredient-icon{width:30px;height:30px}
+.pill .ingredient-icon{width:22px;height:22px}
+.menu-icon{display:inline-block;width:28px;height:28px;object-fit:contain;vertical-align:middle;flex-shrink:0}
+.tabs .tab{display:inline-flex;align-items:center;justify-content:center;gap:5px}
+.tabs .menu-icon{width:23px;height:23px}
+.bnav button>span{display:grid;place-items:center;filter:none;opacity:1;height:29px}
+.bnav .menu-icon{width:29px;height:29px;transition:transform 200ms cubic-bezier(.2,.8,.2,1),filter 200ms}
+.bnav button.on .menu-icon{transform:translateY(-1px) scale(1.07);filter:drop-shadow(0 2px 2px rgb(36 75 59 / 14%))}
+.bnav button,.tab{transition:background-color 180ms,color 180ms,box-shadow 180ms}
+.bnav button:active .menu-icon,.tab:active .menu-icon{transform:scale(.94)}
+.iconbtn{display:inline-flex;align-items:center;justify-content:center;gap:4px}
+.iconbtn .menu-icon{width:25px;height:25px}
+.iconbtn.surprise .menu-icon{width:22px;height:22px}
+.chef-promo h2 .menu-icon{width:34px;height:34px;margin-inline-end:3px}
+@media(prefers-reduced-motion:reduce){.menu-icon,.bnav button,.tab{transition:none!important;animation:none!important}.bnav button.on .menu-icon,.bnav button:active .menu-icon,.tab:active .menu-icon{transform:none}}
+/* The former mobile dice pseudo-element is replaced by the custom icon. */
+.iconbtn.surprise::before{content:none}

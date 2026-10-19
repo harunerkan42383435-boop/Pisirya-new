@@ -1,0 +1,22 @@
+PİŞİRYA — MALZEME SİMGELERİ VE MENÜ GEÇİŞLERİ
+19 Ekim 2026
+
+Bu bir GÜNCELLEME paketidir. Mevcut 1.051 tarifli uygulama üzerine eklenir; tek başına tam uygulama değildir.
+
+KURULUM
+1. ZIP dosyasını ayıklayın.
+2. İçindeki pisirya klasörünün içeriğini mevcut uygulamanızın pisirya klasörüne kopyalayın.
+3. Klasörleri birleştirin; aynı adlı dosyalar için “Değiştir” seçin. Eski assets içeriğiyle yeni assets içeriği birlikte kalmalıdır.
+4. Web sitenizi güncelliyorsanız bu dosyaları aynı yayın klasörüne yükleyin.
+5. Uygulamanın açık sekmelerini ve ana ekran penceresini kapatıp tekrar açın. Gerekirse bir kez daha yenileyin; yeni önbellek sürümü etkinleşir.
+
+İÇERİK
+171 ayrı, özgün SVG malzeme çizimi; 8 menü simgesi. Malzeme seçiminde ve tarif içindeki malzeme satırlarında kullanılır.
+Kısa, yumuşak sayfa geçişi; cihazın “Hareketi Azalt” tercihi desteklenir.
+Şeker kristalli, pudra şekeri elenmiş; kekik/kuru nane, nişasta/çörek otu, badem/Antep fıstığı ayrı çizimlerdir.
+Güncelleme yemek fotoğrafı veya tarif verisi içermez ve mevcut dosyalarını değiştirmez.
+Malzeme eşleştirme, kategoriler, favoriler, planlama, ücret önizlemeleri, dil dosyaları ve logo korunur.
+
+KONTROLLER
+171 ikon XML ve dosya tekilliği; tüm malzeme bağlantıları; JavaScript sözdizimi; malzeme seçimi/favoriler/tarif ekranı; eski-yeni filtre sonuçlarının eşitliği; hareket azaltma ve hızlı sayfa geçişleri kontrol edildi.
+Gerçek cihaz tarayıcı testi bu ortamda yapılmadı. SIMGE-ONIZLEME.png çizim örneklerini gösterir.

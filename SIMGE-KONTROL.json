@@ -1,0 +1,866 @@
+{
+  "date": "2026-10-19",
+  "type": "update-only",
+  "ingredients": 171,
+  "menuIcons": 8,
+  "recipeDataModified": false,
+  "foodPhotosIncluded": false,
+  "uploadedPantryUnchanged": true,
+  "icons": [
+    {
+      "name": "domates",
+      "file": "assets/ingredient-icons/ingredient-001.svg",
+      "sha256": "d7d627cc32df9a1566db72babac74d40c6660816b7191c54b06ef6e340ce860b"
+    },
+    {
+      "name": "biber",
+      "file": "assets/ingredient-icons/ingredient-002.svg",
+      "sha256": "e1e88abd004ad260a8733356921951ffbc0780d03a8edfcc40c943d532fafa66"
+    },
+    {
+      "name": "dolmalık biber",
+      "file": "assets/ingredient-icons/ingredient-003.svg",
+      "sha256": "cdd57f02ff7d059d5ac31372c685f20663619c5a0ef494285da211f8506f501f"
+    },
+    {
+      "name": "patates",
+      "file": "assets/ingredient-icons/ingredient-004.svg",
+      "sha256": "b42556f4689e7d8ee5f5ba31a1bfeca6c3afa2102f57401d46d5316168f34e5d"
+    },
+    {
+      "name": "patlıcan",
+      "file": "assets/ingredient-icons/ingredient-005.svg",
+      "sha256": "e4154d7b9c13c15f66d59d5b26346992e843989e86b34fe13897b9f070428a9e"
+    },
+    {
+      "name": "kabak",
+      "file": "assets/ingredient-icons/ingredient-006.svg",
+      "sha256": "adb9821e71f2736589dd744df001488ce81e4e96b4119872ec9d04999ae46de3"
+    },
+    {
+      "name": "ıspanak",
+      "file": "assets/ingredient-icons/ingredient-007.svg",
+      "sha256": "c798d84f0ef5d71805ba6d524b313884438ca107114560aa86e19911701e7506"
+    },
+    {
+      "name": "mantar",
+      "file": "assets/ingredient-icons/ingredient-008.svg",
+      "sha256": "25c5b34ec4dc39819c1f64d313cfce954e0f99d255b9820eec1f9f1cc10216d7"
+    },
+    {
+      "name": "havuç",
+      "file": "assets/ingredient-icons/ingredient-009.svg",
+      "sha256": "81d986abc1e743500fc808ec1a1b23c672d5090aa6ed0295abdbd4af7c9c8cf2"
+    },
+    {
+      "name": "soğan",
+      "file": "assets/ingredient-icons/ingredient-010.svg",
+      "sha256": "a178fe5b91e651cbefbdc9b5373077126b3175afc96c9ccd20e57626d32d018e"
+    },
+    {
+      "name": "sarımsak",
+      "file": "assets/ingredient-icons/ingredient-011.svg",
+      "sha256": "353b84f330d5a2bde24a8aa6c96bd707fa0c27fff84417bbeeb6c8264f34549d"
+    },
+    {
+      "name": "salatalık",
+      "file": "assets/ingredient-icons/ingredient-012.svg",
+      "sha256": "ac469a9358bb20261ac366c8e193e3ef84828a8dcf579ff4f87d0532f7374723"
+    },
+    {
+      "name": "brokoli",
+      "file": "assets/ingredient-icons/ingredient-013.svg",
+      "sha256": "978d5d5c2f1ddb127735b7ab4784186453556b1f422dabba0fc1f48ebbdbe57e"
+    },
+    {
+      "name": "mısır",
+      "file": "assets/ingredient-icons/ingredient-014.svg",
+      "sha256": "16c8d1cefdc3af0baebaafad95fec0f22fe1f505e2d9644b340c798db4423247"
+    },
+    {
+      "name": "zeytin",
+      "file": "assets/ingredient-icons/ingredient-015.svg",
+      "sha256": "61fd4142bcbd74d693b7cd710cab0934566b1550a83baca3469cd281722b0078"
+    },
+    {
+      "name": "maydanoz",
+      "file": "assets/ingredient-icons/ingredient-016.svg",
+      "sha256": "53e3b66b106d15385b118c80fe9379f255ffe50075bf5e71d0f17972bd8dd740"
+    },
+    {
+      "name": "dereotu",
+      "file": "assets/ingredient-icons/ingredient-017.svg",
+      "sha256": "b4e831a0434a63ff162e7340d99057c7f9556afc0a85765aed8e82f2b7218bff"
+    },
+    {
+      "name": "taze soğan",
+      "file": "assets/ingredient-icons/ingredient-018.svg",
+      "sha256": "7f3070ddaf6439e97cfaa870dbf125b07ce3a9d54636b1f8c0c074799de6a244"
+    },
+    {
+      "name": "marul",
+      "file": "assets/ingredient-icons/ingredient-019.svg",
+      "sha256": "4989314d74287409b9e21ad2282b5adf801d9bd4f1be43ab8e3a4c47cd6bca4f"
+    },
+    {
+      "name": "bezelye",
+      "file": "assets/ingredient-icons/ingredient-020.svg",
+      "sha256": "22b5d276d7dfd0ee78cc28400df85bdeaf0edb5256703ccbdf142d6107756d09"
+    },
+    {
+      "name": "lahana",
+      "file": "assets/ingredient-icons/ingredient-021.svg",
+      "sha256": "618d6ad58df8a4123505f570d4cdeb655883e624687c9a88731ae4153318efc6"
+    },
+    {
+      "name": "pazı",
+      "file": "assets/ingredient-icons/ingredient-022.svg",
+      "sha256": "c5ffd2fe6780d27646357118b28691ba2ebdd496c689fb0c78254c4d392f6bc3"
+    },
+    {
+      "name": "pırasa",
+      "file": "assets/ingredient-icons/ingredient-023.svg",
+      "sha256": "206475fc9939bff1706ac6fe9f5dc82a4b12e1a7b14e315616f586d5833870fe"
+    },
+    {
+      "name": "semizotu",
+      "file": "assets/ingredient-icons/ingredient-024.svg",
+      "sha256": "531109c0d50fa3139db65355ca552dad5993fec6d3a02f5b1aa4ffa1f3a683b4"
+    },
+    {
+      "name": "taze fasulye",
+      "file": "assets/ingredient-icons/ingredient-025.svg",
+      "sha256": "4890fe51bd9490f025299a995b8037f84fdd9004f25111f229f95bdf9059fab3"
+    },
+    {
+      "name": "karnabahar",
+      "file": "assets/ingredient-icons/ingredient-026.svg",
+      "sha256": "b9daae3f883fdce0d7f00bb113b7081365b6e4f6db6d94fcbe2048689c6aef8a"
+    },
+    {
+      "name": "kereviz",
+      "file": "assets/ingredient-icons/ingredient-027.svg",
+      "sha256": "564f3a7ca3a5e7b334760c56a4730a3e8dd6d7183cd0f56156a2dd6791cea21f"
+    },
+    {
+      "name": "pancar",
+      "file": "assets/ingredient-icons/ingredient-028.svg",
+      "sha256": "b380ce44b05829bcfe586c534bfb85e94a7b3d7954a4d4ecee69f139de4e569d"
+    },
+    {
+      "name": "roka",
+      "file": "assets/ingredient-icons/ingredient-029.svg",
+      "sha256": "94e8caabd7b827f51d07b8f3ab3da2f9e0d9b739c9bede806d08d0bc318ca578"
+    },
+    {
+      "name": "turp",
+      "file": "assets/ingredient-icons/ingredient-030.svg",
+      "sha256": "de2036a739308d69e0d887a6257df855c2208410a20a0f25067cd99aae34aa62"
+    },
+    {
+      "name": "enginar",
+      "file": "assets/ingredient-icons/ingredient-031.svg",
+      "sha256": "8e9ea95dc3ceeaae19ab3386e72be6fe0942474fa096a379cc301fea12fa34c4"
+    },
+    {
+      "name": "bamya",
+      "file": "assets/ingredient-icons/ingredient-032.svg",
+      "sha256": "fcb0a6b0505cf9f1c0bd8cc13487051c3a85e13784abe330152eb08436493b9c"
+    },
+    {
+      "name": "kırmızı lahana",
+      "file": "assets/ingredient-icons/ingredient-033.svg",
+      "sha256": "09ad06b90b075bddd2428e4d7854e976b3250f2ec9d7d07fee088165c9561a3f"
+    },
+    {
+      "name": "taze nane",
+      "file": "assets/ingredient-icons/ingredient-034.svg",
+      "sha256": "13ea0e872f06797f866b40a6f1b76509c1d1e58471fec4fd05bbbbea3ad58ec2"
+    },
+    {
+      "name": "balkabağı",
+      "file": "assets/ingredient-icons/ingredient-035.svg",
+      "sha256": "ea87ccd99eb25a74408d36920bd0f0a3120000c035e526c591bd12bedb8d1575"
+    },
+    {
+      "name": "kapya biber",
+      "file": "assets/ingredient-icons/ingredient-036.svg",
+      "sha256": "c9913d206bc66ebfaedc80735e6a261d24d3618d520ec1d7d8f002d1d267dca8"
+    },
+    {
+      "name": "yeşil biber",
+      "file": "assets/ingredient-icons/ingredient-037.svg",
+      "sha256": "5ce2aa3bb7cd84d76f30aeafa458b3a7e4f2746d9fdb5940e4066addcece8c1d"
+    },
+    {
+      "name": "elma",
+      "file": "assets/ingredient-icons/ingredient-038.svg",
+      "sha256": "67e8c91d8c117662b8ec504fb60bd1c148397b11c34d4fa2d7fecfc7af44f89b"
+    },
+    {
+      "name": "muz",
+      "file": "assets/ingredient-icons/ingredient-039.svg",
+      "sha256": "e846a6ec0335cfefee97484613b2e0478a40df63df6309ce365919e02a085d10"
+    },
+    {
+      "name": "çilek",
+      "file": "assets/ingredient-icons/ingredient-040.svg",
+      "sha256": "a4fc057cad6ae862fb1274d0eb95a49dc4a7fb0ae472711c4fbf193032995c1d"
+    },
+    {
+      "name": "portakal",
+      "file": "assets/ingredient-icons/ingredient-041.svg",
+      "sha256": "7f48d07b7946f5f048aa214049c2d9ed6bebe1d31b99ab0b750aea2a898255a3"
+    },
+    {
+      "name": "limon",
+      "file": "assets/ingredient-icons/ingredient-042.svg",
+      "sha256": "54d290b07ddb09b1972940463e0484f23cfb9b6b4e4143d2900571f2f93e2cbf"
+    },
+    {
+      "name": "üzüm",
+      "file": "assets/ingredient-icons/ingredient-043.svg",
+      "sha256": "d0f6e8c43cc4d6187bd026391522d09a25d53a82ebc0606077444244baeab0ee"
+    },
+    {
+      "name": "şeftali",
+      "file": "assets/ingredient-icons/ingredient-044.svg",
+      "sha256": "4f88bd1f2584e2ba02f2d1e9b0be148029520b92d6af3cd90ba71b0eadc963e0"
+    },
+    {
+      "name": "kiraz",
+      "file": "assets/ingredient-icons/ingredient-045.svg",
+      "sha256": "d061d68c75e847e1e89d4fc41e175ad9a11edaa72986aba5a8a72cb79c894263"
+    },
+    {
+      "name": "armut",
+      "file": "assets/ingredient-icons/ingredient-046.svg",
+      "sha256": "3e8147e4bce6f497424da428a7e5cebef644741633c573cf3df353cd69e91f5e"
+    },
+    {
+      "name": "mandalina",
+      "file": "assets/ingredient-icons/ingredient-047.svg",
+      "sha256": "c234aaf97230c247d86c55790f93058c18e3c7663294848264ffc026afcd86b4"
+    },
+    {
+      "name": "kayısı",
+      "file": "assets/ingredient-icons/ingredient-048.svg",
+      "sha256": "f025e14948b02a7e1b514fcf08483d97e135373c0d939cf7a134d72d38d6926b"
+    },
+    {
+      "name": "kuru üzüm",
+      "file": "assets/ingredient-icons/ingredient-049.svg",
+      "sha256": "0b8f4c8385cd85e00081cd75860c9adebc45c012c703e6bb9b5adda5c1a67c0f"
+    },
+    {
+      "name": "kuru kayısı",
+      "file": "assets/ingredient-icons/ingredient-050.svg",
+      "sha256": "7f8f931a5dc74da5f7d0591ed9c6f2505d57bff7b6a83977071a73ebe80128c7"
+    },
+    {
+      "name": "nar",
+      "file": "assets/ingredient-icons/ingredient-051.svg",
+      "sha256": "6ced06493a79638f13a083f1237f79ab623000062c000611ef417ed22808c38e"
+    },
+    {
+      "name": "incir",
+      "file": "assets/ingredient-icons/ingredient-052.svg",
+      "sha256": "092c413c660808305c210b0cca4882d0089d3fb1628a8f937837c0bad955511c"
+    },
+    {
+      "name": "kivi",
+      "file": "assets/ingredient-icons/ingredient-053.svg",
+      "sha256": "3879c93c99e020d3d6b3d2785f28621d6b5c8badbe57713b54629f19a17a222a"
+    },
+    {
+      "name": "frambuaz",
+      "file": "assets/ingredient-icons/ingredient-054.svg",
+      "sha256": "05ba6005b706ee085eb572aa6f2450b2ffbefa357cd11df6469c66ee4973dd7e"
+    },
+    {
+      "name": "erik",
+      "file": "assets/ingredient-icons/ingredient-055.svg",
+      "sha256": "a9035c96b35b384a01d6156a75cab84acd75b7aabfb6d4b11c5b1cb899fd66a9"
+    },
+    {
+      "name": "vişne",
+      "file": "assets/ingredient-icons/ingredient-056.svg",
+      "sha256": "616d4e63c92a08fb648469f5d264e237e673391220bca3d65915355710530b75"
+    },
+    {
+      "name": "karpuz",
+      "file": "assets/ingredient-icons/ingredient-057.svg",
+      "sha256": "6af93f9a452095a09ae32db3fb567812e1ddec5e6e40373c395bb4ac1058a64e"
+    },
+    {
+      "name": "kavun",
+      "file": "assets/ingredient-icons/ingredient-058.svg",
+      "sha256": "e99620c0dc334d0d41c6df8845c7683e671d6cedc5ed569cd9706acbedadbba9"
+    },
+    {
+      "name": "kuru incir",
+      "file": "assets/ingredient-icons/ingredient-059.svg",
+      "sha256": "7513b95dd5d4a295eac39a73ba5b3a1399f0b9f85bf2388f3f431c5bfe2d97db"
+    },
+    {
+      "name": "karadut",
+      "file": "assets/ingredient-icons/ingredient-060.svg",
+      "sha256": "749c3d681b40df9389062a8f6174271154cbffd4f0943c3f86d58e0485c13348"
+    },
+    {
+      "name": "beyaz dut",
+      "file": "assets/ingredient-icons/ingredient-061.svg",
+      "sha256": "6f2db8abaa6c017f3870029cd500e79bb6a2ab1e83db25eb298a43a15c27705e"
+    },
+    {
+      "name": "yaban mersini",
+      "file": "assets/ingredient-icons/ingredient-062.svg",
+      "sha256": "e0f2a8384526b95aa44889bf73cdae554c61ba1a6c99d81f1359dcdb907f406e"
+    },
+    {
+      "name": "böğürtlen",
+      "file": "assets/ingredient-icons/ingredient-063.svg",
+      "sha256": "7c727010c687ad7807131a9983886bd905859af28267c83a6524fcbd58c36222"
+    },
+    {
+      "name": "ananas",
+      "file": "assets/ingredient-icons/ingredient-064.svg",
+      "sha256": "3b1edb3b0a9d91470e40eb0b51347380292a2a740eb3817003dd36d7eb628921"
+    },
+    {
+      "name": "mango",
+      "file": "assets/ingredient-icons/ingredient-065.svg",
+      "sha256": "80105f2cf8c126f97d4f67fe02e4511f47a681de426c71c0caf92c9b4d63f6ec"
+    },
+    {
+      "name": "hurma",
+      "file": "assets/ingredient-icons/ingredient-066.svg",
+      "sha256": "02ae6729de683c28c99b918cb44e2a8496210e563ae09c04f3f3fd795015b555"
+    },
+    {
+      "name": "ayva",
+      "file": "assets/ingredient-icons/ingredient-067.svg",
+      "sha256": "abf9db294de29c73f90163c9a58875f8b44e776202a874704b0bc26dfa1b77a0"
+    },
+    {
+      "name": "kıyma",
+      "file": "assets/ingredient-icons/ingredient-068.svg",
+      "sha256": "559b8fb6dd054f027dcff18ba599d1bdbc4a27a92de7f303e68f381f6691c646"
+    },
+    {
+      "name": "et",
+      "file": "assets/ingredient-icons/ingredient-069.svg",
+      "sha256": "89b2f1ccc5a0969e876d685d5134227ba04ab27a710788e22bcc0c6850c93f30"
+    },
+    {
+      "name": "kuzu",
+      "file": "assets/ingredient-icons/ingredient-070.svg",
+      "sha256": "b7c85e5e52ac371728e6a1512b0f8963449c05f5dd2b0db8144f5351227adf70"
+    },
+    {
+      "name": "antrikot",
+      "file": "assets/ingredient-icons/ingredient-071.svg",
+      "sha256": "97b14bf8b6833dde1d868fc6ee68d75646f82f4f326054ea6d1c91cca8c44af7"
+    },
+    {
+      "name": "biftek",
+      "file": "assets/ingredient-icons/ingredient-072.svg",
+      "sha256": "147ce6ca3cf500d93cdd7d960276000db89fee6a5fbd08f6386c2b606354b6c0"
+    },
+    {
+      "name": "bonfile",
+      "file": "assets/ingredient-icons/ingredient-073.svg",
+      "sha256": "52ad76e5faba981afc4039f14abffcac5c3921993b24de43902eee0a00542968"
+    },
+    {
+      "name": "pirzola",
+      "file": "assets/ingredient-icons/ingredient-074.svg",
+      "sha256": "cb26941c02068ccec01e29fcc90f8547efccddbb35d9ae5edef15c453b618bcc"
+    },
+    {
+      "name": "dana ciğeri",
+      "file": "assets/ingredient-icons/ingredient-075.svg",
+      "sha256": "42adb289707e8534809f3377eca3f06e86a17086de4bcbd5ed69155c78a97de9"
+    },
+    {
+      "name": "kuzu ciğeri",
+      "file": "assets/ingredient-icons/ingredient-076.svg",
+      "sha256": "a75bf0ef9a6260246498b38b7cbd863b54d94b7f77cf72dc3d21ddcd10c2e805"
+    },
+    {
+      "name": "tavuk",
+      "file": "assets/ingredient-icons/ingredient-077.svg",
+      "sha256": "023112afad541ca1d100cf2935dd73bb7a397d5f0bccf533c91658b70e6ac428"
+    },
+    {
+      "name": "tavuk göğsü",
+      "file": "assets/ingredient-icons/ingredient-078.svg",
+      "sha256": "b44a904bcff8d62bb1b26920c1fc27af5668779d920b36aef21591f505376bd0"
+    },
+    {
+      "name": "tavuk butu",
+      "file": "assets/ingredient-icons/ingredient-079.svg",
+      "sha256": "7782037721cec667c66ec7b893e361810915cf1c3ee04d76a4855da77f37c158"
+    },
+    {
+      "name": "tavuk pirzola",
+      "file": "assets/ingredient-icons/ingredient-080.svg",
+      "sha256": "2462fbb0942c4c60df15f8adbbf2ee898012d40236b7f3d97453e781b5878aeb"
+    },
+    {
+      "name": "tavuk kanat",
+      "file": "assets/ingredient-icons/ingredient-081.svg",
+      "sha256": "6781b380f50ea91ec5a24506df7b0f02d924dd5a9678da97084f6f263425c85b"
+    },
+    {
+      "name": "sucuk",
+      "file": "assets/ingredient-icons/ingredient-082.svg",
+      "sha256": "557c71499001b1d719e98b21a238baf40d587e3f57d6fc131f0e4838ffddef0c"
+    },
+    {
+      "name": "pastırma",
+      "file": "assets/ingredient-icons/ingredient-083.svg",
+      "sha256": "289df5125c6486a647e7932584f4538a3ce76c07ab85036e0a75b8bb568f7181"
+    },
+    {
+      "name": "salam",
+      "file": "assets/ingredient-icons/ingredient-084.svg",
+      "sha256": "14c5792307c16320dbf429a73630f356561d2c44a71cf45413c2b37e5a48da4e"
+    },
+    {
+      "name": "sosis",
+      "file": "assets/ingredient-icons/ingredient-085.svg",
+      "sha256": "166720ae5d3532ea9160e2e8e70ea286fa9e74543a920815e9021feb5087eea4"
+    },
+    {
+      "name": "somon",
+      "file": "assets/ingredient-icons/ingredient-086.svg",
+      "sha256": "89f6148290932c532a779b4c642e2f9bc7dc73ff8291b0cb3c5a5f9b3b4c5956"
+    },
+    {
+      "name": "alabalık",
+      "file": "assets/ingredient-icons/ingredient-087.svg",
+      "sha256": "ec8a44d4f638fa35eda9c330d6480ff3595584f47e3c7be869f4ca20c21b8a26"
+    },
+    {
+      "name": "levrek",
+      "file": "assets/ingredient-icons/ingredient-088.svg",
+      "sha256": "6d6efe51d75d41e0990ce292bbc6c5709984bf46114f254c01911e95da1117a4"
+    },
+    {
+      "name": "hamsi",
+      "file": "assets/ingredient-icons/ingredient-089.svg",
+      "sha256": "7933e0fa32cae564c416fbcb604d9e9cc2009bd2ad2e743d71293a5d0f6e9e4e"
+    },
+    {
+      "name": "palamut",
+      "file": "assets/ingredient-icons/ingredient-090.svg",
+      "sha256": "d9e41106c40fbe94716eb8fda263ee453e7afa08ec226931f39df103d5920ee6"
+    },
+    {
+      "name": "ton balığı",
+      "file": "assets/ingredient-icons/ingredient-091.svg",
+      "sha256": "6d4c66d7d4b1312c9196bd96f422a19fde325f97a7a87e60480422b8b6dd2d3d"
+    },
+    {
+      "name": "yumurta",
+      "file": "assets/ingredient-icons/ingredient-092.svg",
+      "sha256": "6862fd2fed6ba39dadecbfc2ffd728a1764429f2ca27229fa060659aa7abc3d0"
+    },
+    {
+      "name": "süt",
+      "file": "assets/ingredient-icons/ingredient-093.svg",
+      "sha256": "c5fbba2eb38f63ba5c6229ab2722d5e44a9358192e96326e90d9d9d6928cf6bd"
+    },
+    {
+      "name": "yoğurt",
+      "file": "assets/ingredient-icons/ingredient-094.svg",
+      "sha256": "b23b9a33096db66f4e174c99fd0ec8c1521fb86b5cfdc41edaaf7dffd93a78a5"
+    },
+    {
+      "name": "peynir",
+      "file": "assets/ingredient-icons/ingredient-095.svg",
+      "sha256": "1a4c87cd1496220ff111bf4f67d9ab8145db546d8698c91bf34e97405bf35887"
+    },
+    {
+      "name": "krema",
+      "file": "assets/ingredient-icons/ingredient-096.svg",
+      "sha256": "afb1445346e2bff59eac03f91e42d8a518780269dc69a04c09bfacae99b7c9e2"
+    },
+    {
+      "name": "kaşar peyniri",
+      "file": "assets/ingredient-icons/ingredient-097.svg",
+      "sha256": "579f2c681fea429e4ac1974346a2d50eb5c642408cae8eadafae0232484ef494"
+    },
+    {
+      "name": "beyaz peynir",
+      "file": "assets/ingredient-icons/ingredient-098.svg",
+      "sha256": "42744aa105dc3f014de3edb8c7cba3ba46674bef0e15fc4e959d4d9d6a7e6d9e"
+    },
+    {
+      "name": "lor peyniri",
+      "file": "assets/ingredient-icons/ingredient-099.svg",
+      "sha256": "655afdaf0f6def945928051efce4c669f7e87847d6d810d2b6f47f815282c845"
+    },
+    {
+      "name": "süzme yoğurt",
+      "file": "assets/ingredient-icons/ingredient-100.svg",
+      "sha256": "355ee923abbcff48e5559ffe3338a70b0613dd37b5643c8b6cdc41dec189e55b"
+    },
+    {
+      "name": "ayran",
+      "file": "assets/ingredient-icons/ingredient-101.svg",
+      "sha256": "d2052d1e0ed9e8e2587599f66452f07e02e82502039fc8d7cef0e7808f976aa4"
+    },
+    {
+      "name": "kaymak",
+      "file": "assets/ingredient-icons/ingredient-102.svg",
+      "sha256": "d11e9724a5526c88d1a034fcbd94661a2e51399f5e330507c19d0f1392cdd9b0"
+    },
+    {
+      "name": "eritme peyniri",
+      "file": "assets/ingredient-icons/ingredient-103.svg",
+      "sha256": "2508bf78825563a47274f1c5e5ffccd3284fb0ba47491bba1966cfe453bc662f"
+    },
+    {
+      "name": "krem peynir",
+      "file": "assets/ingredient-icons/ingredient-104.svg",
+      "sha256": "f03fbd37e620c1a0c1769eab41bb64abffc8c9018592781ae6612ff8e762cdb4"
+    },
+    {
+      "name": "dondurma",
+      "file": "assets/ingredient-icons/ingredient-105.svg",
+      "sha256": "03a3ad722450a4513d79740d8e6cddbe1570ba532e90830e339831016eba4850"
+    },
+    {
+      "name": "labne peyniri",
+      "file": "assets/ingredient-icons/ingredient-106.svg",
+      "sha256": "47be952582169576b6e8a01e0b3e91e18dbb70046abfd0605faf17acd845f2a9"
+    },
+    {
+      "name": "pirinç",
+      "file": "assets/ingredient-icons/ingredient-107.svg",
+      "sha256": "916831fd41c85327b112dfbf0b7e2fbbb69a19b3b667a1b83a300db335933047"
+    },
+    {
+      "name": "bulgur",
+      "file": "assets/ingredient-icons/ingredient-108.svg",
+      "sha256": "096069c1e1a6be93141a23baae39e9f8edce8ebc2b8ea62005739263412392b3"
+    },
+    {
+      "name": "mercimek",
+      "file": "assets/ingredient-icons/ingredient-109.svg",
+      "sha256": "7981ca0c3959e2dd11dff6989223ff4b4d4fccfc84d0d05bbd4914a8265fe6a8"
+    },
+    {
+      "name": "nohut",
+      "file": "assets/ingredient-icons/ingredient-110.svg",
+      "sha256": "8fc653889c61e1f37182f3950a134c2a3329eff3aed51b66261b1099120b72fc"
+    },
+    {
+      "name": "fasulye",
+      "file": "assets/ingredient-icons/ingredient-111.svg",
+      "sha256": "401919b95967229352bcb88435fee09abd9d193b0193c66369fa042fda18d54e"
+    },
+    {
+      "name": "makarna",
+      "file": "assets/ingredient-icons/ingredient-112.svg",
+      "sha256": "d5942c0791f556ea65e8b4ce5151b58354d05c61277d34772bd700b694b914b1"
+    },
+    {
+      "name": "un",
+      "file": "assets/ingredient-icons/ingredient-113.svg",
+      "sha256": "3732c846936f6b7403a0f947426c0dcf7bff1ca8a55a8f2dfcd2df1a7e4fe505"
+    },
+    {
+      "name": "ekmek",
+      "file": "assets/ingredient-icons/ingredient-114.svg",
+      "sha256": "33c0db052335df0d7d648c1c31bce14e15ef3ee412b88a726cf29724859d3b28"
+    },
+    {
+      "name": "yufka",
+      "file": "assets/ingredient-icons/ingredient-115.svg",
+      "sha256": "904d342552faec7f957859c2ac5f88a745470deacdb7b32d95a7b038f33c539b"
+    },
+    {
+      "name": "mısır unu",
+      "file": "assets/ingredient-icons/ingredient-116.svg",
+      "sha256": "7e3a93a44dac72c33af5c8bfef0900aeddd8704c2783ee6122bae8280e9cb364"
+    },
+    {
+      "name": "irmik",
+      "file": "assets/ingredient-icons/ingredient-117.svg",
+      "sha256": "8fca6d3a3c5ebc016b53f22f961766a640bb238d860c0a6b18517cdfbe275ad7"
+    },
+    {
+      "name": "galeta unu",
+      "file": "assets/ingredient-icons/ingredient-118.svg",
+      "sha256": "63f49694756858dbb90c9b96d2ad5c4466ddc8ee24e2ad72f0b10416555e9ee4"
+    },
+    {
+      "name": "tarhana",
+      "file": "assets/ingredient-icons/ingredient-119.svg",
+      "sha256": "dcbd34e63cd2b0793e16c266a2bbb2e8692cac3ad0046cdc516faf05dd8cc55e"
+    },
+    {
+      "name": "şehriye",
+      "file": "assets/ingredient-icons/ingredient-120.svg",
+      "sha256": "edd461350fcc72d0e2e0ce1b953282a31377f7eb977baa52102fdb70f38b06b9"
+    },
+    {
+      "name": "barbunya",
+      "file": "assets/ingredient-icons/ingredient-121.svg",
+      "sha256": "f0c0c6166aa8775dc6e1ee143ce2d52efafcd45a8b0ee9edd370224d3b89d7a4"
+    },
+    {
+      "name": "börülce",
+      "file": "assets/ingredient-icons/ingredient-122.svg",
+      "sha256": "a007903603049476e0f3127db1ed157fdc65318c4d05e48268093c76d6792652"
+    },
+    {
+      "name": "bakla",
+      "file": "assets/ingredient-icons/ingredient-123.svg",
+      "sha256": "245e4b2d72d38295b74ac472cc2460e22f2307a7a41ac5d6df5a6e36e005765b"
+    },
+    {
+      "name": "yulaf",
+      "file": "assets/ingredient-icons/ingredient-124.svg",
+      "sha256": "c156cf1b52744b1d64539d9837e183398bf5baa5fe1bdaebee77bde7e590043f"
+    },
+    {
+      "name": "buğday",
+      "file": "assets/ingredient-icons/ingredient-125.svg",
+      "sha256": "cd02dd7786c85a6ae3e7f5cffc5cc662be612ddc8eec0040c6bd98fa9d2bdc67"
+    },
+    {
+      "name": "lavaş",
+      "file": "assets/ingredient-icons/ingredient-126.svg",
+      "sha256": "22e8401196124ab03307672e4128c4d5e7c932afb7e73676a837b22065876bdd"
+    },
+    {
+      "name": "erişte",
+      "file": "assets/ingredient-icons/ingredient-127.svg",
+      "sha256": "8a4ab73e3714ee27e225e7cd1abb897f03df722b06dcc7709e1ec3b84a196b49"
+    },
+    {
+      "name": "milföy hamuru",
+      "file": "assets/ingredient-icons/ingredient-128.svg",
+      "sha256": "00967801092f9c14467dc93c5b114fb0a6ee00bc3255abcff196c5eaec82ee0d"
+    },
+    {
+      "name": "tereyağı",
+      "file": "assets/ingredient-icons/ingredient-129.svg",
+      "sha256": "574d5192ff9884c76ed7b9adb9cce83a1146dc9a204e1083d2a98222830a0426"
+    },
+    {
+      "name": "zeytinyağı",
+      "file": "assets/ingredient-icons/ingredient-130.svg",
+      "sha256": "fea4cbe93e7efb878073b2012593222b8c9fe7544b2cd0f66e487f0219c3f462"
+    },
+    {
+      "name": "ayçiçek yağı",
+      "file": "assets/ingredient-icons/ingredient-131.svg",
+      "sha256": "b2f586556172a07adadfdb6b1abb1327bcd217485ca59cbe8656d1c7cce52a44"
+    },
+    {
+      "name": "sade yağ",
+      "file": "assets/ingredient-icons/ingredient-132.svg",
+      "sha256": "60b6ffca79552fdf635774da77624a208194ae36fa36d12ce164323fc10100fc"
+    },
+    {
+      "name": "tuz",
+      "file": "assets/ingredient-icons/ingredient-133.svg",
+      "sha256": "98de373a7b799b1dd9cb7872bb95f064793ae7a2b6b22caf8a3ae4c5c8ff641f"
+    },
+    {
+      "name": "karabiber",
+      "file": "assets/ingredient-icons/ingredient-134.svg",
+      "sha256": "3bc4475aebe86071803f12bd0e4b59c4131cb978074d190cff5cfc8d05dd2197"
+    },
+    {
+      "name": "pul biber",
+      "file": "assets/ingredient-icons/ingredient-135.svg",
+      "sha256": "4d3c791c103268e230cb15adae07aabc6c9351bece316aef7c34f99ac7dd9793"
+    },
+    {
+      "name": "kekik",
+      "file": "assets/ingredient-icons/ingredient-136.svg",
+      "sha256": "dd723f2963aa35916520e48307e845011c12552047d6c818b57dab5ef18b9fd0"
+    },
+    {
+      "name": "kimyon",
+      "file": "assets/ingredient-icons/ingredient-137.svg",
+      "sha256": "243734946bd9ad8748bb46d2ae76c7c2c22de459af54bf474184ff90f4e59a81"
+    },
+    {
+      "name": "kuru nane",
+      "file": "assets/ingredient-icons/ingredient-138.svg",
+      "sha256": "798df10ffb6abc1ecc150fcdbf5f6fd30103c1d653fbc6cee97ba973de925ed7"
+    },
+    {
+      "name": "tarçın",
+      "file": "assets/ingredient-icons/ingredient-139.svg",
+      "sha256": "2c26cdee916b8d34f716b951bde59bb5ddb649283b84392782966a664554c861"
+    },
+    {
+      "name": "sumak",
+      "file": "assets/ingredient-icons/ingredient-140.svg",
+      "sha256": "f00dc1e87d9bd053368ebe96364bfd75230728efe18e72e1f1f9aff36a6f78ac"
+    },
+    {
+      "name": "çörek otu",
+      "file": "assets/ingredient-icons/ingredient-141.svg",
+      "sha256": "c9badfa926b10fd42f8fec8e15be1b2092a394b704e670b5dc40463e2bc3cf5c"
+    },
+    {
+      "name": "zerdeçal",
+      "file": "assets/ingredient-icons/ingredient-142.svg",
+      "sha256": "46db47a9577a23935b34815602681d1815d225d9b3aab01e150792b91e4b4433"
+    },
+    {
+      "name": "zencefil",
+      "file": "assets/ingredient-icons/ingredient-143.svg",
+      "sha256": "050c2a65512c57df0da63f6045412e89e84eea6f75ab407fb3fa798e2980f9a0"
+    },
+    {
+      "name": "domates salçası",
+      "file": "assets/ingredient-icons/ingredient-144.svg",
+      "sha256": "30807a1bed35eda458c420da11852cfb26941bb99a9176e8951133e47e79ee2f"
+    },
+    {
+      "name": "biber salçası",
+      "file": "assets/ingredient-icons/ingredient-145.svg",
+      "sha256": "603eb776ede9f7314189397d6927a98e1b9a56e5feb21b409d79a12eaea86932"
+    },
+    {
+      "name": "tahin",
+      "file": "assets/ingredient-icons/ingredient-146.svg",
+      "sha256": "ee6f806c9e25ca3b39534aa22b5f22a4a276b2a29521fea0aa05f77583418187"
+    },
+    {
+      "name": "sirke",
+      "file": "assets/ingredient-icons/ingredient-147.svg",
+      "sha256": "41547b1a82866b60ad58be27c45ed5cfe0ab8237e8420fc75c4b1ea6c2064ac7"
+    },
+    {
+      "name": "nar ekşisi",
+      "file": "assets/ingredient-icons/ingredient-148.svg",
+      "sha256": "66555b4023e620a49d0ebb6bcd8c11aefcad7873a866f9904c856a8ce6a62a69"
+    },
+    {
+      "name": "ceviz",
+      "file": "assets/ingredient-icons/ingredient-149.svg",
+      "sha256": "a1707d007d85e698031f4a849affa0cf804f8e9d6c3bca91dc2362b4a3543df0"
+    },
+    {
+      "name": "yer fıstığı",
+      "file": "assets/ingredient-icons/ingredient-150.svg",
+      "sha256": "392277f1a2c3a06bf269d8106e2b94d2def36d9443bcf8364dd2ddfd550784c7"
+    },
+    {
+      "name": "fındık",
+      "file": "assets/ingredient-icons/ingredient-151.svg",
+      "sha256": "18ee6a067275d14aced319cbffdb362610427a1cfb90de7410ecc6391cd39e10"
+    },
+    {
+      "name": "badem",
+      "file": "assets/ingredient-icons/ingredient-152.svg",
+      "sha256": "8676591064f1b9454850b6800bbc7262c9822a68b26425e1a17e7f1af2362f43"
+    },
+    {
+      "name": "susam",
+      "file": "assets/ingredient-icons/ingredient-153.svg",
+      "sha256": "0b7c0e54def5e4c15bb75e8a47f3193ffb38935779abd906086170e3ffa605b7"
+    },
+    {
+      "name": "Antep fıstığı",
+      "file": "assets/ingredient-icons/ingredient-154.svg",
+      "sha256": "b4a0a22d00cd0dbee4dcb2d9e8ba6e31914b064dd78fcca477c76a2b4924338f"
+    },
+    {
+      "name": "Hindistan cevizi",
+      "file": "assets/ingredient-icons/ingredient-155.svg",
+      "sha256": "96a1283f09d37b063c626166d4a5a1b26f330b64a1689853669f4ca73063c4e6"
+    },
+    {
+      "name": "çikolata",
+      "file": "assets/ingredient-icons/ingredient-156.svg",
+      "sha256": "4c219f7e756f1d297ca5d71e75fa848efa5451b6368df4cb0f889ba014587314"
+    },
+    {
+      "name": "şeker",
+      "file": "assets/ingredient-icons/ingredient-157.svg",
+      "sha256": "53ac783892767c6ab539a61f3bbb2d8f2a2e225147bce7bceb618d970adc5c96"
+    },
+    {
+      "name": "bal",
+      "file": "assets/ingredient-icons/ingredient-158.svg",
+      "sha256": "fa8f48d499198cf682ab1eb5234580ef5f32c2e1b6b9aabc3602143b05c3947a"
+    },
+    {
+      "name": "nişasta",
+      "file": "assets/ingredient-icons/ingredient-159.svg",
+      "sha256": "1b41a039f879dc822bee61ec45d96b5affaac710018bb0bf23d21e5d7bb68532"
+    },
+    {
+      "name": "kabartma tozu",
+      "file": "assets/ingredient-icons/ingredient-160.svg",
+      "sha256": "75d07a874da9d7710db5695b4449b7c3ed496d41f5853c554c85c3ac6beb510c"
+    },
+    {
+      "name": "kuru maya",
+      "file": "assets/ingredient-icons/ingredient-161.svg",
+      "sha256": "45c65e1c06f2088c52c6373f0a417037b650b559547a1e9c6f70ea85d9e5e5cc"
+    },
+    {
+      "name": "vanilin",
+      "file": "assets/ingredient-icons/ingredient-162.svg",
+      "sha256": "589540de0718a1a9e5df622e1dee0b1086e7270dfcfcd2705d5b4fb24d178b8b"
+    },
+    {
+      "name": "pekmez",
+      "file": "assets/ingredient-icons/ingredient-163.svg",
+      "sha256": "733fe94767371af9ac059a6dea3c22d0e8cddf03f4693829b3cf09c04556bb22"
+    },
+    {
+      "name": "kakao",
+      "file": "assets/ingredient-icons/ingredient-164.svg",
+      "sha256": "f97c402b53145ecd8aa5040a9a2325c2fdc2ec08c0369558be8eb74bca4f02ee"
+    },
+    {
+      "name": "karbonat",
+      "file": "assets/ingredient-icons/ingredient-165.svg",
+      "sha256": "f33e3274ee2244f8af4e70920cf1cc03dc7fe62abb89898a342bb4111ee279af"
+    },
+    {
+      "name": "buğday nişastası",
+      "file": "assets/ingredient-icons/ingredient-166.svg",
+      "sha256": "20644f7fbc23d29d2c67f005901a7d5f641bfbd63fb644db77c9776208a443da"
+    },
+    {
+      "name": "pudra şekeri",
+      "file": "assets/ingredient-icons/ingredient-167.svg",
+      "sha256": "3a09d8fc1f23ad29740689ab3fb3dec8dd7250da9a9bf9bbcbf1f159d4fd8ee8"
+    },
+    {
+      "name": "krem şanti",
+      "file": "assets/ingredient-icons/ingredient-168.svg",
+      "sha256": "d16e92ae982d36451926caabf222f1923d117a0db1f5a643d0769bc08618b30d"
+    },
+    {
+      "name": "damla çikolata",
+      "file": "assets/ingredient-icons/ingredient-169.svg",
+      "sha256": "ab5314283f9b68746c3831aac6e40d8f05c8d4a57355e87aeba1572def035f1f"
+    },
+    {
+      "name": "bitter çikolata",
+      "file": "assets/ingredient-icons/ingredient-170.svg",
+      "sha256": "d1deabb674b9f1865a238b4e083b380445a61238c5d181138bac0351cf394455"
+    },
+    {
+      "name": "beyaz çikolata",
+      "file": "assets/ingredient-icons/ingredient-171.svg",
+      "sha256": "f3a1b47698111396f9c6030364ed56adc95c4d5d9ac31f5dd4bc3c19c80a7807"
+    }
+  ]
+}
