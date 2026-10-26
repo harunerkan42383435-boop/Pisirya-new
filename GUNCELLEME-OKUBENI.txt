@@ -1,0 +1,21 @@
+PİŞİRYA — 23 EKİM 2026 GÜNCELLEMESİ
+
+Mevcut 1.051 tarifli uygulama üzerine uygulanır. Yemek fotoğrafları bu pakete dahil değildir; mevcut assets klasörünüzdeki fotoğraflar kullanılmaya devam eder.
+
+KURULUM
+1. Mevcut uygulama klasörünüzün bir kopyasını yedekleyin.
+2. ZIP’i ayıklayın. İçindeki pisirya klasörünün İÇERİĞİNİ mevcut pisirya klasörünüze kopyalayın.
+3. Klasörleri birleştirin ve aynı adlı dosyaları değiştirin. Mevcut assets içeriğini koruyarak yeni assets içeriğini ekleyin.
+4. Uygulamanız internette yayındaysa güncellenen dosyaları aynı yayın alanına yükleyin.
+5. Uygulamanın açık sekmelerini ve ana ekran penceresini kapatıp tekrar açın. Gerekirse yeniden yenileyin; yeni önbellek sürümü devreye girer.
+
+DEĞİŞİKLİKLER
+Arapça: Sayfa düzeni ve menü sırası diğer dillerle aynı kalır. Arapça metinlerin yönü ve hizası metin alanlarında düzenlenir. Türkçe tarif adımları soldan sağa okunur.
+Ana menü: Diğer ekranlardan tariflerin ana ekranına dönen bir düğme eklendi. Filtre veya kategori değiştirilince de görünür kalır.
+Ölçüler: Kişi sayısı hesabından sonra yumurta adedi en az bir olacak şekilde en yakın tam sayıya yuvarlanır. Uygun gram/ml değerlerinde değişim en fazla %2 olur; örneğin 739 g kıyma 750 g gösterilir. Tuz, maya, baharat ve küçük dozlar korunur. Kaşık ve bölünebilir malzemelerde ½, ⅓, ⅔ gibi okunabilir kesirler kullanılır. Ham tarif ölçüleri korunur; yuvarlama gösterilen porsiyon ve alışveriş hesabına uygulanır.
+Tarifler: Şef modu dışındaki 906 tarifin her birinde en az iki hazırlama adımına teknik ve kıvam açıklamaları eklendi. Orijinal adımlar, malzemeler, süreler ve sıcaklıklar korundu. 145 şef tarifinin metni/verisi değiştirilmedi.
+Önceki 171 özel malzeme ikonu ve menü simgeleri bu pakete dahildir.
+
+KONTROL
+63.532 porsiyon/ölçü örneği; yuvarlama sınırı; düşük dozlar; eski kayıtların korunması; Arapça yön ayarı; ana menü düğmesi ve filtre sonuçları kod seviyesinde doğrulandı. Tarif sayısı ve tüm fotoğraf bağlantıları korunmuştur.
+Gerçek cihaz tarayıcı testi bu ortamda yapılmadı.

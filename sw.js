@@ -1,6 +1,6 @@
 'use strict';
 // Bump when application files change. Waiting updates activate after all old tabs close.
-const VERSION = 'pisirya-2026-10-19-ingredient-icons171';
+const VERSION = 'pisirya-2026-10-26-part01-filters-portions';
 const SHELL = VERSION + '-shell';
 const PHOTOS = 'pisirya-photos-v2';
 async function photoResponse(request) {

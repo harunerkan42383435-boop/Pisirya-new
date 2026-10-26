@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-23",
+  "package": "update-only",
+  "recipes": 1051,
+  "expandedRecipes": 906,
+  "unchangedChefRecipes": 145,
+  "quantityCasesTested": 63532,
+  "maxRelativeGramMlRounding": 0.02,
+  "wholeEggCounts": true,
+  "sourceQuantitiesUnchanged": true,
+  "originalStepTextPreserved": true,
+  "photoReferencesUnchanged": true,
+  "photosIncluded": false,
+  "ingredients": 171,
+  "layoutDirection": "ltr for all languages",
+  "arabicTextDirection": "text only",
+  "browserTest": "not performed; VM behavior and structural checks passed"
+}
